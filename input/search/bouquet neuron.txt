@@ -1,0 +1,5 @@
+1611533	H: large double-bouquet neuron in the upper level of layer III.
+9786408	pyramidal neuron dendritic field, depicted to the bouquet neuron, (7) chandelier neuron, and (8) simple beaded
+12815246	CajalRetzius neuron; DB, CR- or CB-labeled double-bouquet neuron; M, CB-labeled Martinotti cell; N, CB-labeled
+16964459	pyramidal neuron; C = muff cell; d = double-bouquet neuron; black circles are inhibitory and white circles
+10472415	Cajal-Retzius neuron; DB, CR- or CB-labeled double-bouquet neuron; M, CB-labeled Martinotti cell; N, CB-labeled

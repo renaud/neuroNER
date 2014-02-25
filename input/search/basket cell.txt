@@ -1,0 +1,1000 @@
+14715964	Basket cell.
+4470450	Basket cell activity model.
+9483530	Asterisk; basket cell axon.
+16786552	Basket cell (BC).
+12805286	B, Basket cell.
+10535329	B, basket cell.
+15003388	Ba: basket cell.
+22878550	Basket cell axons.
+17765709	The pyramidal basket cell.
+17765709	The pyramidal basket cell.
+21455843	C) Positive basket cell.
+17765709	The pyramidal basket cell.
+9219929	Basket cell-to-basket cell pair\r\nAnatomical analysis.
+9548555	A: A typical basket cell.
+21120881	Purple neuron: CA1 basket cell.
+20816921	Basket cell terminals . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+20463002	Development of basket cell axons.
+3300854	A: basket cell perikaryon (BP).
+20882544	basket cell was PV-immunopositive.
+8798433	Arrow, basket cell; arrowhead, interneuron.
+15539390	(2) Basket cell (PV+, CCK-).
+18039896	Arrow: displaced basket cell body.
+21832203	BAS, Basket cell; time course.
+17180162	IPSCs at basket cell\u2013basket cell synapses are about twice as fast as IPSCs at basket cell\u2013principal neuron
+10333273	were the pyramidal basket cell, the fusiform basket cell, and the multipolar basket cell.
+11807843	B: The narrow-arbour basket cell.
+9497429	Representative example of a dentate basket cell.
+8987746	Bax, Basket cell axon; P, Purkinje cell.
+7473243	When the basket cell in Fig.
+7473243	The basket cell shown in Fig.
+17704810	The arrowheads indicate basket cell axon boutons.
+18046003	F\u2013J: pyramidal-to-basket-cell connection.
+20882544	The basket cell was PV-immunopositive.
+10982471	Scale a basket cell soma (BC).
+20142764	Quantification of basket cell axonal plexus density.
+1347649	* * * 2.2 (1.0) 6 Basket cell term.
+2453818	Ba, basket cell axons; G, Golgi apparatus.
+4470450	8. Analysis of basket cell inhibition.
+15539390	(4) Basket cell (CCK+, VGLUT3+, VIP-, PV-).
+23296570	b Neurolucida tracing of a basket cell.
+17765709	Additional abbreviations: pbc, pyramidal basket cell.
+11852145	reappraisal of the dormant basket cell hypothesis.
+7473243	X, stimulation site; A, basket cell location.
+17050824	D: total basket cell synaptic currents.
+8740589	C: Basket cell of the cerebellar cortex.
+1545914	Basket cell staining has also been reported.*
+10191303	PC, Purkinje cell; BC, basket cell.
+7473243	In the basket cell shown in Fig.
+21636266	1: PV+ fast-spiking basket cell.
+20142764	Semiquantitative rating of basket cell processes.
+20300651	(D) Basket cell axon path length economy.
+19272426	Abbreviations: A, Purkinje cell; B, basket cell.
+17517679	(C2) a parvalbumin-positive FS basket cell.
+20882544	The basket cell was parvalbumin (PV)-immunopositive.
+8586569	They probably correspond to basket cell axons.
+10944183	(d) Hippocampal dentate gyrus basket cell.
+11054691	Basket cell inhibition reduces Purkinje cell discharge.
+9761312	What is the dormant basket cell hypothesis?
+7473243	When the basket cell in Fig.
+19657077	NETWORK OSCILLATIONS WITH BASKET CELL COUPLING.
+21636266	2: CCK+ regular-spiking basket cell.
+17611285	All basket cell (drawing tube, 1000 ).
+20142764	Immunohistochemical analysis of basket cell processes.
+20300651	(B) Basket cell axon wire economy.
+8923525	Light photomicrograph of a multipolar basket cell.
+12379245	These were characteristic of basket cell terminals.
+18039896	Arrows show displaced basket cell bodies.
+17765709	Additional abbreviations: pbc, pyramidal basket cell.
+22915121	The basket cell more effectively synchronize spikes.
+16786552	Autapses in a neocortical basket cell.
+23296570	a Photomicrograph of calbindin-immunostained basket cell.
+20882544	The basket cell was PV-immunopositive.
+1347649	6x, basket cell terminals; asterisks, Probable preterminal basket cell axons, apposed to Purkinje cell
+17180162	c | Fast inhibition at basket cell\u2013basket cell synapses is region- and species-independent.
+7473243	A -70 mV\r\nBasket cell\r\nPyramidal cell\r\nC -70 mV Basket cell 1AL.,Uk ...
+17180162	Therefore, synaptic transmission at basket cell\u2013basket cell synapses shows high efficacy and stability
+17704810	Basket cell\r\nBasket cell\r\na\r\nl\r\na l\r\nVI AIS\r\nNav1.6,
+6315140	basket cell output; or (iv) increased granule cell receptivity (to input from the basket cell).
+17634372	A large basket cell (A) and nest basket cell (B) are shown.
+15378039	study to define the nest basket cell as a distinct subclass of basket cell.
+10910102	If basket cell axons contact only other basket cells, then (as axon convergence will equal divergence)', u'divergence) 24 \u201329 basket cell axons converge onto a single basket cell.
+17704810	bouquet cell; LBC, large basket cell; MC, Martinotti cell; NBC, nested basket cell; NGC, neurogliaform cell;', u'cell; SBC, small basket cell.
+9359601	A: multipolar, presumed basket cell with emerging processes.
+8915587	basket cell axon terminals in the cerebellum [IS].
+8778289	Palay SL, Chan-Palay V (1974) The basket cell.
+8923525	However, none could be classified as a basket cell.
+7035472	The basket cell from the same animal as in Fig.
+22219337	SYMPOSIUM REVIEW\r\nCortical basket cell dysfunction in schizophrenia\r\nAllison A.
+14999076	MC, Mossy cell; BC, basket cell; GC, granule cell.
+12562998	discharge characteristics of the burst-firing basket cell.
+7776231	An example is the adapting basket cell illustrated in Fig.
+8848172	(D) Multipolar "basket" cell (d25) with dendritic varicosities (arrowheads).
+9219929	Key words: basket cell, IPSP, microcircuits, inhibition, disinhibition, GABA.
+2303859	A, GalNac+ basket cell in layer 4ab with columnar arbor.
+21120881	Red neuron: Layer 2 medial entorhinal cortical basket cell.
+17180162	Panel d shows the morphology of the recorded basket cell.
+23346049	For example, a classic basket cell contacts about 40 PCs.
+7472426	Note rhythmic firing of the basket cell during theta.
+12271488	A: Basket cell terminal contacting a pyramidal cell soma (arrow).
+12271488	Schematic diagram illustrating the variability of basket cell terminals.
+7700539	Immunoreactivity was reduced in basket cell axons (Fig. 6a, b).
+15501587	Basket cell inhibition is directed at the pyramidal cell somata.
+17659782	r.c.) and stratum pyramidale (a pyramidal basket cell, B.c.).
+15728768	Septal input exclusively inhibits the basket cell population (B).
+20300651	Basket cell axon arbor wiring compared with minimum-length tree.
+19657077	C: a basket cell is added as in Fig.
+19657077	4A, right, when basket cell coupling is removed).
+20519538	Note that basket cell terminals have beside VGAT only transporters.
+17611285	Ab, The basket cell was PV immunopositive and CB immunonegative.
+20554867	Silencing a single basket cell indicates phasic somatic inhibition.
+10910102	Effect of variation of basket cell pattern of connectivity on estimates of spiny cell synaptic input\r', u'input\r\nProportion of basket cell synapsesa Basket cell synapses onto spiny cell dendrites\r\nSpiny somata Spiny', u'Spiny dendrites Ratio n Basket cell source ~Psps!
+11807843	F: Light microscopic reconspiking CCK-IR basket cell in CA1.
+1918924	Unlabeled Purkinjecells are surrounded bylabeled basket cell axons.
+8925298	Notice DMAP-66R immunoreactivity in basket cell interneurons (arrowheads).
+15024751	Bc, basket cell; Gc, granule cell; Sc, stellate cell.
+1281492	A presumed newborn basket cell is at b.
+10634775	We name this interneuron a \u201cnest basket cell\u201d (NBC).
+10215927	symbols indicate the class of presynaptic putative basket cell.
+8551335	radiatum, which is typical of basket-cell morphology.
+11698534	Immunocytochemical analysis of basket cell in rat piriform cortex.
+9219929	Basket cell-to-fast-spiking interneuron pair\r\nAnatomical analysis.
+21530607	(C) Localization of Kv1.1 in mouse cerebellar basket cell terminals.
+19605132	Positive basket cell fibers around a Purkinje cell (no.
+12478615	In panel F, arrows point to shrunken basket cell terminals.
+19703431	MAPK activation in cerebellar basket cell terminals after harmaline treatment.
+20554867	B, Basket cell; P, Purkinje cell; S, Stellate cell.
+11478918	(G) Intensely immunoreactive basket cell (ba) at 4 h.
+14689476	Parvalbumin-containing hippocampal neurons belong to the basket cell type.
+10191303	Kv1.1 null mutation does not alter basket cell firing rate.
+9761312	Keywords: Dormant basket cell hypothesis; Interneurones; Epilepsy; Disinhibition\r\n1.
+22915121	Figure 7. Spatiotemporal characteristics of basket cell EAPs.
+22915121	Basket cell EAPs contributed little to simulated ripple LFPs.
+7473243	C, the basket cell action potentials were synaptically driven.
+7467075	Pinceau of basket cell processes (arrows) indicates initial segment.
+21120881	From left to right\u2014Red neuron: CA3 basket cell.
+9497429	Paired morphology and physiology of a dentate basket cell.
+11773319	A typical result from a basket cell presented in Fig.
+19141316	Key words: basket cell, stellate cell, cerebellum, development, lineage.
+19811529	SC: stellate cell, BC: basket cell, PC: Purkinje cell.
+19230676	An alternative hypothesis is the dormant basket cell theory.
+16566008	A\u2013C: Slo1 and Kv1.2 localization in basket cell terminals.
+7472426	(square) IPSPs in the basket cell and pyramidal cell.
+17466487	Arrow depicts putative basket cell in the molecular layer.
+17405934	Activation in cerebellar basket cell terminals after harmaline treatment.
+16554475	B, Normal morphology of a basket cell terminal glutamatergic structures.
+9052799	Right: basket cell, with axon primarily in s. pyramidale.
+9219929	Basket cell-to-putative bistratified cell pair\r\nAnatomical analysis.
+9219929	(A) Light microscopic montage of the basket cell.
+9359601	C: a layer IV basket cell parietal area..
+2445442	Basket cell mabN210 immunoreactivity is induced prematurely in hyperthyroidism.
+2445442	The first signs of basket cell staining are already apparent.
+10944183	(c1) Biocytin-labeled hippocampal dentate gyrus basket cell.
+11054691	There was no immunolabeling of basket cell plexuses.
+15525801	\u201cNBC\u201d: nest basket cell (Wang et al. 2002).
+12562998	B, axonal arbour of the postsynaptic basket cell.
+9865538	[u"One theory is the `dormant basket cell' hypothesis [67,68]."]
+18186837	tivities in basket cell pinceau at bases of Purkinje cells.
+23420672	(B) The dormant basket cell hypothesis is illustrated schematically.
+7619522	CA3 pyramidal cell DG basket cell\r\nab\r\nFigure 2.
+19812317	E, Parvalbumin staining (red) of another basket cell.
+20646262	Furthermore, chandelier and basket cell\r\nFigure 1 (abstract P12).
+21859823	PC, pyramidal cell; FSBC, fast spiking basket cell.
+21859823	PC, pyramidal cell; FSBC, fast spiking basket cell.
+20477908	Keywords: basket cell, cannabinoid, dendritogenesis, GABA, Purkinje cell, stellate cell.
+20477908	Keywords: basket cell, cannabinoid, dendritogenesis, GABA, Purkinje cell, stellate cell.
+20882544	Twenty-one CA2 pyramid-basket cell connections were recorded.
+20554867	B, Basket cell; P, Purkinje cell; S, Stellate cell.
+2445442	These basket cell axons also display normal morphology.
+9120580	B, top : fusiform basket cell at the GCL-HIL boundary.
+9219929	Intracellularly labelled basket cell-to-bistratified cell pair.
+8923525	hippocampus, interneuron, epilepsy, seizures, basket cell.
+8923525	A pyramidal basket cell that entrained the CA3 subfield.
+16759785	Keywords: Adaptation; Basket cell; Cerebellum; Climbing fiber; J.C.
+3612227	Basket cell interneuronsdiffered only slightly from O/A interneurons.
+14715964	Remaining basket cell axons in sagittal sections of the midvermis.
+15465283	Some neurochemical hallmarks of cortical basket cell subtypes.
+11488948	Basket-cell axonal shafts (ba) with outer membrane immunodeposits.
+15728768	4A, Cell 3 is suppressed by basket cell inhibition.
+19793984	ErbB4 immunoreactivity is absent from basket cell terminals in CA1.
+18464791	Innervation by a basket cell (BC) is also shown.
+21832203	Reduction of theta in absence of basket cell activity.
+2555458	The labeling probably corresponds to basket cell terminals.
+23340416	Armstrong, C. & Soltesz, I. Basket cell dichotomy in microcircuit function.
+21795548	Ori, opposing regulation of basket cell activity, Stratum oriens; Str.
+17180162	target-cell-specific inhibition at hippocampal basket cell (BC)\u2013basket cell synapses at near-physiological temperature
+19126760	in CCK( )/CB1( ) basket cell terminals, but also in parvalbumin( )/CB1( ) basket cell terminals.
+20142764	magnification of basket cell axonal plexus in (A) shows many layers of the basket cell formation (arrows)
+20882544	narrow dendritic arbor basket cell and the other a wide dendritic arbor basket cell.
+10910102	Basket cell data\r\nNumber and pattern of basket cell connections 1 Number of boutons per basket cell in', u'number of synapses per basket cell bouton 1.25 3 Number of synapses per basket cell in layer IV 3416.25', u'25 4 Proportion of basket cell synapses with CC1 CC2 a. spiny somata 24% 18% b. smooth somata 0.5% 1% c
+15378039	IV\r\nLayer V\r\nLayer VI\r\nLarge basket cell Nest basket cell Small basket cell Bitufted cell Martinotti cell', u'Neurogliaform cell Unknown\r\nLarge basket cell Nest basket cell Small basket cell Bitufted cell Martinotti cell', u'Layer IV Layer V Layer VI Large basket cell Nest basket cell Small basket cell Bitufted cell Martinotti cell
+10910102	To estimate basket cell axon convergence, the mean number of basket cell synapses per spiny neuron is', u'is divided by the mean number of synapses per basket cell connection with a spiny neuron.
+10910102	of the number of basket cell axons converging onto a single postsynaptic basket cell depends on whether', u'whether basket cell axons prefer to contact only particular types of smooth cell.
+12562998	The anatomy of the basket cell-to-bistratified cell IPSPs and 13 basket cell-toclose autaptic appositions', u'appositions of three of these cells was basket cell IPSPs were recorded (Table 2).
+9219929	pyramidal cell (P1) basket cell\r\nPresynaptic cell (code)\r\nbasket cell (I1) (050794/3) basket cell (190896)\r\n5
+10910102	postsynaptic basket cell 12 synapses b. postsynaptic double bouquet or dendritic-targeting cell 2 synapses', u'8 Mean number of smooth cells contacted by a basket cell axon a.
+10910102	This ratio value implies that only 16% of basket cell synapses form with cell bodies, below that usually', u'usually acceptable for classification as a basket cell (see Kisv\xe1rday, 1992).
+21269806	Single-compartmental model of the MOPP cell and the basket cell\r\nRate functions and parameter values are common', u'common to the MOPP cell and the basket cell.
+12562998	spikes in the fastspiking basket cell generated IPSPs in the burst-firing basket cell with a relatively slow
+9753117	and parallel fibre\u2013basket cell connections are sparse, each stellate and basket cell dendritic tree had
+17180162	Fast signalling at basket cell\u2013basket cell synapses has been observed in all hippocampal subfields76
+17093119	Mossy cells receive 10 \u201315 basket cell synapses (Acsa \u0301dy et al. 2000), leading to an estimate of 75', u'75 mossy cells contacted by a single basket cell.
+22915121	 pyramidal cell (PYR); purple, basket cell (BC); orange, basket cell with axon truncated at 68 m.
+20882544	dendritic arbor basket cell to pyramid connection (A) and a CA2 wide dendritic arbor basket cell to pyramid
+10910102	variation in the pattern of basket cell connectivity on estimates of basket cell synaptic input to layer
+20142764	Analysis of the Basket Cell Plexus We performed ultrastructural studies to compare basket cell processes in
+8923525	non-pyramidal basket cell were similar to those described above for the pyramidal basket cell in Fig.
+12562998	generates spike AHPs by this basket cell in another postsynaptic fast-spiking basket cell were increased in parallel
+11377916	GABA-to-GABA synapses with a small basket cell and a large basket cell and an axon tuft cell.
+17180162	assumptions compare to the properties of basket cell\u2013basket cell synapses in biological networks.
+17180162	results suggest that fast inhibition at basket cell\u2013basket cell synapses is a general phenomenon occurring
+10215927	by the RS basket cell is of longer duration than the IPSP elicited by the R-AHP basket cell (see Fig.
+12379245	Bc, basket cell ; Bt, basket cell terminal ; Gs, glial sheath ; Pd, Purkinje cell dendrite ; Pf, parallel
+12177202	the first basket cell in response to current injection were reflected in the second basket cell and vice
+10910102	of axosomatic synapses formed by a basket cell axon on basket cell density estimates (see Fig.
+8043281	[u"Arrowheads point to stellate and basket cell somata showing and (a'? point to clusters of GABA- and PV-immunoreactive", u'PV-immunoreactive basket cell axons.
+11807843	m.\r\nand SO exceeded that of basket cell dendrites, but, unlike basket cell dendrites, they only rarely
+8808800	Like a basket cell, its axon tree was confined within the pyramidal cell layer, but branched much less', u'less than a\r\nbasket cell did.
+7473243	Number of inputs required for basket cell activation A, in this basket cell the threshold for action potential
+17180162	components in the postsynaptic current of basket cell\u2013basket cell pairs (b, left and d, bottom) generated
+20592220	Basket cell terminals degenerate after status epilepticus For direct evidence of basket cell terminal
+6315140	an increased receptivity of the basket cell or an increased basket cell output, would both have the effect
+11807843	G: Regular-spikbour) reveals a wide-arbour basket cell with an axonal arbour mainly ing or accommodating', u'accommodating discharge pattern of this basket cell.
+12562998	2 A, the presynaptic basket cell (black soma\u2013dendrites and light grey axonal arbour) generated IPSPs', u'IPSPs in the postsynaptic basket cell (dark grey, soma\u2013dendrites only).
+21653851	Reconstruction and spike pattern of a CCK-positive basket cell (A ), a CCK-positive Schaffer-collateral-associated', u'ociated interneuron (A ), and a PV-positive basket cell (B ).
+20142764	Basket Cell Plexus Alterations in Cerebellar ET Bielschowsky sections of cerebellar neocortex revealed', u'revealed variable appearances of basket cell axon collaterals that surround the PC perikarya.
+21956642	#4, green); and a typical DG basket cell (also called pyramidal basket cell, #5, pink) [23, 25, 26, 37]
+17180162	recording from a presynaptic basket cell (top) and a postsynaptic basket cell (left) versus a postsynaptic
+3199192	terminals (asterisks) contact an immunoreactive basket cell (BC).
+876	[u"Bishop GA (1993) An analysis of HRP-filled basket cell axons in the cat's cerebellum."]
+877	[u"Bishop GA (1993) An analysis of HRP-filled basket cell axons in the cat's cerebellum."]
+11478918	moderately immunopositive stellate cells and basket cell bodies.
+11807843	Axo, axo-axonic cell; Basket, basket cell; Bis, bistratified cell; the CA1.
+11257612	Immunoreactivity is also seen in scattered basket cell somas surrounding Purkinje cells (not shown).
+10022960	D Higher magnification view of labeled basket cell axon (b) forming the pinceau.
+10022960	A fine, vesicle-filled protrusion from the basket cell axons is only weakly labeled (arrowheads).
+10022960	C NCS-1 labeling of cerebellar basket cell axons surrounding the Purkinje cell body (p).
+9761312	address three issues: (1) what is the dormant basket cell hypothesis?
+9761312	of interneurones could involve more than the basket cell type originally proposed.
+15728768	B: basket cell population oscillates in response to inhibitory input from the septum.
+15755486	of relevant circuit, GC Z granule cell, BC Z basket cell.
+15539390	The basket cell then was the first inhibitory neurone identified in the brain 70 years later.
+9822734	synaptic vesicles was studied in the cerebellar basket cell terminals.
+9374405	(K) A labelled Purkinje cell and a labelled basket cell just above the PCL.
+9483569	[u"(C) Basket cell fibres surrounding a Purkinje cell (P) revealed by Golgi's silver staining."]
+9497429	lucida reconstruction of the biocytin-filled basket cell shown in Fig.
+9134980	identify the normally occurring mossy fibers along basket cell dendrites.
+10426478	dendritic arbour is, however, unusual for a basket cell (compare Fig.
+10215927	VO basket cell IPSP rise times and half widths clustered around intermediate values.
+10215927	(D) The IPSPs elicited by another CFS putative basket cell in another pyramidal cell.
+11068019	The basket cell contacts primarily the somata of pyramidal cells Buhl et al., 1994..
+10910102	But both approaches may exaggerate basket cell number and synaptic input to layer IV neurons, respectively
+10910102	How accurate are the estimates of basket cell innervation of layer IV spiny cells?
+10902894	In the present study, we labeled a dentate basket cell in a KA-treated hippocampus.
+11116216	numerous synaptic the morphology of a large basket cell.
+14689476	presence of MOR-LIR in a parvalbuminimmunoreactive basket cell is shown in Figure 3C.
+9030620	fiber tendril collaterals near NMDA receptors on basket cell axons could mediate a similar response.
+8923525	axon branches were smaller in diameter than basket cell terminal arbors.
+6315140	Basket cell inhibition in the dentate gyrus is believed to be GABA-mediatedS.
+6502220	Fairen (1982) A type of basket cell in superficial layers of the cat visual cortex.
+7019915	Neurofilaments inside an adjacent terminal branch of a basket cell axon (bax) are not stained.
+8064358	This Basket Cell measure is the square root of the sum of the squared errors FIG.
+22103426	switching in perisomatic PC innervation from CFs to basket cell fibers in C57BL / 6 mice.
+21621530	pinceau synapses on Purkinje cells shows deficient basket cell synaptogenesis.
+20816921	initial segment Juxtaparanode Node of Ranvier Basket cell terminal\r\nKCNQ2/3 Kv3.1b
+22172650	Selective reduction of cholecystokininpositive basket cell innervation in a model of temporal lobe epilepsy
+21269806	feed-forward and feedback inhibitions mediated by the basket cell.
+16945976	[u"An analysis of HRP-filled basket cell axons in the cat's cerebellum."]
+21123660	A: reconstruction of a LM-SCA and a basket cell (black soma, green axon).
+14999076	do not confirm the predictions of the dormant basket cell hypothesis (Sloviter, 1991, 1994).
+15123767	endogenous cannabinoids are not released by basket cell axon terminals.
+15246689	adult cerebellum, PC somata are surrounded by basket cell synapses [1].
+11054691	intensely immunolabeled Purkinje cells without basket cell plexuses.
+12357434	evident over the Purkinje cell soma (P) and basket cell terminals (b).
+12379245	corticotropin-releasing factor, long-term depression, basket cell, parallel \xa2bre, synapse.
+7041117	none of the hybridomas reacted with astro- but basket cell fibers only weakly (Fig. 2a).
+6693941	Babb (1977) Response decrement in a hippocampal basket cell.
+9219929	junction (arrow) onto a basal dendrite (d) of the basket cell.
+9270041	features suggest that the nonpyramidal cell is a basket cell.
+18039896	Abnormal basket cell axons, oriented perpendicularly to the surface and ending in impoverished plexi
+1918924	As the basket cell axons surround the Purkinje cells, the perisomatic processes retract.
+1694327	For visual sim- Basket or pficity, the basket cell is not shown in stellate cell (B).
+2303859	interlaminar connections was similar for the basket cell shown in Figure 9B.
+922499	The suppression of the basket cell inhibition of Purkinje cells by topcial arecaidine requires further
+843945	The most thoroughly described of these are the basket cell interneurons.
+1281492	Basket cell axons were beginning to form the \u201cbasket\u201d around the Purkinje cell body.
+2445442	interindividual differences are not seen for the basket cell axonal staining.
+10191303	D, Hypothesis on the role of Kv1.1 in basket cell excitability.
+17122364	found SOM immunoreactivity in axoaxonic and basket cell somata.
+17050824	[u"An analysis of HRP-filled basket cell axons in the cat's cerebellum."]
+19535596	findings suggest dysfunction of the dentate basket cell circuit could contribute to hyperexcitability
+23420672	represents the prototype of the GABAergic neuron, the basket cell.
+23420672	hypothesis that incorporates aspects of the dormant basket cell and irritable mossy cell hypotheses.
+8808800	Basket cell somata were usually multipolar and situated within or\r\n,4\r\nI\r\n/.,,
+7623158	codistribution of Kv 1.1 and Kv 1.2 in cerebellar basket cell terminals, and Kvl.
+7823136	A histologically verified CA1 basket cell was also studied during SPW-associated fast oscillations.
+7508581	that mAb 5 immunoreactivity lies within the basket cell inhibitory terminals.
+7473243	Representative traces from a basket cell during CA3 pyramidal cell stimulation are displayed in Fig.
+7473243	No reproducible EPSCs were observed in this basket cell following 3642 single action potentials.
+7473243	Latency histograms for Si and S2 EPSCs in this basket cell are shown in Fig.
+17594392	Upon reaching the AIS, basket cell axons extend multiple terminal branches and form specialized synapses
+17594392	CF, climbing fiber; St, stellate cell; Bsk, basket cell.
+17704811	Basket cell An interneuron that innervates the perisomatic region of target neurons.
+11459758	these two populations may correspond to large basket cell interneurons.
+15211463	A: Photomontage from a basket cell in the dorsal part of the juxtacapsular nucleus.
+18767905	(D) Action potentials in the basket cell (top) elicit monosynaptic IPSPs in the pyramidal cell (bottom)
+15728768	Through inhibition, the basket cell population controls when the other cell types can fire.
+15821932	Only faint labelling is evident in basket-cell-like structures (arrows).
+20300651	Basket cell axons also were suboptimal for wire length (p,0.005,
+20592220	Immunolabeling of CB -expressing basket cell boutons was decreased in pilo- 1 carpine (Pilo)-treated
+19657077	when there were more pyramidal cells and more basket cell input.
+20043282	of a recorded cell shows typical CCK-positive basket cell morphology.
+20043282	of a recorded cell shows typical CCK-positive basket cell morphology.
+20142764	examples of the semiquantitative scores of the basket cell plexus morphologies.
+22878550	selectively activates basket cell axons, while PT type axons are selectively targeted using anodal stimulation
+21832203	The basket cell drive contributed to the amplitude of ongoing gamma oscillation.
+19500566	represent the leading process of a stellate/basket cell and the branches, respectively.
+19500566	Turning of a stellate/basket cell at the bottom of the ML.
+19682031	Each basket cell contacts 100 granule cells, 3 mossy cells, and 2 other basket cells.
+17611285	A, Voltage responses of a CA1 basket cell to hyperpolarizing and depolarizing current injection.
+18464791	fibre stimulation, glutamate can reach nearby basket cell synapses and activate presynaptic AMPARs.
+20427660	demonstrate that cholinergic modulation of hippocampal basket cell targets is cell type specific.
+10910102	implies a ratio of 8\u201313 layer IV spiny cells per basket cell.
+11054691	indicate intensely staining Purkinje cells with basket cell plexuses.
+11054691	immunoreactive Purkinje cells with weakly stained basket cell plexuses.
+12438413	Moreover, the localization of Kv1 channels at basket cell terminals was also\r\nFigure 3.
+12657704	whole-cell patch-clamp recording from a putative basket cell and a granule cell.
+14584819	in the rat: The \u201cdormant basket cell\u201d hypothesis and its possible relevance to temporal lobe epilepsy
+20592220	PV and CCK antisera were used to label basket cell terminals of different subclasses.
+20592220	Subpopulations of basket cell terminals in CA1 were disparately affected in pilocarpine (Pilo)-treated
+20592220	Discussion This study found that basket cell subtypes in CA1 are differentially affected after status
+20300651	test, one-sided; cspiny = 0.6760.06) as were basket cell axonal trees (p,0.005;
+20034063	Dysfunction of the dentate basket cell circuit in a rat model of temporal lobe epilepsy.
+20142764	and extend our light microscopic findings of basket cell plexus morphology.
+8755482	basket cell nerve terminal plexuses wrapped around the axon hillocks of Purkinje neurons (Figure 4C)
+8786446	B, A VIP-positive small basket cell with collaterals making multiple boutons on other cell bodies.
+8923525	ramification of axon arbors arising from this pyramidal basket cell.
+8923525	A pyramidal basket cell was positioned in the center of the stratum pyramidale.
+9030620	pinceau structures composed of basket cell terminals surrounding the initial segments of Purkinje cells
+14769362	associated with a nonpyramidal neuron showing a basket cell-like morphology.
+2322847	J: deep basket cell with slightly swollen cell body but normal axon hillock.
+2460502	Some basket cell axons were visible (arrow) and white matter fibers were also stained.
+7753498	Abbreviations: BC, basket cell; CF, climbing fiber; CN, cerebellar nucleus; PF, parallel fiber; PC, Purkinje
+6316200	terminal forms synaptic contact with pyramidal basket cell (pbc).
+7552243	Purkinje cell labeling may reflect labeling of Basket cell processes.
+875	[u"Bishop GA (1993) An analysis of HRP-filled basket cell axons in the cat's cerebellum."]
+3199192	B, An immunoreactive basket cell (BC) adjacent to a nonimmunoreactive Purkinje cell (PC).
+9761312	The synaptic connections of basket cell axons in the developing rat hippocampal formation.
+10191303	Where is the locus of excitability change on the basket cell?
+10191303	the Kv1.1 null mutation does not change the basket cell firing rate (Fig. 5).
+9359601	Synapses are symmetrical and most likely belong to basket cell axons.
+10215142	multiple contacts (arrowheads) on a VIP-containing basket cell.
+10340516	J: Symmetric synaptic contact between a basket cell axon and a granule cell perikaryon (Grp).
+10215927	Estimates of latencies for putative SP basket cell IPSPs were between 0.7 and 2 ms.
+8350981	Thelowerpartofthemolecularlayerisoccupiedbyfluorescent basket cell axons delineating the molecular layer granule
+15539390	(3) Basket cell (CCK+, VIP+, vesicular glutamate transporter 3 (VGLUT3)-, PV-).
+20596808	VGCCs to GABA release from stellate and basket cell terminals (but see also [47]).
+17611285	B, Voltage responses of a CA2 basket cell that had a narrow dendritic arbor.
+17611285	C, Voltage responses of a CA2 basket cell that had broad and horizontally oriented dendrites.
+18039896	The basket cell axons appeared extremely abnormal when contrast enhanced with antiphosphorylated neurofilaments
+14758065	(excitatory pyramidal cell); and FSN (inhibitory basket cell).
+15940501	Few c-fos+ basket cell nuclei were seen in lobules IX and X.
+15295030	individual terminals, each from a different basket cell.
+15869526	cell; Pcd, Purkinje cell dendrite; bc axon, basket cell axon; mpf, myelinated PF.
+15728768	Basket cell population regulates overall cell firing during the simulation, restricting cells to gamma
+15708627	Light and electron micrographs showing a basket cell axonal plexus in the dentate gyrus.
+12379245	Also, the basket cell somata were found to exhibit prominent somatic labelling.
+12059965	Spontaneous action potentials (AP) in the presynaptic basket cell were recorded in cell-attached configuration
+9527888	Press Key Words: CA1 region of hippocampus; basket cell; apoptosis; electron microscopy.
+11259775	[10], Kv1.2 protein was localized in cerebellar basket cell terminals (Fig. 1B).
+17936513	Just above the PCL is a large Cat-301 basket cell (arrowhead).
+17936513	[u"Bishop GA (1993) An analysis of HRP-filled basket cell axons in the cat's cerebellum."]
+11709488	cell shown in (A) and (B) (arrows) is a large basket cell.
+9548555	[u"Bishop, G.A. (1993) An analysis of HRP-filled basket cell axons in the cat's cerebellum."]
+9548555	[u"Bishop (1993) An analysis of HRP-filled basket cell axons in the cat's cerebellum."]
+9497429	An example of a recording from a basket cell is shown in Fig.
+19187979	pyramidal cells, R1 is an RSNP cell and B1 is a basket cell.
+18468677	increase (P2X3) or decrease GABA release from basket cell terminals (P2Y4).
+21459089	Dysfunction of the dentate basket cell circuit in a rat model of temporal lobe epilepsy.
+6258110	inclusion of the linkage between adjacent pyramidal-basket cell populations.
+7473243	each site evoked EPSCs in the corresponding basket cell.
+8813353	P = Purkinje layer; M = molecular layer; B = basket cell neurons.
+3359180	fusiform cells with thin dendrites, possibly a basket cell.
+23420672	Since that time, the dormant basket cell hypothesis has been questioned.
+23395369	Abbreviations: PV+BC, parvalbumin-expressing basket cell.
+23152619	reciprocally coupled pyramidal cell (pyr, gray) and basket cell (basket, black).
+19575668	Purkinje cell mediates subcellular specificity of basket cell innervation.
+19812317	colocalization of TrkB and parvalbumin in the basket cell.
+19535596	Basket cell membrane surface areas were measured by reconstructing soma and dendrites with Neurolucida
+17676058	In contrast, CCK-expressing basket cell\u2013evoked GABAergic events were highly sensitive to CCK.
+22103426	At P12, CF and basket cell synapses occupy 63 and 33% respectively of total perisomatic synapses.
+22155653	Basket cell boutons in the pyramidal cell layer (P) are especially dense.
+20920787	SC, stellate cell; BC, basket cell; PC, Purkinje cell; BG, Bergman glia.
+22878550	Cathodal stimulation selectively activates basket cell axons, which run parallel to the pial.
+17055560	However, some of the neurons that form part of the basket cell population do express NPY.
+17180162	the difference in IPSC kinetics between the basket cell and the granule cell.
+16888148	(B) The function of secretin on basket cell-purkinje neuron axis.
+16261180	was attenuated by high doses of BAPTA in the basket cell.
+16261181	scenarios centred on the parvalbumin-positive basket cell serve as heuristic examples for further study
+22547529	Regulation of fast-spiking basket cell synapses by the chloride channel ClC-2.
+12478615	In the 3-week section, shrunken basket cell terminals were detected (Fig. 1F, arrows).
+19500566	Initial sign of the completion of stellate/basket cell migration in the middle of the ML.
+17970655	The pyramidal cell connects to the large basket cell by excitatory synapse.
+16337757	Note that Kv1.2 stains the basket cell terminals (indicated by arrow) in the cerebellum at P28.
+20882544	Examples of CA2 pyramid to narrow dendritic arbor basket cell connections.
+20882544	Examples of CA2 pyramid to wide dendritic arbor basket cell connections.
+21204820	2, 3 and 5), basket cell interneurons decrease their discharge frequency during population spikes (Figs
+21204820	The mechanisms of suppression of basket cell discharges during pHFOs are not known.
+20943908	Abolishment of the prototypic afterdischarge in a basket cell by 100 M carbenoxolone.
+15501587	Basket cell (bas) inhibition is directed at the pyramidal cell somata.
+8008190	(left) and illustration (right) of a pyramidal \u201cbasket\u201d cell is shown.
+8431759	feedforward inhibition, involves engagements of the basket cell via synapses 3a and then 3b.
+4470450	The transversal span of the basket cell dendritic tree is 75/zm.
+7155343	segment receives few chemical synapses from basket cell terminals (see Ref.
+11054691	regions, there was an absence of immunolabeling of basket cell plexuses.
+9310439	Therefore, the basket cell subtype of interneuron is not represented in this study.
+9310439	Because of this limitation, the dormant basket cell hypothesis was not directly examined in this study
+9106623	granule cell layer; mol, molecular layer; ba, basket cell axons.
+8923525	entrainment depicted here was produced by the single basket cell shown in Fig.
+8923525	entrainment was produced by the single, multipolar basket cell shown in Fig.
+8923525	pyramidale is a cell classified as a\r\npyramidal basket cell.
+1148865	Sagittal section of a basket cell in a Golgi double impregnated weaver cerebellum.
+1918924	In the Purkinje layer (P), basket cell axons were intensely labeled for NF68.
+2303859	One type was a basket cell in layer 4ab, with sparsely spiny, bitufted dendrites.
+2303859	Serial-section reconstruction of a \u201cmodified\u201d GalNac- basket cell in layer 4ab.
+3162746	Fairen (1982) A type of basket cell in superficial layers of the cat visual cortex.
+9886033	regarding the precise developmental time table of basket cell synaptogenesis.
+10191303	Deletion of Kv1.1 could enhance excitability of the basket cell at\r\nFigure 9.
+9761312	[u"inhibition, and in particular on the `dormant basket cell hypothesis'."]
+9761312	[u"The `dormant basket cell hypothesis' is then discussed in the broader context of disinhibition."]
+10066902	1995) a single basket cell may be connected with 1500\u20142500 pyramidal cells.
+15233753	MGL is present in the CCK / CB1immunoreactive basket cell terminals.
+3359180	-!rgemultipolar cell in E is most probably a basket cell.
+6616174	 L., Response decrement in a 25 hippocampal basket cell.
+21680173	Alternatively, impaired PV basket cell function in schizophrenia might reflect altered GABA synthesis
+22219340	Endocannabinoid signalling is not restricted to CCK+ basket cell to CA1 pyramidal neuron synapses.
+22878550	The diameters of the basket cell axon models were retrieved from Feirabend et al [30].
+23152619	photomicrograph of a suspected perisomatic autapse of the basket cell.
+23346049	[u"An analysis of HRP-filled basket cell axons in the cat's cerebellum."]
+22560931	(A) Kv1.2 clustering in cerebellar basket cell terminals was not affected during chEAE progression.
+2713672	E: basket cell at the PHA-L injection site, showingPHA-L reaction product.
+7473243	[u"Basket cell axons occasionally outlined granule cell bodies, presumably forming 'basket-like' synapses"]
+7473243	In the pair potentials to evoke basket cell EPSCs suggested that a shown in Fig.
+6198491	ikaryalcytoplasmarestained.Thecell bodiesof basket cell interneurons (N) and their dendrites (arrowheads)
+15042386	Basket cell axons were identified using immuneserum RT97, raised against phosphorylated neurofilaments
+15486016	Note a fast firing in basket cell in response to depolarizing current injection.
+9503336	Light microscopic examination of the entire basket cell axon yielded a total bouton number of 7964.
+9636096	The synaptic connections of basket cell axons in the developing rat hippocampal formation.
+9483569	Localization of APC in the terminal plexus of basket cell fibres around Purkinje cells.
+9483569	Gold particles were localized in basket cell fibres and their terminals near a Purkinje cell (P).
+9483569	Palay S. L. and Chan-Palay V. (1974) The basket cell.
+10215142	contacts on the dendrite of a VIP-immunopositive basket cell.
+10660889	terminacells in layer IV of V1 displaying typical basket cell morphology.
+11135261	interneuron (not illustrated), appears to be a basket cell.
+11356028	(I and J) Basket cell interneurons stained with anti-neurofilament 200.
+12562998	Abbreviations: Ampl = amplitude, ba = basket cell, bi = bistratified cell, Erev = reversal potential
+11738496	order to avoid biased sampling of axo-axonic or basket cell terminals.
+11784700	Some boutons of the basket cell (e.g. arrow) surround pyramidal cell bodies (p).
+12556906	For example, a single basket cell may give rise to up to 12 000 boutons.43
+12357434	BDNF could affect development of Purkinje and basket cell phenotype.
+12435433	The synaptic connections of basket cell axons in the developing rat hippocampal formation.
+18022955	The mechanisms controlling the targeting of basket cell axons have been disclosed.
+11970868	These authors suggested the small basket cell as a likely candidate.
+18039896	In the most degenerated folia, no basket cell axons were visible at all.
+18039896	Basket cell features observed when using antiphosphorylated neurofilament antibodies in our cats (especially
+9219929	The cells also resembled the presynaptic basket cell illustrated in Fig.
+21618053	The extent of basket cell inhibition is limited to its home-hypercolumn (Douglas and Martin 2004).
+18973591	cerebellum, PLCb1 is generally low but accumulated in basket cell axons.
+18556072	of endocannabinoid action at hippocampal CCK+ basket cell synapses.
+19657077	In a separate simulation, the basket cell received an additional, independent AMPA noise synapse.
+19657077	oscillations again disrupted SNR despite the basket cell inhibition.
+19657077	is also present in this physiological case of basket cell inhibition.
+20142764	(E) Intertwining of basket cell processes around one another in an ET case.
+20300651	Wire length economy of individual spiny and basket cell intracortical axon arbors was suboptimal.
+20300651	 during cortical development both spiny and basket cell axon arbors increase in branching complexity
+20300651	Temporal dispersion of basket cell axon latencies was approximately half that of spiny cell axons.
+19535596	of synaptophysinpositive punctae per m 2 of basket cell membrane was calculated.
+19924622	(A) A Purkinje cell, a basket cell, a Golgi neuron and three grains.
+17094147	Another type of basket cell expresses CCK and VIP instead of PV.
+17287437	Increased CA1 basket cell doublet incidence is associated with population beta rhythms.
+17704810	on reaching the AIs, basket cell axons extend multiple terminal branches and form pinceau synapses.
+17704810	pyramidal neurons that are not innervated by this basket cell.
+21653851	Reconstruction and spike pattern of a CCK-positive basket cell.
+17765709	A prototypical pyramidal basket cell is shown after intracellular injection of Neurobiotin.
+19500566	Completion of stellate/basket cell migration at the middle of the ML.
+2501460	Note the typical basket cell shape (B) of the GAD+ neuron with numerous dendrites (arrowheads).
+3287693	Basket cell fibers connecting to the Purkinje cells are strongly stained (arrows).
+3224260	mechanisms that might mediate this decrease in basket cell density.
+8923525	Fifteen of these had the anatomical features of basket cell interneurons.
+8923525	However, the basket cell apical dendrite was much simpler, with far fewer branches.
+8923525	was a pyramidal and the other a non-pyramidal basket cell.
+10191303	Basket cell bodies can be easily distinguished from the much smaller granule cells.
+10191303	recordings from a wild-type ( A) and mutant ( B) basket cell are shown.
+10191303	A doubling of the basket cell firing rate would explain the doubling of sI PSC frequency.
+10215927	Putative basket cell morphology Reconstructions of putative SP basket cells can be seen in Figs 1,2,3
+10212289	axon and the elaborated dendritic tree of the basket cell.
+10426478	burst firing presynaptic CA1 interneuron with a basket cell-like axon (see Fig.
+8046438	In the plexus of basket cell axons in the cerebellum, a unique pattern of mKv1.
+7751960	Ribak CE, Seress L (I 983) Five types of basket cell in the hippocampal dentate gyrus.
+1276898	cell inhibition cannot be distinguished from basket cell inhibition in the young cerebellar cortex.
+9120580	The synaptic connections of basket cell axons in the developing rat hippocampal formation.
+9219929	physiological characterization of basket-to-basket cell interaction.
+9219929	3) made by 10 boutons of the presynaptic basket cell axon onto the postsynaptic bistratified cell.
+9219929	Arrow indicates a bouton of the same basket cell in close apposition to the basal dendrite.
+9157320	Gr, granule cell; P, Purkinje cell; Bt, basket cell terminal; Ax, axon.
+9483530	found in glial membranes (arrowheads) or in basket cell axons (asterisk).
+10910102	But what is the degree of basket cell synaptic input to layer IV simple cells?
+10910102	Summary of numerical data on layer IV neuropil and basket cell\r\nLine Parameter Value Source\r\nA.
+10910102	Data suggest at least one basket cell for each geniculocortical afferent axon.
+10910102	How many basket cell axons converge onto a single layer IV spiny neuron?
+10910102	Summary of main numerical estimates of layer IV basket cell connectivity (see text for details).
+10964945	was performed using anti-NF200, which labels basket cell fibers\r\nFigure 2.
+11259775	Box within B contained the basket cell axon plexus and was expanded as inset.
+11157084	\u201cdormant basket cell\u201d hypothesis and its possible relevance to temporal lobe epilepsy.
+11488948	The thick basket-cell axon trunks are also crenated by a dense precipitate (Fig. 2E).
+12611922	basket cell and muscle terminal hyperexcitability as seen in Comparison with other knockout studies _/_
+12618343	(C) Synaptic region where a basket cell axon contacts the soma of a Purkinje cell (P).
+12618343	vesicles (arrowheads) in the axon terminal of the basket cell (asterisk).
+4470450	Hence, basket cell inhibition alone, would not improve but rather prohibit any integration between neighboring
+2445442	In normal basket cell axons, mabN210 immunoreactivity is first expressed at P12 (ref.
+2445442	In the presence of excess T4, basket cell maturation is induced prematurely.
+18455363	(B) Basket cell terminals (arrows) surrounding parvalbumin-negative perikarya of Purkinje cells.
+18767905	reconstruction of the pyramidal cell (red) and the basket cell (blue).
+18767905	reconstruction of the pyramidal cell (red) and the basket cell (blue).
+14769362	(D) Example of a basket cell-like nonpyramidal neuron surrounded by a clearly contoured perineuronal
+15939081	Presumed basket cell terminals around Purkinje cell bodies did not show any immunoreactivity.
+15218352	Keywords: basket cell, short-term plasticity, hippocampus, rhythms, synchrony, phase-locking\r\n1.
+14991560	indicate HCN1-positive ponceau-like structures basket cell axons (a).
+11807843	E: Light microscopic (E\u2013G) PV-IR basket cell in CA1.
+11465864	1 A basket cell soma (N, nucleus) amidst the neuropil of the lower molecular layer.
+11773319	ACh-evoked whole-cell currents recorded in a P9 basket cell.
+15233753	8. MGL is present in CCK-containing basket cell terminals in the CA1\u20133 regions.
+15728768	Without sufficient basket cell inhibition, dentate-receiving pyramidal cells can fire at any time during
+15728768	6. Increasing basket cell inhibition causes O-LM cell to fire on earlier gamma cycle.
+12562998	Four bistratified-to-basket cell IPSPs, five Table 1) at the light microscopic level.
+18098044	The \u201cdormant basket cell hypothesis\u201d is based on a loss of hilar mossy cells.
+18287499	selectively suppress the output of one class of basket cell.
+23216582	Armstrong C, Soltesz I. (2012) Basket cell dichotomy in microcircuit function.
+23420672	Therefore, the \u201cdormant\u201d basket cell hypothesis has several potential limitations (Bernard et al., 1998)
+23193081	modulation to neurochemically distinct hippocampal basket cell subtypes.
+4078626	Fairen (1982) A type of basket cell in superficial layers of the cat vrsual cortex.
+7473243	B Basket cell\r\n100 pA\r\n20 mV\r\nI180 pA K 200 ms\r\nFigure 2.
+7473243	In the basket cell shown CA3 pyramidal cell population bursts in elevated potassium in Fig.
+7473243	be simultaneously active to DISCUSSION fire a basket cell?
+7473243	necessity of several simultaneous EPSPs for basket cell activation is control.
+17287437	Data from a basket cell in the model are shown on the right for comparison.
+17270274	A type of basket cell in superficial layers of cat visual cortex.
+22512307	characteristics are consistent with the CCK-basket cell identity of the recorded cells.
+22512307	morphological evidence convincingly demonstrated the CCK-basket cell identity of the recorded cells.
+19657077	Frequency was faster in all cases than for the basket cell coupling alone.
+19657077	When basket cell coupling was removed, the network output was a coherent ripplefrequency oscillation
+19657077	network (pyramidal cell output) for different basket cell noise intensities.
+20386723	of endocannabinoid action at hippocampal CCK+ basket cell synapses.
+19535596	Three basket cell regions were analyzed: somata, proximal dendrites, and distal dendrites.
+19535596	Excitatory synaptic inputs from granule cells and CA3 basket cell-to-granule cell synapses.
+19812317	The basket cell soma is indicated by arrows in all panels.
+20519538	We also analyzed cerebellar basket cell terminals representing a GABAergic terminal type of the cerebellar
+21269806	The axon of the basket cell forms a GABAA inhibitory synapse on the soma compartment.
+21228180	[u"Bishop GA (1993) An analysis of HRP-filled basket cell axons in the cat's cerebellum."]
+21046239	inset shows the location of the recorded PV? basket cell in the hippocampus (CA1).
+22654759	brain development: point of vulner- Basket cell dichotomy in microcirability or window of opportunity
+22878550	stimulation protocol most selectively stimulated basket cell axons (figure 6).
+22878550	number of cathodes depended on the required basket cell activation fraction.
+20142764	Ultrastructural morphology of basket cell-Purkinje cell (P) contacts in essential tremor cases.
+3357024	Pyramidal basket cell axon makes inhibitory synapses on pyramidal cell soma (synapse d).
+7678860	directionally selective(Lemmon and Pearlman, 1981), basket cell input must serve a different function.
+17594392	Basket cell axons appear first to contact the soma of Purkinje cells (32).
+22915121	Basket cell simulations were performed using 2935 compartments and a 0.001 ms time step.
+7397533	proposed this cell type as a candidate for a non-basket cell interneuron.
+12478615	In the control (A), c-Kit is expressed in the basket cell axons that form pinceau.
+20955719	Selective reduction of cholecystokinin-positive basket cell innervation in a model of temporal lobe epilepsy
+19500566	represent the leading process of a stellate/basket cell and the branches, respectively.
+20882544	IPSP elicited in the pyramidal cells by the basket cell.
+7776231	The second kind of basket cell had slower (Fig. 1 1 B ).
+7041117	Prominence of basket cell fibers and paucity of deep cerebellar fibers.
+11880498	from Purkinje cells by stimulating putative basket cell axons in mouse cerebellar slices.
+10481191	The length of stellate/basket-cell axons is below 0.6 mm (Ref.
+8232900	Jones E. G. and Hendrv S. H. C, (1984) Basket cell.
+8861110	Synthetic peptide; Cerebellum; Purkinje cell; Basket cell\r\n1.
+9359601	[u"surrounded by basket cell terminals outlining the pyramidal cell's somata and primary dendritic shafts"]
+9359601	A typical multipolar basket cell soma layer IV in parietal area.
+9359601	mainly attribute this network of processes to basket cell axons w29,32,59x.
+9359601	C: synaptic terminal of a presumed basket cell axon onto a CA2 pyramidal cell.
+9359601	electron microscopic level and attribute them to basket cell axons.
+9483569	protein antibody; the latter strongly stained the basket cell fibres (Fig. 3B).
+9503336	This basket cell therefore established \xb78000 synaptic junctions within the confines of the slice.
+9503336	The dendrites of R\u2014LM basket cell were beaded and predominantly smooth, bearing the occasional spine
+9503336	Basket cell dendritic arbours (3\xcf4) were radially elongated and spanned all hippocampal layers.
+9120580	lucida drawing of a biocytin-stained pyramidal basket cell of the dentate gyrus.
+9219929	(A, single sweep) evoked in the presynaptic basket cell shown in Fig.
+9219929	Light and electron micrographs of the basket cell shown in Fig.
+9219929	7. Basket cell-evoked unitary synaptic responses in consecutively recorded interneuron and pyramidal
+9300399	The nucleus of the pyramidal basket cell (bold arrow) is not labelled for c-JUN.
+9030620	likely to activate NMDA receptors located on basket cell terminals?
+8923525	of this cell are reminiscent of the pyramidal basket cell shown in Fig.
+1578275	TL (1977) Response decrement in a hippocampal basket cell.
+3510691	Labeled basket cell body (asterisk) and terminals (large arrowhead) are shown.
+3249220	Babb (1977) Response decrement in a hippocampal basket cell.
+3612227	Intracellular recordingswerealsoobtained from \u201cbasket cell\u201d interneurons located at the stratum pyramidale/oriens
+1918924	now only has minor axosomatic synapses with basket cell axons.
+5914249	Pa, Purkinje cell axon; Ba, basket cell axon; mf, mossy fibre.
+10995835	For clarity, only a single dendrite of each basket cell is drawn that reaches str.
+11054691	In D and E, basket cell terminations are indicated by arrows.
+14715964	phosphorylated neurofilaments in general and basket cell axons in particular.
+2333154	(C) An intermediate neuron, believed to be a basket cell, with immunoreaction product in the cytoplasm
+2460502	In 4-week-old grafts numerous regular basket cell neurites surrounding Purkinje neurons were present
+2460502	The gaps in the continuity of the basket cell layer also support this notion.
+2303859	B, Reconstruction of a basket cell with a large arbor in layer 4ab.
+15123767	A, basket cell firing during the initial reference period (PRE) and during superfusion with WIN.
+15123767	In contrast, depolarized basket cell axon terminals did not release endocannabinoids.
+15378039	A type of basket cell in superficial layers of the cat visual cortex.
+12898276	4 Engraftment of a GFP-expressing basket cell in the brain of a BM chimera.
+12619075	A soma of NCS-1\u2013positive/PVpositive stellate-basket cell is also seen (arrowheads).
+14568036	prominent in the elongated basket cell neurons underlying the granule cell layer (Gerecke et al., 2001)
+15483131	The control of basket cell firing might derive from two independent sources.
+12562998	reconstruction of the fast-spiking and the burst-firing basket cell.
+12451126	cerebellar pinceau consists of dozens of intertwined basket cell boutons and axons.
+18022955	Interrelations of basket cell axons and climbing fibers in the cerebellar cortex of the rat.
+18157136	mouse cerebellar molecular layer interneuron (basket cell).
+10902894	The basket cell axon arborizes extensively in the GCL and dentate molecular layer (arrowheads).
+11160443	A, A basket cell (BC)/ Purkinje cell (PC) synapse lacking gold labeling at the postsynaptic specialization
+11231632	is expected to activate mostly axo-axonic and basket-cell axons.
+10910102	smooth cells 8.5% 10% Divergence of basket cell axon 5 Number of basket cell synapses per connection 6\u20138 with', u'spiny cells contacted by a basket cell axon 189\u2013 493 cells 7 Number of basket cell synapses per connection
+10910102	A basket cell is likely to receive synaptic input from other basket cells.
+10910102	The proportion of each type of basket cell in layer IV is unknown.
+10910102	This estimate implies that basket cell density may be fairly uniform across layers.
+11377916	A basket cell with multipolar primary dendritic branches exiting from the cell soma.
+11773319	representative trace of extracellular recordings from a basket cell.
+15193778	Reducing excitatory drive on inhibitory neurons\u2014basket cell dormancy . . . . . . . . 40 6.6.2.
+15233753	Note that MGL-negative (asterisks) basket cell terminals are also present.
+15634771	This analysis was performed on basket cell signals from P10 \u2013P12 WT mice.
+15634771	analysis for the AP-evoked Ca rises in a P12 basket cell axon.
+18098044	excitation hypothesis is favored over the dormant basket cell hypothesis.
+15728768	The basket cell inhibition activates the h-current within the O-LM cell model.
+15728768	A: peak of the basket cell population occurs at about 41\xb0.
+15385591	B: 3-dimensional reconstruction of a basket cell labeled during recording.
+15368913	BCA = basket cell axon; GrC = granule cell; MF = mossy fiber; BrCA = brush cell axons.
+15295030	Action potential-evoked Ca 2 transients in basket cell terminals during wholecell recording.
+15940501	Basket cell nuclei were unlabeled and there were sparse labeled stellate cell nuclei (Figs.
+15821932	Only a few elements, possibly basket cell somata, are immunolabelled (arrows).
+18287499	RS basket cell is the same cell as illustrated in Figure 2, A and B.
+17182915	processes with characteristics of a GABAergic basket cell.
+17537961	[u"Bishop GA (1993) An analysis of HRP-filled basket cell axons in the cat's cerebellum."]
+20142764	Ultrastructure of neurofilament-rich basket cell processes in cerebellar essential tremor (ET) and control
+19657077	With very low basket cell input (0.075 nS), the frequency reached nearly 150 Hz.
+17611285	CA3 pyramids within reach of CA2 basket cell axons project association\r\nFigure 5.
+19500566	Tangential migration of a stellate/basket cell at the top of the ML.
+20519538	VGLUT2 was detected in GABAergic cerebellar basket cell terminals, i.e., in a classical inhibitory terminal
+19535596	rats, quantal size at basket cell-to-granule cell synapses was 1.4 times control levels.
+20592220	Subclasses of CA1 basket cell boutons were distinct and differentially affected in pilocarpine (Pilo)-treated
+21046239	inset shows the location of the recorded PV? basket cell in the hippocampus (CA1).
+12153527	accordance with a tentative classification of a basket cell.
+23407806	that granule cells located in the same lamellae basket cell-like cells.
+16828173	In the molecular layer, basket-cell prolongations were also immunolabelled, as were stellate cells.
+2605512	[u"the direct effects of lidocaine were local-\r\nBASKET CELL GRANULE CELL\r\n[+~' i +\r\nj\r\nFig."]
+7472426	A single basket cell contacted more than 1500 pyramidal neurons and 60 other parvalbumin-positive interneurons
+7264721	Babb (1977) Response decrement in a hippocampal basket cell.
+7473243	Basket cell locations and effective CA3 pyramidal layer stimulation sites are illustrated in Fig.
+7473243	The addition of 3/M CNQX to the basket cell in Fig.
+16837585	consistent with a classification as non-accommodating basket-cell interneurons.
+17093119	Consequently, we estimated that each basket cell in the dentate gyrus contacted 35 other basket cells
+22512307	functional implications of the effect of NPY on CCK-basket cell afferents.
+23420672	Dysfunction of the dentate basket cell circuit in a rat model of temporal lobe epilepsy.
+21310249	mixture of large Purkinje cells surrounded by basket cell axons.
+17637801	contribute to evoked neurotransmitter release at the basket cell\u2013Purkinje cell synapse.
+20427660	of endocannabinoid action at hippocampal CCK basket cell synapses.
+16337757	Note that Kv1.2 stains the basket cell terminals (indicated by arrow) in the cerebellum at P28.
+19488825	This is the zone where inhibitory basket cell\r\nafferents regulate Purkinje cell firing via synaptic transmission
+20882544	spike IPSP elicited in the pyramidal cell by the basket cell.
+15378039	dendrite-targeting cells\r\nLarge basket cell\r\nSmall basket cell\r\nSpiny stellate cell Nest basket cell\r\nDendrite-targeting', u'dendrite-targeting cells Large basket cell Small basket cell Spiny stellate cell Nest basket cell Dendrite-targeting
+15378039	Chandelier cell ChC\r\nLarge basket cell LBC\r\nNest basket cell NBC\r\nSmall basket cell SBC\r\nDouble bouquet cell', u'Chandelier cell ChC Large basket cell LBC Nest basket cell NBC Small basket cell SBC Double bouquet cell
+5914249	[u"The 'inhibitory fringe' resulting from basket cell activity extends only in a limited direction 'off-line'", u'distance related to the transverse spread of basket cell axons (Szentagothai, 1965).
+10910102	IV synapses made by basket cell axons, the mean number of synapses per basket cell\r\naxon is multiplied
+15378039	cell; NAC, non-accommodating; NBC, nest basket cell; ll basket cell; SSC, spiny stellate cell; STUT, stuttering
+15378039	cell; NAC, non-accommodating; NBC, nest basket cell; ll basket cell; SSC, spiny stellate cell; STUT, stuttering
+17093119	estimated that a basket cell contacted zero to one HIPP cells (i.e., every second basket cell contacted a
+7472426	Note also that the basket cell fired prior to the action potential of the pyramidal cell (inset) and', u'and that the second action potential of the basket cell preceded the afterdepolarization of the pyramidal
+20544390	dendrites in layer III; B) a small basket cell in layer III; C) a small basket cell in layer III.
+10910102	rather than higher estimates of basket cell density and basket cell innervation of spiny cells.
+20300651	Basket cell axons, for instance, invariably contact the cell bodies of postsynaptic neurons [8,20\u201322]', u'it is likely that the temporal dispersion of basket cell axonal connections may not be significantly delayed
+20142764	In a few cases, basket cell plexuses displayed increased density adjacent to areas with severe pyramidal', u'no basket formations, suggesting that these basket cell processes might be converging on and reorganizing
+10191303	Our basket cell recordings are also consistent with recent findings by Southan and Robertson (1998) that', u'(including presumably Kv1.1) are absent from the basket cell body.
+9460749	pattern of this immunoreactive structure to the basket cell projection to Purkinje cells, elucidated with', u'the cap of CB1-like immunoreactivity is the basket cell projection.
+21795545	cell (left), fast-spiking basket cell (middle), and non-fast-spiking basket cell (right).
+18022955	Thus, synaptogenesis between basket cell axons and Purkinje cells has already started by P7, and, from', u'consists of an intermingling of climbing and basket cell fibers.
+18767905	Spike-to-Spike Transmission from a Pyramidal Cell to a Basket Cell in the Human Neocortex (A) Firing patterns of', u'of the pyramidal cell (pyr; red) and the basket cell (bc; blue) and their responses to hyperpolarizing
+19657077	Noise 0.0082 Intensity\r\nBasket cell conductance Noise Intensity\r\nBasket cell conductance\r\nFIG.
+12618343	In the synaptic region where the basket cell axon makes contact with the soma of the Purkinje cell, particles', u'particles were seen in the basket cell axon terminal (Fig. 5C).
+1979341	staining is localized in a basket cell perikaryon (Bp) and in a filamentous basket cell axon (Ba), as well as
+10191303	This, coupled with an unaltered basket cell firing rate, suggests that the locus of hyperexcitability', u'hyperexcitability in the mutant basket cell lies downstream from the cell body and upstream from the boutons.
+22915121	but EAPs, axons in the basket cell population contributed little to the basket cell EAPs were significantly
+9753117	The basket cell has the same type of dendritic tree as the stellate cell, but the basket cell axon runs
+11884355	particular type of basket cell, known as clutch cell, seems to be the major type of basket cell in layer IV
+18767905	Spike-to-Spike Transmission from a Pyramidal Cell to a Basket Cell in the Human Neocortex (A) Firing patterns of', u'of the pyramidal cell (pyr; red) and the basket cell (bc; blue) and their responses to hyperpolarizing
+16273537	The PV-positive basket cell\u2013pyramidal cell circuit is proposed to be involved in cognitive, while the', u'the PV-negative basket cell\u2013pyramidal cell circuit seems to participate in\r\nemotional and motivational
+14991560	membrane of GAD-positive basket cell axons, but only rarely in basket cell terminals with symmetrical
+15123767	cell synapse but also at the basket-basket cell and stellate-basket cell synapses.
+15378039	cell; NAC, non-accommodating; NBC, nest basket cell; ll basket cell; SSC, spiny stellate cell; STUT, stuttering
+11807843	(black: soma and dendrites; the burst-firing basket cell (upper trace) generated fast IPSPs in an grey:', u'grey: axonal arbour) of the recorded wide-arbour basket cell.
+7473243	A and B, clusters of EPSCs appeared in the basket cell following a burst of action potentials in the', u'the CA3 pyramidal cell when the basket cell was voltage clamped to -70 (A) and +40 mV (B).
+17180162	GABA receptor subunits at basket cell\u2013basket A cell synapses than at basket cell\u2013pyramidal neuron synapses
+21653851	interneuron (A ), a CCK-positive basket cell (B ), and a fast-spiking basket cell (C ).
+19657077	Adding basket cell inhibition actually improved signal detection: the basket cell effectively inhibited
+19535596	Testing possible mechanisms of failure at basket cell-togranule cell synapses Several possible mechanisms', u'account for increased failure rate of uIPSCs at basket cell-to-granule cell synapses in epileptic rats.
+6611408	Since bicuculline blocks the basket cell inhibition of Purkinje cells (Curtis & Felix, 1971), effects', u'indicative of a possible contribution of the basket cell inhibition to behaviour of Purkinje cells.
+2445442	of the basket cell axons is reflected in a more extensive network of immunoreactive basket cell ax-\r\nons
+10191303	PSC coming from all basket cell innervation, and if the bouton density per basket cell or the density of
+10215927	axon) by a R-AHP (Basket cell 1 in B, only axon recovered) and a RS cell (Basket cell 2, in B).
+17704810	(GABA)\r\nPurkinje cell\r\nBasket cell (GABA)\r\nAIS\r\nClimbing\r\nfibre (Glu)\r\nc\r\nBasket cell\r\nNeurofascin 186\r\n\u03b21/2
+19171126	The basket cell model used here is a start in that direction in which some basket cell characteristics
+21269806	the basket cell is only a few milliseconds in addition to a short spike latency of the basket cell.
+22960789	can be local (neurogliaform, small and nest basket cell, chandelier cell), vertical (double bouquet cell', u'cell, and bitufted cell), or horizontal (large basket cell, Cajal-Retzius cell [Figs.
+22915121	6), basket cell uFields (blue), the two combined (magenta) with the basket cell spiking rhythm lagging
+21822597	exhibit variably reduced levels of Kv1.2 in basket cell terminals, suggesting altered expression and/or', u'and/or trafficking of Kv1.2 from cerebellar basket cell somata to terminals [17].
+19221032	estimate of basket cell density, and because our data set contains only a single layer 6 basket cell.
+20882544	dendritic arbor basket cell (B), and a CA2 pyramid to wide dendritic arbor basket cell connection (C)
+4470450	The effect of basket cell inhibition appears now to be a much more delicate mechanism than assumed hitherto18
+2812534	B: a labeled granular or basket cell of the dentate gyrus and a labeled neuron of the hilus (2000 x )
+497825	R., Three-dimensional reconstruction of the basket cell of the human motor cortex, Brain Research, 70
+3300854	B: portion of a labeled basket cell perikaryon (BP) in contact with an unlabeled parallel fiber varicosity
+4470450	are represented in the simulation by one model basket cell.
+4470450	(C) demonstrates the effect of basket cell inhibition imposed upon the complete circuit (in which Golgi
+5784296	Golgi cell bodies, and just above them are the basket cell bodies.
+11884355	DeFelipe J, Fairen A (1982) A type of basket cell in superficial layers of the cat visual cortex.
+11876530	comparison, the SP neurons are large, have a typical basket cell shape, and have more of a vertical orientation
+11807843	CA1 pyramidal cell to basket cell and bistratified cell EPSPs: dual intracellular recordings in rat hippocampal
+12091563	Both Kv3.1b (B) and PV (D) antibodies label basket cell somata and the axonal plexus in s. pyramidale
+11403683	which Cav2.1 and GAD are colocalized represent basket cell terminals predominantly.
+11358442	epilepsy: A critical reappraisal of the dormant basket cell hypothesis.
+16037085	contribute to evoked neurotransmitter release at the basket cell-Purkinje cell synapse.
+15634771	Basket cell somata were located in the lowest 25 m of the ML for both age groups.
+15567482	In addition, pinceau of basket cell axon terminals (Palay and ChanPalay, 1974) also labeled by VGAT-
+9185549	Ribak CE (1990) The synaptic connections of basket cell axons in the developing rat hippocampal formation
+10215927	A RS putative basket cell (A) and the IPSPs it elicits in a simultaneously recorded pyramidal cell (B)
+10215927	A vertical SO (VO) putative basket cell (A) and the IPSPs it elicited in a simultaneously recorded pyramidal
+10849314	Several interpretations might be considered why basket cell axons of heavily atrophic CJD cases appeared
+10910102	neurons are the only smooth cell targets of basket cell axons.
+12531682	was mild positivity of Purkinje cell soma, and basket cell arrangements were also lightly labelled (Fig
+12927199	of the connectivity and migration of either basket cell types.
+20816921	Basket cell terminals\r\nThe subunits Kv1.1 and Kv1.2 have been shown to be highly enriched at BCTs [54]
+22219340	For instance, CCK+ basket cell synapses also target other CCK+ or PV+ basket cells (Karson et al. 2009)
+22298833	vesicle fusion and replenishment at the cerebellar basket cell terminal.
+21269806	inhibitions mediated by the MOPP cell and the basket cell.
+16716486	Note the dense felt work of basket cell axons at the level of the pyramidal cell somata.
+16819624	shaft (D) of a light-microscopically identified basket cell in CA3.
+9466448	The co-existence of VIP and CCK in this basket cell population has also been confirmed.1
+14999076	Note that the dormant basket cell hypothesis predicts the loss of surround inhibition after the deletion
+15269966	Five types of basket cell in the hippocampal dentate gyrus: a combined Golgi and electron microscopic
+14991560	In basket cell terminals, immunogold particles for HCN1 are rarely found (b), being distant from symmetrical
+15631897	Immunoreactivity for Kv1.2 was prominent in the basket cell axon plexus and terminal regions around the Purkinje
+17989290	similarly spaced subsystem was observed for a small basket cell of layer 4 (Kisva \u0301 rday et al., 1985).
+11852145	[u"The second idea, the `dormant basket cell' hypothesis, suggests that mossy cell loss is important for"]
+11282376	greatest concentration of Kv1.2 was found in the basket cell axon plexus and terminal regions around the Purkinje
+12357434	All of the basket cell terminals in synaptic contact with these Purkinje cell soma profiles were examined
+12722980	mossy fiber projection terminates mainly on basket cell dendrites (Ribak and Peterson, 1991).
+8269910	Babb, T.L., Response decrement in a hippocampal basket cell, Brain Res., 130 (1977) 354-359.
+9219929	Light and electron micrographs of selected basket cell synaptic boutons established with a postsynaptic
+9219929	Reconstruction of a novel type of basket cell, showing the soma, dendrites (red) and the axon (black)
+9270041	(A) The apical dendrite of the basket cell is running through the granule cell layer toward the molecular
+9088561	and Ribak, C.E., The synaptic connections of basket cell axons in the developing rat hippocampal formation
+1722134	is probably, as judged by its morphology, a basket cell axon 9" 37.
+1675862	ago-\r\nNWKNl 890\r\norienslalveus interneuron; B, basket cell interneuron; L-M, sural inputs.
+2445442	fact, the intensity of immunoreactivity in the basket cell axons is more like that encountered in normal\r
+10191303	the excitability of the presynaptic cell, the basket cell.
+10215142	This theta-related rhythmicity of basket cell firing is likely due to periodic hyperpolarization by GABAergic
+21046239	Confocal image stack of a representative PV? basket cell developed with DTAF-conjugated avidine after
+2381513	Rihak C. E. and Seress L. (1983) Five types of basket cell in the hippocampal dentate gyrus.
+2548668	immunostained Purkinje cell, these presumptive basket cell axon terminals have no evidence of the reaction
+16786552	intracellulary filled clutch cells: a type of small basket cell in the visual cortex of the cat.
+16978716	Although their number is relatively small, each basket cell affects the activity of several hundreds of pyramidal
+17271176	(B) The inhibitory synapses between the basket cell types (B), the chandelier cells (C) and the pyramidal
+19535596	However, quantal size at basket cell-to-granule cell synapses was larger and RRP size smaller in epileptic
+22001724	Modulation of preand postsynaptic receptors of basket cell synapses 5.
+3357024	Pyramidal cell axon makes excitatory synapses on basket cell (synapse b) and on O/A interneuron (synapse c)
+3357024	synapses on pyramidal cell soma (synapse j) and on basket cell (synapse k).
+8808800	Spontaneous (A) and evoked (A and B) discharges of a basket cell by depolarizing current injections (arrows).
+11861123	stimulation, there was no labeling of Purkinje cell, basket cell or stellate cell nuclei.
+10805922	Gephyrin-positive synapses between presumed basket cell axons and Purkinje cell soma were also observed
+8158277	Arrows indicate smaller clusters of basket cell endings, some of which are out of the focal plane.
+18973591	(green)-positive pinceau formation (arrows), i.e. clustered basket cell axons.
+16613892	channel containing the a subunit Kv1.2 in the basket cell nerve terminals of rat cerebellum.
+19171126	We now analyze these basket cell models and examine the behaviour of electrically coupled networks composed
+19130308	It is estimated that a single basket cell can influence as many as 10,000 granule cells (Amaral et al
+19332319	RA, Frotscher M. \u201cDormant basket cell\u201d hypothesis revisited: relative vulnerabilities of dentate gyrus
+20592220	which is an additional marker for CCK-expressing basket cell terminals.
+20592220	The reduction of CCK-labeled basket cell boutons occurred soon after status epilepticus and persisted
+19657077	Each basket cell (20) synapses with all 80 pyramidal cells and receives synapses from 10 pyramidal cells
+19657077	Thus for each given basket cell noise intensity, a full range of pyramidal cell noise was simulated.
+19906972	Buckmaster PS (2009) Dysfunction of the dentate basket cell circuit in a rat model of temporal lobe epilepsy
+20624595	nanodomain coupling also operates at the hippocampal basket cell-granule cell inhibitory synapses (Bucurenciu
+22623975	vesicle fusion and replenishment at the cerebellar basket cell terminal.
+22560931	magnification showing Kv1.2 staining (red) in basket cell terminals are on the far right.
+22878550	The spreading of the activation of the basket cell axons in layer III during cathodal and bipolar epidural
+22878550	Selective stimulation of basket cell axons can be improved by using multiple cathodes (variation 5; figure
+22878550	For basket cell axon activation fractions up to \u223c20%, one cathode or two separate cathodes offered the
+19500566	Pseudocolor images represent images of the stellate/basket cell taken every half hour shown in A.
+19500566	Pseudocolor images represent images of the stellate/basket cell taken every half hour shown in D.
+19015370	intracellularly filled clutch cells: a type of small basket cell in the visual cortex of the cat.
+20554867	A, An example trace of EPSCs recorded from a basket cell of Munc13-3 KO mice (top) shows no depression
+20882544	putative contact between the pyramidal cell and the basket cell is represented by a purple square.
+21925911	 suggesting that it came from the axon of a basket cell.
+10910102	The basket cell synapses with the parent dendritic shaft of this spine to locally inhibit the \u201coffcenter\u201d
+12357434	The stg basket cell terminals and Purkinje cell soma have relatively fewer gold particles than WT control
+12357434	the density of inhibitory synapses between the basket cell terminals and the Purkinje cell soma was also
+11920713	Five types of basket cell in the hippocampal dentate gyrus: a combined Golgi and electron microscopic
+1851222	cells; MF, mossy fibers; PP, perforant path; B, basket cell.
+20592220	the distinct protein expression profiles of basket cell subgroups, double-immunofluorescence labeling
+20592220	rinsing, sections for immunogold cell layer, and basket cell boutons innervating pyramidal cell bodies in
+20797429	distribution of the alterations described for PV-basket cell markers, chande-\r\nFig.
+20142764	Due to the modest sample size, basket cell plexus density was compared across diagnostic groups using
+20142764	(D) A dense nest of basket cell processes (arrows) surrounds another Purkinje cell in an ET case.
+9219929	(duration at half-amplitude 0.4 ms) evoked in the basket cell shown in Fig.
+8797674	ticus in the rat: The dormant basket cell hypothesis and its possible relevance to temporal lobe epilepsy
+8923525	Similar basket cell axon arbors have recently been described and referred to as "atypical" or "wide"
+8923525	Photomicrograph of an apical dendrite of a pyramidal basket cell, illustrating the paucity of dendritic spines
+15193778	epilepsy: a critical reappraisal of the dormant basket cell hypothesis.
+14757115	robust long-term plasticity of MF synapses onto basket cell interneurons has been described (Alle et al.
+15193427	(F) The basket cell (BC) in bottom of pyramidal cell layer (PL) of the hippocampal CA2 region.
+14689476	Identification of MOR-LIR in a parvalbumin-immunoreactive basket cell in the granular layer of the dentate gyrus.
+15024751	The cell is deemed to be a basket cell with the external granular layer and molecular layer.
+2460502	cell bodies and dendrites and PNF epitopes in basket cell axons surrounding Purkinje neurons.
+7776231	intracellularly filled clutch cells: A type of small basket cell in the visual cortex of the cat.
+7188029	conespond probably to the expected distribution of basket cell endings.
+7552243	Purkinje cell layer; Mol, molecular layer; B, basket cell; PC, Purkinje cell.
+7317783	 T. L., Response decrement in a hippocampal basket cell, Brain Research, 130 (1977) 354-359.
+7685234	Basket cell efferents with pleomorphic vesicles and GABA as a neurotransmitter make symmetric contacts
+3089540	recognizes myelinated axons and the calyx formed by basket cell axon collaterals.
+3510691	m.Intense labeling of stellate (arrows) and basket cell bodies and terminal baskets (arrowheads) beneath
+1578897	recurrent inhibition of the CAI pyramids via basket cell activation.
+1641131	The basket cell processes surrounding the Purkinje cell perikarya contained an intense immunoreactivity
+1701039	DeFelipe J. and Fairen A. (1982) A type of basket cell in superficial layers of the cat visual cortex
+2648389	cell covered by puncta probably derived from basket cell axons is also indicated (p).
+3561760	climbing fibre does not run in association with a basket cell axon.
+3199192	appear to be forming synapses (arrows) with the basket cell and with nonimmunoreactive dendritic profiles
+3224260	The comparison of basket cell density between LS control and LS ethanol groups was significant at the
+2445442	correct the effects of hypothyroidism on the basket cell immunoreactivity with mabN210.
+2445442	period probably lasts from P7 (when the first basket cell synapses are visible around the primary fissure
+9483569	concentrated in the terminal plexuses of the basket cell fibres around Purkinje cells.
+10215927	Basket cell somata can be located in stratum pyramidale (SP), stratum oriens (SO) or stratum radiatum
+10805922	Gephyrin-positive synapses (arrows) between a presumed basket cell axon (Ax) and the perikaryon of a Purkinje cell
+10426478	The CA1 basket cell that elicited a mixed GABAA/B IPSP is drawn in its entirety ( \xa3 100 magnification)
+10215927	Ribak, C.E. (1990) The synaptic connections of basket cell axons in the developing rat hippocampal formation
+10330689	to the granule cells, and a second exhibited basket cell degeneration (Fig. 1H).
+10536234	Kv\u03b22 was not expressed at the basket cell terminals or nodes of Ranvier in the cerebellar white matter
+15631897	greatest concentration of Kv1.2 was found in the basket cell axon plexus and terminal regions around the Purkinje
+15632020	thick and thin axons and some dendrites such as basket cell dendrites, but not Purkinje cell dendrites.
+21795548	CCK responsible for the actions of CCK in both basket cell subtypes.
+23139735	nicotinic receptor function on stellate and basket cell interneurons could result in a disinhibition
+17611285	Cb, The basket cell was PV immunopositive and CB immunonegaalveus, and through SR and into SLM (Fig.
+17611285	Cd, Superimposition of the drawing of the basket cell on an image of the -actinin 2 staining.
+18207302	epilepsy: a critical reappraisal of the dormant basket cell hypothesis.
+15905965	[u"tend to breed more myths, such as the `dormant basket cell hypothesis' [10, 11], and then become dogma."]
+15790662	enhancement of inhibitory transmission at cerebellar basket cell-Purkinje cell synapses.
+15728768	equation limits the effective strength of the basket cell synapses s because s B /( ) is the steady state
+15820621	immunoreactive processes suggesting labeling of basket cell axons (Fig. 2B).
+16009497	transporters, glutamic acid decarboxylase, parvalbumin, basket cell.
+12379253	epilepsy : a critical reappraisal of the dormant basket cell hypothesis.
+12379245	(A) A basket cell with prominent somatic labelling (arrowheads), located in the vicinity of the Golgi
+12617938	Sussex, Brighton, UK Key words: cerebellum, basket cell, stellate cell, Golgi neuron, development.
+12562998	D, the spike AHPs of this regular-spiking basket cell were increased by etomidate and decreased by bicuculline
+10797616	channel containing the \u03b1 subunit Kv1.2 in the basket cell nerve terminals of rat cerebellum.
+10995835	In the present study, both major basket cell types were shown to establish multiple perisomatic contacts
+11880498	CB1 receptors are strongly expressed at the basket cell terminals around Purkinje cell somata (Egertova
+9503336	A, basket cell (2806951; cell 4 of Table 2) bouton forming synaptic contacts (one each) with neighboring
+19273236	Pukinje cells receiving input from the same basket cell.
+19074030	vesicle fusion and replenishment at the cerebellar basket cell terminal.
+18662342	[u"Bishop, G.A. (1993) An analysis of HRP-filled basket cell axons in the cat's cerebellum."]
+18932229	contribute to evoked neurotransmitter release at the basket cell-Purkinje cell synapse.
+20505105	synaptic Syt2 and PV labeling and degeneration of basket cell terminals in CSP- KO hippocampus.
+19309040	epilepsy: A critical reappraisal of the dormant basket cell hypothesis.
+7473243	no instance was a physiologically identified basket cell later found by morphological criteria to be a
+7473243	synchronous EPSPs would be required to activate this basket cell.
+16139371	electron microscopy as shown in another filled basket cell.
+23420672	epilepsy: a critical reappraisal of the dormant basket cell hypothesis.
+22001724	development and maturation of a hippocampal basket cell circuit 2.
+22001724	Cannabinoid receptors and the development of CCK basket cell networks 3.
+23346049	However, the parasagittal orientation of basket cell axonal arbors can still be explained by PC rostrocaudal
+19657077	a population of cells oscillating due to the basket cell coupling described in Fig.
+19657077	recurrent synaptic connections, gap junctions, and basket cell inhibition.
+19535596	Similar dentate basket cell somatic and dendritic morphology and synaptophysin-immunoreactive punctae
+19535596	Higher failure rate of unitary IPSCs at dentate basket cell-to-granule cell synapses in epileptic rats.
+19955382	The visibility of basket cell activity also depends on there being a large driving force for the IPSC
+19760259	proteins revealed numerous prominently stained basket cell axons surrounding Purkinje cell bodies (Fig.
+22933799	in which the soma was morphology typical of a basket cell.
+17594392	role of neurofascin (NF186) and ankyrin G in basket cell synapse formation.
+22103426	and GABAA receptors are clustered under single basket cell terminals (Fig. 2H).
+22103426	glutamatergic to GABAergic under the coverage of basket cell terminals (Fig. 2H).
+22745816	CtBP1-immunopositive presynaptic element (presumed basket cell axon) and a Purkinje cell body.
+22878550	Thereby, 3D populations of 91 basket cell axons in both the fifth and third layer were obtained.
+17093119	axonal lengths of a filled and reconstructed basket cell (Sik et al. 1997).
+17093119	Similarly, the basket cell synapses onto axo-axonic cells, HICAP, and MOPP cells were assumed to be negligible
+7840189	These endings are reminiscent of the inhibitory \u201cbasket cell\u201d endings seen in the cerebellum and elsewhere
+17300765	channel containing the(subunit KV 1.2 in the basket cell nerve terminals of rat cerebellum.
+20451458	For comparison, see basket cell processes in figure 1B and 1D, in which baskets are not coarse.
+19500566	Pseudocolor images represent images of the stellate/basket cell taken every half hour shown in A.
+19500566	Pseudocolor images represent images of the stellate/basket cell taken every half hour shown in A.
+19643090	Purkinje cell staining was absent, cerebellar basket cell axonal processes were visible (Fig. 5D).
+20427660	Modulation to Neurochemically Distinct Hippocampal Basket Cell Subtypes\r\nChristian A.
+16359645	n = 3\u20134 for each genotype, a minimum of 30 basket cell bodies were evaluated per individual.
+16554475	Normal morphology and parvalbumin labeling of two basket cell terminals making symmetric synapses were not
+21917809	Anatomically, all targeted PV interneurons had basket cell features with promiscuous and densely branching
+20554867	inhibition of Purkinje cell is mediated by large basket cell inputs.
+21452204	Five types of basket cell in the hippocampal dentate gyrus: a combined Golgi and electron microscopic
+16759785	Twenty to 30 basket cell axons may converge onto one Purkinje cell, albeit this figure is not particularly
+7904057	stratum granulare, which contain the GABAergic basket cell terminals.
+8740589	For instance, the basket cell of the cerebellum, an inhibitory intemeuron, is one of the most well-known
+8622830	These endings are reminiscent of the inhibitory "basket cell" endings seen in the cerebellum and elsewhere
+1666655	intracellularly filled clutch cells: a type of small basket cell in the visual cortex of the cat.
+4470450	Arborization pattern of basket cell axons in the plane view of the cerebellar cortex adapted from ref
+3510691	In the molecular layer, stellate and basket cell bodies are intensely labeled with antibodies against
+6320970	 T. L., Response decrement in a hippocampal basket cell, Brain Research, 138 (1977) 354-359.
+6389693	Golgi cell dendrites (Figure 6), basket cell perikarya and their axons, and mossy fibers were also positive
+7680343	micrograph of a MA2d-stained symmetric synapse of a basket cell axon on a Purkinje cell body.
+10861531	intracellularly filled clutch cells: a type of small basket cell in the visual cortex of the cat.
+10723068	region, the dually labelled cell represents a basket cell, which is a GABAergic interneuron (Fig. 1D).
+10902894	However, the basket cell labeled in our study extended its axon arbor into the middle and external molecular
+14715964	Basket cell axons were identified using antiphosphorylated neurofilaments (RT97) and their cell bodies
+14505496	molecular layer that were most likely stellate or basket cell interneurons also stained positively.
+9187313	C: in a basket cell soma, the labeling is intense at the nuclear envelope and rough ER.
+8923525	they were less numerous in this nonpyramidal basket cell.
+2460502	In 3-week-old transplants a few basket cell neurites surrounding Purkinje cells were stained (Fig. 3a)
+2059835	cell terminal; d, granule cell dendrite; b, basket cell axon terminal.
+1722134	9 DeFelipe, J. and Fairen, A., A type of basket cell in superficial layers of the cat visual cortex.
+10191303	1 deletion enhances the excitability of the basket cell.
+10191303	scheme is based on a 13-d-old biocytin-filled basket cell from Llano et al. (1997).
+10191303	three sites: the basket cell body, the boutons, and the branch points or axonal arborizations that precede
+10022960	the cerebellar cortex was restricted to the basket cell axons.
+9761312	[u"discuss the evidence in support of the `dormant basket cell hypothesis'."]
+9761312	[u"The `dormant basket cell hypothesis' (dbch) specifically addresses the second of these possible pathophysiological"]
+10066902	One basket cell may innervate 500\u20141600 postsynaptic neurons in a 400 \xecm slice (Miles et al. 1996).
+15728768	After being released by the basket cell population, which previously activated its intrinsic h-current
+15384070	Five types of basket cell in the hippocampal dentate gyrus: a combined Golgi and electron microscopic
+21543618	Buckmaster PS (2009) Dysfunction of the dentate basket cell circuit in a rat model of temporal lobe epilepsy
+22884367	inferior olivary neuron; PF, parallel fiber; BC, basket cell; SC, stellate cell; CF, climbing fiber.
+22915121	we started with experimentally characterized basket cell uFields.
+22745816	(I) CtBP2-immunolocalization in a presumed basket cell axon making a symmetric contact on a Purkinje
+21832203	In the absence of basket cell firing, this LFP amplification between somata and distal dendrites of pyramidal
+23152619	Cb, Unitary IPSPs from the basket cell to the pyramidal cell were unaffected by 100 nM 5-HT.
+23152619	Monosynaptic EPSPs from the pyramidal cell to the basket cell were reversibly reduced by 100 nM 5-HT.
+23407806	epilepsy: a critical reappraisal of the dormant basket cell hypothesis.
+16307840	epilepsy: a critical reappraisal of the dormant basket cell hypothesis.
+7473243	the CA3 pyramidal layer evoked EPSCs in this basket cell only 49% of the time.
+7473243	This voltage-clamped basket cell received clusters of EPSCs that occurred with a similar frequency as
+12781679	(B) Labeled basket cell just above the Purkinje cell layer and a granule cell below the PCL.
+15217339	Note the region of influence of the large basket cell (L3B) relative to the patches of the pyramidal
+15218352	and synchronization of patterns produced by basket cell networks with depression.
+15488413	intensely stained dots can be found suggestive of basket cell terminals.
+9497429	A : photomontage of the basket cell the camera lucida reconstruction and physiology of which is shown
+9753093	DeFelipe, J. & Fairen, A. (1982) A type of basket cell in superficial layers of the cat visual cortex
+8235456	Each basket cell, in turn, provides an inhibitory axosomatic synapse to the cell body of the pyramidal
+8350981	postsynaptic to a large axon terminal belonging to a basket cell axon (BA).
+10587087	Nor was GBR1-LI detectable in the inhibitory basket cell fiber systems that surround hippocampal principal
+9503336	at variance with the appearance of the fourth basket cell (2806951; cell 4 of Table 2).
+9483569	\xe2-catenin co-localized in the terminal plexus of basket cell fibres around the Purkinje cells (arrows).
+10215927	A CFS SP putative basket cell and the IPSPs it generates in a simultaneously recorded pyramidal cell
+10340516	G: Axon, probably of a basket cell (Bax), contacting a Purkinje cell perikaryon (Pu) at two symmetric
+12379245	showing labelling in a pro\xa2le characteristic of a basket cell terminal.
+11738933	epilepsy: a critical reappraisal of the dormant basket cell hypothesis.
+11591452	Localization of mGluR3-LI in the basket cell pinceau in the cerebellum of the mGluR2-de\xa2cient mouse.
+12357434	The number of basket cell-Purkinje cell synapses was also counted for each Purkinje cell profile analyzed
+12096061	facilitating\u2013depressing pattern of short-term plasticity in a basket cell.
+12096061	characterization of basket and O-Bi cells A\u2013C, the basket cell (A080) shown in Fig.
+10976221	Purkinje ceils and presumable basket cell whose perikaryon is filled with neurofibrils (indicated by
+10747187	epilepsy: a critical reappraisal of the dormant basket cell hypothesis.
+10910102	Under Assumption 1, 13\u2013 45 basket cell axons converge onto a single spiny neuron (Table 2, line 8).
+10862740	(C) Four interneurons with stellate/basket cell morphology (arrows) distributed in layers II to V at
+11074187	Five types of basket cell in the hippocampal dentate gyrus: a combined Golgi and electron microscopy
+19455542	culture, there will be 1\u20132 \xd7 106 cells per hanging basket cell culture insert.
+11807843	However, the beading in CCK-IR basket cell dendrites became pronounced at a greater distance from the
+11920713	(bar) of a spiny hilar interneuron (A1) and a basket cell (A2).
+11920713	C: Neurolucida reconstruction of the basket cell showing axon collaterals (red) concentrated in the granule
+21295966	is expressed at the postsynaptic density of basket cell inhibitory dendrites receiving excitatory input
+21269806	granule cell is, therefore, inhibited by the basket cell in feed-forward and feedback fashion.
+18579659	vesicle fusion and replenishment at the cerebellar basket cell terminal.
+18973591	Dense immunogold labeling was observed in basket cell axons forming the pinceau formation (Fig. 8A and
+18767905	the synapses formed on the dendrites of the basket cell.
+18455884	that both antigens are strongly expressed in basket cell axons surrounding the Purkinje cell somata.
+18556072	A basket cell soma, located within SO, projects its axon (green) to the pyramidal neuron soma and the
+18556072	A basket cell soma, located within SO, projects its axon (green) to the pyramidal neuron soma and the
+19657077	The basket cell afferent synapse from pyramidal cells contained NMDA current in addition to the AMPA
+20142764	[u"Basket cell plexus density was highly correlated with the hairy basket rating (Pearson's r = 0.73, p"]
+19118165	However, another part of the basket cell axon, the pinceau, was completely immunonegative for the Nav1
+19339609	Because basket cell axons innervate s. pyramidale in uniquely high density (Freund and Buzsa \u0301ki, 1996)
+19247732	Kv3.4 was detected in basket cell axon terminals enveloping the Purkinje cell axon hillock, the cerebellar
+19535596	reliability of GABAergic transmission reduced at basket cell-to-granule cell synapses in epileptic animals
+19535596	D, Soma area and total dendritic length per basket cell were similar in control and epileptic rats.
+20043282	implications of the NPYinduced modulation of CCK basket cell afferents?
+17330864	contribute to evoked neurotransmitter release at the basket cell-Purkinje cell synapse.
+17223277	Notably, the branches of basket cell axons surrounding the Purkinje cell axons (pinceaux) were also Eps8-negative
+17362888	needed to adequately test whether a distinct basket cell population exists in goldfish or other teleosts
+17287437	Spike-timing probabilities reveal basket cell doublets and a broader temporal distribution of pyramidal
+16319214	contribute to evoked neurotransmitter release at the basket cell\u2013Purkinje cell synapse.
+16648453	immunoreactivity, although present in the same basket cell population, was generally confined to the somatic
+7598816	These basket cell axons have been shown to synapse upon pyramidal cell soma (Schwartzkroin and Kunkel
+16623841	different types of basket cell, PV+ cholecystokinin-negative (CCK\u2013) and PV\u2013 CCK+ (Maccaferri et al.,
+17920013	These experiments demonstrate that the two basket cell types fill different functional niches in the
+17517679	appositions of a Venus- and parvalbumin-positive FS basket cell onto another unstained soma (arrows).
+17594392	The unambiguous directionality of basket cell axon growth suggests the presence of guidance cue(s) along
+18464791	also causes glutamate spillover onto nearby basket cell synapses.
+19682031	sprouting, granule cells contact one mossy, one basket cell, and three HIPP cells.
+17122364	(A3,B3) Firing patterns of identified basket cell T119a and bistratified cell C8b during theta and ripple

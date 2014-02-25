@@ -203,7 +203,7 @@
                 <name>scriptPaths</name>
                 <value>
                     <array>
-                        <string>/Users/richarde/dev/bluebrain/git/neuroNER/script</string>
+                        <string>/Users/richarde/Desktop/ruta_/ruta_workspace/neuroNER/script</string>
                     </array>
                 </value>
             </nameValuePair>
@@ -211,7 +211,7 @@
                 <name>descriptorPaths</name>
                 <value>
                     <array>
-                        <string>/Users/richarde/dev/bluebrain/git/neuroNER/descriptor</string>
+                        <string>/Users/richarde/Desktop/ruta_/ruta_workspace/neuroNER/descriptor</string>
                     </array>
                 </value>
             </nameValuePair>
@@ -219,7 +219,7 @@
                 <name>resourcePaths</name>
                 <value>
                     <array>
-                        <string>/Users/richarde/dev/bluebrain/git/neuroNER/resources</string>
+                        <string>/Users/richarde/Desktop/ruta_/ruta_workspace/neuroNER/resources</string>
                     </array>
                 </value>
             </nameValuePair>
@@ -265,6 +265,46 @@
                     <description>Type defined in neuroner.Main</description>
                     <supertypeName>uima.tcas.Annotation</supertypeName>
                 </typeDescription>
+                <typeDescription>
+                    <name>neuroner.Main.Cell</name>
+                    <description>Type defined in neuroner.Main</description>
+                    <supertypeName>uima.tcas.Annotation</supertypeName>
+                </typeDescription>
+                <typeDescription>
+                    <name>neuroner.Main.NeuronProperty</name>
+                    <description>Type defined in neuroner.Main</description>
+                    <supertypeName>uima.tcas.Annotation</supertypeName>
+                </typeDescription>
+                <typeDescription>
+                    <name>neuroner.Main.Expressing</name>
+                    <description>Type defined in neuroner.Main</description>
+                    <supertypeName>neuroner.Main.NeuronProperty</supertypeName>
+                </typeDescription>
+                <typeDescription>
+                    <name>neuroner.Main.Orientation</name>
+                    <description>Type defined in neuroner.Main</description>
+                    <supertypeName>neuroner.Main.NeuronProperty</supertypeName>
+                </typeDescription>
+                <typeDescription>
+                    <name>neuroner.Main.ShapeQualifier</name>
+                    <description>Type defined in neuroner.Main</description>
+                    <supertypeName>neuroner.Main.NeuronProperty</supertypeName>
+                </typeDescription>
+                <typeDescription>
+                    <name>neuroner.Main.Shape</name>
+                    <description>Type defined in neuroner.Main</description>
+                    <supertypeName>neuroner.Main.NeuronProperty</supertypeName>
+                </typeDescription>
+                <typeDescription>
+                    <name>neuroner.Main.Size</name>
+                    <description>Type defined in neuroner.Main</description>
+                    <supertypeName>neuroner.Main.NeuronProperty</supertypeName>
+                </typeDescription>
+                <typeDescription>
+                    <name>neuroner.Main.Synapse</name>
+                    <description>Type defined in neuroner.Main</description>
+                    <supertypeName>uima.tcas.Annotation</supertypeName>
+                </typeDescription>
             </types>
         </typeSystemDescription>
         <typePriorities>
@@ -284,9 +324,25 @@
             <capability>
                 <inputs>
                     <type>neuroner.Main.Neuron</type>
+                    <type>neuroner.Main.Cell</type>
+                    <type>neuroner.Main.NeuronProperty</type>
+                    <type>neuroner.Main.Expressing</type>
+                    <type>neuroner.Main.Orientation</type>
+                    <type>neuroner.Main.ShapeQualifier</type>
+                    <type>neuroner.Main.Shape</type>
+                    <type>neuroner.Main.Size</type>
+                    <type>neuroner.Main.Synapse</type>
                 </inputs>
                 <outputs>
                     <type>neuroner.Main.Neuron</type>
+                    <type>neuroner.Main.Cell</type>
+                    <type>neuroner.Main.NeuronProperty</type>
+                    <type>neuroner.Main.Expressing</type>
+                    <type>neuroner.Main.Orientation</type>
+                    <type>neuroner.Main.ShapeQualifier</type>
+                    <type>neuroner.Main.Shape</type>
+                    <type>neuroner.Main.Size</type>
+                    <type>neuroner.Main.Synapse</type>
                 </outputs>
                 <languagesSupported/>
             </capability>

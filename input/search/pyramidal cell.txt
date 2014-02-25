@@ -1,0 +1,1000 @@
+14585604	pyramidal cell.
+11877515	pyramidal cell.
+3005915	Pyramidal cell.
+7264721	Results\r\nPyramidal cell-pyramidal cell pairs.
+12113896	Pyramidal cell density\r\n3.2.1.
+9886033	Pyramidal cell layer.
+9952352	Pyramidal cell\r\n2.
+9952352	Inverted pyramidal cell\r\n6.
+10482003	Medial pyramidal cell.
+10079251	pcl, pyramidal cell layer.
+8886935	Py=pyramidal cell layer.
+7936209	p, pyramidal cell layer.
+21264956	Py: Pyramidal cell layer.
+22001174	PyrL, pyramidal cell layer.
+11922662	P, pyramidal cell layer.
+11226691	of a pyramidal cell.
+12706236	PCL, pyramidal cell layer.
+12706236	PC, pyramidal cell.
+16806517	7. Pyramidal cell lengths.
+7823179	D, CA3 pyramidal cell.
+20724079	Py: pyramidal cell layer.
+17710783	the postsynaptic pyramidal cell.
+16871536	Pyramidal cell size.
+16871536	Pyramidal cell layer density.
+19126760	B: CA1 pyramidal cell.
+18046003	MULTICOMPARTMENTAL PYRAMIDAL-CELL MODEL.
+20519538	Pd, Pyramidal cell dendrite.
+1675266	recordswereobtainedfromasinglephysiologicallyidentified pyramidal cell.
+12809693	Py: pyramidal cell layer.
+12809693	Py: pyramidal cell layer.
+6347394	P: pyramidal cell layer.
+9427475	Pyramidal cell layer.
+9694893	pyramidal cell primary dendrites.
+9729353	pyr: pyramidal cell layer.
+9359601	PY, pyramidal cell nucleus.
+10559429	PCL, Pyramidal cell layer.
+8487215	A, a pyramidal cell.
+8551341	Pyramidal cell recordings.
+8684627	py, pyramidal cell layer.
+15755552	PCL, pyramidal cell layer.
+11876779	Pyr, pyramidal cell.
+9952352	Medium-sized pyramidal cell.
+9952352	Tangential pyramidal cell\r\n5.
+11113333	The pyramidal cell.
+11325566	P: pyramidal cell layer.
+17710783	the postsynaptic pyramidal cell.
+19744076	pyramidal cell apical dendrites.
+19767413	on pyramidal cell bodies.
+21277946	PCL, pyramidal cell layer.
+16871536	Pyramidal cell size.
+16871536	Pyramidal cell layer volume.
+16871536	Pyramidal cell number.
+16859833	mal pyramidal cell layering.
+17077275	Pyramidal cell quality control.
+7823179	B, CA3c pyramidal cell.
+16279838	PC, pyramidal cell.
+8366355	B, CA3c pyramidal cell.
+1661634	PYR: Pyramidal cell layer.
+11368944	PL: pyramidal cell layer.
+14689476	Pyramidal cell layer.
+14635224	P, pyramidal cell layer.
+9147330	pyramidal cell disinhibition.
+2202488	A: pyramidal cell body.
+7264721	Interneuron-pyramidal cell pairs.
+12718447	pyramidal cell layer.
+14668067	pyramidal cell somas.
+10482003	Lateral pyramidal cell.
+12137935	Pyramidal cell layer 72.5613.1
+11160443	P y, Pyramidal cell.
+18594506	p, pyramidal cell layer.
+18685038	py, Pyramidal cell layer.
+18332434	Pyramidal Cell Quality Control.
+17593221	to the pyramidal cell.
+17717699	PCL pyramidal cell layer.
+12470883	The pyramidal cell\r\nFig.
+21192094	Py: Pyramidal cell layer.
+20854882	* indicates pyramidal cell layer.
+2927716	P, pyramidal cell layer.
+11595038	py, pyramidal cell layer.
+11955709	Py, pyramidal cell layer.
+9763411	Pyramidal cell staining (fig.
+10713393	py, pyramidal cell layer.
+9555042	Pyramidal cell bodies PYR.
+9359601	PY, pyramidal cell nuclei.
+9596526	Pyramidal cell layer.
+9987037	Single pyramidal cell.
+9234199	hippocampal CAI pyramidal cell.
+1805353	Pyramidal-Cell Orientation.
+10902897	2B) pyramidal cell layers.
+15469886	pcl, pyramidal cell layer.
+18270320	Pyramidal cell quality control.
+12710716	Pyr: pyramidal cell.
+15254156	pyramidal cell spikelets.
+18685038	py, Pyramidal cell layer.
+19735545	pcl, pyramidal cell layer.
+18672030	CA3 pyramidal cell layers.
+16828061	Although pyramidal cell\r\nFig.
+16871536	Pyramidal cell density.
+17122053	PC, Pyramidal cell.
+3001243	Pyramidal cell input.
+8551351	Pyramidal cell layer.
+10082854	Pyramidal cell damage arrows.
+10430469	45\r\npyramidal cell suppression.
+2202488	A: pyramidal cell body.
+9300410	PYR., pyramidal cell layer.
+14592958	pyramidal cell layer.
+10930131	Py, pyramidal cell layer.
+16005103	CA1 pyramidal cell characterization.
+18043757	selective pyramidal cell discharge.
+18596171	PYR, Pyramidal cell layer.
+18753265	Pyramidal cell density.
+15817274	pcl = pyramidal cell layer.
+9952352	Star pyramidal cell\r\n3.
+9952352	Fusiform pyramidal cell\r\n4.
+19801372	B, Giant pyramidal cell.
+19778507	PCL, pyramidal cell layer.
+19996152	Py, pyramidal cell layer.
+17717699	PCL pyramidal cell layer.
+17717699	PCL pyramidal cell layer.
+21126512	pyramidal cell dendrites.
+6664494	A conditional pyramidal cell.
+12097498	pyr, Pyramidal cell; int, interneuron.
+10421872	B: BS pyramidal cell\r\nFig.
+15800071	B: nonapical CA3 pyramidal cell.
+15882815	Arrows indicate pyramidal cell layer.
+17115168	Abbreviation: py pyramidal cell layer.
+15054070	(E) A photoconverted pyramidal cell.
+11164785	CA2 pyramidal cell layer 89.5464.01
+11164785	CA4 pyramidal cell layer 84.6765.03
+9303525	The basket-pyramidal cell system.
+17287437	in pyramidal cell spike rates.
+17601703	infra- and pyramidal cell layers.
+12832559	S. Pyr., Pyramidal cell layer.
+8487215	B, a non-pyramidal cell.
+15132434	CA3b, CA3 pyramidal cell layer.
+12137935	Pyramidal cell layer 127.366.2 166.267.0*
+12097498	pyr, Pyramidal cell; int, interneuron.
+11385833	The basket-pyramidal cell system.
+11976761	These are pyramidal cell\r\nFig.
+18500762	PCL, CA3 pyramidal cell layer.
+19710306	PC, Pyramidal cell; IN, interneuron.
+17614948	pyramidal cell layers (Table 2).
+15525801	Layer 6 nontufted pyramidal cell.
+16545463	Pyr = pyramidal cell; Int = interneuron.
+11164785	CA3 pyramidal cell layer 91.6063.55
+1723642	pyramidal cell bodies and dendrites.
+15800071	C: dentate CA3 pyramidal cell.
+2881615	hippocampal pyramidal cell\\ in vitro.
+18823765	Pyramidal cell layer 85.475.6 61.475.0*
+19531533	spatially-selective pyramidal cell discharge.
+21684275	CA1, CA1 pyramidal cell layer.
+21684275	CA3, CA3 pyramidal cell layer.
+18945900	As, Astrocyte; Py, pyramidal cell.
+20335477	Nu, Nucleus of pyramidal cell.
+19751806	(B) Pyramidal cell at P7.
+19801372	A, Intermediate size pyramidal cell.
+19553449	Circle, GABAergic; triangle, pyramidal cell.
+19553454	Asterisks indicate pyramidal cell layer.
+17971507	\xa7Layer VI pyramidal cell bundles.
+17652601	Asterisks indicate pyramidal cell somata.
+6289178	Effects on pyramidal cell activity.
+7739796	(F) Layer VI pyramidal cell.
+8422591	IPSPs in this pyramidal cell.
+8402147	pyramidale, among pyramidal\r\ncell bodies.
+15328041	Pyramidal cell layer 112.7F3.7 80.9F4.0*
+19036872	LA pyramidal cell model\r\n0.2816
+19036872	Pyr, pyramidal cell; inter, interneuron.
+15380836	CA1 pyramidal cell count\r\nFig.
+12690484	Model of CA3 pyramidal cell.
+18823765	Pyramidal cell layer 81.777.1 58.874.7*
+18945900	As, Astrocyte; Py, pyramidal cell.
+20345910	SCA\u2013PC, SCA\u2013pyramidal cell.
+20596769	pcl the pyramidal cell layer.
+20596769	pcl the pyramidal cell layer.
+22796081	Right: Patch-clamped pyramidal cell.
+3001236	EKccts on pyramidal cell activity.
+2012984	CA-I pyramidal cell loss.
+2245317	PYR, CA3 pyramidal cell layer.
+1944892	N, hippocampal pyramidal cell layer.
+9307136	Recording site: pyramidal cell layer.
+10992248	Arrows indicate pyramidal cell somata.
+11152700	Anatomical studies\r\nPYRAMIDAL CELL LOSS.
+18622400	(m\u2013o) CA3 pyramidal cell.
+16125852	*P 0.05 vs. pyramidal cell.
+15328041	Pyramidal cell layer 111.5F5.7 79.7F2.7*
+10965801	D Reindeer; hippocampal pyramidal cell.
+11745614	oriens and pyramidal cell layers.
+11823109	CA3 = CA3 pyramidal cell layer.
+15800197	C, Postsynaptic L5A pyramidal cell.
+15800071	A: classical CA3 pyramidal cell.
+15561432	Moreover, pyramidal cell nuclei\r\nFig.
+12231254	towards the pyramidal cell layer.
+3683855	P indicates pyramidal cell layer.
+6198491	pyramidal cell body layer; st.
+20335477	Nu, Nucleus of pyramidal cell.
+20596769	pcl, the pyramidal cell layer.
+22987780	Pyr, CA3 pyramidal cell layer.
+1617441	1. Effects on pyramidal cell activity.
+3437972	(A) Left: a visual cortical pyramidal cell.
+11595038	py, pyramidal cell layer; sr, stratum radiatum.
+11153714	Dashed line indicates CA1 pyramidal cell layer.
+11080262	C, control plot for a pyramidal cell.
+11274792	CA3, cornu ammonis 3 pyramidal cell field.
+16093334	6D in four other pyramidal cell pairs.
+10861520	py, Pyramidal cell layer; r, stratum radiatum.
+10602384	CA3 and CA4, pyramidal cell layers.
+10762705	Pyramidal cell layer includes all subfields.
+10328934	p\u2014pyramidal cell layer, rad\u2014stratum radiatum.
+8207497	Asterisk denotes a pyramidal cell body.
+8008196	7) identified as a superficial pyramidal cell.
+8816250	1. Effects on pyramidal cell activity.
+7845608	B: pyramidal cell layer of CA1.
+16707115	4A, E), hippocampal pyramidal cell layer (Figs.
+4078626	p, a gold-toned pyramidal cell.
+15310750	Pr, pyramidal cell layer; St, stratum radiatum.
+15378039	RS (regular discharge of a pyramidal cell.
+15519678	6 (continued ).\r\npyramidal cell layer (Fig. 6E).
+12832200	c Extensive loss of pyramidal cell layer.
+14741393	pc, pyramidal cell layer; sl, stratum lucidum.
+15054070	Photoconversion of a CLSM-imaged pyramidal cell.
+15541875	mf, mossy fibers; pyr, pyramidal cell layer.
+11283235	The pyramidal cell depicted in Fig.
+12629543	(d) Nucleated Nissl-stained pyramidal cell.
+12843271	d, Pyramidal cell from the next section.
+7026738	I. Effects on pyramidal cell activity.
+9120052	Pyramidal cell bodies (Py) are intensely stained.
+9302105	Deep pyramidal cell superficial cell sup.
+18021384	Hippocampal pyramidal cell orientation in schizophrenia.
+1701523	(b) Animal with CA3 pyramidal cell loss.
+2270136	Pyr., pyramidal cell body layer; Str.
+9736641	Pyr, Pyramidal cell layer; DG, dentate gyrus.
+10219775	Hippocampal pyramidal cell orientation in schizophrenia.
+10406001	(A) A layer V large pyramidal cell.
+16892187	(F) point at normal pyramidal cell bodies.
+16892187	(F) point at normal pyramidal cell bodies.
+17192431	Specifically, pyramidal cell\u2013interneuron pairs that recall.
+16978724	PL: pyramidal cell layer; SR: stratum radiatum.
+20681996	While the pyramidal cell layer (PCL; Fig.
+19393273	SL, stratum lucidum; PCL, pyramidal cell layer.
+7472426	p in C indicates pyramidal cell bodies.
+17674368	(A\u2013C) PCL, pyramidal cell layer.
+10415670	Hippocampal pyramidal cell orientation in schizophrenia.
+10640622	pyr, pyramidal cell layer; pl, polymorph layer.
+15340352	Hippocampal pyramidal cell orientation in schizophrenia.
+15250595	PCL = end of pyramidal cell layer.
+12153527	(Aa4) Layer V intrinsically bursting pyramidal cell.
+17392423	Pyramidal cell responses are very rons.
+17478051	messenger, pyramidal cell, sharp glass electrode.
+17523939	P, pyramidal cell nuclei; V, blood vessels.
+18852032	oriens to the pyramidal cell layer.
+18848708	Control pyramidal cell displaying PGRN reactivity (60\xd7).
+20674642	SL: stratum lucidum; PCL: pyramidal cell layer.
+20059453	antipsychotic drugs in pyramidal cell apical dendrites.
+21597968	2 Nissl-stained CA1 pyramidal cell layer.
+21769712	(C) Pyramidal cell from the cerebral cortex.
+18704465	pcl pyramidal cell layer; sr stratum radiatum.
+16442740	Arrow shows the pyramidal cell layer.
+17785345	(E) CA1 pyramidal cell layer (subregion 6).
+16352399	[u"(b) Pyramidal cell layer of Ammon's horn."]
+11090932	The asterisks indicate the pyramidal cell layer.
+16446140	(B) Results from another pyramidal cell.
+11921358	B: Immunoreactive pyramidal cell in 1 m.
+18493929	2B2, D2), CA1 pyramidal cell layer (Figs.
+9109521	I. Effects on pyramidal cell activity.
+8410197	Notetherelatively fewinjuredcellsin the pyramidal cell layer (PY).
+14755519	The pyramidal cell body was\r\nFig.
+6834107	I. Effects on pyramidal cell activity.
+5501052	fibres and the pyramidal cell bodies.
+3313098	I. Effects on pyramidal cell activity.
+1542406	All 10 cells were pyramidal cell) patches.
+3838345	I. Effects of pyramidal cell activity.
+10320693	Scale bars0.3 \u03bcm.\r\npyramidal cell spines.
+10415672	Hippocampal pyramidal cell orientation in schizophrenia.
+10670456	pyramidal cell somas (Fig. 4D, F).
+7931566	Arrowheads, apical dendrites of pyramidal cell.
+8309551	pyr, pyramidal cell layer; dg, dentate gyrus.
+15541875	buffer saline; pyr, pyramidal cell layer.
+15541875	mf, mossy fibers; pyr, pyramidal cell layer.
+20796170	Py, pyramidal cell layer; SR, striatum radiatum.
+12153527	(Aa1) Layer V regular-spiking pyramidal cell.
+23264762	D, proximal CA3 pyramidal cell dendrite.
+6374062	Heavy nations of the pyramidal cell layer.
+17947306	Pyramidal cell holding potential was -64 mV.
+18272692	PY, Pyramidal cell layer; SR, stratum radiatum.
+16100710	The pyramidal cell in primate evolution.
+15892100	An EGFP-labeled pyramidal cell is illustrated.
+15668950	White lines indicate the pyramidal cell layer.
+12217971	underlying pyramidal cell structure and cortical function.
+11204411	A Pyramidal cell recording (V \u201373 mV).
+11070189	The layer V pyramidal cell in Fig.
+16098816	Excitatory pathways; , inhibitory pathways; Pyr, pyramidal cell.
+11677812	The arrow indicates a pyramidal cell.
+9214540	P, pyramidal cell layer of the hippocampus.
+9300771	Asterisk, nonpyramidal cell; p, pyramidal cell body.
+19073793	B: the pyramidal cell layer (st.
+18562289	Pyramidal Cell Specification Relies on eCB Signaling.
+17954918	SI Appendix 2 Model Cells Pyramidal cell.
+2376777	C, Pyramidal cell from a transstrial slice.
+2381514	pyramidal cell layer: GCL, granule cell layer.
+19553465	h, Hilus; CA3, CA3 pyramidal cell layer.
+19553465	h, Hilus; CA3, CA3 pyramidal cell layer.
+21832203	Inhibitory connections among PYR, pyramidal cell.
+17717696	PL pyramidal cell layer, CC corpus callosum.
+22272182	Restoration of pyramidal cell was observed.
+21054347	LE IgG enhances CA3 pyramidal cell excitability.
+17719018	1A shows a model pyramidal cell.
+16980328	Collaterals of CA3 pyramidal cell axons (i.e.
+17074043	Arrows indicate the pyramidal cell layer.
+17224405	PL, pyramidal cell layer; RL, stratum radiatum.
+20452229	arrow = pyramidal cell, ct = connective tissue.
+10460248	P, Pyramidal cell layer; sl, stratum lucidum.
+21452258	pyramidal cell (bottom) and an interneuron (top).
+16081066	SP\u2014pyramidal cell layer, SR\u2014stratum radiatum.
+7526447	Hippocampal pyramidal cell orientation in schizophrenia.
+7874517	Py, pyramidal cell layer; SR, stratum radiatum.
+8422591	The pyramidal cell depicted in Fig.
+8423479	Firing statistics of detailed pyramidal cell simulation.
+8515841	The pyramidal cell layer is uniformly immunoreactive.
+1467937	pyramidal cell layer; Ill, deep cell layer.
+3437972	Triangle = pyramidal cell, circle = multipolar, oval = bipolar.
+3437972	(A) GABA responses of a pyramidal cell.
+7041117	Arrow points to unstained pyramidal cell.
+6098876	The pyramidal cell layer was not labelled.
+10880993	L: Pyramidal cell in parasagittal view.
+10770526	ment correlates with hippocampal pyramidal cell density.
+10762705	Pyramidal cell layer includes all subfields.
+11226691	Pyramidal cell dendrites in stratum lacunosum-moleculare.
+11008166	I. Effects on pyramidal cell activity.
+12629188	Extracellular recordings from CA3 pyramidal cell layer.
+15120744	PCL, pyramidal cell layer; SL, stratum lucidum.
+15126130	Pyramidal cell bodies of the st.
+9006971	mf, Mossy fibers; pc, pyramidal cell layer.
+9507114	C: Pyramidal cell layer of the hippocampus.
+8871190	B: similar recordings from a pyramidal cell.
+9284063	As with pyramidal cell hyperexcitability,\r\nFig.
+22909986	Cholinergic septohippocampal pathway (ACh); pyramidal cell (P).
+22674542	Interneuron and pyramidal cell firing rates.
+21782654	The arrow indicated an atrophied pyramidal cell.
+21734292	semble Schaffer collateral-CA1 pyramidal cell synapses.
+21054347	LE IgG enhances CA3 pyramidal cell excitability.
+21044072	EC, external capsule; PCL, pyramidal cell layer.
+15378039	RS (regular discharge of a pyramidal cell.
+15672239	L A dimly stained pyramidal cell (arrowhead).
+9276847	Hippocampal pyramidal cell orientation in schizophrenia.
+12235271	I. Effects on pyramidal cell activity.
+11116225	occasionally in the pyramidal cell layer (pcl).
+10820433	py, pyramidal cell layer; sl, stratum lucidum.
+20696382	Sample pyramidal cell included for comparison (black).
+11896145	in activated ERK in pyramidal cell nuclei.
+11826137	Conductance profile of the pyramidal cell\r\nProx.
+11732707	Hippocampal pyramidal cell orientation in schizophrenia.
+18256161	Pyramidal cell activity consists of correlated bursts.
+18596171	The monosynaptic NGFC\u2013CA1 pyramidal cell conmM.
+20170731	Pyramidal cell heterotopia in the cKO hippocampus.
+20382010	pyr, pyramidal cell layer; rad, stratum radiatum.
+7859091	Arrows indicate double pyramidal cell layers.
+19469688	pcl, pyramidal cell layer; sr, stratum radiatum.
+17468743	py, pyramidal cell layer; SVP, synaptophysin.
+17341653	Results\r\nHippocampal CA3 Pyramidal Cell Characterization.
+17766434	SP, pyramidal cell layer; SR, stratum radiatum.
+17717696	PL pyramidal cell layer, CC corpus callosum.
+20130180	No pyramidal cell infection was observed.
+16510735	Pyramidal cell dendritic arbors (see Fig.
+20495289	Microstructure of the pyramidal cell layer.
+21452258	pyramidal cell (bottom) and an interneuron (top).
+1266785	A pyramidal cell from the control group.
+2827234	I. Effects on pyramidal cell activity.
+6699682	ML, molecular layer; PyCL, pyramidal cell layer.
+12085992	pcl, pyramidal cell layer; sr, stratum radiatum.
+11732704	Hippocampal pyramidal cell orientation in schizophrenia.
+16098816	Excitatory pathways; , inhibitory pathways; Pyr, pyramidal cell.
+10660889	A: PV+ surrounding a neighboring pyramidal cell.
+7983520	another layer VI pyramidal cell showing DAP.
+9373891	Hippocampal pyramidal cell orientation in schizophrenia.
+8871190	B: similar experiment in a pyramidal cell.
+9327505	Hippocampal pyramidal cell orientation in schizophrenia.
+9263198	CA3 = pyramidal cell layer of CA3.
+9254690	PCL is the pyramidal cell body layer.
+8986873	[u"AHP, Ammon's horn, pyramidal cell layer."]
+1497891	(D) Pyramidal cell in layer 213.
+3437972	Left: a visual cortical pyramidal cell.
+2207649	A: RII-B positive pyramidal cell.
+11036203	M, molecular layer; P, pyramidal cell layer.
+14678765	CA3, pyramidal cell layer; h, hilus.
+12832200	c Extensive loss of pyramidal cell layer.
+14689485	PC: Purkinje cell; Pyr: pyramidal cell.
+1647002	AME stimulation inhibits individual pyramidal cell.
+8158255	An arrow indicates an inverted pyramidal cell.
+12231638	During gamma oscillations pyramidal cell somatic administration.
+15486016	Note regular firing of the pyramidal cell.
+11951052	Py, pyramidal cell body; Nu, nucleus, \xd7 11,000.
+12451126	E, Neuropil (arrows) in pyramidal cell layers.
+18691332	LTS pyramidal cell synapses had smaller amplitudes.
+11740203	Pink arrows indicate pyramidal cell nuclei.
+9514515	I. Effects on pyramidal cell activity.
+11154828	O, stratum oriens; P, pyramidal cell layer.
+10700017	Pyramidal cell layer of the hippocampus.
+14627664	One L5 pyramidal cell is schematically indicated.
+12746859	Case of a \u201cdangling\u201d pyramidal cell.
+12746859	\u201cShort\u201d pyramidal cell elongated cell body.
+19230676	Layer III: (Outer) pyramidal cell layer.
+17488202	Frontal region pyramidal cell activity is shown.
+19940037	However, when ZD7288 pyramidal cell dendrites.
+18336954	Staining for CA1 pyramidal cell counts.
+17598161	I. Effects on pyramidal cell activity.
+19250686	Pyramidal cell density was reduced in schizophrenia.
+18562289	4. eCB signaling controls pyramidal cell morphogenesis.
+18442087	Symbols: P, pyramidal cell layer; R, str.
+20368164	or to CA3 pyramidal cell processes.
+21220020	Basolateral amygdala pyramidal cell, basal dendrite.
+20865726	PCL, pyramidal cell layer; SM, molecular layer.
+23264762	D, proximal CA3 pyramidal cell dendrite.
+22975132	Pyramidal cell degeneration in the CA3\r\nFig.
+2376777	A, Pyramidal cell from a strial slice.
+16222232	Sr: stratum radiatum; Py, pyramidal cell.
+7506340	C: labeled pyramidal cell in layer 5.
+3683976	No cell looks like a pyramidal cell.
+9654381	Muscarinic neuromodulation of a pyramidal cell.
+6527773	Thin arrow shows the pyramidal cell layer.
+16899232	Arrow indicates a pyramidal cell dendrite.
+17402857	pcl, pyramidal cell layer; sr, stratum radiatum.
+17221265	Electrical stimulation activates the pyramidal cell axon.
+3423267	I. Effects on pyramidal cell activity.
+21562095	Recording CA1 pyramidal cell-evoked responses.
+21795539	For example, in pyramidal cell axons.
+17881527	Asterisks label doubleimmunonegative pyramidal cell bodies.
+17719018	(A) Model of a pyramidal cell.
+10462698	Pyr, pyramidal cell layer; Mol, molecular layer.
+3443970	Tetanization effects on pyramidal cell i.p.s.p.s
+8871190	B: similar responses in a pyramidal cell.
+8986843	r, Granule cell layer; \x8c, pyramidal cell layer.
+10556642	A pyramidal cell of VNN; B.
+10333273	portions of the pyramidal cell layer.
+10541002	SO, stratum oriens; PL, pyramidal cell layer.
+8008196	(D) Deep pyramidal cell showing early bifurcation.
+6716285	I. Effects on pyramidal cell activity.
+1613549	The pyramidal cell fields have been outlined.
+9327511	Hippocampal pyramidal cell orientation in schizophrenia.
+9390760	A: Pyramidal cell in the CLS.
+9374272	ml, molecular layer; py, pyramidal cell layer.
+14689476	I. Effects on pyramidal cell activity.
+14502288	(d) NBQX prevents CA1 pyramidal cell death.
+12934709	Hippocampal pyramidal cell neurogenesis occurs after stroke.
+15115741	(F) The pyramidal cell in the subiculum.
+11679085	pyramidal cell bodies in the control cases.
+8451611	Hippocampal pyramidal cell orientation in schizophrenia.
+2995868	1. Effects on pyramidal cell activity.
+19056393	P = pyramidal cell layer; r = stratum radiatum.
+18442087	Symbols: P, pyramidal cell layer; R, str.
+18442087	Symbols: P, pyramidal cell layer; R, str.
+18586073	pcl, pyramidal cell layer; sr, stratum radiatum.
+15390177	The pyramidal cell during hippocampal seizure.
+15014100	B: the same for the pyramidal cell.
+15054049	(D) Centrally located star pyramidal cell.
+15378039	RS (regular discharge of a pyramidal cell.
+16125852	*P 0.05; ***P 0.005 vs. pyramidal cell.
+15555918	Dotted lines indicate pyramidal cell layer limits.
+15530659	CA1 pyramidal cell layer, 142.4F28.9 142.6F32.4
+15530659	CA3 pyramidal cell layer, 131.7F37.8 184.4F65.4
+3437972	Left: a visual cortical pyramidal cell.
+3815093	Hippocampal pyramidal cell layer (CA3) 61.4 _+6.5
+10918494	Dotted lines indicate the pyramidal cell layer.
+10592346	3 for CA 3 pyramidal cell layer..
+10064834	The pyramidal cell layer CA1, CA2, CA3.
+11310162	(cc Corpus callosum, Py pyramidal cell layer).
+15541875	mf, mossy fibers; pyr, pyramidal cell layer.
+15541875	mf, mossy fibers; pyr, pyramidal cell layer.
+12123695	(A) Pyramidal cell of the CA3 region.
+18289513	Pyramidal cell layer is indicated by arrows.
+18192023	They named these assemblages \u201cpyramidal cell modules.\u201d
+9613625	Hippocampal pyramidal cell orientation in schizophrenia.
+9634555	The pyramidal cell layer (see Figs.
+21907759	Hippocampal pyramidal cell orientation in schizophrenia.
+2376777	II, Pyramidal cell from a strial slice.
+3690290	The pyramidal cell layer was less dense.
+12153527	(Aa2) Layer VI regular-spiking pyramidal cell.
+17785345	(B) CA3 pyramidal cell layer (subregion 2).
+19795494	PCL, pyramidal cell layer; SR, stratum radiatum.
+21220020	Basolateral amygdala pyramidal cell, apical dendrite.
+17570598	Science pacing of pyramidal cell firing.
+21168305	The presumed pyramidal cell in Fig.
+21216273	Adult rat pyramidal cell soma 0.2\u20130.6%
+20980543	Example of a control CA1 pyramidal cell.
+20592220	pyramidal cell bodies (Fig. 2 A).
+21955919	PYR marks the pyramidal cell layer.
+17570350	Py, pyramidal cell layer; SR, stratum radiatum.
+23040805	CIN, cholinergic interneuron; PC, pyramidal cell.
+16624959	B, Connection probability between pyramidal cell subtypes.
+16580143	The CA1 pyramidal cell layer\r\nFig.
+18704465	pcl pyramidal cell layer; sr stratum radiatum.
+16359649	The pyramidal cell layer is relatively spared.
+15349978	O, stratum oriens; PCL, pyramidal cell the pyramidal cell layer of CA3 (C,D).
+19084579	descending pathways, corticofugal, pyramidal cell, non-pyramidal cell.
+1338788	granule cell patches; 0: CA3 pyramidal cell patches; 0: CAI pyramidal cell patches.
+2247219	CAl, CA1 pyramidal cell layer; CA3, CA3 pyramidal cell layer; DG, dentate granule cell layer.
+3553446	LGN-type intrinsic pyramidal cell; E, claustrum-type in- __ / trinsic pyramidal cell.
+10934264	recorded simultaneously in a CA3c pyramidal cell and CA3b of the pyramidal cell layer.
+15927403	Pyramidal cell density We estimated pyramidal cell density using Nissl staining.
+7472372	the entire population is produced by pyramidal cell to pyramidal cell excitatory connectivity.
+2381514	bursts recorded simuftaneousfy from pyramidal cell somata and pyramidal cell dendrites.
+10588938	are as in control (normal pyramidal cell and hyperpolarized pyramidal cell).
+11135261	The \u201cdentate\u201d CA3 pyramidal cell is a novel type of pyramidal cell found in monkeys.
+18046003	EPSP1\r\nPyramidal cell model\r\nThe reconstructed layer 5 pyramidal cell shown in Fig.
+19230827	Pyramidal cell numbers in the cornu ammonis\r\nPyramidal cell numbers were estimated in the three groups
+15863225	DG, dentate gyrus; CA1, CA1 pyramidal cell subfield; CA3, CA3 pyramidal cell subfield.
+9518538	cells layer V parasubicular pyramidal cell and layer V entorhinal pyramidal cell..
+18829959	material), five pyramidal cell dendrites, two unidentified dendrites, and one pyramidal cell soma.
+10406001	A pyramidal cell and a non-pyramidal cell are illustrated in Fig.
+1338788	granule cell patches; 0: CA3 pyramidal cell patches; K: CAI pyramidal cell patches.
+9300771	apical dendrite of pyramidal cell; asterisks, nonpyramidal cells; p, pyramidal cell body.
+10814727	mV; deep pyramidal cell, 87.069.2 mV) and threshold (non-pyramidal cell, 24.165.7
+17710532	in E indicated dark pyramidal cell and white arrow indicated normal pyramidal cell.
+16466709	granule cell layer; CA1, CA1 pyramidal cell layer; CA3, CA3 pyramidal cell layer.
+18769556	Globular cell\r\nLarge pyramidal cell Small pyramidal cell Bipolar cell\r\nFusiform cell\r\n+++ GABA/NPY /SOM', u'substance-P\r\nHorizontal pyramidal cell Small pyramidal cell\r\nMultipolar cell Large pyramidal cell\r\n++ ++ LEC Glu/SOM
+16061520	of the pyramidal cell to be maintained, either by decreasing inhibition of the pyramidal cell (FSN to', u'to pyramidal cell inhibitory synapses; Fig.
+10799713	oscillations, shaped by pyramidal cell AHPs and pyramidal cell-pyramidal cell excitatory synaptic potentials
+12700702	 (d) hippocampus CA1 pyramidal cell region, (e) hippocampus CA2 pyramidal cell region, (f) hippocampus', u'hippocampus CA3-4 pyramidal cell region.
+7889739	relative differences in pyramidal cell densities across the human cortex, the pyramidal cell size and the pyramidal
+2381514	During pyramidal cell bursts, mossy cells also burst; the bursts were synchronous with pyramidal cell discharge', u'but mossy cell bursts typically outlasted the pyramidal cell burst (Fig. 8).
+2466535	G, granule cell layer; P, pyramidal cell layer.
+3089540	Pyramidal cell dendrites contain few if any neurofilaments 25.
+3612227	Pyramidal cell RMP, -62 mV; Interneuron RMP, -65 mV.
+1347996	Numerous fine processes and pyramidal cell bodies exhibit Caz+ increases.
+1255510	Mode of control of hippocampal pyramidal cell discharges.
+1866751	Pyr, pyramidal cell layer, SO, stratum oriens; SR, stratum radiatum.
+2485879	Neither treatment resulted in any hippocampal pyramidal cell loss.
+2433411	B: bursting neurons in DMC have pyramidal cell morphology.
+2433411	Arrowheads indicate boundaries of the pyramidal cell layer.
+2819472	E: a pyramidal cell layer (PL) in hippocampus.
+3437972	GABA responses recorded from a CAI hippocampal pyramidal cell.
+6087975	Camera lucida drawing of a pyramidal cell in layer VI.
+6087975	5 shows a pyramidal cell in layer III.
+6083566	Apical shafts of pyramidal cell dendrites stain most prominently.
+3580879	Pyramidal cell stimulation had no retrograde effect on memory performance.
+2875661	modation of pyramidal cell discharge in the hippocampus.
+11489545	G, granular layer; M, pyramidal cell layer; R, stratum radiatum.
+11746770	A: Ezrin-immunoreactivity ately above the pyramidal cell layer.
+11489144	horns showed a normal pyramidal cell population, 4.6 kg.
+11809492	neurophysiological study on the hippocampus CA1 pyramidal cell.
+12367597	PC, pyramidal cell; GC, granule cells; CZ, capsazepine; Caps., capsaicin.
+12367597	PC, pyramidal cell; GC, granule cells; CZ, capsazepine.
+12351210	H, hilus; ML, molecular layer; PC, pyramidal cell layer.
+11927365	623\r\nmodulates pyramidal cell activity acting through GABA interneurons [36,51].
+11769308	Reconstruction of hippocampal CA1 pyramidal cell electrophysiology by computer simulation.
+10940949	A: CA3 pyramidal cell layer volume: (log vol.
+10421872	were collected from the pyramidal cell reconstructed in Figure 10A.
+10197777	EVect of intrahippocampal NMDA+Tat injection on pyramidal cell layer.
+9759916	M[\\ 0881[ Ontogenesis of the pyramidal cell of the mam!
+11154828	L, stratum lucidum; O, stratum oriens; P, pyramidal cell layer.
+11122346	or, stratum oriens; py, pyramidal cell layer; ra, stratum radiatum.
+10982466	Granular staining was noted in some pyramidal cell bodies (arrowhead).
+11230095	The pyramidal cell layer is marked as a bracket.
+11230095	The pyramidal cell layer is marked as a bracket.
+11274792	CA, cornu ammonis pyramidal cell fields 1-4.
+11358442	Asterisks denote the degenerated CA3 pyramidal cell layer.
+15788705	Hippocampal pyramidal cell disarray in schizophrenia as a bilateral phenomenon.
+15878946	Noradrenaline blocks accommodation of pyramidal cell discharge in the hippocampus.
+15749343	The CA3a pyramidal cell layer is indicated with dashed lines.
+16052494	PCL, pyramidal cell layer; GCL, granule cell layer.
+9707118	Noradrenaline blocks accommodation of pyramidal cell discharge in the hippocampus.
+9634555	ori, Stratum oriens; pyr, pyramidal cell layer; rad, stratum radiatum.
+9620703	(A, Bottom) Labeling of the pyramidal cell layer in hippocampus.
+9214539	The latter were designated as pyramidal cell dendrites.
+9300763	All the injection sites involved the pyramidal cell layer.
+9300764	Arrows point to several fibers crossing the pyramidal cell layer.
+9448928	memory impairment correlates with hippocampal pyramidal cell density.
+9613625	Hippocampal pyramidal cell disarray in schizophrenia as a bilateral phenomenon.
+9768843	Abbreviations: Py, pyramidal cell layer; Ra, stratum radiatum.
+9602500	A cortical pyramidal cell immunostained for MAP-2.
+9579781	Pyramidal cell labelling was prominent in layers III and V.
+9425172	Morphology of an interneuron in CA1 pyramidal cell layer.
+9952352	Descending branches had more appendages than the pyramidal cell (1b).
+9716132	g, h, Average sEPSC in a pyramidal cell and interneuron.
+10215928	Note the cell loss in the pyramidal cell layer.
+10340505	Hippocampal pyramidal cell disarray in schizophrenia as a bilateral phenomenon.
+11068136	Note the punctate staining in the pyramidal cell layer (arrowheads).
+10076927	GAD-positive terminals surround GABABR1-positive pyramidal cell bodies.
+10869841	Thus some pyramidal cell damage and/or death presumably occurred.
+11000488	We also observed immunostaining of CA1 pyramidal cell apical dendrites.
+11000488	Note that pyramidal cell bodies are also labeled.
+14515240	ep, external pyramidal cell layer of area 29.
+12917378	Dentate gyrus cells are magnified to show pyramidal cell morphology.
+14637091	decrease in phosphacan was coincident with pyramidal cell loss.
+12911617	3 Differential ApoD immunoreactivity in CA3 pyramidal cell layer.
+12923216	Pyramidal cell-to-inhibitory cell spike Neurosci 2, 11\u201323.
+14618265	Phase-contrast image of an acutely isolated pyramidal cell.
+14689478	E,F: Colocalization of MAP-2 2A pyramidal cell layer.
+12965233	immunoreactivity is similarly detected in the pyramidal cell layer.
+8518950	Arrow indicates pyramidal cell layer of the hippocampus.
+8422591	For example, in the pyramidal cell shown in Fig.
+8423479	Predicatability of number of spikes in simulated pyramidal cell\r\nAvg.
+7520136	The pyramidal cell layer is marked by white asterisks.
+8427205	treatment and recovery of hypothyroidism-induced pyramidal cell damage.
+8755482	Abbreviations: P, pyramidal cell layer; Sr, stratum radiatum.
+8434003	Infrequently, labeled cells within the pyramidal cell layer were observed.
+8848134	(a) CA3 pyramidal cell of a control culture.
+8848134	M. (1992) Hippocampal pyramidal cell loss in human status epilepticus.
+8934561	large arrowhead designates a double-labeled pyramidal cell.
+7983520	Morphological features of a layer VI pyramidal cell showing DAP.
+7983520	A: layer VI pyramidal cell with shorter apical dendrites.
+21041199	Pyramidal cell distribution in layer II based on birth-date.
+21170624	Pyramidal cell: The principal cells of the hippocampus and neocortex.
+7623286	Similar results followed application in the pyramidal cell layer.
+16154291	rectangles indicate photomicrographs of single pyramidal cell.
+7858159	iii) the cell origin (pyramidal cell, interneuron, etc.).
+16198498	(d) CA1 pyramidal cell layer of hippocampal area CA1.
+16199141	[u"Pyramidal cell loss in motor cortices in Huntington's disease."]
+9327505	Hippocampal pyramidal cell disarray in schizophrenia as a bilateral phenomenon.
+9570806	(arrow) run as a fascicle below the pyramidal cell layer.
+15578007	Hippocampal pyramidal cell disarray in schizophrenia as a bilateral phenomenon.
+12832200	b Thinning and focal loss of pyramidal cell layer.
+12694926	Extracellular recordings were made from the CA3 pyramidal cell layer.
+14572448	Morphological effects of birth asphyxia in CA1 pyramidal cell layer.
+15459894	8(D)] and barely in the pyramidal cell layer [Fig.
+14989405	Hippocampal pyramidal cell disarray in schizophrenia as a bilateral phenomenon.
+15014100	The pyramidal cell, however, exhibited low-pass filter characteristics.
+15334645	Noradrenaline blocks accommodation of pyramidal cell discharge in the hippocampus.
+12000117	Inserts: High magnification of Nissl-stained pyramidal cell layer.
+11306657	The pyramidal cell processes are shown in green.
+11310162	(Py pyramidal cell layer, sr stratum radiatum)\r\nfollowing injury.
+11033343	Hippocampal pyramidal cell disarray in schizophrenia as a bilateral phenomenon.
+11292447	[u"The pyramidal cell layer of Ammon's horn was still thick."]
+12482886	Interpretations of data and mechanisms for hippocampal pyramidal cell models.
+12692082	High magnification of the CA1 pyramidal cell layer (\xd7500).
+12585678	treatment and recovery of hypothyroidism-induced pyramidal cell damage.
+12424297	Reconstruction of hippocampal CA1 pyramidal cell electrophysiology by computer simulation.
+6693938	1984 excitatory responses of hippocampal pyramidal cell Results (HPC) dendrites.
+6860958	B: from a pyramidal cell in layer II (see Fig.
+9192310	E, pyramidal cell in layer V of presubiculum.
+9070747	suppression of pyramidal cell responses was observed MS\u2013VLDBB lesion.
+7719117	The architectonic composition of the pyramidal cell layer was irregular.
+8872307	(B) Relative inductions in CA3 pyramidal cell layer.
+8284032	\u201cp\u201d indicates the degenerating CA1 pyramidal cell layer.
+8274275	(C] An example of ITTX.Rin a putative pyramidal cell.
+8899642	Single arrowhead in A: large layer V pyramidal cell.
+9147330	The septal disinhibition could cause pyramidal cell firing (Fig. 5B).
+9242307	Noradrenaline blocks accommodation of pyramidal cell discharge in the hippocampus.
+9263198	Scattered cells outside the pyramidal cell layer were also labeled.
+18021755	3] in the\r\nCA1 pyramidal cell layer, by approximately 23%.
+18023481	(B) Iron (200 mM) decreased hippocampal pyramidal cell number.
+2337781	Rat Is16 also showed pronounced pyramidal cell loss (Fig. 1).
+2337821	Also an atypical slender pyramidal cell is present (PYR).
+1805353	Measurements of pyramidal-cell on-\r\nVOL 17, NO.
+843946	Pyramidal cell 5 min after the injection of [3H]leucine.
+1403101	A, Fluorescence micrograph of an LY-labeled pyramidal cell.
+10610043	memory impairment correlates with hippocampal pyramidal cell density.
+10436046	Filled arrowheads identify the hippocampal CA1 pyramidal cell layer.
+10436046	Filled arrowheads identif y the hippocampal CA1 pyramidal cell layer.
+20663977	pyr = pyramidal cell layer; PC = Purkinje cell layer.
+23103792	NET+ terminals innervate CaMK+ pyramidal cell dendrites in the BLa.
+2381514	Putative glial cells depolarize during the pyramidal cell burst.
+17182915	\u2020P 0.01, \u2020\u2020P 0.001 between pyramidal cell and interneuron.
+17222916	DSP4 treatment worsens hippocampal pyramidal cell damage after transient ischemia.
+17063154	(a) Neuronal (pyramidal) cell (*), and glial cell (arrow).
+17387606	Burst synchrony patterns in hippocampal pyramidal cell model netowkrks.
+17765709	The main cell layer is the pyramidal cell layer (pcl).
+20720508	[u"Pyramidal cell loss in motor cortices in Huntington's disease."]
+19428703	Wfs1 mRNA signals were observed in the pyramidal cell layer.
+19767413	A schematic pyramidal cell shows the orientation of the region.
+19553460	with an increase in spines on aCC pyramidal cell dendrites.
+19413576	Hippocampal CA1 pyramidal cell size is reduced in bipolar disorder.
+19437419	Cresyl violet counter stain shows pyramidal cell layer (SP).
+19582544	GCL Granule cell layer, PCL pyramidal cell layer.
+19339609	An unlabeled, presumed pyramidal cell soma (U-S) is nearby.
+19679445	When the injected current increases, the pyramidal cell starts spiking.
+2163033	Open arrows indicate CA3 or CA1 pyramidal cell layers.
+21956752	No pyramidal cell dendritic shaft target was observed outside str.
+21956752	lacunosum-moleculare and the CA3 pyramidal cell in str.
+7264721	Forty-three interneuron-pyramidal cell pairs were analyzed.
+7823136	SPWs reversed their polarity above the pyramidal cell layer.
+7592001	PL, pyramidal cell layer; SO, stratum oriens; SR, stratum radiatum.
+7473198	I- V unaffected in CA3 pyramidal cell patches (Fig. 2C).
+6527780	Some pyramidal cell bodies are labeled p. c, capillaries.
+17215502	simultaneous whole cell recording from an individual pyramidal cell.
+17717699	Light micrographs of the reconstructed CA3 pyramidal cell.
+17717699	3 NeuroLucida reconstruction of the CA3 pyramidal cell.
+11459806	so, Stratum oriens; pcl, pyramidal cell layer; sr, stratum radiatum.
+12271488	A: Basket cell terminal contacting a pyramidal cell soma (arrow).
+11943810	Figure 3 shows recordings from a layer V pyramidal cell.
+11918664	CA1\u20133, hippocampal pyramidal cell layers; DG, dentate gyrus.
+12210340	Camera lucida drawing of a layer V pyramidal cell.
+14566585	memory impairment correlates with hippocampal pyramidal cell density.
+14769362	(B) Perineuronal net surrounding a pyramidal cell in layer III.
+15105494	(C) Bistable membrane potentials of a pyramidal cell.
+8088253	For recording in the CA3 pyramidal cell layer.
+8643758	Hippocampal pyramidal cell disarray in schizophrenia as a bilateral phenomenon.
+8463835	Immunoperoxidase labeling of the perikaryon of a pyramidal cell.
+8309550	Labelling is notably increased in the pyramidal cell layer.
+15501587	Basket cell inhibition is directed at the pyramidal cell somata.
+17204357	(b) Glutamate-evoked bursts in another pyramidal cell.
+17341653	microelectrode touching the membrane of the candidate pyramidal cell.
+17395166	pcl, the pyramidal cell layer; sr, the stratum radiatum.
+19150436	(E) Image of RBM3 in CA3 (P30) pyramidal cell processes.
+19052542	The pyramidal cell layers are indicated by asterisks.
+19150647	lucidum and pyramidal cell layer of CA3 (Fig. 5E\u2013G).
+18650312	Reconstruction of hippocampal CA1 pyramidal cell electrophysiology by computer simulation.
+18634769	Noradrenaline blocks accommodation of pyramidal cell discharge in the hippocampus.
+18774265	o, oriens layer; p, pyramidal cell layer; r, radiatum layer.\u204e
+18762169	CA1, CA1 region of the hippocampus; py, pyramidal cell layer.
+18638458	pcl, pyramidal cell layer; sr, the stratum radiatum.
+18775683	The pyramidal cell layer of the hippocampal formation was attenuated.
+19126800	Specialization of the neocortical pyramidal cell during primate evolution.
+19186208	Abbreviations: cc., corpus callosum; pyr, pyramidal cell layer.
+19186208	Abbreviations: CA1, pyramidal cell layer; (H) hilus; mf, mossy fibers.
+18514536	The abbreviations are: PYR, pyramidal cell layer; LUC, stratum lucidum.
+18654856	(a) Cell-attached recording of CA1 pyramidal cell.
+19675292	BAPTA significantly affects pyramidal cell responses to sensory input.
+20146300	(B) Pyramidal cell in the hippocampus of a normal rat.
+20101601	Experiencedependent, rapid structural changes in hippocampal pyramidal cell spines.
+19604849	D: photomicrograph of a hippocampal pyramidal cell showing dendritic spines.
+20668201	Quantification of the dendrite/soma and PC/pyramidal cell ratios.
+20043887	Specializations in pyramidal cell structure during primate evolution.
+19727065	A recording electrode within the pyramidal cell records these responses.
+20422157	Pyramidal cell layer of the hippocampus Py Fig.
+21549811	However, CA1 pyramidal cell layer was well preserved.
+21704710	A less dense part of CA3 pyramidal cell layer.
+22488940	A: 3D reconstruction of a CA1 pyramidal cell expressing mGFP.
+21645998	Hippocampal pyramidal cell disarray in schizophrenia as a bilateral phenomenon.
+21865324	A pyramidal cell (Pyr) next to an interneuron (IN).
+19011929	2 for two RS cells (one pyramidal cell in Fig.
+11107191	Recordings were obtained from a layer II/III pyramidal cell.
+17970655	Dependence of onset responsiveness (OR) of a pyramidal cell.
+19496168	g,l,q: The pyramidal cell shows moderate ( ) NK1r immunoreactivity.
+12466450	A: current-clamp recording from a layer V pyramidal cell.
+12466450	A: current-clamp recording from a layer V pyramidal cell.
+16455686	Noradrenaline blocks accommodation of pyramidal cell discharge in the hippocampus.
+16473933	The asterisks indicate the location of the pyramidal cell bodies.
+19693029	d | Dendritic spines on a layer 5B pyramidal cell dendrite.
+20930280	GCL, granule cell layer; PCL, pyramidal cell layer.
+20844974	The pyramidal cell integrates all of these local dendrite inputs.
+20940437	inhibition strongly suppresses spikes from the pyramidal cell population.
+19787049	Feedforward interneurons were recorded in the pyramidal cell layer.
+19799879	Within the hippocampal formation, the pyramidal cell layer\r\nFig.
+11054485	[u"in the pyramidal cell layer of Ammon's horn and prosubiculum."]
+10940949	A: CA1 pyramidal cell layer volume: (log vol.
+10673335	(Antisense probe hybridization; arrowheads, pyramidal cell; bar, 15 \u03bcm).
+10814727	6. In contrast, the deep pyramidal cell in Fig.
+10745223	The Meynert cell, an unusual cortical pyramidal cell.
+12235359	Note axonal arborization in the pyramidal cell layer.
+12270685	Ultrastructural changes in pyramidal cell body of CA1 sector.
+1675862	Noradrenaline blocks accommodation of pyramidal cell discharge in the hippocampus.
+1945041	As shown in (C), the pyramidal cell dendrites are stained.
+843945	Abbreviations: GL, granule cell layer; PL, pyramidal cell layer.
+12887408	Dots depict granule cell layer and CA3 pyramidal cell layer.
+14588901	memory impairment correlates with hippocampal pyramidal cell density.
+14960342	Addithe pyramidal cell layer than in the granule cell layer.
+18607758	CA1 CA1 pyramidal cell layer; F fissure\r\n(Fig.
+18649863	(3) Pyramidal cell layer of CA3 hippocampal field.
+20157291	CA1 seen by DAPI ) labeling (blue) of pyramidal cell layer.
+20384764	Dashed lines indicate the CA1 pyramidal cell layer.
+20392604	heterogeneity in synaptic depression between pyramidal cell pairs.
+20575057	Prominent staining is visible in the pyramidal cell layer.
+9202291	D, E, and F: Cells in the pyramidal cell layer.
+9294416	careful examination, particularly of the deeper pyramidal cell layers.
+9222537	Cell loss and debris in the CA1 pyramidal cell layer.
+8350988	elevated in the pyramidal cell layer (Fig. 4B,C).
+8545049	(C,D) P, pyramidal cell layer; DG, dentate gyrus.
+8971774	The pyramidal cell dendrites were strongly labelled (Fig. 5G).
+9147330	It might instead correspond to a pyramidal cell disinhibition.
+9121734	Pyramidal cell in the CA1 layer of the hippocampal formation.
+9061862	(B) CA1 pyramidal cell-restricted Cre\u2013loxP recombination.
+9313896	Scheibel, Hippocampal pyramidal cell orientation in schizophrenia, Arch.
+9252221	Estimation of pyramidal cell density via a disector.
+9295396	Labeling in the pyramidal cell layer was very weak.
+9295396	The pyramidal cell layer (Py) is devoid of immunoreactivity.
+9298843	Figure depicts typical appearance of pyramidal cell layer.
+9007187	Peters, A. (1993) Pyramidal cell modules in rat visual cortex.
+12911617	2 Differential ApoD immunoreactivity in CA1 pyramidal cell layer.
+12832200	b Thinning and focal loss of pyramidal cell layer.
+12692082	2C and 3C) in the CA1 pyramidal cell layer.
+12692082	High magnification of the CA3 pyramidal cell layer (\xd7500).
+12690484	The response of a model pyramidal cell to synaptic input.
+15908513	Cell-attached recording of CA1 pyramidal cell activity.
+6097652	A: i7-compartment model of a CA 1 pyramidal cell.
+6086854	depolarizations were present in virtually every pyramidal cell.
+6087975	Camera lucida drawing of a pyramidal cell in layer II.
+6726322	Noradrenaline blocks accomodation of pyramidal cell discharge in the hippocampus.
+1376449	pyramidal cell layer and are considered displaced pyramidal cells.
+2477735	In the pyramidal cell layer of the hippocampal\r\nFig.
+2268382	pyramidal cell layer and the stratum lucidum (Fig. x45.
+3554791	Arrows point to ,1 presumptive pyramidal cell layer.
+6145507	The CA1 pyramidal cell whose responses are shown in Fig.
+9600545	Hippocampal pyramidal cell loss in human status epilepticus.
+9870941	as providing perisomatic input to the pyramidal cell body layer.
+9593933	pyramidal cell layer ipsilateral to the lesion side Fig.
+10023037	Layer II is a packed pyramidal cell layer.
+10065988	pyramidal cell loaded with 75 m m Calcium Green-1.
+9555042	Pyramidal cell bodies were weakly to moderately immunoreactive Fig.
+10465428	Ultrastructure of a CA1 pyramidal cell from a normal rat.
+10369676	(A) High power view of a layer V pyramidal cell.
+10535329	Shown is a giant pyramidal cell (10-day-old dog).
+10340497	In contrast, the CA1 pyramidal cell layer is well preserved.
+10430469	Such lesions also prevented the field CA1 pyramidal cell\r\nFig.
+10588938	Upper trace shows a single pyramidal cell response.
+10342674	Hippocampal pyramidal cell disarray in schizophrenia as a bilateral phenomenon.
+10223310	The open triangles represent pyramidal cell expressing CB.
+10407097	o, stratum oriens; p, pyramidal cell layer; r, stratum radiatum.
+10759304	Hippocampal pyramidal cell loss in human status epilepticus.
+10760496	Gr, granule cell layer; Py, pyramidal cell layer.
+10758128	Reconstruction hippocampal CA1 pyramidal cell electrophysiology by computer simulation.
+8604043	Note the strong staining of pyramidal cell dendrites.
+7903697	Noradrenaline blocks accommodation of pyramidal cell discharge in the hippocampus.
+7983520	Morphological features of a layer VI pyramidal cell lacking DAP.
+8275305	LMol = stratum lacunosum-moleculare, Py = pyramidal cell layer.
+8369956	GL, granule cell layer; H, hilus; PL, pyramidal cell layer.
+8422591	For example, the pyramidal cell depicted in Fig.
+8656280	A, Biocytin-filled pyramidal cell in LII of piriform cortex.
+15469886	DG, dentate gyrus; pcl, pyramidal cell layer; sr, stratum radiatum.
+15525801	Electrogenesis in the layer 5 tufted IB pyramidal cell model.
+15649449	Arrow points to darkly stained arrays in pyramidal cell layer.
+15380836	CA1 pyramidal cell number estimates by unbiased stereology.
+15246865	F 3.4* Pyramidal cell layer 60.1 F 2.8 132.4
+21128083	2 Digital rendering of reconstructed CA3 pyramidal cell axons.
+19036872	Reconstruction of hippocampal CA1 pyramidal cell electrophysiology by computer simulation.
+19056393	P = pyramidal cell layer; r = stratum radiatum; hf = hippocampal fissure.
+18973591	Or, stratum oriens; Py, pyramidal cell layer; Ra, stratum radiatum.
+18762233	Arrows indicate the borders of the pyramidal cell layer studied.
+18977452	Note the clear subicular pyramidal cell loss in Group DS.
+21463649	Noradrenaline blocks accommodation of pyramidal cell discharge in the hippocampus.
+21771115	(C) Similar analysis of diffusion in pyramidal cell dendrites.
+12153527	(C) Another intrinsically bursting pyramidal cell (IB-Pyr).
+17490993	heterogeneity in synaptic depression between pyramidal cell pairs.
+17804617	B2, Same as B1 but in a CA1 pyramidal cell.
+17947306	Figure 4A shows pyramidal cell responses and summarizes membrane depolarizations.
+11459806	so, Stratum oriens; pcl, pyramidal cell layer; sr, stratum radiatum.
+14597225	pcl, the pyramidal cell layer; sr, the stratum radiatum.
+12697714	lc, Locus coeruleus; pcl, pyramidal cell layer; sl, stratum lucidum.
+14694190	so, stratum oriens; pcl, pyramidal cell layer; sr, stratum radiatum.
+14618265	Cochlear nucleus; pyramidal cell; Ih; spontaneous activity; HCN subunits.
+15488413	(I) Low power electron micrograph from a pyramidal cell.
+15464149	Hippocampal pyramidal cell recordings from in vitro slices.
+15509756	Note the weaker (subthreshold) activity in the pyramidal cell.
+15246116	Cellular constituents of the pyramidal cell layer anomaly.
+15166101	Pyramidal cell bodies and dendrites were most strongly immunolabeled.
+15811556	Upper, field potential recording in the pyramidal cell layer.
+15234332	The same inclusions are present in CA3 pyramidal cell neurons.
+15802797	Py, pyramidal cell layer; SO, stratum oriens; SR, stratum radiatum.
+11801633	cc, Corpus callosum; CA, pyramidal cell layer of the hippocampus.
+12220572	There was the rare occurrence of double-labeled pyramidal cell.
+11589695	py, pyramidal cell of cerebral cortex; v, brain microvessel.
+11588174	Scale bar, 50 m; arrowheads indicate pyramidal cell bodies.
+11588174	Scale bar, 50 m; arrowheads indicate pyramidal cell bodies.
+12701812	O = stratum oriens; P = pyramidal cell layer; R = stratum radiatum.
+11891290	Note that pyramidal cell bodies in B are not labeled.
+12528179	DG, dentate gyrus; pcl, pyramidal cell layer; sr, stratum radiatum.
+12535953	Note clustering of pyramidal cell action potentials during ripples.
+12535953	(A) Wire tetrode recording from the CA1 pyramidal cell layer.
+12401320	DSP4 treatment worsens hippocampal pyramidal cell damage after transient ischemia.
+12067745	Pyramidal cell disorientation was the most pronounced in catatonic patients.
+11922662	P, pyramidal cell layer; G, granule cell layer.
+12193247	Hippocampal pyramidal cell loss in human status epilepticus.
+9456180	Arrows point to contours of pyramidal cell bodies.
+9310439	CA1 pyramidal cell intrinsic properties or synaptic responses\r\nTABLE 2.
+11377828	PL: pyramidal cell layer; GL: granule cell layer.
+11164811	2A shows a Layer IV non-pyramidal cell.
+11164811	2C shows a pyramidal cell from deep layer 6.
+10863143	Hippocampal pyramidal cell loss in human status epilepticus.
+10701875	puts to CA1 bidirectionally influence pyramidal cell firing.
+10880993	A: Group J: Pyramidal cell in parasagittal view.
+10775797	Schematic architecture of hippocampal CA3 pyramidal cell network.
+11359523	(A) Pyramidal cell morphology used for the simulation.
+18056161	[u"Pyramidal cell loss in motor cortices in Huntington's disease."]
+18226168	Epilepsia C ILAE\r\nin the CA1 pyramidal cell layer.
+18226168	Some pyramidal cell loss was also present in area CA3.
+11488960	Apoptosis was not found in the CA1 pyramidal cell layer.
+11955709	Glut4 is characterized by a prominent pyramidal cell staining.
+11495934	7. Dopaminergic reduction of pyramidal cell R is TTX sensitive.
+11483307	Pattern and time course of CA1 pyramidal cell death.
+9472393	Asterisks indicate the location of pyramidal cell bodies.
+9613623	Hippocampal pyramidal cell disarray in schizophrenia as a bilateral phenomenon.
+9613626	Hippocampal pyramidal cell disarray in schizophrenia as a bilateral phenomenon.
+9327511	Hippocampal pyramidal cell disarray in schizophrenia as a bilateral phenomenon.
+9300410	Staining of pyramidal cell perikarya and dendrites is particularly prominent.
+9242257	intracellular recording was obtained from a CA3 pyramidal cell.
+9634555	The pyramidal cell layer revealed the strongest enhancement.
+9503336	postsynaptic pyramidal cell (P3, contact sites not illustrated).
+18842705	SPI axons projected mainly to the pyramidal cell body layer.
+18279309	[u"Inset B': high magnification of a cortical pyramidal cell."]
+19150647	memory impairment correlates with hippocampal pyramidal cell density.
+18816794	Abbreviations: pyr, pyramidal cell layer; s.r., stratum radiatum.
+18541362	pcl, pyramidal cell layer; so, stratum oriens; sr, stratum radiatum.
+19151696	PC, pyramidal cell; MC, Martinotti cell; AC, aspiny cell.
+17959801	The potentials were recorded from the CA3 pyramidal cell layer.
+18395611	(C) Iron (200 mM) decreased hippocampal pyramidal cell number.
+3686587	PYR, pyramidal cell layer, N, nucleus; VPM, ventral posterior median.
+4047501	A double-labeleddentate basket pyramidal cell is shown in C.
+7473243	9C were nearly CA3 pyramidal cell action potentials.
+16253424	pcl, the pyramidal cell layer; sr, the stratum radiatum.
+16154291	(A) The pyramidal cell layer of hippocampal CA1 subregion.
+23423362	[u"Pyramidal cell loss in motor cortices in Huntington's disease."]
+2377621	The entorhinal cortex and pyramidal cell regions\r\nFIG.
+2881986	Extracellular recordings were made from the CA3 pyramidal cell layer.
+6664494	I, 2, 3: axon collaterals of pyramidal cell b.
+7859077	D = pyramidal cell layer of hippocampal subfield CA3.
+3346731	Both have pyramidal cell bodies and apical dendrites.
+19574438	lightly stained round structures represent pyramidal cell somata.
+19767413	A schematic pyramidal cell shows the orientation of the region.
+19338018	Staining of pyramidal cell bodies in stratum pyramidale (st.
+19338018	Asterisks indicate the location of three pyramidal cell bodies.
+19906972	g, Granule cell layer; CA3, CA3 pyramidal cell layer.
+21254303	Noradrenaline blocks accommodation of pyramidal cell discharge in the hippocampus.
+17728262	Pyramidal cell dendrites and Kikkawa et al. 2003).
+17714097	in a feedback regulation of pyramidal cell excitability.
+21938438	Reconstruction of hippocampal CA1 pyramidal cell electrophysiology by computer simulation.
+20519538	Both, GAD65 and Spine; pd, pyramidal cell dendrite.
+21674491	Or, oriens layer; Py, pyramidal cell layer; Rad, radiatum layer.
+21769712	(B) Pyramidal cell from the human cerebral cortex.
+22612804	2A), (B) CA1 pyramidal cell (cell 5 in Fig.
+22612804	2A), (B) CA1 pyramidal cell (cell 5 in Fig.
+16647799	spines of a dendrite of a cortical pyramidal cell.
+16871536	Cell layer volume and pyramidal cell number\r\nFig.
+17169479	[u"Pyramidal cell loss in motor cortices in Huntington's disease."]
+17046856	large and lightly labelled structures represent pyramidal cell somata.
+17046292	(A) Hippocampal CA1 pyramidal cell layer recording electrodes.
+17311847	represent a magnified view of the pyramidal cell layer.
+16672646	LM, Stratum lacunosum-moleculare; Py, pyramidal cell; Ra, stratum radiatum.
+16967497	induce theta rhythm and reduce hippocampal pyramidal cell excitability.
+17099065	The asterisk indicates the position of the pyramidal cell soma.
+7670761	memory impairment correlates with hippocampal pyramidal cell density.
+8808800	The recording site was identified in the pyramidal cell layer.
+17503488	Such an increase could represent sprouting of pyramidal cell axons.
+17395166	pcl, the pyramidal cell layer; sr, the stratum radiatum.
+16161035	Pyramidal cell firing is influenced by gamma frequency oscillations.
+16310315	pcl, pyramidal cell layer; so, stratum oriens; sr, stratum radiatum.
+17554007	Py, Developing pyramidal cell layer; DG, dentate gyrus.
+17387706	[u"Pyramidal cell loss in motor cortices in Huntington's disease."]
+17391709	F\u2013I: Examples of the CA3 pyramidal cell layer.
+21765426	Arrowheads indicate the pyramidal cell layer in CA1.
+21889188	Kl\xfcver-Barrera stained specimen for pyramidal cell count (D).
+17651879	memory impairment correlates with hippocampal pyramidal cell density.
+22389048	Hippocampal pyramidal cell loss in human status epilepticus.
+21880656	Abbreviations: ml, molecular layer; pcl, pyramidal cell layer.
+17855601	Two distinct pyramidal cell behaviors during interictal events.
+17760863	PCL, pyramidal cell layer; SO, stratum oriens; SR, stratum radiatum.
+18813914	Pyramidal cell layer, ventral 4.9\xb10.5 14.0\xb11.1**
+19362129	Comparable data for pyramidal cell counts are not available.
+19647005	Nissl-stained coronal sections show the CA1 pyramidal cell layer.
+19386476	Hippocampal CA1 pyramidal cell size is reduced in bipolar disorder.
+19501919	Hippocampal pyramidal cell disarray in schizophrenia as a bilateral phenomenon.
+16406680	Records from a CA1 pyramidal cell of a P6 rat.
+16529954	single CA3 pyramidal cell in response to the intracellular stimulation.
+19651647	(a) An individual cortical hippocampal CA1 pyramidal cell.
+20930280	GCL, granule cell layer; PCL, pyramidal cell layer.
+19655387	Quantitative organization of pyramidal cell basal dendrites (Table 3).
+18474571	The pyramidal cell layers of the hippocampus are shown.
+15539397	It appears that each class of pyramidal cell observations).
+15854748	Mf, mossy fiber layer; Py, pyramidal cell layer.
+16125852	*P 0.05 (t-test, two tailed, vs. pyramidal cell).
+16542698	Reconstruction of hippocampal ca1 pyramidal cell electrophysiology by computer simulation.
+7891187	SO, Stratum oriens; Py, pyramidal cell layer; MO, molecular layer.
+8744400	The pyramidal cell layer lies between the arrowheads in (A).
+8422591	NE and DA effects on a piriform cortex pyramidal cell.
+7908955	B: an intracellularly labeled layer V pyramidal cell.
+8604048	Each simulated pyramidal cell consisted of three compartmcnts.
+8451611	Hippocampal pyramidal cell disarray in schizophrenia as a bilateral phenomenon.
+1657285	IntraceUular records from CA1 pyramidal cell in a septal slice.
+1690791	A, Perikarya of pyramidal cell in layer V.
+3537840	Pyramidal cell layer at the bottom of the figure.
+6087975	Camera lucida drawing of a pyramidal cell in layer Ill.
+6142651	Noradrenaline blocks accommodation of pyramidal cell discharge in the hippocampus.
+6143786	Inset, Detail of BAM22Pimmunoreactive pyramidal cell in SS (X 742).
+7441319	Dipole characteristics of pyramidal cell activity in cat postcruciate cortex.
+3554468	CAI-CA4: pyramidal cell regions; G:granule cell layer.
+3321150	Noradrenaline blocks accomodation of pyramidal cell discharge in the hippocampus.
+3790987	Reaction products in the pyramidal cell bodies became slightly sparse.
+6716285	The synaptically evoked potentials in the CAI pyramidal cell.
+6716285	Noradrenaline blocks accommodation of pyramidal cell discharge in the hippocampus.
+10686339	CA1 and CA3, anatomical divisions of pyramidal cell layer.
+10701442	d: Higher magnification of the pyramidal cell layer of CA3.
+11036203	However, in human, pyramidal cell bodies showed low labeling.
+10940949	B: Volume of the CA1 pyramidal cell layer.
+11164811	(A) Morphology of a of spiny non-pyramidal cell ([BH2406).
+10899957	Py, pyramidal cell body layer; Sr, stratum radiatum.
+10816441	CA3, a type of pyramidal cell of the hippocampus.
+11163372	memory impairment correlates with hippocampal pyramidal cell density.
+12657693	pcl, Pyramidal cell layer; so, stratum oriens; sr, stratum radiatum.
+12524689	6. Betz cell and layer Vb pyramidal cell volume distributions.
+12524689	B: Pyramidal cell volumes do not differ significantly among blocks.
+12629195	Triggered extracellular recordings from CA3 pyramidal cell body layer.
+12503080	[u"A: CA3 pyramidal cell C53063 from Amaral's set."]
+14980811	PI fluorescence was assayed in the CA1 pyramidal cell region.
+12692082	n=14) and in CA1 pyramidal cell layer (102.2\u201316.0%;
+12788213	Effect of cycloheximide on KA-induced CA3 pyramidal cell death.
+12788337	Hippocampal pyramidal cell disarray in schizophrenia as a bilateral phenomenon.
+15034920	PFC pyramidal cell up states, but can disorganize their pattern.
+12953790	The only exception is pyramidal cell layer volume.
+9015324	The reasons for the enhanced CA1-CA3 pyramidal cell\r\nFig.
+9192310	B, pyramidal cell from layer V of parasubiculum.
+8925298	Two pyramidal cell neuons are indicated by arrowheads.
+9098551	A: IRK1 was observed in pyramidal cell layer P..
+9330355	Prepotentials were evoked by depolarization of the pyramidal cell membrane.
+9373891	Hippocampal pyramidal cell disarray in schizophrenia as a bilateral phenomenon.
+9221768	There is very slight labeling of pyramidal cell bodies.
+8971762	M. (1992) Hippocampal pyramidal cell loss in human status epilepticus.
+8871190	B: results from a similar experiment in a pyramidal cell.
+9215716	(1) Only a single pyramidal cell was labeled.
+2259470	Fn immunostain of pyramidal cell perikarya in hippocampus.
+2527585	pl = plexiform layer; py = pyramidal cell layer; po = polymorph layer.
+9502793	Arrowheads point to the pyramidal cell body layer.
+10085344	D: deep layer pyramidal cell, classified as an RS cell.

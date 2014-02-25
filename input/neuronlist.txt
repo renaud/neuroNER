@@ -1,0 +1,46 @@
+bipolar cell
+bipolar pyramidal cell
+bitufted cell
+bursting accomodating cell
+bursting irregular cell
+bursting non-accomodating cell
+bursting stuttering cell
+cajal-retzius cell like cell
+calbindin expressing cell
+calretinin expressing cell
+chandelier cell
+cholecystokinin expressing cell
+classical accomodating cell
+classical irregular cell
+classical non-accomodating cell
+classical stuttering cell
+delayed non-accomodating cell
+delayed stuttering cell
+descending axon cell
+double bouquet cell
+early bifurcating thick tufted pyramidal cell
+hippocampal pyramidal cell
+horizontal axon cell
+horizontal pyramidal cell
+inverted pyramidal cell
+large axon cell
+large basket cell
+late bifurcating thick tufted pyramidal cell
+martinotti cell
+narrow pyramidal cell projecting to thalamus
+nest basket cell
+neurogliaform cell
+neurogliaform cell with dense axonal arbours
+neurogliaform cell with sparse axonal arbours
+neuropeptide y expressing cell
+parvalbumin expressing cell
+pyramidal cell
+small axon cell
+small basket cell
+small tufted pyramidal cell
+somatostatin expressing cell
+spiny stellate cell
+star pyramidal cell
+untufted (slender) pyramidal cell
+untufted pyramidal cell
+vasoactive intestinal peptide expressing cell

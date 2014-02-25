@@ -1,0 +1,77 @@
+9952352	Martinotti cell\r\n7.
+17704810	Neurogliaform\u2013 Martinotti cell\r\nNeurogliaform\u2013 Martinotti cell\r\nIII Kv2.1,
+18046003	D\u2013F: Martinotti-cell-to-pyramidal inhibitory postsynaptic potentials (IPSPs).
+17517679	(C1) a somatostatin (SOM)-positive BSNP Martinotti cell.
+8786446	This was a Martinotti cell in layer V.
+19151696	PC, pyramidal cell; MC, Martinotti cell; AC, aspiny cell.
+8786446	This was also a Martinotti cell in layer V.
+15146046	 biocytin reconstruction of a layer 5 LTS Martinotti cell.
+23227159	At 70 Hz, the Martinotti cell will become active after only two input APs.
+8786446	somatostatin-positive cell with ascending axonal arbors (Martinotti cell).
+9067841	An NPY-ir bitufted Martinotti cell was present as early as 28 postovulatory weeks.
+19924622	represents a deep cortical interneuron of the Martinotti cell type.
+21469958	Classically the term Martinotti cell was used for neurons with somas located in L5/6 that send axons
+21120877	These cells also differed from those in the Martinotti cell group in a number of electrophysiological properties
+18982123	pacemaker-like cells reveals typical ascending axon/Martinotti cell morphology localized in layer 5.
+21537878	structure-function correlation informed the role of Martinotti cell inhibition in the neocortical microcircuit
+18982123	subtype of intrinsically active neuron, a Martinotti cell (B2).
+9067841	At 28 postovulatory weeks, an NPY-ir Martinotti cell was stained with its soma in layer V and axonal
+20816739	regular-firing inhibitory neurons, possibly a Martinotti cell, projecting to multiple postsynaptic compartments
+8786446	B3, This was a Martinotti cell in layer V.\r\nA3 B3\r\nFS cell I LS cell\r\n- 50 mV\r\n-71 mVJ\r\n200 ms\r\nFigure
+15331670	The Martinotti cell was first reported by Carlo Martinotti in 1889 (Martinotti, 1889) and first named
+17704810	bouquet cell; LBC, large basket cell; MC, Martinotti cell; NBC, nested basket cell; NGC, neurogliaform
+18463187	cell of the hippocampus, and the neocortical Martinotti cell.
+17635629	The axon of a Martinotti cell typically ascends up to layer I, where a horizontal axonal cluster is often
+15378039	chandelier cell; d, delay subtype; DBC, MC, Martinotti cell; NAC, non-accommodating; NBC, nest basket STUT
+19770187	via an intermediate interneuron such as the Martinotti cell, was triggered and analysed with a 70 Hz train
+19770187	(possibly only) FDDI-mediating interneuron is the Martinotti cell (Silberberg & Markram, 2007), which is likely
+21120877	Given the facilitating dynamics of Martinotti cell excitatory inputs, the feedback inhibition mediated
+21609731	Chandelier cell D: Double bouquet cell M: Martinotti cell N: Neurogliaform cell\r\nFig.
+15378039	chandelier cell; d, delay subtype; DBC, MC, Martinotti cell; NAC, non-accommodating; NBC, nest basket STUT
+15378039	chandelier cell; d, delay subtype; DBC, MC, Martinotti cell; NAC, non-accommodating; NBC, nest basket STUT
+19770187	in specific nearby interneurons, e.g. the Martinotti cell.
+19770187	somatostatin-positive interneurons, i.e. the Martinotti cell and perhaps other interneurons that receive
+15378039	basket cell Small basket cell Bitufted cell Martinotti cell Chandelier cell Double bouquet cell Bipolar', u'basket cell Small basket cell Bitufted cell Martinotti cell Chandelier cell Double bouquet cell Bipolar', u'basket cell Small basket cell Bitufted cell Martinotti cell Chandelier cell Double bouquet cell Bipolar
+16000630	Although the specificity of Martinotti cell projections in the primary visual cortex is as yet unknown
+20813246	bouquet, bipolar, bitufted, neurogliaform, Martinotti cell), and axon initial segments (chandelier).
+21120877	Martinotti cell-mediated inhibition might be more graded and could be more selective by inhibiting\r\nmore
+21435551	cells inhibit each other via intermediate Martinotti cell activation.
+21435551	If a single Martinotti cell is activated by high-frequency input from a pyramidal cell in subnetwork
+10366625	including Cajal-Retzius cells, corticopetal and Martinotti cell axons, and elaborate apical tufts in this region
+22960789	chandelier cell), vertical (double bouquet cell, Martinotti cell, bipolar cell, and bitufted cell), or horizontal
+23227159	complete disynaptic connection from P1 via the Martinotti cell M to P2 results in a single AP followed by
+23227159	(panel C below the network), which causes the Martinotti cell M to generate a single post-synaptic AP after
+23227159	pyramidal-Martinotti synapse, shown is the activity of the Martinotti cell when the pyramidal cell is stimulated at 20
+19770187	which might be exclusively composed of the PC\u2013Martinotti cell synapse, has a strongly facilitating response
+23227159	Shown is the response of the post-synaptic Martinotti cell where, at the lowest frequency of 20 Hz (figure
+23227159	By stimulating the Martinotti cell M with a single burst of APs at 70 Hz (shown in panel B below the
+21120877	activity in a single pyramidal cell can drive a Martinotti cell to fire and provide feedback inhibition to
+21435551	However, the inhibitory effect of a single Martinotti cell is modest (Kapfer et al., 2007; Silberberg
+15378039	Bipolar bouquet cell cell\r\nBitufted cell\r\nMartinotti cell\r\nExcitatory cells Soma- and proximal dendrite-targeting', u'Double Bipolar bouquet cell cell Bitufted cell Martinotti cell\r\nFigure 1 | Anatomical diversity of neocortical
+15378039	DBC\r\nBipolar cell BPC\r\nBTC Bitufted cell\r\nMartinotti cell MC\r\nChandelier cell ChC Large basket cell LBC', u'cell DBC Bipolar cell BPC BTC Bitufted cell Martinotti cell MC\r\nCB\r\nPV\r\nCR\r\nNPY\r\nVIP\r\nSOM\r\nCCK\r\nb-AC\r\nc-AC\r
+19151696	leftwards shift of C(S), whereas blocking the Martinotti cell output increases bfb and leads to a gain increase
+18046003	composed of layer 5 pyramidal-to-pyramidal and Martinotti cell-topyramidal connections measured in current-clamp
+15378039	cell DBC Bipolar cell BPC BTC Bitufted cell Martinotti cell MC CB PV CR NPY VIP SOM CCK b-AC c-AC b-NAC
+10472415	CB-labeled double-bouquet neuron; M, CB-labeled Martinotti cell; N, CB-labeled neurogliaform neuron; PL, CR-positive
+21469958	(CR)+ cells and SST/CRcells exhibit similar Martinotti cell anatomical features and have similar adapting
+19467204	layer 1 cell), vertical (double bouquet cell, Martinotti cell, bipolar cell and cell forming axonal arcades)
+17717695	bouquet cell; spiny stellate neurons in layer 4; Martinotti cell in layer 6; basket cell in layer 5 establishing
+17717695	bouquet cell; spiny stellate neurons in layer 4; Martinotti cell in layer 6; basket cell in layer 5 establishing
+9067841	The definition of a Martinotti cell was restricted to nonpyramidal neurons by Ramon y Cajal (1911) and
+18650346	2007; Silberberg and Markram, 2007), because Martinotti cell was shown to be recruited only after it receives
+20594984	layer V (Fig. 6:V); a further variety, the Martinotti cell, was also identified and it is unique to layer
+8786446	calretinin; pan/albumin; double bouquet cell; Martinotti cell: small basket cell; arcade cell; fast-spiking
+12815246	CB-labeled double-bouquet neuron; M, CB-labeled Martinotti cell; N, CB-labeled neurogliaform neuron; PL, CR-positive
+18650346	However, Martinotti cell-mediated recurrent inhibition, which was recently found in the somatosensory
+21120877	SST/CR+ cells and SST/CR cells exhibited similar Martinotti cell anatomical features and had similar adapting
+20843900	GABAA Receptors Containing a5 Subunits and SST-Martinotti Cell Inputs Our findings of a 15% reduction in a5
+15378039	Chandelier Nest Small Large Bipolar Bitufted Martinotti cell basket basket basket cell cell cell cell cell', u'Chandelier Nest Small Large Bipolar Bitufted Martinotti cell basket basket basket cell cell cell cell cell
+18650346	basal/proximal dendrites as discussed before (Fig. 1G), Martinotti cell-mediated recurrent inhibition might specifically
+16301176	csFS) MGE BSNP, somatostatin-positive, cAD Martinotti cell MGE DS, somatostatin-positive Delayed NA-NFS
+18650346	pyramidal-to-interneuron synapses, so that the Martinotti cell becomes active only after it receives high-frequency
+15378039	Chandelier Nest Small Large Bipolar Bitufted Martinotti cell basket basket basket cell cell cell cell cell
+8786446	Morphological asc main axon, asc>dsc* types (n = 39) Martinotti cell\r\nVIP-immunoreactive nonpyramidal cells in rat
+21485015	bursting (IB) Rebound, rIB SOM+ Bitufted, Martinotti cell Burst of 2 or more APs on rebound from hyperpolarizing
+20594984	hypothalamic area LM large multipolar cell Ma Martinotti cell MGB medial geniculate body MM medium-sized
+22169536	cell 13 Bitufted cell 35 Chandelier cell 11 Martinotti cell 68 Neurogliaform cell 2 Not reported 4 Pyramidal
+9952352	medial division of the medial geniculate body Martinotti cell medial geniculate body, medial division medial

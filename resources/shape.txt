@@ -1,0 +1,10 @@
+star
+spiny
+pyramidal
+tufted
+untufted
+bitufted
+basket
+stellate
+nest
+bouquet

@@ -10,5 +10,45 @@
             <description>Type defined in neuroner.Main</description>
             <supertypeName>uima.tcas.Annotation</supertypeName>
         </typeDescription>
+        <typeDescription>
+            <name>neuroner.Main.Cell</name>
+            <description>Type defined in neuroner.Main</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>neuroner.Main.NeuronProperty</name>
+            <description>Type defined in neuroner.Main</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>neuroner.Main.Expressing</name>
+            <description>Type defined in neuroner.Main</description>
+            <supertypeName>neuroner.Main.NeuronProperty</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>neuroner.Main.Orientation</name>
+            <description>Type defined in neuroner.Main</description>
+            <supertypeName>neuroner.Main.NeuronProperty</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>neuroner.Main.ShapeQualifier</name>
+            <description>Type defined in neuroner.Main</description>
+            <supertypeName>neuroner.Main.NeuronProperty</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>neuroner.Main.Shape</name>
+            <description>Type defined in neuroner.Main</description>
+            <supertypeName>neuroner.Main.NeuronProperty</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>neuroner.Main.Size</name>
+            <description>Type defined in neuroner.Main</description>
+            <supertypeName>neuroner.Main.NeuronProperty</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>neuroner.Main.Synapse</name>
+            <description>Type defined in neuroner.Main</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+        </typeDescription>
     </types>
 </typeSystemDescription>

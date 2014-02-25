@@ -1,0 +1,6 @@
+23227159	B Two pyramidal and one Martinotti neuron with STF, the Martinotti neuron is stimulated at 70 Hz with
+7526964	Interestingly, a class of Martinotti neuron has been found to contain NPY in non-visual cortices in monkeys
+23227159	two pyramidal neurons and one inhibitory Martinotti neuron.
+16261181	Cajal\u2013Retzius cell; DB, double bouquet cell; M, Martinotti neuron; N, neurogliaform neuron; PV+, parvalbumin
+9199370	(E) A stellate cell in layer II. (F) A Martinotti neuron in layer II, with its axon descending to deeper
+23227159	neurons P1 and P2 with a single inhibitory Martinotti neuron M . In this situation all synapses are short

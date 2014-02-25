@@ -1,0 +1,52 @@
+7643204	The Tl (basket) neuron (Fig.
+7472426	A, Biocytin-labeled basket neuron (M69).
+7472426	C, Parvalbumin-positive target of a filled basket neuron (UR32).
+21938438	The model of a basket neuron has INa, IK, and IL Eq. (4).
+15385591	The pyramidal cell is shown in red and the basket neuron in black.
+8490320	Yasfooka 11991) B, Gotgi impregnation of a basket neuron of macaque prefromal cortex.
+8235456	associative axons, both the pyramidal neuron and the basket neuron receive additional excitatory inputs.
+15046877	(a) In vivo labeled and fully reconstructed basket neuron (dendrites and axon) contacting other basket
+19703431	staining was confined to the \u201cpinceaux\u201d made by basket neuron axons at the axon hillock of Purkinje cells
+14648688	panel: Cross-section of a Golgi-impregnated T1 (basket) neuron showing the distribution of its processes around
+10910102	intracellularly filed clutch neurons, a type of small basket neuron in the visual cortex of the cat.
+9219929	single action potentials in the presynaptic basket neuron (red) and concomitantly monitoring the evoked
+20004706	oscillatory activity is the parvalbumin-containing basket neuron.
+8740589	juxtacellular delivery procedure this labeled basket neuron was spontaneously and regularly discharging
+9786408	neuron, (2) layer 1 neuron, (3) medium arbor basket neuron, striate cortices.
+8235456	of schizophrenia patients, there is only one basket neuron, sending a single inhibitory input to the pyramidal
+9136798	Kawaguchi and Kubota describe a multipolar VIP+ basket neuron forming multiple contacts with the somata and
+23139735	expressed in the presynaptic neuron (stellate/basket neuron).
+9786408	These matches in scale between basket neuron axon fields and pyramidal dendritic arbors suggest a functional', u'earlier (Lund et al., 1993, 1995), i.e., that the basket neuron axon may create an inhibitory field around active
+9786408	scale of basket neuron axon spread to pyramidal dendritic spread as the dunnart; rat basket neuron axon spread
+8490320	Here the basket neuron cotocalized with the pyramidal neuron provides an elongate rttbitory area field', u'in a band orthogonal to the long axis of the basket neuron inhibitory axon field.
+21795539	intracellularly filled clutch neurons, a type of small basket neuron in the visual cortex of the cat.
+7643194	intracellularly filled clutch neurons, a type of small basket neuron in the visual cortex of the cat.
+9786408	drawn relative to the scale of a (4) wide arbor basket neuron, (5) spider web neuron, (6) doubletypical superficial
+7472426	recording of intracellular activity 20 mV of the basket neuron and extracellular i 0.3 mV activity in the CA1
+14687546	Arrowheads point to the basket neuron (type II multidendritic neuron).\r\nthe dorsal cortex were formed
+21938438	The basket neuron is described as a single compartment\r\nmodel, V = IL  INa  IK  Isyn ) I (A6)\r\nThe parameters
+9786408	factor could be the absolute arbor size of the basket neuron, measuring three times that of the single pyramidal
+10568513	TH basket, FR 1 TH basket and FG 1 FR 1 TH basket neuron profiles were counted in each field (500 \xa3 750
+15385591	basket-like FS interneurons described here, basket neuron subtypes with physiological properties different
+9088561	solid arrow indicates an inverted pyramidal basket neuron; open arrows indicate two basket cells at the
+7472400	morphology (B) and a less common pyramidal basket neuron morphology (C).
+9852590	intracellularly filled clutch neurons, a type of small basket neuron in the visual cortex of the cat.
+17989290	intracellularly filled clutch neurons: a type of small basket neuron in the visual cortex of the cat.
+10706219	been elucidated is the GABAergic, inhibitory basket neuron occurring in layer II (Buhl and Jones, 1993)
+8490320	[u"B\r\nFigure 1 2 . A, Gokji impregnation of a basket neuron of layer 4B of macaque area VI The cell's dendrmc"]
+19741135	intracellularly filled clutch neurons, a type of small basket neuron in the visual cortex of the cat.
+21505116	GABA; P, pyramidal; PVB, parvalbumin-containing basket neuron; PVCH, parvalbumin-containing chandelier neuron;
+23139735	climbing fiber excitatory input, and stellate/basket neuron inhibitory input.
+19703431	distinctly decorates the \u201cpinceaux\u201d made by basket neuron axons at the axon hillock of Purkinje cells
+8490320	spatially mkxataed with an mhibnory "basket" neuron The basket neuron axon spreads over a region l i n t
+9786408	In the quokka, the basket neuron axon spread is approximately three times the dendritic arbor size of
+16154964	directly responsible for MAPK activation in basket neuron terminals (for instance, it has been shown that
+9786408	In the tree shrew, we have found basket neuron axons to reach up to 370-\u03bcm laterally from their somata
+10472415	pyramidal-like neuron; WA, PV-labeled wide arbor (basket) neuron.
+12815246	pyramidal-like neuron; WA, PV-labeled wide-arbor (basket) neuron.
+16112480	more advanced than that of the stellate and basket neuron lines, and therefore the former lines are less
+9136798	double-bouquet cells, multipolar cells, a type of small basket neuron, and a distinct population of cells in layer
+17916407	developmental stages when the stellate and basket neuron lines are less differentiated and, so, more
+21068827	alterations in dorsolateral interneuron; purple, basket neuron; red, thalamic neuron; yellow, prefrontal cortex
+18434192	double-bouquet cells, multipolar cells, a type of small basket neuron, and a distinct population of cells in layer
+10101126	interneurons are at least relatively spared, (3) basket neuron fibers, identified by phosphorylated neurofilament

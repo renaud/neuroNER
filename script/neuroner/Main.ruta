@@ -1,4 +1,31 @@
 PACKAGE neuroner;
 
-DECLARE Neuron;
 
+
+
+DECLARE Neuron, Cell;
+"neurons?" -> Neuron;
+"cells?" -> Cell;
+
+DECLARE NeuronProperty;
+DECLARE NeuronProperty Expressing;
+DECLARE NeuronProperty Orientation;
+DECLARE NeuronProperty ShapeQualifier;
+DECLARE NeuronProperty Shape;
+DECLARE NeuronProperty Size;
+
+WORDLIST expressing = 'expressing.txt';
+Document{-> MARKFAST(Expressing, expressing)};
+Expressing{-> SHIFT(Expressing, 1, 2)} ("-"? "expressing") (Cell | Neuron);
+
+WORDLIST orientation = 'orientation.txt';
+Document{-> MARKFAST(Orientation, orientation)};
+WORDLIST shape_qualifyier = 'shape_qualifyier.txt';
+Document{-> MARKFAST(ShapeQualifier, shape_qualifyier)};
+WORDLIST shape = 'shape.txt';
+Document{-> MARKFAST(Shape, shape)};
+WORDLIST size = 'size.txt';
+Document{-> MARKFAST(Size, size)};
+
+DECLARE Synapse;
+"synapses?" -> Synapse;

@@ -1,0 +1,1000 @@
+17710783	pyramidal neuron.
+10805668	pyramidal neuron.
+17710783	pyramidal neuron.
+17668857	C: Pyramidal neuron.
+11793343	of pyramidal neuron.
+12904479	C, Pyramidal neuron.
+14572447	CA1 pyramidal neuron.
+10379825	A: A pyramidal neuron.
+18708033	PN, pyramidal neuron.
+17668857	C: Pyramidal neuron.
+8871236	Stippled cell: pyramidal neuron.
+18927146	P = pyramidal neuron.
+18927146	P = pyramidal neuron.
+12431705	Pyramidal neuron death.
+9185537	Pyramidal neuron recording.
+6120743	B: pyramidal neuron.
+12746859	Note pyramidal neuron.
+18927146	N = non-pyramidal neuron.
+18927146	N = non-pyramidal neuron.
+6616174	CA3 pyramidal neuron.
+6329445	Morphologically identified pyramidal neuron.
+7904303	A-D, Pyramidal neuron.
+12904479	A, Pyramidal neuron.
+15466698	*, A pyramidal neuron.
+19915092	Pyramidal neuron (mm) 148.4
+6616174	CA3 pyramidal neuron.
+16379585	Hippocampal pyramidal neuron death.
+19897544	Pnb = large pyramidal neuron; Pnm = medium pyramidal neuron; Pns = small pyramidal neuron; nPb = large', u'large non-pyramidal neuron; nPm = medium non-pyramidal neuron; nPs = small non-pyramidal neuron.
+19897544	nb = large pyramidal neuron; Pnm = medium pyramidal neuron; Pns = small pyramidal neuron; nPb = large', u'large non-pyramidal neuron; nPm = medium non-pyramidal neuron; nPs = small non-pyramidal neuron.
+2573073	(a) Golgi-impregnated pyramidal neuron.
+16673115	a Area showing pyramidal neuron.
+20357067	The pyramidal neuron in Fig.
+21593326	A, Sample CA1 pyramidal neuron.
+3537840	(a) Pyramidal neuron in CA3.
+6120743	1B shows a pyramidal neuron.
+2257484	Hippocampal CA1 pyramidal neuron quantification.
+21893112	Sex\r\nPyramidal neuron density/0.001
+9483574	Asterisks identify pyramidal neuron nuclei.
+14515238	Morphology of the pyramidal neuron.
+11275518	Pyramidal neuron death\r\n*Corresponding author.
+15896402	(D) Single infected pyramidal neuron.
+16673115	a Area showing pyramidal neuron.
+19011929	a Regular-spiking pyramidal neuron.
+18403127	Layer II/III pyramidal neuron.
+10818152	Labeled layer 2 pyramidal neuron.
+15054049	(E) Peripherally located pyramidal neuron.
+15303628	Ethanol inhibits pyramidal neuron cultures.
+12923216	in neocortical pyramidal neuron dendrites.
+9952352	Other types of pyramidal neuron.
+10085365	A: control CA1 pyramidal neuron.
+17925296	(C) Layer III pyramidal neuron.
+11279362	Ultrastructure of a trk-positive pyramidal neuron.
+16100710	Morphology of the neocortical pyramidal neuron.
+16033935	C: from the CA1 hippocampal pyramidal neuron.
+14574684	Morphology of the neocortical pyramidal neuron.
+16306396	WAY, WAY-100635; Pyr, pyramidal neuron.
+17920812	Morphology of the neocortical pyramidal neuron.
+15140470	Morphology of the neocortical pyramidal neuron.
+18273697	Pyramidal neuron as two-layer neural network.
+21978829	Pyramidal neuron as two-layer neural network.
+20812293	Single synapse on a hippocampal pyramidal neuron.
+17134781	Morphology of the neocortical pyramidal neuron.
+16319201	A: inverted pyramidal neuron (cell Z0203a; Fig.
+19795502	SR, stratum radiatum; PNL, pyramidal neuron layer.
+23365188	Parameterized PRC in a pyramidal neuron.
+17924570	Morphology of the neocortical pyramidal neuron.
+14563380	Morphology of the neocortical pyramidal neuron.
+18500762	Mossy fiber-CA3 pyramidal neuron response.
+18638530	\xb1 14.83 m for pyramidal neuron and\r\n680.80
+15912501	Morphology of the neocortical pyramidal neuron.
+18626069	Histamine increases burst activity in pyramidal neuron.
+19670310	(A) Pyramidal neuron of control group.
+19670310	(B) Pyramidal neuron of morphine group.
+20668279	Pyramidal neuron as two-layer neural network.
+21305364	Morphology of the neocortical pyramidal neuron.
+22315181	Pyramidal neuron as twolayer neural network.
+15561436	1. CA1 pyramidal neuron stained with biocytin.
+15884000	Pyramidal neuron as two-layer neural network.
+15567476	(b) Star-pyramidal neuron in layer IV.
+8441006	A, Pyramidal neuron of lamina 8c.
+9001698	Keywords: Burst firing; Pyramidal neuron; Sensorimotorcortex\r\n1.
+6187902	A, Single pyramidal neuron of adult cortex.
+10085365	B: estradiol-treated CA1 pyramidal neuron.
+20392936	as supplemental material) pyramidal neuron synapses.
+10379825	In both A: A pyramidal neuron.
+10954841	GM2 ganglioside and pyramidal neuron dendritogenesis.
+10328944	(C) Layer 5 pyramidal neuron at P7.
+9316201	Morphology of the neocortical pyramidal neuron.
+18973223	Morphology of the neocortical pyramidal neuron.
+20187150	Morphology of the neocortical pyramidal neuron.
+19151698	among different functional types of pyramidal neuron.
+20020347	Characterization of a silicon pyramidal neuron.
+7507523	Activation of /slow in a pyramidal neuron.
+17483470	4. Mapping light sensitivity of pyramidal neuron.
+18417635	Pyramidal neuron as two-layer neural network.
+17640909	N, CA3 pyramidal neuron cell body.
+19377502	Pyramidal neuron as two-layer neural network.
+16342122	LTP at mossy fiber-CA3 pyramidal neuron.
+20838806	8a) on the same pyramidal neuron.
+19424149	py, pyramidal neuron layer; s.r., stratum radiatum.
+9197287	bv, blood vessels; pyr, large pyramidal neuron.
+8969459	GM" ganglioside and pyramidal neuron dendritogenesis.
+8871189	A: records from a pyramidal neuron.
+12931209	An unlabelled pyramidal neuron is also seen.
+6120743	B : recording from the pyramidal neuron.
+6299467	Each pyramidal neuron represented by a triangle.
+10561464	(1995) GM2 ganglioside and pyramidal neuron dendritogenesis.
+10640187	(D) Unlabelled pyramidal neuron (thick arrow) surrounded.
+8011338	Pyramidal neuron in layer V (b).
+8727390	The pyramidal neuron of the cerebral cortex.
+15672239	E A dimly stained pyramidal neuron (arrowhead).
+20812293	Single synapse on a hippocampal pyramidal neuron.
+15248197	Morphology of the neocortical pyramidal neuron.
+11159916	(1995) GM2 ganglioside and pyramidal neuron dendritogenesis.
+18680161	Pyramidal neuron as two-layer neural network.
+19004618	Pyramidal neuron morphology in CA1 at P10.
+18337370	Pyramidal neuron as two-layer neural network.
+23365188	Recursive ISI estimation in a pyramidal neuron.
+19670310	(B) Pyramidal neuron of morphine group.
+21382549	Pyramidal neuron as two-layer neural network.
+22048458	Inset is a magnified cortical pyramidal neuron.
+17052155	Pyramidal neuron as two-layer neural network.
+16214185	Development of dendritic arborization in pyramidal neuron.
+16996045	Morphology of the neocortical pyramidal neuron.
+17182787	B, Pyramidal neuron from layer 2/3.
+17442244	Pyramidal neuron as two-layer neural network.
+17413010	Prefrontal cortex pyramidal neuron spine density.
+22429246	The triangle represents the pyramidal neuron.
+2322847	I. normal appearing layer V pyramidal neuron.
+7155343	2)climb arottnd a pyramidal neuron (P).
+10381597	The pyramidal neuron is the postsynaptic element.
+9342378	(A) A pyramidal neuron (KA model) configuration.
+9225755	(d) Dark pyramidal neuron from perirhinal cortex.
+14667848	Morphology of the neocortical pyramidal neuron.
+15221956	Type 3 had a large, pyramidal neuron.
+15221956	F: Type 1 pyramidal neuron in Tr.
+11486089	(B) Bead-labeled CT pyramidal neuron.
+18391179	Pyramidal neuron as two-layer neural network.
+14750145	Morphology of the neocortical pyramidal neuron.
+11008165	P: pyramidal neuron layer; r: stratum radiatum.
+14566947	Morphology of the neocortical pyramidal neuron.
+14528447	Morphology of the neocortical pyramidal neuron.
+15703404	A, A biocytin-filled pyramidal neuron.
+12384689	a, Rat hippocampal CA1 pyramidal neuron.
+12871767	The CA1 pyramidal neuron in Fig.
+18000818	Sample images of CA1 pyramidal neuron no.
+9473616	in a pyramidal neuron cell body.
+9987037	Wheel-associated activity of a pyramidal neuron.
+21835347	Pyramidal neuron as two-layer neural network.
+16297564	(A) Superimposed traces of a pyramidal neuron.
+20020356	2 Conceptual diagram of a pyramidal neuron.
+20346350	Pyramidal neuron as two-layer network.
+19433575	Morphology of the neocortical pyramidal neuron.
+19269312	Pyramidal neuron as two-layer neural network.
+20080589	Hippocampus: age differences in pyramidal neuron number.
+21745634	They use single postsynaptic CA1 pyramidal neuron.
+17805309	G, generic GABA neuron; P, pyramidal neuron.
+19915092	(A) Structure of pyramidal neuron 3013.
+19636382	Pyramidal neuron as twolayer neural network.
+16342122	LTP at mossy fiber-CA3 pyramidal neuron.
+10708680	field showing pyramidal neuron loss following seizures.
+9342378	(Right) Recording from a TLE pyramidal neuron.
+9719362	Morphology of the neocortical pyramidal neuron.
+15567476	[u"(b) Modified pyramidal neuron of O'Leary."]
+15548558	Morphology of the neocortical pyramidal neuron.
+8670669	In contrast a pyramidal neuron [arrowhead!
+12414123	D, dendrite of a pyramidal neuron.
+18971460	Photostimulation of a layer 4 pyramidal neuron.
+16108010	Pyramidal neuron as two-layer neural network.
+10911882	A layer II pyramidal neuron is shown.
+11697582	The arrow depicts a normal pyramidal neuron.
+11697582	The arrow depicts a shrunken pyramidal neuron.
+18270515	Pyramidal neuron as two-layer neural network.
+15165394	Morphology of the neocortical pyramidal neuron.
+19198603	Pyramidal neuron as two-layer neural network.
+17965280	local excitability of pyramidal neuron dendrites.
+19670310	(A) Pyramidal neuron of control group.
+20531421	Pyramidal neuron as two-layer neural network.
+16319201	E: nontufted pyramidal neuron (cell Z0331a1; Fig.
+20544831	Pyramidal neuron as two-layer neural network.
+20502952	The layer-5 pyramidal neuron in Fig.
+16366735	represent pyramidal neuron-imaging sessions, and filled circles represent non-pyramidal neuron-imaging
+15567476	Keywords: Pyramidal neuron; Star-pyramidal neuron; Motorsensory cortices; Phasic response; Tonic response;
+15567476	(c) Classical pyramidal neuron in layer V. (d) Vertical fusiform pyramidal neuron in layer VI.
+19771589	Analysis of a stereotypical pyramidal neuron using Layer II/III pyramidal neuron in mPFC.
+19771589	Analysis of a stereotypical pyramidal neuron using Layer II/III pyramidal neuron in mPFC.
+18625031	cerebral cortex; dolphin; layer III-pyramidal neuron; layer V-pyramidal neuron; multipolar neuron.
+11457586	CA1, CA1 pyramidal neuron layer; CA3, CA3 pyramidal neuron layer ; DG, dentate gyrus.
+15567476	(d) Star-pyramidal neuron of Lorente de No \u0301 . (h) Vertical fusiform pyramidal neuron.
+21358645	with mCherry-labeled CA1 pyramidal neuron (left) and Lsi1 CA1 pyramidal neuron.
+8592178	Unlike pyramidal neuron-to-pyramidal neuron connections, pyramidal neuron- to- interneuron connections
+17158177	like the pyramidal neuron to pyramidal neuron connections (Fig. 1), interneuron to pyramidal neuron connections
+337572	The small pyramidal neuron of the rat cerebral cartex.
+11977120	A: Pyramidal neuron in the triangular part (Ht) at A6.75.
+11807831	A: Pyramidal neuron in layer III. to A\u2013F).
+12177197	A, Reconstruction of a thick-tufted L5 pyramidal neuron.
+11602231	Feldman, Morphology of the neocortical pyramidal neuron, in: A.
+11240585	Middle: Somatic potential of a single pyramidal neuron.
+11131128	Pyramidal neuron from CA1 region (A), and\r\nFig.
+11306619	C, A CA3 hippocampal pyramidal neuron from control brain.
+15666697	Dipole\r\nEPSP\r\nPyramidal neuron\r\ndipole EPSP\r\nEPSP\r\nIPSP\r\nEPSP\r\nIPSP\r\n.
+15922588	(i) AHP: CA1 pyramidal neuron whole cell current clamp recording.
+9307106	For the particular CA1 pyramidal neuron of Fig.
+9332884	(C) An immunoreactive pyramidal neuron in the hilus.
+9466412	An intensely stained non-pyramidal neuron is also shown (arrow).
+14574678	The small pyramidal neuron of the rat cerebral cortex.
+15079859	Positive immunostaining is localized in pyramidal neuron soma and nuclei.
+15193778	The binding loss clearly paralleled pyramidal neuron loss.
+12555208	LIA in an acutely dissociated hippocampal pyramidal neuron.
+8254376	D, Somatic recording from a layer V pyramidal neuron.
+8207475	Feldman ML (1984) Morphology of the neocortical pyramidal neuron.
+8613722	A, Initial axonal segment of a D, labeled pyramidal neuron.
+7845588	Model of the cortical pyramidal neuron injured in phencyclidine.
+16540174	Computer reconstruction of a layer 4B star pyramidal neuron.
+6616174	CA I pyramidal neuron, showing both apical and basilar dendrites.
+6616174	Photomicrographs of the CA3 pyramidal neuron shown in Fig.
+16675397	(G) A pyramidal neuron in the hippocampal CA1 region (arrows).
+17095121	Inset: magnified view of a pyramidal neuron of hippocampus.
+12738868	In CA1 pyramidal neuron synapses using Ro 25-\r\nFig.
+15319309	(A) A typical non-projecting pyramidal neuron (cell 8).
+15208161	(B) CA3 pyramidal neuron from an Eth-treated rat.
+18202921	2 A simplified model of a cortical pyramidal neuron.
+11876488	A: Pyramidal neuron - subtype slender in the lateral amygdaloid nucleus.
+11159916	(1998) GM2 ganglioside as a regulator of pyramidal neuron dendritogenesis.
+12128249	(A) A control pyramidal neuron with normal structural features.
+7546743	The small pyramidal neuron of the rat cerebral cortex.
+8986885	Some metabolically-active pyramidal neuron cell bodies are present (arrowhead).
+9295391	A, B, Two consecutive sections of the same pyramidal neuron.
+9175890	Feldman, M.L., Morphology of the neocortical pyramidal neuron.
+1325547	The small pyramidal neuron of the rat cerebral cortex.
+10407131	Layer IV pyramidal neuron whose responses are in i.. iv.
+2568876	Feldman, M.L., Morphology of the neocortical pyramidal neuron.
+23144890	diaphorase histochemical staining of an inverted pyramidal neuron.
+23053939	3 Means of total hippocampal pyramidal neuron numbers in groups.
+17124287	Highmagnification picture of a retrograde-labeled pyramidal neuron.
+16319201	C: type I tufted pyramidal neuron (cell Z0423d; Fig.
+16771182	Either pyramidal neuron or granular neuron is NeuN immunopositive.
+19679445	Analysis of complex bursting in cortical pyramidal neuron models.
+21839061	Den, apical dendrite; nuc, nucleus of CA1 pyramidal neuron.
+3359203	No typical pyramidal neuron was observed to be immunopositive.
+16154924	Determinants of voltage attenuation in neocortical pyramidal neuron dendrites.
+6664491	Arrow in (B) denotes a labelled pyramidal neuron.
+6518385	B: Golgi-impregnated cortical pyramidal neuron displaying large meganeurite (arrow).
+17719205	A single strongly reacting pyramidal neuron is shown (arrow).
+20646262	left: STC of the rat hippocampal CA1 pyramidal neuron.
+11459758	Feldman ML (1984) Morphology of the neocortical pyramidal neuron.
+10797547	expression induces apoptosis in hippocampal pyramidal neuron cultures.
+14687983	[u"Neoformations on a pyramidal neuron in senile dog's brain."]
+15238445	Feldman D (1984) Morphology of the neocortical pyramidal neuron.
+8728473	Dopamine-inducedK+ current in a dissociated CAI pyramidal neuron.
+17483470	Fluorescence image of dye-filled layer VI pyramidal neuron.
+18832009	(C) Pyramidal neuron infected with control PD-RFPf virus.
+19046366	(A) Micrograph of an OGB-1-filled subicular pyramidal neuron.
+19004618	Pyramidal neuron morphology in layer III PFC at P35.
+19151698	The types of pyramidal neuron with two different postsynaptic targets.
+19125333	The shaded blocks correspond to the pyramidal neuron subpopulation.
+19150923	Determinants of voltage attenuation in neocortical pyramidal neuron dendrites.
+18647613	The small pyramidal neuron of the rat cerebral cortex.
+16613883	Determinants of voltage attenuation in neocortical pyramidal neuron dendrtes.
+15664179	The small pyramidal neuron of the rat cerebral cortex.
+18971460	Photostimulation of a layer 2/3 pyramidal neuron.
+20101601	Locally dynamic synaptic learning rules in pyramidal neuron dendrites.
+19709397	The small pyramidal neuron of the rat cerebral cortex.
+19555649	Determinants of voltage attenuation in neocortical pyramidal neuron dendrites.
+20188660	Locally dynamic synaptic learning rules in pyramidal neuron dendrites.
+20531421	e | A morphologically complex layer 5 pyramidal neuron model178.
+21295559	Determinants of voltage attenuation in neocortical pyramidal neuron dendrites.
+21536760	Locally dynamic synaptic learning rules in pyramidal neuron dendrites.
+22395804	The small pyramidal neuron of the rat cerebral cortex.
+18720409	B1\u2013B3: 2PLSM sequence of a GFP-expressing pyramidal neuron.
+19011920	7 Two-compartmental model of a cortical L5 pyramidal neuron.
+19377501	Pyramidal neuron polarity axis is defined at the bipolar stage.
+19383721	Pyramidal neuron polarity axis is defined at the bipolar stage.
+21192039	Pyramidal neuron polarity axis is defined at the bipolar stage.
+20929837	(A) Basal dendrite of a layer 2/3 pyramidal neuron.
+21452200	The small pyramidal neuron of the rat cerebral cortex.
+15884000	Determinants of voltage attenuation in neocortical pyramidal neuron dendrites.
+16055272	NIC CA1 pyramidal neuron; B. 4hrR CA1 pyramidal neuron; C. 10R DG granule cell; D. 10R CA3 pyramidal', u'pyramidal neuron; E. 4hrR CA3 pyramidal neuron; and F. 4hrR hilar mossy cell.
+15653259	(a) Complexin I mRNA, showing a labelled non-pyramidal neuron.
+15653259	Complexin II mRNA, showing a heavily labelled pyramidal neuron.
+15653788	A: optical image of a hippocampal CA1 pyramidal neuron.
+15979808	Feldman D (1984) Morphology of the neocortical pyramidal neuron.
+16125852	***P 0.005 (vs. pyramidal neuron, t-test, two-tailed).
+7907137	Hyperpolarization of pyramidal neuron by [Mets]enkephalin mediated by &receptors.
+8301355	Feldman M (1984) Morphology of the neocortical pyramidal neuron.
+8490320	Mean layer 2-3 pyramidal neuron bsssl dendrmc spread\r\n237.6
+8293290	Feldman, M.L., Morphology of the neocortical pyramidal neuron.
+6120743	facilitated progressivelyunit discharges of the pyramidal neuron.
+10771346	(B) Labeled non-pyramidal neuron in the normal monkey cortex.
+11410362	Transducin repeat; Cerebellum; Purkinje; Kidney; Pyramidal neuron\r\n1.
+14563380	for all three pyramidal neuron sub-populations, in both laminae.
+9007187	M.L. (1984) Morphology of the neocortical pyramidal neuron.
+1325547	FELDMAN, M. L. Morphology of the neocortical pyramidal neuron.
+2998551	The small pyramidal neuron of the rat cerebral cortex.
+1980927	FELDMAN, M. L. Morphology of the neocortical pyramidal neuron.
+10094416	There was a positive pyramidal neuron in layer III (arrowhead).
+9759966	location of multibarrel micropipettes near the pyramidal neuron.
+15776443	Pyramidal neuron types in field CA2 of the guinea pig.
+15208161	3. (A) CA3 pyramidal neuron from an Eth/FL rat.
+22677142	Layer V/VI pyramidal neuron in PFC: morphology and electrophysiology.
+4045553	M. L. (1984) Morphology of the neocortical pyramidal neuron.
+21835347	of action-potential backpropagation in CA1 pyramidal neuron dendrites.
+3385464	Current-voltage relationship for layer II pyramidal neuron.
+21715617	data point represents an individual layer 5 pyramidal neuron.
+23219521	(D) positive pyramidal neuron in the layer 3.
+23238722	D, An example intensity-selective DCN pyramidal neuron.
+23325249	versely, stimulation with the pyramidal neuron pattern had no Statistics.
+22367959	of actionpotential backpropagation in CA1 pyramidal neuron dendrites.
+3760948	M. L. (1984) Morphology of the neocortical pyramidal neuron.
+21708259	The small pyramidal neuron of the rat cerebral cortex.
+16897365	intracellular recording was made from one pyramidal neuron.
+21104309	Locally dynamic synaptic learning rules in pyramidal neuron dendrites.
+15107803	(a) CA1 pyramidal neuron to be microaspirated is identified (arrow).
+15185103	Arrowhead indicates normal lamina IV pyramidal neuron for comparison.
+15629706	Interspike interval histogram for the recorded pyramidal neuron.
+9914282	fluorescence image of bis-fura-2 \u2013 loaded pyramidal neuron.
+9890630	expression induces apoptosis in hippocampal pyramidal neuron cultures.
+7680942	(D) A pyramidal neuron (arrow) in lamina V.
+10213160	Large pyramidal neuron from an AD brain immunoreactive for IDE.
+9344554	The small pyramidal neuron of the rat cerebral cortex.
+10331577	The small pyramidal neuron of the rat cerebral cortex.
+10390088	The pyramidal neuron in cerebral cortex following prenatal X-irradiation.
+12536231	Arrowhead points a normal-looking medium-sized pyramidal neuron.
+12177197	 Reconstruction of a biocytin-stained P14 pyramidal neuron.
+12367618	e, Single channel analysis for a pyramidal neuron 22 patch.
+18270515	Note the twin apical dendrites on this CA1 pyramidal neuron.
+12101029	The arrow in D indicates a pyramidal neuron.
+11709490	Feldman ML (1984) Morphology of the neocortical pyramidal neuron.
+10937816	Feldman M. Morphology of the neocortical pyramidal neuron.
+11067982	CA1 pyramidal neuron half-width is significantly broader.
+10911882	intracellularly labeled neurobiotin-stained layer III pyramidal neuron.
+10592306	A necrotic pyramidal neuron from CA1 hippocampal field.
+18276728	mediating powerful voltage attenuation along CA1 pyramidal neuron dendrites.
+18337367	NT increased pyramidal neuron sIPSC frequency (as shown earlier\r\nFIG.
+19417176	, p 0.01.\r\npyramidal neuron synaptic transmission (Braga et al., 2003).
+19342486	We found normal pyramidal neuron postsynaptic dendritic spine morphology (Fig.
+12051555	Three glial cells are seen adjacent to a pyramidal neuron.
+11793343	The small pyramidal neuron of the rat cerebral cortex.
+11488953	The CB1 antagonist SR141716A prolongs PFC pyramidal neuron inhibition.
+21557502	Pyramidal neuron polarity axis is defined at the bipolar stage.
+14724258	Feldman ML (1984) Morphology of the neocortical pyramidal neuron.
+18497350	A: a typical mechanically isolated CA1 pyramidal neuron.
+19176277	The small pyramidal neuron of the rat cerebral cortex.
+19232379	Passive properties of an average CA3b pyramidal neuron.
+19232379	(D) Reconstruction of a CA3 pyramidal neuron (provided by Dr.
+20345917	(A, a) Recordings from a pyramidal neuron under control conditions.
+20399256	*: Pyramidal neuron, arrow: basal spines, scale bar: 50 m.
+19396156	ChR22mCherry-expressing cells with typical pyramidal neuron morphology.
+19771593	Locally dynamic synaptic learning rules in pyramidal neuron dendrites.
+19877495	Pyramidal neuron dendritic spines in the human DLPFC.
+19004618	8. Pyramidal neuron morphology in hippocampus CA1 region at P60.
+17032642	S.o., stratum oriens; Py, pyramidal neuron; Rad, stratum radiatum.
+17475719	continuous recording from a control layer V pyramidal neuron.
+16796803	3E, which depicts an isolated GFPpositive pyramidal neuron.
+16634077	A: CA1 pyramidal neuron and its spiny dendrites spines.
+16154203	Biocytin filled and DAB stained pyramidal neuron (A).
+17881182	5) and CA2 pyramidal neuron ( p < 0.01,\r\nFig.
+17715337	A, Four traces from an L2/3 Conclusion pyramidal neuron.
+17701995	The small pyramidal neuron of the rat cerebral cortex.
+16344143	The final digitized and reconstructed CA3 pyramidal neuron of Figs.
+20080551	Pyramidal neuron firings were recorded under loose patch-clamp configuration.
+19489002	Determinants of voltage attenuation in neocortical pyramidal neuron dendrites.
+19693709	a Left trace Calcium transient from a CA3 pyramidal neuron.
+20849375	expression induces apoptosis in hippocampal pyramidal neuron cultures.
+11008165	P: pyramidal neuron layer; o: stratum oriens; r: stratum radiatum.
+10814727	3 the non-pyramidal neuron required less current to fire.
+1522506	membrane characteristics of a typical BLA pyramidal neuron.
+12647224	ij the synaptic connection from pyramidal neuron j to pyramidal neuron i. wIT (wIT) is the strength of', u'connections from the interneuron (pyramidal neuron) to the pyramidal neuron (interneuron).
+18287507	the characteristic apical dendrite of the pyramidal neuron.
+20345917	(A, a) Recordings from a pyramidal neuron under control conditions.
+9106435	B: detailed view of a pyramidal neuron from Fig.
+9106435	B: derailed view of a pyramidal neuron from Fig.
+9361293	(B) CA1 pyramidal neuron counts for the same rats.
+9276173	Feldman, ML (1984) Morphology of the neocortical pyramidal neuron.
+12962317	branching dendritic model of a rodent CA3 pyramidal neuron.
+12815251	L. (1984) Morphology of the neocortical pyramidal neuron.
+14689451	expression induces apoptosis in hippocampal pyramidal neuron cultures.
+14620875	All data shown are from a single CA1 pyramidal neuron.
+16127693	Layer III pyramidal neuron that displayed cluster firing.
+2337821	The small pyramidal neuron of the rat cerebral cortex.
+6430914	1968 . The small pyramidal neuron of the rat cerebral cortex .
+3120196	In F a pyramidal neuron in thioflavin S-reactive material.
+3537840	(c) Non-pyramidal neuron in stratum lacunosum-moleculare of CA3.
+9742141	A, Outside-out patch from a CA1 pyramidal neuron.
+10215140	Pyramidal neuron located in lamina II and labelled with neurobiotin.
+10340497	D: Axogram of the pyramidal neuron showed in A.
+10340497	E: Axogram of the pyramidal neuron shown in B.
+10436032	Induction of LTP in a L-II/III pyramidal neuron.
+8392536	Feldman ML (1984) Morphology ofthe neocortical pyramidal neuron.
+15567476	[u"(a) Modified pyramidal neuron of O'Leary in layer II/IIIs."]
+15744009	Stimulus-evoked modulation of sensorimotor pyramidal neuron EPSPs.
+20811339	Pyr: pyramidal neuron layer; sr: stratum radiatum; dg: dentate gyrus.
+21243419	Determinants of voltage attenuation in neocortical pyramidal neuron dendrites.
+21678397	mediating powerful voltage attenuation along CA1 pyramidal neuron dendrites.
+21678397	The small pyramidal neuron of the rat cerebral cortex.
+21795626	(C) 649 Representative pyramidal neuron pair from an Fmr1 KO.
+23087619	\u201cMorphology of the neocortical pyramidal neuron,\u201d in Cerebral Cortex, Vol.
+20503425	The small pyramidal neuron of the rat cerebral cortex.
+18270515	in these properties reflects diversity in pyramidal-neuron function.
+18204443	The small pyramidal neuron of the rat cerebral cortex.
+14602839	Reconstruction revealed a thicktufted pyramidal neuron (Fig. 8B).
+15777768	Current-clamp whole-cell recording from a CA1 pyramidal neuron.
+12177197	 Reconstruction of a biocytin-stained I B pyramidal neuron.
+11937025	(C) A pyramidal neuron from a CON-injected animal.
+11937025	(D) Pyramidal neuron, (E) interneuron, and (F) glial cells.
+12672537	(F) Control brain: a MAB318positive, non-pyramidal neuron.
+11970869	The small pyramidal neuron of the rat cerebral cortex.
+11069968	Feldman ML (1984) Morphology of the neocortical pyramidal neuron.
+11160429	Feldman L F (1984) Morphology of the neocortical pyramidal neuron.
+11125016	Feldman D (1984) Morphology of the neocortical pyramidal neuron.
+16054510	A fractal analysis of pyramidal neuron in mammalian motor cortex.
+11839606	Feldman ML (1984) Morphology of the neocortical pyramidal neuron.
+11956340	The pyramidal neuron was voltage clamped at _40 mV.
+11709488	Feldman ML (1984) Morphology of the neocortical pyramidal neuron.
+19156848	Pyramidal neuron types in field CA2 of the guinea pig.
+18817991	Locally dynamic synaptic learning rules in pyramidal neuron dendrites.
+18692566	Hypobaric hypoxia damages hippocampal pyramidal neuron in rat brain.
+20510860	mediating powerful voltage attenuation along CA1 pyramidal neuron dendrites.
+18709659	The small pyramidal neuron of the rat cerebral cortex.
+21191641	mediating powerful voltage attenuation along CA1 pyramidal neuron dendrites.
+4078626	M. L. (1984) Morphology of the neocortical pyramidal neuron.
+7496800	\\[15\\]Feldman, M.L., Morphology of the neocortical pyramidal neuron.
+16183144	Progressive atrophy of pyramidal neuron dendrites in autoimmune MRLlpr mice.
+12163526	Simulations of recorded IPSCs in a layer V pyramidal neuron.
+23419897	(B) Recording from a layer II/III non-pyramidal neuron.
+23419897	(B) Recording from a layer V non-pyramidal neuron.
+2085783	E: an iontophoretic pipette touching a pyramidal neuron.
+7477911	M. L. (1984) Morphology of the neocortical pyramidal neuron.
+3346731	C, Medium-sized pyramidal neuron in layer 5.
+23040816	A pyramidal neuron in layer 2/3 was reconstructed.
+19833411	of action-potential backpropagation in CA1 pyramidal neuron dendrites.
+19826170	Locally dynamic synaptic learning rules in pyramidal neuron dendrites.
+19417176	B, Lucifer yellow fill of the pyramidal neuron.
+19395528	(A3) Micrograph of GFP) deep layer pyramidal neuron.
+22832013	The small pyramidal neuron of the rat cerebral cortex.
+22267309	Pyramidal neuron polarity axis is defined at the bipolar stage.
+21775596	A typical pyramidal neuron shows spike frequency adaptation.
+20087892	An example of a bar press-related pyramidal neuron.
+22973004	A, Two-photon image stack of an L2 pyramidal neuron.
+17095121	Inset: magnified view of the pyramidal neuron in hippocampus.
+17291690	5A), and one pyramidal neuron in the output layer (P3).
+17467187	Feldman D (1984) Morphology of the neocortical pyramidal neuron.
+17360894	Arrow points to a Reelin-expressing pyramidal neuron.
+21896646	The small pyramidal neuron of the rat cerebral cortex.
+22644869	layer III pyramidal neuron of the human cingulate cortex.
+20452947	Pyramidal neuron polarity axis is defined at the bipolar stage.
+19477153	Individual LMTs contacting the pyramidal neuron are indicated in gray.
+20427657	Inset, Intracellular recording of pyramidal neuron in current-clamp mode.
+10444657	D: layer II/III pyramidal neuron at P3.
+18400958	A: reconstruction of a layer 5 PFC pyramidal neuron.
+10448417	Donor neurons exhibit characteristically large pyramidal neuron morphology (arrows).
+18474435	of action potential backpropagation in CA1 Pyramidal neuron dendrites.
+21420469	(A) CA1 pyramidal neuron visualized with Golgi impregnation.
+21925174	The small pyramidal neuron of the rat cerebral cortex.
+20890990	expression induces apoptosis in hippocampal pyramidal neuron cultures.
+7983539	FELDMAN, M. L. Morphology of the neocortical pyramidal neuron.
+7905516	Data recorded in a layer III pyramidal neuron.
+8012830	words: Advanced glycosylation end product; Pyramidal neuron\r\n1.
+8931006	One non- A pyramidal neuron is non-immunoreactive (n).
+8389832	Figure 4 shows results from one human pyramidal neuron.
+9000458	This rat CA1 pyramidal neuron was recorded with a microelectrode.
+8848172	A pyramidal neuron from the lower cortical culture (Fig. 5D).
+8987819	D, Pyramidal neuron showing stained material extending into the neurite.
+10708680	field showing largely preserved CA3 pyramidal neuron population following seizures.
+10323293	A GABA-immunonegative, pyramidal neuron (d apical dendrite, n nucleus).
+2294981	Most sites are in the CA3 pyramidal neuron layer.
+9138725	Feldman, M.L., Morphology of the neocortical pyramidal neuron.
+12954527	Pyramidal neuron types in field CA2 of the guinea pig.
+15221956	Type 1 was a large pyramidal neuron (Fig. 10F).
+10911882	A neurobiotin-stained layer III pyramidal neuron is shown.
+11074155	Excitotoxin (kainate) lesions causing pyramidal neuron death also\r\nFig.
+11279362	Ultrastructure and synaptology of a NGF-labeled pyramidal neuron.
+2750969	CA1 pyramidal neuron field potential generated by \u201cC-l.
+6120743	2A shows unit discharges recorded from a pyramidal neuron.
+18824155	Phase-contrast micrographs of \u201csea urchin-like\u201d pyramidal neuron.
+18971460	The pyramidal neuron depicted in and Gutnick, 1990).
+19126862	Mel, Pyramidal neuron as two-layer neural network.
+10717432	formation, microinjection, projection neuron, pyramidal neuron.
+10859140	Arrow in (A) indicates an immunostained non-pyramidal neuron.
+15390176	Pyramidal neuron types in field CA2 of the guinea pig.
+15987268	The small pyramidal neuron of 44. the rat cerebral cortex.
+15260960	The small pyramidal\r\nneuron of the rat cerebral cortex.
+15165363	expression induces apoptosis in hippocampal pyramidal neuron cultures.
+11237367	Dynamics of the pyramidal neuron autoassociative network in the hippocampus.
+10640187	(A) Immunopositive medium-sized non-pyramidal neuron (thick arrow).
+11168548	(Aa) Low magnification of a pyramidal neuron filled with biocytin.
+11906787	(D) Example of a short-shaft pyramidal neuron (SSN).
+11793343	D: SMI-32\u2013immunoreactive pyramidal neuron in layer 3.
+11356863	show two different magnifications of the same pyramidal neuron.
+15501592	(C) Large arrow: pyramidal neuron; small arrows: capillary.
+15598512	Dynamics of the pyramidal neuron autoassociative network in the hippocampus.
+15884000	of action-potential backpropagation in CA1 pyramidal neuron dendrites.
+12177197	A, Reconstruction of a biocytin-stained pyramidal neuron.
+12177197	B, Reconstruction of a biocytin-stained RS pyramidal neuron.
+12754295	(D) A non-immunostained SB in a CA1 pyramidal neuron.
+12351720	 High-power magnification of a single CA3 pyramidal neuron.
+12815250	FELDMAN, D. (1984) Morphology of the neocortical pyramidal neuron.
+18270515	The small pyramidal neuron of the rat cerebral cortex.
+9786408	The presence of patchy pyramidal neuron connectivity in the\r\nFig.
+9453665	M.L. (1984) Morphology of the neocortical pyramidal neuron.
+9824448	Photostimulation of a neocortical pyramidal neuron in layer V.
+18366062	The small pyramidal neuron of the rat cerebral cortex.
+18191411	(A) Example pyramidal neuron expressing exogenous mGluR1a-GFP.
+15862187	Occasionally, a normal typical pyramidal neuron was found (Fig. 1b).
+23238722	D\u2013F, An example intensity-selective pyramidal neuron.
+23144890	electrophysiological recording of an inverted pyramidal neuron.
+23177656	Modeling of a pyramidal neuron as a current dipole.
+7507523	In the unclamped BLA pyramidal neuron shown in Fig.
+6201235	B: a rare small pyramidal neuron stained for NPY.
+6205726	3A: hippocampal pyramidal neuron reconstructed from 132 sagittal serial sections.
+16297564	Key words: hippocampus, CA1, pyramidal neuron, context, episodic memory.
+17192666	There are two types of SC-CA1 pyramidal neuron synapses.
+17920812	The pyramidal neuron is shown diagrammatically in Fig.
+22315181	Locally dynamic synaptic learning rules in pyramidal neuron dendrites.
+19770187	Determinants of voltage attenuation in neocortical pyramidal neuron dendrites.
+19006199	The small pyramidal neuron of the rat cerebral cortex.
+19597331	An Ancestral Pathway Leading to Pyramidal Neuron Identity?
+19065632	1 C: Example of an atypically oriented pyramidal neuron.
+19046365	(2003) Pyramidal neuron as two-layer neural network.
+19186170	of action-potential backpropagation in CA1 pyramidal neuron dendrites.
+19004618	7. Pyramidal neuron morphology in hippocampus CA1 region at P35.
+20017027	(a) EGFP transfected CA1 pyramidal neuron (bar: 100 mm).
+19449312	Photomicrograph of a Golgi-Cox-impregnated pyramidal neuron.
+19783417	The small pyramidal neuron of the rat cerebral cortex.
+21678397	The small pyramidal neuron of the rat cerebral cortex.
+20648651	The small pyramidal neuron of the rat cerebral cortex.
+20869597	Determinants of voltage attenuation in neocortical pyramidal neuron dendrites.
+21042953	a GDPs recorded from a CA3 pyramidal neuron at P3.
+21557500	The small pyramidal neuron of the rat cerebral cortex.
+21530607	(F) Firing pattern of an adjacent pyramidal neuron.
+21140484	The small pyramidal neuron of the rat cerebral cortex.
+20595398	expression induces apoptosis in hippocampal pyramidal neuron cultures.
+22322150	Locally dynamic synaptic learning rules in pyramidal neuron dendrites.
+21382549	Determinants of voltage attenuation in neocortical pyramidal neuron dendrites.
+20600825	The small pyramidal neuron of the rat cerebral cortex.
+21670426	Locally dynamic synaptic learning rules in pyramidal neuron dendrites.
+23419897	(A) Recording from a layer V pyramidal neuron.
+21893112	Pyramidal neuron size\r\nLayer III was outlined using the C.A.S.T.
+17715337	A, Dual recording from an L2/3 pyramidal neuron.
+22933151	atrophy of pyramidal neuron dendrites in\r\nautoimmune MRL-lpr mice.
+22961480	Intact pyramidal neuron (white row), darl neuron (black arrow).
+16175385	a Model pyramidal neuron provided by the NEURON software package.
+7410481	The small pyramidal neuron of the rat cerebral cortex .
+2575006	Feldman, M., Morphology of the neocortical pyramidal neuron.
+16319201	C: bipolar excitatory pyramidal neuron (cell Z0421z; Fig.
+12466450	Stimulus-evoked modulation of sensorimotor pyramidal neuron EPSPs.
+16495433	The small pyramidal neuron of the rat cerebral cortex.
+19011898	Feldman ML (1984) Morphology of the neocortical pyramidal neuron.
+19489002	mediating powerful voltage attenuation along CA1 pyramidal neuron dendrites.
+19489002	Pyramidal neuron as a 2-layer neural network.
+20130201	Morphology of a reconstructed rat CA1 pyramidal neuron.
+21426927	Locally dynamic synaptic learning rules in pyramidal neuron dendrites.
+2804624	Feidman, M.L., Morphology of the neocortical pyramidal neuron.
+7155343	As each terminal segment represents a pyramidal neuron initial segment.
+11876488	A: Pyramidal neuron - subtype squat in the paralaminar amygdaloid nucleus.
+11906787	(C) Example of a long-shaft pyramidal neuron (LSN).
+11793343	B: SMI-32\u2013labeled pyramidal neuron (red) in\r\n(Fig.
+9760997	Filamentous intranuclear inclusion within a pyramidal neuron.
+8254376	Feldman ML (1984) Morphology of the neocortical pyramidal neuron.
+9378859	M.L. (1984) Morphology of the neocortical pyramidal neuron.
+9141648	M.L. (1984) Morphology of the neocortical pyramidal neuron.
+9183692	B: NAIP-LI in a layer V pyramidal neuron.
+1825846	*.*_\r\nfrom a pyramidal neuron in layer II/III.
+3226380	The pyramidal neuron in cerebral cortex following prenatal X-irradiation.
+10869837	A non-pyramidal neuron in layer V immunoreactive for GluR1.
+11927154	immunohistochemistry, electron microscopy, pyramidal neuron, neuroprotection.
+12838576	The small pyramidal neuron of the rat cerebral cortex.
+14629930	immediate pyramidal neuron-to-pyramidal neuron or pyramidal neuron-to-interneuron-to-pyramidal neuron interaction
+2748005	Feldman, M.L., Morphology of the neocortical pyramidal neuron.
+8613757	Upper truces, voltage-clamp records from pyramidal neuron.
+12574468	Compartmental structure of model layer 2/3 pyramidal neuron.
+12618125	Representative current clamp recording from a CA1 pyramidal neuron.
+12923216	of actionpotential backpropagation in CA1 pyramidal neuron dendrites.
+15115655	But what, for example, could the pyramidal neuron in Fig.
+18937346	Locally dynamic synaptic learning rules in pyramidal neuron dendrites.
+10751567	evoked clusters of EPSPs in a layer II pyramidal neuron.
+11331360	Currents from a CA1 pyramidal neuron are also shown.
+11784059	The morphology of the pyramidal neuron was visible (Fig. 6D).
+15044542	a\u2013 c, Nucleated patches excised from a pyramidal neuron.
+15322381	M. L. (1984) Morphology of the neocortical pyramidal neuron.
+15857685	Keywords: Prefrontal cortex; Hippocampus; Pyramidal neuron; Rhesus monkey\r\n1.
+21501254	Middle trace: change in ratio from the same pyramidal neuron.
+19006199	The small pyramidal neuron of the rat cerebral cortex.
+17198693	The small pyramidal neuron of the rat cerebral cortex.
+17395630	Determinants of voltage attenuation in neocortical pyramidal neuron dendrites.
+19801372	Locally dynamic synaptic learning rules in pyramidal neuron dendrites.
+19933758	The small pyramidal neuron of the rat cerebral cortex.
+20336623	subpopulation of pyramidal neuron (Bergstrom et al.,\r\nTABLE I.
+19837999	(a) A fluorescence image of a pyramidal neuron in culture.
+21144861	Characteristic frequency of this pyramidal neuron is 14.3 kHz.
+20080551	Pyramidal neuron firings were recorded under loose patch-clamp configuration.
+20223199	Locally dynamic synaptic learning rules in pyramidal neuron dendrites.
+19693029	The small pyramidal neuron of the rat cerebral cortex.
+18675331	Outward potassium currents in a hippocampal pyramidal neuron.
+19273236	Locally dynamic synaptic learning rules in pyramidal neuron dendrites.
+18824157	The typical whole-cell recording currents in pyramidal neuron.
+19004618	Pyramidal neuron morphology in layer III PFC at P10.
+19004618	4. Pyramidal neuron morphology in layer III PFC at P60.
+20197093	Locally dynamic synaptic learning rules in pyramidal neuron dendrites.
+20579773	The small pyramidal neuron of the rat cerebral cortex.
+21054941	Pyramidal neuron polarity axis is defined at the bipolar stage.
+20805489	IN, interneuron; PN, pyramidal neuron; Sti, stimulation; Rec, recording.
+22281105	Cultures with pyramidal neuron layer injury were not used.
+23028073	synaptically activated Ca2+ wave in a neocortical pyramidal neuron.
+21777305	ModelDb/showmodel.asp?model=124043) of a neocortical pyramidal neuron.
+23419897	Representative recording from a layer V non-pyramidal neuron.
+22854024	(F) Apical dendritic spines of a CA1 pyramidal neuron.
+7507523	As illustrated by the pyramidal neuron shown in Fig.
+8815933	Feldman M (1984) Morphology of the neocortical pyramidal neuron.
+2165520	Feldman ML (1984) Morphology of the neocortical pyramidal neuron.
+23183856	D: Example of Lucifer Yellow filled CA1 pyramidal neuron.
+21295559	mediating powerful voltage attenuation along CA1 pyramidal neuron dendrites.
+17715337	A, Dual recording from an L2/3 pyramidal neuron.
+18353441	The small pyramidal neuron of the rat cerebral cortex.
+18353441	The small pyramidal neuron of the rat cerebral cortex.
+19890704	Locally dynamic synaptic learning rules in pyramidal neuron dendrites.
+20705816	(A) Basal dendrite of a layer 2/3 pyramidal neuron.
+21924263	Hypobaric hypoxia damages hippocampal pyramidal neuron in rat brain.
+20887748	Table 1 Parameter values of the pyramidal neuron model.
+21796451	CA2 pyramidal neuron has a higher number of dendritic branches in SLM than a CA1 pyramidal neuron.
+10814727	(olfactory) cortex; Layer III non-pyramidal neuron; Deep pyramidal neuron; Rat\r\n1.
+12647224	excitatory input from one pyramidal neuron and sends its output back to the pyramidal neuron.
+19524554	Pyramidal neuron number\r\nMean (CV) layer 3 pyramidal neuron NV in comparison subjects was 20.7 \xd7 103/mm3
+21534991	An inverted pyramidal neuron (a) and a large, multiapical pyramidal neuron (b) from frontal cortex are
+12379251	recordings for a normotopic pyramidal neuron (MAM normo) and heterotopic pyramidal neuron (MAM het).
+12647224	Each pyramidal neuron has one inhibitory interneuron by which the activity of the pyramidal neuron is suppressed
+10814727	subthreshold response of a non-pyramidal neuron (82598c) and a deep pyramidal neuron (82598b).
+21168305	potentials in CA1 pyramidal neuron can evoke spikelets in another CA1 pyramidal neuron, with latency \u223c0
+22161956	called oblique pyramidal neuron, which essentially looks like a tilted pyramidal neuron (Figs.
+20020356	The Pyramidal Neuron Model\r\nThe proposed leaky integrator model for a cortical pyramidal neuron is illustrated
+17805559	The ELL pyramidal neuron integrates the outputs of P-afferents and sends the output of the pyramidal
+19897544	Pnb = large pyramidal neuron; Pnm = medium pyramidal neuron; Pns = small pyramidal neuron; nPb = large', u'large non-pyramidal neuron; nPm = medium non-pyramidal neuron; nPs = small non-pyramidal neuron; MD = moderately
+23419897	Layer V pyramidal neuron\r\n20 mV\r\n+150 pA 0.1s\r\n- 150 pA\r\nLayer V pyramidal neuron Normal ACSF\r\n20 s\r', u's\r\nLayer V pyramidal neuron Mg2+-free\r\nLayer II/III pyramidal neuron Mg2+-free\r\n20 mV\r\nAPV\r\n50 s\r\n20 mV\r', u'mV\r\nWash of APV\r\n20 mV\r\n20 s\r\nLayer II/III pyramidal neuron Normal ACSF\r\n20 mV\r\n20 s\r\nFig.
+12379251	for a CA1 pyramidal neuron (control CA1), Layer II/III supragranular cortical pyramidal neuron (control', u'(control Ctx) and a heterotopic pyramidal neuron (MAM het).
+19678594	neurons; (B) 1- pyramidal neuron, 2- bipyramidal neuron; (C) 1- bitufted neuron, 2- pyramidal neuron; (D) 1-', u'1- pyramidal neuron, 2- inverted pyramidal neurons, 3- bitufted neuron.
+22161956	representative small spiny pyramidal neuron (P28), a complex pyramidal neuron (P30), a multipolar neuron', u'neuron (P28), a SC (P16), and a bipolar complex pyramidal neuron with one prominent horizontal dendrite (P14)
+20020356	Top layer\r\nInputs to pyramidal neuron branches encouraging recording of new conditions\r\nMiddle layer\r', u'layer\r\nBottom layer\r\nPyramidal neuron\r\nFlow of pyramidal neuron receptive field detections Interneuron\r\nMultiple
+11279497	Depolarizing a pyramidal neuron (c) and photolysing caged calcium inside a pyramidal neuron (d) had similar
+11517252	Representative traces of a CA1 pyramidal neuron (Control CA1) and a heterotopic pyramidal neuron (M A M het) during
+9406950	strongly attenuated neuropil, non-pyramidal neuron and pyramidal neuron staining Fig.
+17717695	between the presynaptic pyramidal neuron (left) and the postsynaptic pyramidal neuron at various dendritic
+19524554	volume, layer volumes, or pyramidal neuron number, although pyramidal neuron density was significantly
+19675237	sADP control (GFP transfected) pyramidal neuron and a pyramidal neuron transfected with TRPC5-DN.
+19607649	Namely, a pyramidal neuron targeting another pyramidal neuron both directly with a depressing synapse
+19524554	3 volume fraction, volume, pyramidal neuron density, and pyramidal neuron number in primary auditory
+18067146	Pyramidal neuron selection\r\nPrior to electrophysiological recordings, pyramidal neuron somata were identified
+16806988	In the pyramidal neuron layers underlying the stratum oriens, CA3 appears thicker and tends to have higher', u'higher FA than the CA1 pyramidal neuron layer.
+18512213	might reduce inhibition of pyramidal neuron firing, increasing pyramidal neuron activity, reduced GABA transport
+12379251	A CA1 pyramidal neuron (control) is shown in the top set of traces and a heterotopic pyramidal neuron
+10884310	interneuron; bottom lef t, CA1 pyramidal neuron; bottom right, CA3 pyramidal neuron.
+23175819	Defects in pyramidal neuron dendrite arborization in DSCAMdel17 mutants A few guidance molecule systems', u'have been previously implicated in cortical pyramidal neuron dendrite growth and arborization.
+21168305	burst propagation from single pyramidal neuron to single pyramidal neuron, via chemical synapses.
+22161956	drawings of a horizontal pyramidal neuron (P23), a tilted pyramidal neuron (P15), and a multipolar LVI
+19385982	gyrus (A,D,G), the CA2 pyramidal neuron area (B,E,H), and the CA1 pyramidal neuron area (C,F,I).
+19385982	gyrus (A,D,G), the CA2 pyramidal neuron area (B,E,H), and the CA1 pyramidal neuron area (C,F,I).
+2926484	the collateralsof asingle CA3 pyramidal neuron with a CA1 pyramidal neuron.
+15071113	Representative A currents obtained from a control pyramidal neuron expressing EGFP cantly increased fraction', u'of Kv4.2 reaches (top) and a similar-sized pyramidal neuron expressing tCaMKII (bottom).
+15567477	IV star-pyramidal neuron made twoto three-fold more appositions than those of a pyramidal neuron in the
+15630093	2 m.)\r\neach pyramidal neuron physically touches every other neighboring pyramidal neuron in the local
+17717695	between the presynaptic pyramidal neuron (left) and the postsynaptic pyramidal neuron at various dendritic
+12647224	synaptic connection from pyramidal neuron j of the PC network to pyramidal neuron i of the IT network.
+18045998	slice\r\ncaudal\r\nrostral\r\nC Turtle pyramidal neuron D Mammalian pyramidal neuron\r\n100 \u03bcm\r\nFIG.
+17245443	Pyramidal neuron\r\nPyramidal neuron\r\nInterneuron Significant Difference\r\nInterneuron Significant Difference\r
+16860539	connections onto a layer II/III pyramidal neuron comes from another pyramidal neuron located more than 200 \u03bcm
+16366735	Non-Pyramidal Neuron (A) Three-dimensional skeletal reconstructions of the non-pyramidal neuron "paz"
+19011898	anteater, showing a typical pyramidal neuron alongside an inverted pyramidal neuron.
+3537840	(c) Large horizontal non-pyramidal neuron located just below the granule cell layer.
+1432087	Interlaminar connections and pyramidal neuron organisation in the visual cortex, area 17, of the macaque
+2054634	A C A l a + b pyramidal neuron is illustrated in Fig.
+2322847	E: layer III pyramidal neuron with slightly enlarged cell body but normal axon hillock.
+487169	C1 and C2 show recordings from the same pyramidal neuron taken approximately 10 min apart.
+776360	The small pyramidal neuron of the rat cerebral cortex, Amer. J. Anat., 127 (1970) 321 355.
+3171651	nections and pyramidal neuron organization in the visual cortex, area 17, of the macaque monkey.
+6120743	D:glycine(Gly)inhibitedunitdischargesofthe pyramidal neuron.
+6120743	facilitated tonically unit discharges of the pyramidal neuron, in a dose-dependent manner.
+6389784	cytoplasm (arrozu) encircling a dark nucleus of a pyramidal neuron.
+11672595	properties of a biocytin-labelled layer V pyramidal neuron from a young rat.
+11716809	[u"microglia (A', red) adjacent to an AGE-positive pyramidal neuron (A0)."]
+11960884	The pyramidal neuron of the cerebral cortex morphological and chemical characteristics of the synaptic
+11181906	GABAergic interneurons, the gray-filled cell a pyramidal neuron.
+11488953	recorded from an antidromically identified PFC pyramidal neuron.
+12217965	The inset in (B) shows a pyramidal neuron whose apical dendrite is horizontally oriented.
+12071666	basilar terminal dendritic spines per layer V pyramidal neuron\r\nFIG.
+12091528	postsynaptic currents (sEPSCs) recorded in a layer V pyramidal neuron from control slice.
+11600631	Determinants of voltage attenuation in neocortical pyramidal neuron dendrites.
+11535289	The photographs show typical pyramidal neuron (B), bipolar (C), inverted pyramidal (D) and tumbled (E)
+11535289	D indicates apical dendrite of an inverted pyramidal neuron.
+10077318	Chattering behavior of a corticothalamic pyramidal neuron in the cat association neocortex (reproduced
+9829459	C: AT-8-positive pyramidal neuron from the same hippocampal sector as in A.
+9862890	A CA3 pyramidal neuron was intracellularly stained after recording ( arrow ) .\r\nTABLE 1.
+11152700	A: responses to afferent stimulation in a pyramidal neuron under standard recording conditions.
+11135257	Topography of pyramidal neuron intrinsic connections in macaque monkey prefrontal cortex (areas 9 & 46)
+11248103	(B and D) Pyramidal neuron from the homologous FPC area of HRM.
+11356863	three panels show similar magnifications of a pyramidal neuron taken from a mutant mouse.
+15941622	(D) A T1-positive pyramidal neuron in layer V in another section.
+15941622	(E) A high power image of the pyramidal neuron in (C).
+16037085	rapid retrograde signaling at interneuron\u2013pyramidal neuron synapses of the neocortex.
+16019039	6B, numbers of pyramidal neuron decreased significantly (by approximately 65%) 6 h after global ischemia
+16055272	The control CA3 pyramidal neuron possessed abundant polysome rosettes and ribosome-studded rough ER (Fig
+16100710	The pyramidal neuron of the cerebral cortex: morphological and chemical characteristics of the synaptic
+15893654	(B/b) \u201cNormotopic\u201d CA1 pyramidal neuron located in PC near the H.
+15961234	IPSCs were similarly recorded from a day 6 CA3 pyramidal neuron.
+15749981	B: higher magnification of the one labeled pyramidal neuron found in this control animal.
+15567476	The vertical fusiform pyramidal neuron found in layer VI showed RS-SA2 response.
+15567476	2) and a classical pyramidal neuron in layer IV (his Fig.
+16000197	Cholinergic deafferentation enhances rat hippocampal pyramidal neuron responsiveness to locally applied nicotine
+16028071	The representation of a pyramidal neuron illustrates the expression profile of PSI.
+9486823	The two cell types, pyramidal neuron (open) and interneuron (filled) are shown.
+9602033	This layer II pyramidal neuron was encountered in the somatosensory cortex.
+9391142	in the proximal apical dendrites of a CA3 pyramidal neuron (arrows).
+9356382	Recording was made in a layer II / III pyramidal neuron voltage clamped at 070 mV.
+9549486	Interlaminar connections and pyramidal neuron organisation in the visual cortex, area 17, of the macaque
+9600994	(A) Pyramidal neuron in the neocortex shows strong SMN immunolabeling of cytoplasm and nuclear gems.
+9687490	(G) Enlargement of the pyramidal neuron layer (arrowheads) in the wildtype.
+9687490	only cell within the field reminiscent of a pyramidal neuron.
+9876046	type of culture represents a model of normal pyramidal neuron differentiation.
+10634854	Inset: large layer V neocortical pyramidal neuron in a slice visualized with DIC optics.
+10884310	Determinants of voltage attenuation in neocortical pyramidal neuron dendrites.
+10771346	M. L. (1984) Morphology of the neocortical pyramidal neuron.
+10731661	Na*-dependent phosphate cotransporter mRNA in CA1 pyramidal neuron fol- 50.
+10848551	Determinants of voltage attenuation in neocortical pyramidal neuron dendrites.
+10677548	and beta oscillations in a CA1 hippocampal pyramidal neuron.
+10094416	the perikaryon and some basal dendrites of a pyramidal neuron (inset).
+11160506	An example of a biocytin-filled spiny pyramidal neuron recovered for morphological analysis.
+10723007	Interlaminar connections and pyramidal neuron organization in the visual cortex, area 17, of the macaque
+10861536	Arrows indicate a pyramidal neuron, which was intracellularly injected with biocytin.
+10648721	A, A typical firing pattern of a pyramidal neuron recorded in a cellattached configuration.
+11069935	Current-clamp whole-cell recording from a CA1 pyramidal neuron.
+11069968	spontaneous EPSC s recorded from a layer V pyramidal neuron.
+14528447	The pyramidal neuron of the cerebral cortex: morphological and chemical characteristics of the synaptic
+14604773	Peters, I.R. Kaiserman-Abramof, The small pyramidal neuron of the rat cerebral cortex.
+12965055	Microtubule Remodeling Restore Compressed Pyramidal Neuron Morphology in Rat Cerebral Cortex.
+14584829	Photomontage of a layer V motor-cortical pyramidal neuron with more than one dendritic process.
+12716945	These results suggest that the excita-V pyramidal neuron in the prelimbic cortex at P9.
+14506309	The pyramidal neuron of the cerebral cortex: morphological and chemical characteristics of the synaptic
+14568490	cortical responses to neonatal deafening: pyramidal neuron spine loss without changes in growth or orientation
+12209840	A: Low-power photomicrograph of a pyramidal neuron with a small cell body.
+12946698	Peters A, Kaiserman-Abramof IR (1970) The small pyramidal neuron of the rat cerebral cortex.
+12966568	drawing of the soma and dendrites of a deep pyramidal neuron (Py-1 cell).
+15224978	in the apical dendrites of hippocampal CA1 pyramidal neuron.
+15224984	Effects of early environment on pyramidal neuron morphology in field CA1 of the guinea pig.
+8844649	(a) Pyramidal neuron (N) with apical dendrite (large arrow) and its dendritic spines (small arrows).
+8727397	.\r\n\r\nma1parts of the pyramidal neuron, whereas double-bouquet cells contact distal apical dendrites.
+8670669	A, Riled soma and dendrite a pyramidal neuron from a saline pup.
+7905516	The intracellular response of a layer III pyramidal neuron (L3b of Fig.
+7576629	(B) Layer 5 pyramidal neuron from a slice treated with BDNF and immunostainedfor 6-galactosidase.Bar
+7000794	R . Kaiserman-Abramof 1969 . The small pyramidal neuron of the rat cerebral cortex . Z.
+7796181	[u"arrow in (C) indicates the' cell body of a non-pyramidal neuron."]
+7727598	view, permitting the identification of the pyramidal neuron (N) with its apical dendrite (D).
+21671257	dendrites and synapses in rat hippocampal pyramidal neuron cultures.
+21714104	Dendritic spines in Layer 5 pyramidal neuron were revealed by Golgi stain (E).
+21795539	characteristic of the apical dendrite of a large pyramidal neuron.
+21710546	Example of a typical pyramidal neuron in Layer III of PrS.
+21538461	Representative images of ER structure of a pyramidal neuron dendrite.
+21538461	Representative images of ER structure of a pyramidal neuron dendrite.
+22262829	Single I channels in pyramidal neuron h dendrites: properties, distribution, and impact on action potential
+22291029	distribution of EPSCs recorded from a layer II/III pyramidal neuron.
+9661296	interference optical photomicrograph of the pyramidal neuron is exhibited in Figure 2B.
+16289054	The pyramidal neuron of the cerebral cortex: morphological and chemical characteristics of the synaptic
+16648453	of h-channels reduces the excitability of pyramidal neuron dendrites.
+16306229	microscope image of a representative layer V pyramidal neuron.
+16675397	of the pSR, dSR, and SLM depicted on a CA1 pyramidal neuron.
+16675397	The small pyramidal neuron of the rat cerebral cortex: The synapses upon dendritic spines.
+17094147	opposite effects on the quantal amplitude of pyramidal neuron and interneuron excitatory synapses.
+21092863	Single Ih channels in pyramidal neuron dendrites: Properties, distribution, and impact on action potential
+21068267	accompanied by an enhanced local excitability of pyramidal neuron dendrites.
+9453667	and I.R. Kaiserman-Abramof (1970) The small pyramidal neuron of the rat cerebral cortex.
+9582221	examples of complex EPSCs recorded in another CA3 pyramidal neuron.
+15579216	identified two morphological types of efferent pyramidal neuron.
+15328038	cognition and the cell: new insights into the pyramidal neuron and prefrontal function, Cereb.
+12788505	in contact with the cell membrane of a CA3 pyramidal neuron.
+12832547	Other neurons innervated by this pyramidal neuron would also be affected.
+14668442	4. (A) Low-power micrograph of a pyramidal neuron in the Lm.
+14623354	retrograde signaling at interneuron right-arrow pyramidal neuron synapses of the neocortex.
+15276889	rapid retrograde signaling at interneuron \u2192 pyramidal neuron synapses of the neocortex, J. Neurophysiol
+15297713	B-F, High magnification image of a pyramidal neuron double-labeled with NeuN 2A\u2013C).
+15071113	and constitutively active transfected CA1 pyramidal neuron (arrow).
+15054070	(A, B, C) Selection of a pyramidal neuron with complete transport of DiI in dendritic processes.
+15198680	4 TUNEL staining of hippocampal CA1 pyramidal neuron six days after 5 min ischemic damage.
+15128754	stratum lacunosum moleculare inhibits CA1 pyramidal neuron firing.
+15306631	from an intracellularly recorded neocortical pyramidal neuron.
+15488485	Proskauer, I.R. Kaiserman-Abramof, The small pyramidal neuron of the rat cerebral cortex.
+18031681	(B) Distal segments of WT and KO layer V pyramidal neuron dendrites in layer II/III.
+17942540	(A) Axon of a pyramidal neuron containing swollen mitochondria (arrowhead) that correspond with areas
+18203691	retrograde signaling at interneuron right-arrow pyramidal neuron synapses of the neocortex.
+18256021	The triangular cell body of a Kv1.6-positive pyramidal neuron; star marks its nucleus.
+11717344	E, A cortical pyramidal neuron from an H D mouse with a disoriented apical dendrite (arrow).
+11876488	C: Modified pyramidal neuron - subtype single apical in the basal amygdaloid nucleus.
+12031404	opposite e\xa1ects on the quantal amplitude of pyramidal neuron and interneuron excitatory synapses.
+12009507	A Golgi-Cox stained pyramidal neuron in layer V of the anterior cingulate cortex is shown.
+12526996	Topography of pyramidal neuron intrinsic connections in macaque monkey prefrontal cortex (areas 9 and
+12451117	B1, Response of a pyramidal neuron to a 1 sec depolarizing current pulse.
+12533604	traces are evoked currents recorded from a BLA pyramidal neuron (holding potential, 10 mV).
+12606677	 a montage of CCD images of a typical PFC pyramidal neuron labeled intracellularly with biocytin.
+12612049	shuffling-corrected cross-correlogram between the putative pyramidal neuron (cluster 1, Fig.
+12617936	(B) High magnification of an immunoreactive pyramidal neuron in layer V of the parietal cortex.
+12615642	groups and correlated with volumecorrected pyramidal neuron densities.
+7026738	GABA-mediated inhibitory responses in a CA1 pyramidal neuron.
+6856084	& Kaiserman-Abramof I. R. (1970) The small pyramidal neuron of rat cerebral cortex.
+9128169	Retrograde filling of a cortical pyramidal neuron by biotin-dextran amine.
+9271194	(B) Cell body of a pyramidal neuron in layer III stained for CB  CR combination.
+8848172	Key words: pyramidal neuron, medium-spiny projection neuron, corticostriatal projection neuron, interneuron
+9037477	most heavily immunostained cell type was the pyramidal neuron of CA3.
+9314026	This pyramidal neuron action potential 80 mV, membrane potential 80 mV.
+9276177	While one pyramidal neuron excited another\r\npyramidal neuron with a depressing synaptic connection, the', u'the same pyramidal neuron excited an interneuron with a facilitation synaptic connection (same axon;', u'interneuron keeps integrating the rates of the pyramidal neuron long after the signaling onto the pyramidal
+9316201	* This type of pyramidal neuron was selected for quantitative evaluation of the dendritic parameters
+9183700	D: Photomicrograph of a pyramidal neuron (p) in the cell layer of the dorsomedial cortex.
+9362459	The two classes of pyramidal neuron mingle in the small transitional field, CA2.
+18097401	Locally dynamic synaptic learning rules in pyramidal neuron dendrites\r\nChristopher D.
+18241840	Arrow indicates a strongly labeled pyramidal neuron with silver grains surrounding the (lightly stained)
+18270515	Two spine-studded dendrites of a stained CA1 pyramidal neuron.
+18270515	cognition and the cell: new 12. insights into the pyramidal neuron and prefrontal function.
+18270515	The pyramidal neuron of the 17. cerebral cortex: morphological and chemical characteristics of the synaptic
+18250082	The pyramidal neuron of the cerebral cortex: morphological and chemical characteristics of the synaptic
+18067146	Horizontal distribution of pyramidal neuron sag ratio in the CA1 and subiculum of the ventral hippocampus
+1311033	proteins might in turn induce enduring changesin pyramidal neuron excitability through other mechanismsA.
+10399937	opposite effects on the quantal amplitude of pyramidal neuron and interneuron excitatory synapses.
+10592306	A degenerating pyramidal neuron from CA3 hippocampal area of an ADX rat.
+10407131	Biocytin-filled layer IIrIII m pyramidal neuron whose physiology is shown in i. and ii..
+21044397	and Kaiserman-Abramof I.R. (1970) The small pyramidal neuron of the rat cerebral cortex.
+22884625	B1, APs recorded from a CA1 pyramidal neuron before, during and after the application of AVP.
+22961480	4 a Electron micrograph of a typical CA1 pyramidal neuron in control group.
+21982080	Peters A, Kaiserman-Abramof IR: The small pyramidal neuron of the rat cerebral cortex.
+2573073	3a shows an example of a Golgi-identified pyramidal neuron in layer III of prefrontal cortex.
+2568156	A. and Kaiserman-Abramof, I.B., The small pyramidal neuron of the rat cerebral cortex.
+23028353	DA, Dobrenis K (1995) GM2 ganglioside and pyramidal neuron dendritogenesis.
+23428745	Strong CA2 pyramidal neuron synapses define a powerful disynaptic cortico-hippocampal loop.
+23365245	we examined LTP at Schaffer collateral-CA1 pyramidal neuron synapses.
+21048119	Pyramidal neuron activity is tightly controlled by local interneurons, and GABAergic modulation strongly
+20812293	axons of presynaptic neurons (green) and a pyramidal neuron (magenta).
+16987220	Determinants of voltage attenuation in neocortical pyramidal neuron dendrites.
+16956990	Camera lucida drawings of the recorded pyramidal neuron are shown with designations of the cortical layers
+17188316	carbofuran (1.5 mg/kg, sc) on hippocampal pyramidal neuron from CA1 sector.
+17234600	Peters A, Kaiserman-Abramof IR (1970) The small pyramidal neuron of the rat cerebral cortex.
+17180162	measured by whole-cell recording from a CA1 pyramidal neuron.
+17360680	in a control posthearing L5 auditory cortex pyramidal neuron.
+17013928	Analysis of pyramidal neuron morphology in an inducible knockout of brain-derived neurotrophic factor
+17316957	cognition and the cell: new insights into the pyramidal neuron and prefrontal function.
+17291374	opposite effects on the quantal amplitude of pyramidal neuron and interneuron excitatory synapses.
+17202430	deficient in LTP at Schaffer collaterals to CA1 pyramidal neuron synapses.
+17926125	of synaptic input patterns (SIPs) for the pyramidal neuron templates.
+17670990	Determinants of voltage attenuation in neocortical pyramidal neuron dendrites.
+17713467	Medium spiny neuron Neural precursor Pyramidal neuron Migrating neuroblast Granule neuron\r\nCC\r\n1.
+17805559	The ELL pyramidal neuron generates burst spikes in response to the upstroke of EOD AM.
+17596455	A, Example of a neurobiotin-filled layer V pyramidal neuron recorded in lateral EC.
+21269340	whole-cell current-clamp recordings from a CA3 pyramidal neuron.
+19440371	morphological properties of a typical LIII mEC pyramidal neuron.
+19798746	light responses of a GO-expressing layer V pyramidal neuron.
+19798746	light responses of a GO-expressing layer V pyramidal neuron.
+19269280	Effects of thyroid status on CA3 hippocampal pyramidal neuron morphology in the adult rat.
+19812239	firing pattern typical of a regular-spiking pyramidal neuron.
+19817869	is clearly observed in the cytoplasm of a pyramidal neuron in brain cortex.
+19793984	runs across the ErbB4-negative (presumably pyramidal) neuron.
+19777555	h-channels selectively reduces the excitability of pyramidal neuron dendrites.
+21835347	cell dendrites was very different from CA1 pyramidal neuron dendrites.
+21835347	Identical experimental protocol for the CA1 pyramidal neuron as depicted in (B).
+22365550	representative image shows a Golgi-labeled CA1 pyramidal neuron (J).
+2085783	iontophoretic pipette in close proximity to a pyramidal neuron.
+3346731	the labels contained by this transplanted pyramidal neuron.
+2896764	A, Intracellular recording from a CA1 pyramidal neuron showing the response to stimulation of str.
+7823136	correlates of high-frequency oscillation in a CA1 pyramidal neuron.
+16299501	accompanied by an enhanced local excitability of pyramidal neuron dendrites.
+16297564	example of a nondifferential TP-responsive pyramidal neuron.
+7472524	In A, asterisk indicates a pyramidal neuron not expressing GAT-1 mRNA.
+17245443	ATPA (3 \u03bcM) modulation of sIPSCs in a BLA pyramidal neuron.
+17245443	LY293558 (30 \u03bcM) modulation of sIPSCs in a BLA pyramidal neuron.
+17669373	Intracellular responses of a supragranular pyramidal neuron elicited by local TS in normal medium.
+20646057	Locally dynamic synaptic learning rules in pyramidal neuron dendrites.
+17574696	of a typical mechanically dissociated CA3 pyramidal neuron.
+17690183	[u"A: A pyramidal neuron in the Ammon's horn contains numerous fibrillary inclusions in its cytoplasm."]
+17717695	A star pyramidal neuron, 720 lm from the pial thalamic neuron (Thalamus) during whisker stimulation (Whisker)
+17599696	(D) Image of a pyramidal neuron with the vertical nucleator probe of the system used.
+17717185	interference contrast image showing the recorded pyramidal neuron and the stimulation electrode (left).
+12270698	cortex showing intranuclear aggregation in a pyramidal neuron.
+12196583	A, Representative trace from a heterotopic pyramidal neuron during somatic GABA application (5 mM).
+11793343	A: Low-power picture of the profile of a pyramidal neuron.
+10713354	Progressive atrophy of pyramidal neuron dendrites in autoimmune MRL-lpr mice. J. Neuroimmunol.
+10805668	spontaneous GABA activity recorded from the pyramidal neuron.
+10719152	of GluR5,6,7 subunit expression on apical pyramidal neuron PN.
+14563380	significant difference is for N200 labelled pyramidal neuron density in lamina III (P=0.016).
+15548558	The pyramidal neuron of the cerebral cortex: morphological and chemical characteristics of the synaptic
+7983539	The small pyramidal neuron of the rat cerebral cortex: the synapses upon dendritic spines.
+15498810	of h-channels reduces the excitability of pyramidal neuron dendrites.
+15571973	immunoreactivity localizes mainly at the cytosol of the pyramidal neuron.
+15502991	Fig. 12 A Morphology of a pyramidal neuron tested in cellattached mode.
+20797429	development of synaptic structure proteins in pyramidal neuron axon initial segments in monkey prefrontal
+20865744	A: Typical responses of a hippocampal CA1 pyramidal neuron under voltage-clamp conditions.
+17603809	the effect of the D2 agonist quinpirole on pyramidal neuron EPSP amplitude.
+17603809	the effect of the D2 agonist quinpirole on pyramidal neuron EPSP amplitude.
+20502952	The same passive layer-5 pyramidal neuron as in the upper panels of Fig.
+20659435	accompanied by an enhanced local excitability of pyramidal neuron dendrites.
+17591597	distal apical dendritic segment of a layer 3 pyramidal neuron.
+17395630	Single Ih channels in pyramidal neuron dendrites: properties, distribution, and impact on action potential
+16814555	Ki-67-positive cells were found within the pyramidal neuron Fig.
+16844310	may explain the high threshold exhibited by pyramidal neuron firing in this field.
+16844716	commissural neurons is the sparsely ramified pyramidal neuron.
+16806988	Golgi-stained section demonstrating pyramidal neuron architecture within the CA1 region of rat hippocampus
+16673115	a Pyramidal neuron (1, 2) showing folded N with early cytoplasmic alterations.
+16135760	homoquinolinic acid-evoked currents in a CA3 pyramidal neuron from a P27 rat.
+18973556	(A) A layer V pyramidal neuron was utilized for the simulations.
+19126760	Brief trains of action potentials enhance pyramidal neuron excitability via endocannabinoid-mediated
+19115392	accompanied by an enhanced local excitability of pyramidal neuron dendrites.
+18319639	Inhibition of autophagy prevents hippocampal pyramidal neuron death after hypoxic-ischemic injury.
+18045998	the somatic region of a bis-fura-2\u2013filled pyramidal neuron.
+18632738	activity selectively in dNIB but not NIB mPFC pyramidal neuron subtypes.
+18622400	addition, the thin GFP-positive axons (B0.1 to pyramidal neuron.
+18760364	Inhibition of autophagy prevents hippocampal pyramidal neuron death after hypoxic\u2013ischemic injury.
+18683240	Changes of pyramidal neuron excitability response to 5 lM lead under different calcium states.
+18683240	Changes of pyramidal neuron excitability response to 5 lM lead under different calcium states.
+16613883	A model of a CA3 hippocampal pyramidal neuron incorporating voltage-clamp data on intrinsic conductances
+18971460	A, Drawing of pyramidal neuron dendrites (red) and axons (blue) as well as laminar boundaries (green)
+18996146	opposite effects on the quantal amplitude of pyramidal neuron and interneuron excitatory synapses.
+18287532	Analysis of pyramidal neuron morphology in an inducible knockout of brain-derived neurotrophic factor
+18325012	Pyramidal neuron pyknosis and TGF-\u03b2 expression correlate with seizure activity in the hippocampus.
+19524554	the pial surface for robust estimation of pyramidal neuron number.
+20027606	accompanied by an enhanced local excitability of pyramidal neuron dendrites.
+20308989	immunoreactivity in the apical dendrite of a pyramidal neuron, (i) white matter.
+20399256	Each pyramidal neuron was thoroughly impregnated and clearly distinguishable from other cells.
+19657040	membrane potential of a wild-type layer 2/3 pyramidal neuron.
+19752121	contrast, IPSCs occurred 18.2 \xb1 2.0 ms after pyramidal neuron spiking (Fig. 9C).
+19668702	curves are reliable predictors of naturalistic pyramidal-neuron voltage traces.
+19661433	(D) Reconstruction of a biocytin-filled L5 pyramidal neuron showing the experimental setup.
+19661433	(A) Reconstruction of biocytin-filled L5 pyramidal neuron showing the experimental setup.
+20590535	ab, antibody; PN, pyramidal neuron; BN, brain stem neuron; IN, interneuron; MN, motoneuron.
+19907494	network model consisted of a four-compartment pyramidal neuron and an inhibitory interneuron.
+20043887	The pyramidal neuron of the cerebral cortex: morphological and chemical characteristics of the synaptic
+19950283	Progressive atrophy of pyramidal neuron dendrites in autoimmune MRL-lpr mice.
+20020356	Keywords Pyramidal neuron Cortical column Receptive field Hippocampus Semantic memory Episodic memory\r
+20336631	retrograde signaling at interneuron right-arrow pyramidal neuron synapses of the neocortex.
+20138375	Thus, a pyramidal neuron can detect and register the synchronous firing of neuronal assemblies.
+20187150	The pyramidal neuron of the cerebral cortex: morphological and chemical characteristics of the synaptic
+20164355	Properties of CB R-containing interneuron to CA1 pyramidal neuron pairs.
+20164328	studies on APP mice have failed to detect pyramidal neuron number and layer volume.
+21305364	3 Basal dendritic arbor of a pyramidal neuron from the secondary motor cortex.
+21795621	Determinants of voltage attenuation in neocortical pyramidal neuron dendrites.
+21822270	of action-potential backpropagation in CA1 pyramidal neuron dendrites.
+21471392	A: a representative trace from a pyramidal neuron displayed on a slow time base.
+21471392	C: NMDA-induced responses in a pyramidal neuron were recorded at 35\xb0C.
+21562095	Action potentials in a single CA1 pyramidal neuron evoked by current injection into the cell.
+21511008	accompanied by an enhanced local excitability of pyramidal neuron dendrites, Nat.
+21584774	Single Ih channels in pyramidal neuron dendrites: Properties, distribution, and impact on action potential
+21310226	cortical responses to neonatal deafening: pyramidal neuron spine loss without changes in growth or orientation
+21463668	recorded spike-elicited IPSCs are recorded in the pyramidal neuron.
+21525331	Inhibition of autophagy prevents hippocampal pyramidal neuron death after hypoxicischemic injury.
+21676499	[u"Keywords: Alzheimer's disease; Hippocampus; Pyramidal neuron; Intracellular calcium; Abeta; Beta-amyloid;"]
+21880656	The pyramidal neuron of the cerebral cortex: morphological and chemical characteristics of the synaptic
+22829759	were performed from the soma of a layer 5 pyramidal neuron.
+22814840	cognition and the cell: new insights into the pyramidal neuron and prefrontal function.
+22796599	using intracellular recordings from single CA1 pyramidal neuron.
+22644869	The pyramidal neuron of the cerebral cortex: Morphological and chemical characteristics\r\nof the synaptic
+22654759	retrograde signaling at interneuron right-arrow pyramidal neuron synapses of the neocortex.
+22723679	discharge patterns similar to the recorded pyramidal neuron.
+21867874	Shown on the left is a schematic of a cortical pyramidal neuron with its different compartments.
+22275221	Locally dynamic synaptic learning rules in pyramidal neuron dendrites.
+22383041	a A biocytin-filled layer 3 pyramidal neuron and its Neurolucida reconstruction.
+22383041	a Biocytin-filled layer 5 pyramidal neuron and its Neurolucida reconstruction.
+19347031	Inhibition of autophagy prevents hippocampal pyramidal neuron death after hypoxic-ischemic injury.
+19298597	Microphotograph of the recording pyramidal neuron labeled by biotinylated dextran amine (BDA).
+20691759	Peters, I.R. Kaiserman-Abramof, The small pyramidal neuron of the rat cerebral cortex.
+18402929	The pyramidal neuron of the cerebral cortex morphological and chemical characteristics of the synaptic
+20448481	Arrow in (g) indicates Hic-5 in a pyramidal neuron that lacks NFTs (g\u2013i).
+16420458	traces from an intracellular recording of a pyramidal neuron.
+12465053	immunohistochemistry in the premotor cortex showing a pyramidal neuron of normal morphology.
+16527421	1 shows a labeled subicular pyramidal neuron that has the membrane resonance.
+16407122	Representative layer 5 pyramidal neuron used for AP measurement by FM 4-64 SHG.
+19640959	34. Bartesaghi R, Ravasi L. Pyramidal neuron types in field CA2 of the guinea pig.
+18716222	The injection of an anti-Gh h a CA1 pyramidal neuron.
+20080551	NRG1, via increasing GABA release, regulates pyramidal neuron activity.
+20080772	Determinants of voltage attenuation in neocortical pyramidal neuron dendrites.
+17636549	(D) DiI-labeled pyramidal neuron in layer III of entorhinal cortex.
+20505083	Recordings were performed on GFPpositive cells with pyramidal neuron-like morphology (Fig. 5B).
+20661613	boxed area (enlarged in inset) shows a typical pyramidal neuron.
+16423442	depression at hippocampal mossy fiber-CA3 pyramidal neuron synapses.
+16320250	first cell type is the tall-tufted layer 5 pyramidal neuron.
+16320250	cell type is the tall, simpletufted layer 5 pyramidal neuron.
+16400660	gp120-Induced neurotoxicity in hippocampal pyramidal neuron cultures: protective action of TGF-beta1.
+16387640	retrograde signaling at interneuron right-arrow pyramidal neuron synapses of the neocortex.
+16533575	Whole-cell voltage-clamp recording from CA1 pyramidal neuron upon Schaffer collateral stimulation.
+11102503	Morphological and physiological properties of a pyramidal neuron in dysplastic cortex.
+19204724	[u"(Inset (d)) Sholl's analysis of a typical pyramidal neuron of BLA."]
+18391179	of h-channels reduces the excitability of pyramidal neuron dendrites.
+18391179	opposite effects on the quantal amplitude of pyramidal neuron and interneuron excitatory synapses.
+18391179	of action-potential backpropagation in CA1 pyramidal neuron dendrites.
+18391179	Locally dynamic synaptic learning rules in pyramidal neuron dendrites.
+19877495	tree and dendritic spines on a prototypic pyramidal neuron.
+20427657	Locations of other patched pyramidal neuron somata are indicated with crosses.
+19020204	Representative phase-contrast images of an autaptic pyramidal neuron (B1) and an autaptic interneuron (B2).
+19643506	Eventually they form excitatory (+) synapses with pyramidal neuron dendrites (dark grey).
+19499316	(3) is only applied to the excitatory pyramidal neuron population of the cortex.
+19626000	may potentiate the GABA receptor to suppress pyramidal neuron firing B by stimulating nAChR (A).
+19474316	A, Image of a layer 5 pyramidal neuron filled with voltage-sensitive dye.
+19631671	expression of GABAAR a2 subunit at chandelier-pyramidal neuron AIS synapses in schizophrenic patients.
+20463853	Locally dynamic synaptic learning rules in pyramidal neuron dendrites.
+20434527	(B) Recording of layer V pyramidal neuron synaptic responses after stimulation of layer I-II fibers.
+20888362	Locally dynamic synaptic learning rules in pyramidal neuron dendrites.
+19631687	effects of environmental enrichment on the pyramidal neuron morphology of the rats.
+20471408	effects of environmental enrichment on the pyramidal neuron morphology of the rat.
+21409556	calculated by linear superposition of the single pyramidal-neuron templates.
+21438687	opposite effects on the quantal amplitude of pyramidal neuron and interneuron excitatory synapses.
+21324317	opposite effects on the quantal amplitude of pyramidal neuron and interneuron excitatory synapses.
