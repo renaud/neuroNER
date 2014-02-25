@@ -1,0 +1,4 @@
+PACKAGE neuroner;
+
+DECLARE Neuron;
+

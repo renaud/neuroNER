@@ -1,0 +1,2 @@
+Handling accumulated internal Cl- at inhibitory synapses.
+A study in this issue finds that under conditions of intense activity at specific inhibitory synapses, the voltage gated Cl- channel CIC-2 is vital for allowing efflux of accumulated internal Cl-.
