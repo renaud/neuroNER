@@ -1,0 +1,953 @@
+# sample sentences containing the word 'cell' (regex cells?\W), generated from the neurelectro abstracts
+# renaud 20140403
+Differential expression of the mRNA for the vanilloid receptor subtype 1 in *cells* of the adult rat dorsal root and nodose ganglia and its downregulation by axotomy.
+We show that this receptor is almost exclusively expressed by neurofilament-negative small- and medium-sized dorsal root ganglion *cells*.
+Within this population, VR1 mRNA is detected at widely varying levels in both the NGF receptor (trkA)-positive, peptide-producing *cells* that elicit neurogenic inflammation and the functionally less characterized glial *cell* line-derived neurotrophic factor-responsive *cells* that bind lectin Griffonia simplicifolia isolectin B4 (IB4).
+*Cells* without detectable levels of VR1 mRNA are found in both classes.
+A subpopulation of the IB4-binding *cells* that produce somatostatin has relatively low levels of VR1 mRNA.
+A previously uncharacterized population of very small *cells* that express the receptor tyrosine kinase (RET) and that do not label for trkA or IB4-binding has the highest relative levels of VR1 mRNA.
+Axotomy results in the downregulation of VR1 mRNA in dorsal root ganglion *cells*.
+(Cupressaceae) inhibits omega-Aga-IVA-sensitive Ca2+ channels in rat brain synaptosomes and cerebellar Purkinje *cells*.
+Using the whole-*cell* patch clamp electrophysiological technique, we further demonstrated that alpha-eudesmol concentration-dependently inhibited omega-Aga-IVA-sensitive Ca2+ channel currents recorded from Purkinje *cells* with an IC50 value of 3.6 microM.
+On the other hand, alpha-eudesmol also displayed an inhibitory effect on N-type Ca2+ channel currents recorded from differentiated NG108-15 *cells* with an IC50 value of 6.6 microM.
+Specific alteration of spontaneous GABAergic inhibition in cerebellar purkinje *cells* in mice lacking the potassium channel Kv1. 1.
+In the cerebellum, the basket *cell* innervation on Purkinje *cells* provides a major GABAergic inhibitory control of the single efferent output from the cerebellum.
+The Shaker-type K channel Kv1.1 is localized at the axon arborization preceding the terminal of the basket *cells* and is therefore a potential candidate for regulating the GABAergic inhibition.
+Whole-*cell* patch-clamp recordings of spontaneous IPSCs (sIPSCs) were made from Purkinje *cells* in thin cerebellar slices from postnatal day (P)10-15 Kv1.1-null mutants using wild-type littermates as controls.
+Spontaneous firing rate of the basket *cells* is unaltered.
+We conclude that the Kv1.1 null mutation results in a persistent elevation of the tonic inhibitory tone on the cerebellum Purkinje *cell* efferent and that this is not fully compensated for by residual Shaker-type channels.
+At the cellular level, we propose that Kv1.1 deletion enhances excitability of the basket *cells* by selectively enhancing the likelihood of action potential propagation past axonal branch points.
+Neonatal serotonin (5-HT) depletion or 5-HT1a receptor blockade results in a significant and permanent reduction in the number of dentate granule *cell* dendritic spines.
+Morphologic investigation of rolling mouse Nagoya (tg(rol)/tg(rol)) cerebellar Purkinje *cells*: an ataxic mutant, revisited.
+No specific light and electron microscopic findings have been reported for the rolling mouse cerebellum except a decreased number of granule *cells*, while altered Purkinje *cell*/parallel fiber synapses have been observed in tottering and leaner cerebella.
+Rolling mouse cerebella were analyzed using anti-calbindin-D immunohistochemistry and transmission electron microscopy to investigate Purkinje *cell* morphology and synaptic contacts between Purkinje *cell* dendritic spines and parallel fiber varicosities.
+Multiple Purkinje *cell* dendritic spines synapsing with single parallel fiber varicosities were frequently observed in rolling cerebella.
+The correlation between the presence of altered Purkinje *cell* synapses and ataxia in rolling mice warrants further investigation.
+Ionic currents and current-clamp depolarisations of type I and type II hair *cells* from the developing rat utricle.
+Based upon morphological criteria, the sensory *cells* examined were divided into two classes, "type I" and "type 2 category," the latter of which may include some immature type I *cells*.
+Type II category hair *cells* formed a more heterogeneous population, exhibiting a distinct TEA-sensitive delayed rectifier potassium conductance; the rapidly activating and inactivating IA; an inward rectifier; and inward sodium currents at around PN3.
+Both *cell* types depolarised strongly in response to injected currents, with time courses reflecting the activation kinetics of their major outward conductances.
+The roles of free Mg2+ ions, ATP4- ions and Mg-ATP complexes in the regulation of N- and L-types of Ca2+ channels were studied in frog dorsal root ganglion (DRG) neurons using the whole-*cell* patch-clamp technique.
+We hypothesized that abnormal activity and adrenergic sensitivity in injured dorsal root ganglion (DRG) neurons are due to an intrinsic alteration of the *cell* body membrane.
+Using whole-*cell* patch clamp techniques, we found that alpha2-adrenergic stimulus by 10 microM norepinephrine (NE) inhibited inward currents (IBa, Ba2+ as a charge carrier) through voltage-dependent Ca2+ channels (VDCCs) of DRGs in the CCI model by 42%, whereas it enhanced the IBa by 18% in control animals.
+The NE-induced inhibitory effects both on N-type VDCC and on KCa channels in injured DRG neurons of the CCI model could lead to *cell* membrane depolarization, resulting in a spontaneous discharge of action potential and an increase in sensitivity to adrenergic stimulus.
+Mast *cells* are considered important components in the action of NGF, because prior degranulation abolishes the early NGF-induced component of hyperalgesia.
+Substances degranulated by mast *cells* include serotonin, histamine, and NGF.
+To determine whether NGF has a direct effect on dorsal root ganglion neurons, we have begun to investigate the acute effects of NGF on capsaicin responses of small-diameter dorsal root ganglion *cells* in culture.
+Because brain-derived neurotrophic factor is up-regulated in trkA positive *cells* after inflammatory injury and is transported anterogradely, we consider it to be a potentially important peripheral component involved in neurotrophin-induced hyperalgesia.
+Frequency tuning of cochlear hair *cells* by differential splicing of BK channel transcripts.
+In *cell*-attached patch recordings BK channel opening was enhanced by a prepulse permissive for calcium influx through the patch, suggesting that the channel can be activated by calcium ion influx through neighbouring calcium channels.
+The deformation evoked elevation in [Ca2+]i from 18.7 +/- 5.4 nM (mean +/- S.E.M., n = 35) to 137.1 +/- 15.2 nM in some subpopulations of *cells*, especially those larger than 20 microm in diameter.
+The largest mechanosensitive *cell* group was that of *cells* 20-25 microm in diameter; 56% of the mechanosensitive *cells* were of this *cell* size.
+All of the *cells* larger than 25 microm in diameter displayed the Ca2+ increase when prodded.
+A *cell* cycle alteration precedes apoptosis of granule *cell* precursors in the weaver mouse cerebellum.
+We investigated whether a disruption of the *cell* cycle precedes the failure of migration and axonogenesis and leads to massive apoptosis.
+In +/+ and wv/+ mice, the expression of *cell* cycle proteins was limited to the outer, premigratory zone of the EGL.
+Antibodies to p27, a marker of *cell* differentiation, gave a reverse staining pattern.
+Due to migration delay, patches of p27-positive *cells* persisted in the outer EGL in P21 wv/+ mice.
+On the contrary, marked *cell* cycle up-regulation and absence of p27 occurred throughout the EGL at all ages in wv/wv mice, indicating an inability to switch off the *cell* cycle.
+Mitotic index evaluation showed that *cell* cycle activation was unrelated to proliferative events.
+*Cell* cycle proteins were not expressed in the substantia nigra, suggesting that nonapoptotic death of mature dopaminergic neurons is not preceded by abortive *cell* cycle re-entry.
+Our data show that abnormalities of the *cell* cycle in wv/wv cerebellum represent a major and early consequence of GIRK2 channel malfunction and may strongly influence the susceptibility of EGL *cells* to apoptosis.
+Most pallidal neurons are GABAergic projecting *cells*, a large fraction of which express the calcium binding protein parvalbumin (PV).
+Electrophysiological analysis of freshly dissociated pallidal neurons demonstrates that these *cells* have a current that is nearly identical to the currents expressed by Kv3.1 and Kv3.2 proteins in heterologous expression systems, including activation at very depolarized membrane potentials (more positive than -10 mV) and very fast deactivation rates.
+Binding of basic fibroblast growth factor (bFGF) and *cell* adhesion molecules to the nerve *cell* membrane promotes axon outgrowth.
+This response can be blocked by antagonists of voltage-gated calcium channels, yet no change of cytosolic calcium concentration in the growth cone can be detected upon binding of the growth factor bFGF or the *cell* adhesion molecule L1.
+L1 does not activate influx in *cells* expressing a dominant negative mutant of the fibroblast growth factor receptor (FGFR) tyrosine kinase.
+Time course and temperature dependence of allethrin modulation of sodium channels in rat dorsal root ganglion *cells*.
+Key effects of the pyrethroid insecticide allethrin, delivered to or washed out from *cells* at 10 or 100 microM in 0.1% DMSO, on neuronal Na(+) channel currents were studied in rat dorsal root ganglion (DRG) *cells* under whole-*cell* patch clamp.
+On application of 10 or 100 microM allethrin to *cells* with TTX-R Na(+) channels, the Na(+) tail current during repolarization developed a large slowly decaying component within 10 min.
+However, at low temperature, the tail is more prolonged, bringing more Na(+) ions into a *cell*.
+Ethanol enhanced function of cerebellar granule *cell* GIRKs coupled to GABAB receptors.
+Co-localization of Shaker A-type K+ channel (Kv1.4) and AMPA-glutamate receptor (GluR4) immunoreactivities to dendrites of OFF-bipolar *cells* of goldfish retina.
+Kv1.4-immunoreactivity (IR) was restricted to a very narrow band of bright puncta and filamentous processes in the outer plexiform layer (OPL), whereas GluR4-IR was found in radial processes of Müller *cells* in addition to a narrow band in the OPL.
+Kv4.2-IR was most prominent over *cell* bodies of horizontal *cell*, amacrine *cells* and ganglion *cells*, with very weak labeling over the synaptic terminal of cone photoreceptors.
+Electron microscopical immunocytochemistry showed that Kv1.4-IR and GluR4-IR were restricted to the dendrites of OFF-bipolar *cells* that innervated cone photoreceptor terminals and thin processes that coursed between the rod and cone terminals in the OPL.
+The underlying mechanisms leading to this 90% *cell* death are not fully understood, but oxidative stress and a substantial loss of neurotrophic support are likely to be involved.
+Hypoxia and mechanical trauma, which are unavoidable during tissue preparation, may be a trigger for *cell* death.
+Recent studies have provided evidence that the type of *cell* death occurring is, to a large extent, apoptotic.
+Flunarizine is an antagonist of L-, T- and N-type calcium channels, which permits calcium entry into *cells* via a voltage-dependent mechanism.
+Addition of 1 microM flunarizine inhibited *cell* death in a suspension of *cells* derived from the rat's ventral mesencephalon and when such a treated suspension was injected into the neostriatum there was a 2.6-fold greater number of surviving dopaminergic neurons, a doubling of the graft volume and a doubling of the volume of the host neostriatum innervated by dopaminergic fibers from the graft, compared with suspensions not exposed to flunarizine.
+Furthermore, rats injected with *cells* that had been exposed to flunarizine displayed a greater recovery of function in the amphetamine-induced rotation test.
+Tottering mouse motor dysfunction is abolished on the Purkinje *cell* degeneration (pcd) mutant background.
+Cellular abnormalities associated with the mutation include hyperarborization of brainstem nucleus locus ceruleus axons and abnormal expression of L-type calcium channels in cerebellar Purkinje *cells*.
+In contrast, removal of cerebellar Purkinje *cells* with the Purkinje *cell* degeneration (pcd) mutation by generation of tg/tg; pcd/pcd double mutant mice completely eliminated tottering mouse dystonia.
+Adenosine A1 receptors inhibit Ca2+ channels coupled to the release of ACh, but not of GABA, in cultured retina *cells*.
+The KCl-induced release of [3H]ACh, but not the release of [14C]GABA, was potentiated when adenosine A1 receptor activation was prevented by perfusing the *cells* with adenosine deaminase (ADA) or with 1,3-dipropyl-8-cycloentylxanthine (DPCPX).
+The changes in the [Ca2+]i induced by KCl depolarization, measured in neurite segments of single cultured *cells*, were also modulated by endogenous adenosine, acting on adenosine A1 receptors.
+VR1-immunopositive *cells* also were found in the third and fifth layers of human parietal cortex.
+Abnormal CAG repeat expansion in the alpha1A voltage-dependent calcium channel gene is associated with spinocerebellar ataxia type 6, an autosomal dominant cerebellar ataxia with a predominant loss of the Purkinje *cell*.
+A reverse transcriptase-polymerase chain reaction analysis of mRNA from mouse Purkinje *cells* revealed a predominant expression of the alpha1A channel lacking an asparagine-proline (NP) stretch in the domain IV (alpha1A(-NP)).
+Human alpha1A channels carrying various polyglutamine length with or without NP were expressed in HEK293 *cells*, and channel properties were compared using a whole-*cell* voltage clamp technique.
+These results suggest that altered function of alpha1A(-NP) may contribute to degeneration of Purkinje *cells*, which express predominantly alpha1A(-NP), due to the reduced Ca(2+) influx resulting from the negative shift of voltage-dependent inactivation.
+It is concluded that both types had an outer hair *cell*/micro-mechanical abnormality, but that the DFNA 2 type might have an additional dysfunction at the level of the inner hair *cells*.
+They provide additional evidence for a secretory function and efferent role of these endings in hair *cell* neurotransmission.
+Whole-*cell* voltage-clamp techniques were used to investigate the capsaicin-, voltage- and time-dependent properties of the rat vanilloid receptor (rVR1) stably expressed in human embryonic kidney (HEK) 293 *cells*.
+At a holding potential of -70 mV, application of capsaicin (0.03-30 microM) to HEK 293 *cells* expressing the rVR1 receptor led to the appearance of inward currents (EC50, 497 nM; Hill coefficient, nH, 2.85) which were reversibly antagonized by 10 microM capsazepine.
+The calbindin-D28k phenotype of the pyramidal neurons appeared during the first 6 days in culture, and was expressed by 12% of the *cells* on day 6.
+Gating of Ca2+-activated K+ channels controls fast inhibitory synaptic transmission at auditory outer hair *cells*.
+Auditory outer hair *cells* present a unique inhibitory synapse that uses a Ca2+-permeable excitatory acetylcholine receptor to activate a hyperpolarizing potassium current mediated by small conductance calcium-activated potassium (SK) channels.
+Following bilateral carotid artery occlusion in gerbils, SB-221420-A significantly reduced the level of ischaemia-induced hyperlocomotor activity and the extent of hippocampal CA1 *cell* loss compared to the ischaemic vehicle-treated group.
+nNOS expression in reactive astrocytes correlates with increased *cell* death related DNA damage in the hippocampus and entorhinal cortex in Alzheimer's disease.
+The immunocytochemical distribution of the neuronal form of nitric oxide synthase (nNOS) was compared with neuropathological changes and with *cell* death related DNA damage (as revealed by in situ end labeling, ISEL) in the hippocampal formation and entorhinal cortex of 12 age-matched control subjects and 12 Alzheimer's disease (AD) patients.
+In contrast to controls, in all but one AD subject, large numbers of ISEL-positive neuronal nuclei and microglial *cells* were found in the CA1 and CA4 regions and subiculum.
+Semiquantitative analysis showed that neuronal DNA fragmentation in AD match with the distribution of nNOS-expressing reactive astroglial *cells* in CA1 (r = 0.74, P < 0.01) and CA4 (r = 0.58, P < 0.05).
+Whole *cell* recordings from acutely dissociated neocortical pyramidal neurons and striatal medium spiny neurons exhibited a calcium-channel current resistant to known blockers of L-, N-, and P/Q-type Ca(2+) channels.
+In both *cell* types, the R-type current activated at potentials relatively negative to other HVA currents in the same *cell* type and inactivated rapidly compared with the other HVA currents.
+The main difference between *cell* types was that R-type currents in neocortical pyramidal neurons inactivated at more negative potentials than R-type currents in medium spiny neurons.
+Ni(2+) sensitivity was not diagnostic for R-type currents in either *cell* type.
+Single-*cell* RT-PCR revealed that both *cell* types expressed the alpha1E mRNA, consistent with this subunit being associated with the R-type current.
+However, of the auxiliary subunits, beta1 is expressed preferentially in only large- and medium-diameter neurons of the DRG while beta2 is absent in all DRG *cells*.
+In situ hybridization studies demonstrated high levels of beta3 mRNA in small-diameter c-fibres, while beta1 mRNA was virtually absent in these *cell* types but was expressed in 100% of large-diameter neurons.
+Because TTX-R sodium channels have been shown to be important in nociception, the effects of GDNF on axotomized DRG neurons may have important implications for the regulation of nociceptive signaling by these *cells*.
+Here, we compared LT noxious heat-activated whole-*cell* currents produced by rat and chicken cultured dorsal root ganglion neurons in order to find out the similarities and differences in the LT noxious heat transduction mechanisms between the two species.
+No significant differences between rat and chicken neurons were found in the mean *cell* diameter of the LT noxious heat-sensitive *cells* (20.4+/-0.8 microm, n=19 and 20.6+/-0.6
+The current-voltage curves of the responses both in rat and chicken *cells* reversed at the same range (-19.5+/-3.8
+While all LT noxious heat-sensitive rat *cells* responded to capsaicin, none of the chicken neurons produced detectable response to it.
+Co-expression of K(ATP) channel subunits Kir6.2/SUR1 was observed in the retinal pigment epithelium, inner segments of photoreceptors, outer plexiform and ganglion *cell* layers and at the border of the inner nuclear layer.
+The greatest concentration of Kv1.2 was found in the basket *cell* axon plexus and terminal regions around the Purkinje *cells*.
+The somatodendritic Purkinje *cell* areas were intensely stained with anti-Kv1.5
+In the cerebellar nuclei, the *cell* bodies of cerebellar output neurons showed strong Kv1.5 and Kv1.6 immunoreactivities in the nucleus medialis, interpositus and lateralis.
+To provide a direct test of this hypothesis, we combined voltage-clamp studies of acutely isolated layer V-VI prefrontal pyramidal neurons with single-*cell* RT-PCR profiling.
+In the same *cells* the persistent component of the Na(+) current was unaffected by D(1)/D(5) receptor activation-suggesting that rapidly inactivating and persistent Na(+) currents arise in part from different channels.
+Single-*cell* RT-PCR profiling showed that pyramidal neurons coexpressed three alpha-subunit mRNAs (Nav1.1,
+Recombinant CYP2J9 was co-expressed with NADPH-cytochrome P450 oxidoreductase (CYPOR) in Sf9 *cells* using a baculovirus system.
+Microsomes of CYP2J9/CYPOR-transfected *cells* metabolize arachidonic acid to 19-hydroxyeicosatetraenoic acid (HETE) thus CYP2J9 is enzymologically distinct from other P450s.
+In situ hybridization of mouse brain sections with a CYP2J9-specific riboprobe and immunohistochemical staining with the anti-human CYP2J2 IgG reveals abundant CYP2J9 mRNA and protein in cerebellar Purkinje *cells*.
+Importantly, 19-HETE inhibits the activity of recombinant P/Q-type Ca(2+) channels that are known to be expressed preferentially in cerebellar Purkinje *cells* and are involved in triggering neurotransmitter release.
+Based on these data, we conclude that CYP2J9 is a developmentally regulated P450 that is abundant in brain, localized to cerebellar Purkinje *cells*, and active in the biosynthesis of 19-HETE, an eicosanoid that inhibits activity of P/Q-type Ca(2+) channels.
+In *cell*-free patches, the steady-state activation curve of HCN1 channels shows a minimal shift in response to cAMP (+4 mV), whereas that of HCN2 channels shows a pronounced shift (+17 mV).
+The properties of these heteromeric channels closely resemble the properties of I(h) in hippocampal CA1 pyramidal neurons, *cells* that coexpress HCN1 and HCN2.
+Finally, differences in Ih channel properties recorded in *cell*-free patches versus intact oocytes are shown to be due, in part, to modulation of Ih by basal levels of cAMP in intact *cells*.
+KCNQ1 can also co-assemble with KCNE3, and may be the molecular correlate of the cyclic AMP-regulated K(+) current present in colonic crypt *cells*.
+The KCNQ4 gene is thought to encode the molecular correlate of the I(K,n) in outer hair *cells* of the cochlea and I(K,L) in Type I hair *cells* of the vestibular apparatus, mutations in which lead to a form of inherited deafness.
+Compartmental models of rat cerebellar Purkinje *cells* based on simultaneous somatic and dendritic patch-clamp recordings.
+Simultaneous dendritic and somatic patch-clamp recordings were made from Purkinje *cells* in cerebellar slices from 12- to 21-day-old rats.
+The specific membrane capacitance (C(m)), specific membrane resistance (R(m)) and intracellular resistivity (R(i)) were optimized by direct fitting of the model responses to the electrophysiological data from the same *cell*.
+The steady-state electrotonic architecture of these *cells* was compact under the experimental conditions used.
+The detailed models were compared with a two-compartment model of Purkinje *cells*.
+The passive electrotonic structure of Purkinje *cells* is unusual in that the steady-state architecture is very compact, while voltage transients such as synaptic potentials and action potentials are heavily filtered.
+Neuronal *cell* loss was observed in all regions of the hippocampus of diseased patients, indicating that sclerosis had occurred.
+To quantify any changes in expression while allowing for *cell* loss, the sections were processed for liquid emulsion autoradiography and grain counts were performed on populations of individual neurones in different subregions.
+In contrast, a significant down-regulation of type II mRNA was observed in the epileptic tissue in the remaining pyramidal *cells* of CA3 (71+/-7% of control, P<0.01), CA2 (81+/-8% of control, P<0.05) and CA1 (72+/-6% of control, P<0.05) compared with control tissue.
+Additionally, a significant up-regulation in type III mRNA in epileptic CA4 pyramidal *cells* (145+/-7% of control, P<0.05) was observed.
+mRNA for TRAAK also was highest in the cortex, whereas expression of TREK-2 was primarily restricted to the cerebellar granule *cell* layer.
+There was widespread distribution of TWIK-1, with highest levels in the cerebellar granule *cell* layer, thalamic reticular nucleus, and piriform cortex.
+Pyramidal *cells* of the electrosensory lateral line lobe (ELL) of the weakly electric fish Apteronotus leptorhynchus have been shown to produce oscillatory burst discharge in the gamma-frequency range (20-80 Hz) in response to constant depolarizing stimuli.
+We present a detailed multi-compartmental model of an ELL basilar pyramidal *cell* to simulate somatic and dendritic spike discharge and test the conditions necessary to produce a burst output.
+The currents modeled are somatic and dendritic sodium and potassium involved in action potential generation, somatic and proximal apical dendritic persistent sodium, and K(V)3.3 and fast transient A-like potassium channels distributed over the entire model *cell*.
+Neuronal cannabinoid receptors (CB(1)) are coupled to inhibition of voltage-sensitive Ca(2+) channels (VSCCs) in several *cell* types.
+Action potential clamp protocols were used to investigate the effect of premature stimulation on HERG K(+) channels, transfected in Chinese hamster ovary *cells*, at 37 degrees C.
+Ca2+ transport properties and determinants of anomalous mole fraction effects of single voltage-gated Ca2+ channels in hair *cells* from bullfrog saccule.
+We studied the permeation properties of two distinct single voltage-gated Ca2+ channels in bullfrog saccular hair *cells* to assess the roles of the channels as physiological Ca2+ transporters and multi-ion pores.
+The present findings provide an explanation as to why previous whole-*cell* Ca2+ currents that were recorded in quasi-physiological Ca2+ concentrations (approximately 2-5 mM) showed clear AMFE, whereas single Ca2+ channel currents that were recorded routinely at high Ca2+ concentrations (20-110 mM) did not.
+Using a combination of in vivo electrophysiology, biochemistry, pharmacology, and immunohistochemistry, we found the following: (1) ERK phosphorylation, including phosphorylation of nuclear ERK, and ERK phosphotransferase activity are increased markedly, albeit transiently, after the induction of NMDA receptor-dependent LTD at the commissural input to area CA1 pyramidal *cells* in the hippocampus of anesthetized adult rats; (2) LTD-inducing paired-pulse stimulation fails to produce lasting LTD in the presence of the ERK kinase inhibitor SL327, which suggests that ERK activation is necessary for the persistence of LTD; and (3) ERK activation during LTD results in increased phosphorylation of Elk-1 but not of the transcription factor cAMP response element-binding protein.
+Migration patterns and phenotypic differentiation of long-term expanded human neural progenitor *cells* after transplantation into the adult rat brain.
+*Cells*, obtained from the forebrain of a 9-week old fetus, propagated in the presence of epidermal growth factor, basic fibroblast growth factor, and leukemia inhibitory factor were transplanted into the striatum, subventricular zone (SVZ), and hippocampus.
+At 14 weeks, implanted *cells* were identified using antisera recognizing human nuclei and the reporter gene green fluorescent protein.
+Different migration patterns of the grafted *cells* were observed: (i) target-directed migration of doublecortin (DCX, a marker for migrating neuroblasts)-positive *cells* along the rostral migratory stream to the olfactory bulb and into the granular *cell* layer following transplantation into the SVZ and hippocampus, respectively; (ii) non-directed migration of DCX-positive *cells* in the grey matter in striatum and hippocampus, and (iii) extensive migration of above all nestin-positive/DCX-negative *cells* within white matter tracts.
+In the hippocampus, *cells* differentiated primarily into interneurons both in the dentate gyrus and in the CA1-3 regions as well as into granule-like neurons.
+In the striatum and hippocampus, a significant proportion of the grafted *cells* differentiated into glial *cells*, some with long processes extending along white matter tracts.
+Although the survival time was over 3 months in the present study a large fraction of the grafted *cells* remained undifferentiated in a stem or progenitor *cell* stage as revealed by the expression of nestin and/or GFAP.
+An advantage of this species is the wide range of existing mutant strains and techniques to generate new mutations affecting specific *cell* types.
+Dendritic calcium currents carried by P-type voltage-activated calcium channels have been widely postulated to perform important computational functions in cerebellar Purkinje *cells*.
+Murine P-channel mutants such as rocker are ataxic, but have normal or near-normal numbers of cerebellar Purkinje *cells* and thus offer the opportunity to study the effects of biophysical perturbations as opposed to outright *cell* destruction or inactivation.
+The pattern of gain and phase abnormalities is entirely different in lurcher, an ataxic mutant in which Purkinje *cells* degenerate.
+In the latter, VR-1 fibers are intimately apposed to smooth muscle *cells*.
+The GT1 GnRH *cell* lines express all three subunits of the cyclic nucleotide-gated (CNG) channels (CNG2, 4.3 and 5) expressed in olfactory neurons.
+Radioligand binding experiments in membranes from human embryonic kidney *cells* transfected with PGE(2) receptor subtypes EP(1), EP(2), EP(3), and EP(4) revealed that PGE(2) ethanolamide has pK(i) values of 5.61 +/- 0.1, 6.33 +/- 0.01, 6.70 +/- 0.13, and 6.29 +/- 0.06, respectively, compared with 8.31 +/- 0.16, 9.03 +/- 0.04, 9.34 +/- 0.06, and 9.10 +/- 0.04 for PGE(2).
+BK channel activity determines the extent of *cell* degeneration after oxygen and glucose deprivation: a study in organotypical hippocampal slice cultures.
+In hippocampal pyramidal *cells*, BK channels repolarize somatic action potentials, and recent immunogold and electrophysiological analyses have revealed a presynaptic pool of BK channels that can regulate glutamate release.
+Agents that modulate BK channel activity would therefore be expected to affect *cell* excitability and neurotransmitter release also under pathological conditions.
+We have investigated the role of BK potassium channels in a model of ischemia-induced nerve *cell* degeneration.
+Organotypical slice cultures of rat hippocampus were exposed to oxygen and glucose deprivation (OGD), and *cell* death was assessed by the fluorescent dye propidium iodide.
+OGD induced *cell* death in the CA1 region and to a lesser extent in CA3.
+Treatment with the BK channel blockers, paxilline and iberiotoxin, during and after OGD induced increased *cell* death in CA1 and CA3.
+Both BK channel blockers also sensitized the relatively resistant granule *cells* in fascia dentata to OGD.
+Our data show that blockade of BK channels aggravates OGD-induced *cell* damage and suggest that BK channels act as a kind of 'emergency brake' during and/or after ischemia.
+These results suggest that the mGlu2 receptor-mediated modulatory action on *cell* excitability would tune striatal ACh release, representing an interesting target for pharmacological intervention in basal ganglia disorders.
+Particulate matter inflammation and receptor sensitivity are target *cell* specific.
+The complexity of primary source particulate matter (PM) and the various *cell* types encountered by its inhalation raise the possibility that target *cells* are differentially activated.
+Since epithelial *cells*, which line the nasal-tracheal-bronchial airways, and sensory C fibers, which terminate throughout this epithelial layer, are initially targeted by inhaled PM, we compared their relative biological response in vitro to PM originating from volcanic (MSH), anthropogenic (diesel), residential (woodstove), urban ambient (St.
+Increases in intracellular calcium (i.e., [Ca(2+)](i)) are a second-messenger event that indicates cellular activation and signal transduction, in both nerve and epithelial *cells*.
+Single-*cell* calcium imaging recordings were taken of human bronchial epithelial *cells* (BEAS-2B) exposed to selected PM (50 microg/ml or 30 microg/cm(2)).
+These *cells* responded with variable increases in [Ca(2+)](i) ranging from abrupt increases, which returned to baseline upon washing of the *cells*, to oscillations of the [Ca(2+)](i) that did not wash out.
+Increases in [Ca(2+)](i) and inflammatory cytokine (i.e., interleukin 6, IL-6) release were measured in populations of BEAS-2B *cells* exposed to PM (50 microg/ml) and were shown to significantly correlate (r(2) =.80).
+BEAS-2B *cells*, stained histochemically with cobalt, displayed a concentration-dependent precipitation in response to acid pH and capsaicin, indicating the presence of acid-sensitive pathways (e.g., VR1 and acid-sensitive receptors).
+To demonstrate the relevance of these pathways to inflammatory cytokine (i.e., IL-6) release, BEAS-2B *cells* were pretreated (15 min) with antagonists to the vanilloid (VR1) receptor (i.e., capsazepine, CPZ) or acid-sensitive pathways (i.e., amiloride) before their exposure to the selected PM.
+Overall, significantly higher release occurred in PM-exposed sensory neurons relative to that of BEAS-2B epithelial *cells*.
+Although both CPZ and amiloride significantly reduced IL-6 release for all PM, the degree of inhibition was less for the PM-exposed DRG relative to BEAS-2B *cells*.
+These data show that differential increases in [Ca(2+)](i) and IL-6 release occur in BEAS-2B epithelial *cells* and DRG sensory neurons, when exposed to PM derived from different sources.
+This differential sensitivity of target *cells* may contribute to the organism's overall inflammatory response to PM exposure.
+To determine the role of Ca(2+)-activated K(+) channels in hyperexcitability, we measured large unitary conductance (>200 pS, BK(Ca)) currents in symmetrical 140/140 mM K(+) using inside-out configuration in CA1 pyramidal *cells* acutely dissociated from the hippocampus of rats exposed to normoxia or hypoxia (at 10% inspired O(2)) for 4 weeks after birth.
+Cerebellar slice cultures from mice lacking the P/Q calcium channel: electroresponsiveness of Purkinje *cells*.
+To investigate the role of P/Q type Ca(2+) channels in determining the firing pattern of Purkinje *cells* (PCs) we compared the somatically evoked discharge of action potentials (APs) in PCs from 3 to 4 week old cerebellar slice cultures obtained with ataxic mice lacking alpha(1A)-subunit (alpha(-/-)) and with normal mice (non-ataxic alpha(+/-) or alpha(+/+)) using the whole-*cell* configuration of the patch-clamp recording method.
+Anandamide, an endogenous lipid, activates both cannabinoid (CB(1)) and vanilloid (VR1) receptors, both of which are co-expressed in rat dorsal root ganglion (DRG) *cells*.
+Here we compare the in vitro pharmacology of recombinant and endogenous VR1 receptors using calcium imaging, in clonal and DRG *cells*, respectively.
+Using a Flurometric Imaging Plate Reader (FLIPR), calcium imaging has been used to study the effects of several vanilloid and cannabinoid ligands in rat VR1-transfected HEK293 (rVR1-HEK) *cells* and in DRG *cells*.
+The effect of pre-exposure of several vanilloid and cannabinoids has also been compared in DRG *cells*.
+The VR1 agonists capsaicin, olvanil, (N-(4-hydroxyphenyl-arachinoylamide) (AM404) and anandamide caused a concentration-dependent increase in intracellular calcium concentration ([Ca(2+)](i)), with similar temporal profiles in both rVR1-HEK and DRG *cells*, and potency (pEC(50)) values of 8.25 (SEM 0.11), 8.37 (0.04), 6.96 (0.06), 5.85 (0.01) and 7.45 (0.10), 7.55 (0.07), 6.10 (0.13), approximately 5.5, respectively.
+Reapplication of VR1 agonists significantly inhibited a subsequent challenge to either capsaicin or anandamide in either *cell* type, whilst pre-exposure to cannabinoid agonists were without effect.
+Here we provide evidence that the pharmacology of recombinant rVR1 receptors is similar to those endogenously expressed in DRG *cells*.
+Therefore, the analgesic properties of anandamide are likely to be mediated, at least in part, by VR1 activation in DRG *cells* in vivo.
+Conversely, transfected HEK-293 *cells* expressing VR1 showed enhanced Ca(2+) influx and inward currents following Ca(2+) store depletion.
+This study compared the actions of members of five different chemical classes of vanilloid agonists at the recombinant rat vanilloid VR1 receptor expressed in HEK293 *cells*, and at endogenous vanilloid receptors on dorsal root ganglion *cells* and sensory nerves in the rat isolated mesenteric arterial bed.
+In VR1-HEK293 *cells* and dorsal root ganglion neurones, Ca(2+) responses were induced by resiniferatoxin>capsaicin=olvanil>PPAHV; all four were full agonists.
+Olvanil had a Hill coefficient of approximately 1 whilst capsaicin, resiniferatoxin and PPAHV had Hill coefficients of approximately 2 in VR1-HEK293 *cells*.
+In a second series of experiments whole *cell* patch clamp methodologies were used to determine whether activation of postsynaptic opioid receptors altered voltage-gated calcium currents in premotor cardiac parasympathetic nucleus ambiguus neurons in brainstem slices.
+Open at rest, they are involved in the maintenance of the resting membrane potential in somatic motoneurones, brainstem respiratory and chemoreceptor neurones, and cerebellar granule *cells*.
+The blocker-resistant current showed properties similar to R-type currents in other *cell* types, i.e. voltages of half-maximal inactivation and activation of -76 and -17 mV, respectively, and strong inactivation during the test pulse.
+The approach included an immunohistological analysis of the temporal and spatial expressions of choline acetyltransferase, of the neural-glial-related and neural-glial *cell* adhesion molecules (NrCAM and NgCAM, respectively) and axonin-1, and of inwardly rectifying potassium (Kir) channels in 5- to 19-day-old (E5-E19) embryos.
+The topographic course of differentiation of the IPL generally corresponded to the course of maturation of ganglion and amacrine *cells*.
+Neurons transfected with alpha1C lacking the terminal five amino acids (DHP-LTCnoPDZ) exhibited attenuated CREB responses in comparison with *cells* expressing the full-length subunit (DHP-LTC).
+In this study, we investigated the modulation of another TTX-R channel, Na(v)1.8, by GTP(gammaS) in small-diameter DRG neurons from rats using whole-*cell* voltage clamp recordings.
+In dorsal root ganglia (DRG) intraganglionic communication takes place both among neurons and between neurons and satellite *cells*.
+The alpha 7-nAChR mRNA and the protein were expressed in virtually all lumbar DRG neurons as evidenced by laser-assisted *cell* picking and oligo *cell* RT-PCR, in situ hybridisation and immunohistochemistry.
+The activity of these compounds was investigated on recombinant human TRPV1 receptors overexpressed in HEK-293 *cells*.
+The laminar distribution of CCK-IR *cell* bodies changed considerably during the studied period, which is suggested to be due to migration.
+CCK-IR *cells* appear to move from the molecular layer of the dentate gyrus to their final destination at the stratum granulosum/hilus border, and tend to concentrate in the distal third of stratum radiatum in CA1-3.
+The density of CCK-IR *cells* is rapidly decreasing during the first 4 postnatal days without any apparent reduction in their total number, therefore it is due to the pronounced growth of hippocampal volume in this period.
+Axons of CCK-IR interneurons formed symmetrical synapses already at P0, and by far the predominant targets were dendrites of presumed principal *cells* in all subfields of the hippocampus.
+These axon arbors began to concentrate around pyramidal *cell* bodies only at P8, at earlier ages CCK-IR axons crossed stratum pyramidale at right angles, and gave rise to varicose collaterals only outside this layer.
+The dendrites and somata of CCK-IR *cells* received synapses already at P0, but those were mostly symmetrical, apart from a few immature asymmetrical synapses.
+We conclude that CCK-IR *cells* represent one, if not the major, interneuron type that assists in the maturation of glutamatergic synapses (activation of N-methyl-D-aspartate receptors) via GABAergic depolarization of principal *cell* dendrites, and may contribute to the generation of giant depolarizing potentials.
+CCK-IR *cells* will change their function to perisomatic hyperpolarizing inhibition, as glutamatergic transmission in the network becomes operational.
+Responses of macaque ganglion *cells* to movement of chromatic borders.
+We have measured responses of macaque ganglion *cells* to moving borders under conditions designed to simulate the minimally distinct border (MDB) task.
+Extending previous results, we show that minimization of responses of phasic ganglion *cells* of the magnocellular (MC)-pathway obey the photometric laws of transitivity and additivity.
+To equal luminance borders, a residual response was present in MC-pathway *cells* analogous to the second harmonic response seen in these neurones with temporal chromatic modulation.
+We show how MC-pathway *cell* responses could be used centrally to support the MDB task.
+It was difficult to generate a model from responses of tonic ganglion *cells* of the parvocellular (PC)-pathway which would support the task.
+Although blurring the border spatially smeared the responses of MC-pathway ganglion *cells* and reduced their amplitude, responses still went through a minimum close to equal luminance.
+Thus, blurring the image did not affect the ability of MC-pathway *cells* to support the task.
+Blurring the retinal image decreased the 'sharpness' of the border response of tonic, PC-pathway ganglion *cells*, but response amplitude was unaffected.
+A central mechanism reliant on centre-surround field structure of PC-pathway *cells* would thus not be able to support the task after blurring.
+Therefore, the effect of acetylcholinesterase in the cerebellum was investigated in slices of guinea-pig cerebella during intracellular recording from Purkinje *cell* somata or dendrites.
+Addition of acetylcholinesterase (20 U/ml) to the superfusion medium did not change the membrane potential or the input resistance of the Purkinje *cells*.
+The effect of acetylcholinesterase of Ca2+ spikes is therefore most likely due to a reduction of the non-inactivating Na+ current of the Purkinje *cell* membrane.
+Acetylcholinesterase also enhanced the response of Purkinje *cells* to the excitatory amino acids glutamate and aspartate thought to be transmitters in the cerebellar cortex.
+The potentiation by esterase of responses of Purkinje *cells* to excitatory amino acids and to climbing fibre stimulation may be mediated through interference with transmitter uptake, because it was prevented by treatment with DL-2-amino-4-phosphonobutyric acid (0.5 mM) and di-hydrokainate (0.1 mM).
+Esterase reduces the tendency towards Ca2+ spike generation in Purkinje *cells*.
+SP-LI *cell* bodies were found in areas previously described for the rat brain including several hypothalamic areas, limbic areas, central grey, and dorsal raphe and solitary tract nuclei.
+The guinea pig cortex contained many more SP-LI *cells* and fibres, distributed in layers II-VI, than the rat cortex.
+The guinea pig hippocampus contained marked staining, particularly in the pyramidal *cell* layer of CA1-3 fields of Ammon's horn and in the granular layer of the dentate gyrus, and SP-LI *cells* in the hilus of the dentate gyrus, whereas rat hippocampus contained few *cells* and no regions of dense staining.
+Single-*cell* activity in the pre-SMA was quantitatively compared with that in the SMA proper in relation to a trained motor task.
+Voltage-gated K(+) channel subunits on cholinergic and dopaminergic amacrine *cells*.
+The expression of voltage-gated K+ (Kv) channel subunits on rat retinal cholinergic and dopaminergic amacrine *cells* was studied using double immunofluorescence labeling and confocal laser scanning microscopy.
+Staining for Kv3.1b was found in the cholinergic *cells*, being present on the membrane of somata, and on the processes, but not in the dopaminergic *cells*.
+Kv4.3-immunoreactivity was localized on the somatodendritic compartment of the dopaminergic *cells*, but was not found in the cholinergic *cells*.
+Differential expression between the two *cell* types was not found for 10 other subunits tested.
+Dual expression of mouse and rat VRL-1 in the dorsal root ganglion derived *cell* line F-11 and biochemical analysis of VRL-1 after heterologous expression.
+*Cell* 2, 229-231].
+Here we describe the expression of VRL-1 in the rat dorsal root ganglion-derived *cell* line F-11, a hybridoma of mouse neuroblastoma (N18TG2) and rat dorsal root ganglion *cells*.
+We found by RT-PCR that F-11 *cells* express not only the rat VRL-1, but also its mouse orthologue in a single *cell*.
+The F-11 parental *cell* line N18TG2 also expressed murine VRL-1.
+Due to its neuronal character, the DRG-derived F-11 *cell* line provides an experimental system for the study of VRL-1 biochemistry.
+Furthermore we cloned VRL-1 from rat brain and analyzed its glycosylation and localization in comparison to the endogenously expressed protein in F-11 *cells*.
+Immunofluorescence analysis of the endogenous VRL-1 in F-11 *cells* gives only weak signals in the cytoplasm whereas the overexpressed rat VRL-1 appears mainly at the plasma membrane.
+Resiniferatoxin-induced loss of plasma membrane in vanilloid receptor expressing *cells*.
+Resiniferatoxin (RTX), a potent analog of capsaicin, was evaluated electrophysiologically in dorsal root ganglion (DRG) *cells* and *cell* lines ectopically expressing the vanilloid receptor type 1 (VR1) to determine if *cell* phenotype influenced RTXs neurotoxic properties.
+Furthermore, capsaicin and heat activation of VR1 were evaluated in these *cells* to determine if cellular damage was unique to RTX activation of the receptors.
+RTX application to DRG *cells* identified as type 1, 2 or 5, *cell* types known to express VR1, induced large inward currents.
+RTX did not induce currents in DRG *cells* that do not express the receptor (type 4 *cells*).
+In *cell* lines ectopically expressing VR1, RTX-induced similar currents.
+RTX produced no effect in non-transfected *cells*.
+After exposure to RTX both DRG *cells* and transfected *cells* failed to respond to subsequent applications of the agonist.
+In addition, whole *cell* capacitance was reduced up to 70%.
+*Cell* phenotype, other than VR1 expression, did not influence the response to RTX.
+Interestingly, capsaicin and heat activation of vanilloid receptors also decreased *cell* capacitance, but the loss of membrane was not as great as with RTX and responses to these stimuli were not lost after the initial exposure.
+The loss of *cell* membrane required elevated intracellular levels of Ca2+.
+From these data it was concluded that the loss of *cell* membrane was dependent on the presence of both VR1 and intracellular Ca2+ accumulation, but not on *cell* phenotype.
+Ca(2+) channel subtypes expressed by dopaminergic (DA) neurons in the substantia nigra pars compacta (SNc) were studied using whole *cell* patch-clamp recordings and blockers selective for different channel types (L, N, and P/Q).
+Nimodipine (Nim, 2 microM), omega-conotoxin GVIA (Ctx, 1 microM), or omega-agatoxin IVA (Atx, 50 nM) blocked 27, 36, and 37% of peak whole *cell* Ca(2+) channel current, respectively, indicating the presence of L-, N-, and P-type channels.
+N- and L-channels in DA neurons opened over a significantly more negative voltage range than those in rat dorsal root ganglion *cells*, recorded from using identical conditions.
+Ara-C treatment did not cause gross loss of neuronal tissue, although there was a subtle and variable disorganization of the pyramidal *cell* layer in the hippocampal CA2/3 region.
+At this time point, the immunoreactivity was shown in pyramidal *cells* of the CA1 area.
+In a mammalian *cell* line, wild type bovine cone photoreceptor channel alpha subunits (bCNGA3) convert from an unglycosylated state, at 90 kDa, to two glycosylated states at 93 and 102 kDa as they transit within the *cell* to their final location at the plasma membrane.
+The P2X7 receptor for extracellular ATP is the main candidate, among P2 receptors, inducing *cell* death in the immune system.
+Here, we demonstrate the direct participation of this receptor to *cell* damage induced by oxygen/glucose deprivation, in the ex vivo model of organotypic hippocampal cultures.
+By confocal laser microscopy, we show that P2X7 is present at the synaptic level of fibers extending from the CA1-2 pyramidal *cell* layer throughout the strata oriens and radiatum, but absent on oligodendrocytes, astrocytes or neuronal *cell* bodies.
+The retinas were immunostained with *cell*-type-specific markers and with antibodies against synapse-associated proteins and transmitter receptors.
+Rod spherules showed an increase in the number of synaptic ribbons and postsynaptic elements during this early stage of degeneration, and horizontal *cell* processes grew into the outer nuclear layer.
+Rod bipolar *cell* axon terminals showed morphologic alterations, but the stratification pattern of cone bipolar *cell* axons and amacrine *cell* processes appeared unaffected.
+Regional distribution of SK3 mRNA-containing neurons in the adult and adolescent rat ventral midbrain and their relationship to dopamine-containing *cells*.
+SK3 mRNA was found exclusively in areas that also contained large numbers of DA neurons including the substantia nigra (SN), the ventral tegmental area, and related *cell* groups (VTA-A10).
+To illustrate these differences, the results of a previous investigation using single *cell* recordings linked to a gas chromatograph (SCR-GC) are compared with the results obtained with an electroantennogram linked to a gas chromatograph (EAG-GC).
+*Cell*-specific effects of RB or RB/p107 loss on retinal development implicate an intrinsically death-resistant *cell*-of-origin in retinoblastoma.
+Indeed, we show that Rb/p107 loss does not affect progenitor proliferation or precursor specification, but perturbs *cell* cycle exit in all seven retinal precursors.
+Endocannabinoids inhibit transmission at granule *cell* to Purkinje *cell* synapses by modulating three types of presynaptic calcium channels.
+At many central synapses, endocannabinoids released by postsynaptic *cells* inhibit neurotransmitter release by activating presynaptic cannabinoid receptors.
+Here we test these hypotheses at the granule *cell* to Purkinje *cell* synapse in cerebellar brain slices.
+Previous studies established that N-type, P/Q-type, and R-type calcium channels are all present in granule *cell* presynaptic boutons.
+Thus, rather than narrowing the presynaptic action potential or exclusively modulating N-type calcium channels, CB1 receptor activation inhibits synaptic transmission by modulating all classes of calcium channels present in the presynaptic terminal of the granule *cell* to Purkinje *cell* synapse.
+Whole-*cell* patch-clamp recordings from isolated neocortical neurons revealed that LEV significantly reduced N-, and partially P/Q-type high-voltage-activated (HVA) Ca2+ currents, whereas sodium currents were unaffected.
+L-type calcium channels mediate transmitter release in isolated, wide-field retinal amacrine *cells*.
+Here we investigated the voltage-gated Ca2+ channels in wide-field amacrine *cells* (WFACs) isolated from the white-bass retina that are functionally coupled to transmitter release.
+Members of the FHF subfamily share approximately 70% sequence identity, and individual members demonstrate a *cell*- and tissue-specific expression pattern.
+However, retinal ganglion *cells* and spinal ventral horn motor neurons show very low levels of FHF2 expression, and their axons exhibit no nodal FHF2 staining within the optic nerve and ventral root, respectively.
+The coexpression of FHF2B and Na(v)1.6 in the DRG-derived *cell* line ND7/23 significantly increases the peak current amplitude and causes a 4 mV depolarizing shift of voltage-dependent inactivation of the channel.
+These studies demonstrate that taste *cells* are selectively tuned to different taste modalities and clarify the logic of taste coding in the periphery.
+Immunoreactivity for KChIP2, KChIP4, and Kv4.2 is concentrated in the apical and basal dendrites of hippocampal and neocortical pyramidal *cells*.
+Multiple Ca2+ channels confer diverse functions to hair *cells* of the auditory and vestibular organs in the mammalian inner ear.
+Light and electron microscope analyses of the inner ear revealed outer hair *cell* loss at the apical cochlea, but no apparent abnormality at the basal cochlea and the vestibule.
+We determined the mechanisms underlying the auditory function defects and the normal vestibular functions by examining the Ba2+ currents in cochlear inner and outer hair *cells* versus utricular hair *cells* in alpha1D+/- mice.
+Whereas the whole-*cell* Ba2+ currents in inner hair *cells* consist mainly of the nimodipine-sensitive current (approximately 85%), the utricular hair *cells* express only approximately 50% of this channel subtype.
+Thus, differential expression of alpha1D channels in the cochlear and utricular hair *cells* confers the phenotype of the alpha1D null mutant mice.
+Because vestibular and cochlear hair *cells* share common features and null deletion of several genes have yielded both deafness and imbalance in mice, alpha1D null mutant mice may serve as a model to disentangle vestibular from auditory-specific functions.
+VR1-positive *cells* in the dorsal root ganglion and boutons of their central afferent fibers in the dorsal horn expressed VGLUT2, and the latter contacted AMPA- or NMDA receptor-positive perikarya.
+TRPA1 is a candidate for the mechanosensitive transduction channel of vertebrate hair *cells*.
+Mechanical deflection of the sensory hair bundles of receptor *cells* in the inner ear causes ion channels located at the tips of the bundle to open, thereby initiating the perception of sound.
+The appearance of TRPA1 messenger RNA expression in hair *cell* epithelia coincides developmentally with the onset of mechanosensitivity.
+Inhibition of TRPA1 protein expression in zebrafish and mouse inner ears inhibits receptor *cell* function, as assessed with electrical recording and with accumulation of a channel-permeant fluorescent dye.
+Single fiber recordings in the skin-nerve preparation confirmed the results of *cell* culture study, showing that application of FK506 enhanced neuronal discharges of single C-fibers that are responsive to heat and bradykinin.
+In thalamocortical (TC) and nucleus reticularis thalami (NRT) neurones, and possibly in neocortical *cells*, an I(Twindow)-mediated bistability is the key cellular mechanism underlying the expression of the slow (< 1 Hz) sleep oscillation, one of the fundamental EEG rhythms of non-REM sleep.
+*Cell*-specific expression and lipopolysaccharide-induced regulation of tumor necrosis factor alpha (TNFalpha) and TNF receptors in rat dorsal root ganglion.
+In situ hybridization (ISH), RT-PCR analysis of laser-microdissected *cells*, and immunocytochemistry revealed absence of TNFalpha from DRG neurons and LPS-induced expression of TNFalpha exclusively in a subpopulation of non-neuronal DRG *cells*.
+TNFR1 mRNA was expressed in virtually all neurons and in non-neuronal *cells* with increased levels after LPS in both.
+TNFR2 was exclusively expressed and regulated in non-neuronal *cells*.
+RT-PCR analysis of microdissected DRG neurons and of the sensory neuronal *cell* line F11 confirmed the neuronal expression of TNFR1 and excluded that of TNFR2.
+Whole-*cell* current-clamp recordings from neurones near the TS revealed electrophysiological characteristics consistent with the presence of Kv3.1b subunits: short duration action potentials (4.2 +/- 1.4 ms) and high firing frequencies (68.9 +/- 5.3 Hz), both sensitive to application of TEA (0.5 mm) and 4-aminopyridine (4-AP; 30 mum).
+antibody mimicked and occluded the effects of TEA and 4-AP in NTS and dorsal column nuclei neurones, but not in dorsal vagal nucleus or cerebellar Purkinje *cells* (which express other Kv3 subunits, but not Kv3.1b).
+Postnatal apoptosis in cerebellar granule *cells* of homozygous leaner (tg1a/tg1a) mice.
+Functional studies have revealed a marked decrease in calcium currents through leaner P/Q-type channels and altered neuronal calcium ion homeostasis in cerebellar Purkinje *cells*.
+Histopathological studies of leaner mice have revealed extensive postnatal cerebellar Purkinje and granule *cell* loss.
+We examined the temporospatial pattern of cerebellar granule *cell* death in the leaner mouse between postnatal days (P) 10 and 40.
+Our observations clearly indicate that leaner cerebellar granule *cells* die via an apoptotic process and that the peak time of neuronal death is P20.
+We did not observe a significant increase in microglial and astrocytic responses at P20, suggesting that glial responses are not a cause of neuronal *cell* death.
+We propose that the leaner cerebellar granule *cell* represents an in vivo animal model for low intracellular [Ca2+]-induced apoptosis.
+Since intracellular [Ca2+] is critical in the control of gene expression, it is quite likely that reduced intracellular [Ca2+] could activate a lethal cascade of altered gene expression leading to the apoptotic granule *cell* death in the leaner cerebellum.
+The disease is characterized by Purkinje *cell* degeneration and atrophy with somatic sprouts as well as the halo-like structure surrounding the soma.
+At 7 days after ischemia, a progressive survival of pyramidal *cells* in the CA1 subfield in capsaicin-treated gerbils, with a maximum of 80%, at a dose of 0.2 mg kg(-1), was obtained.
+Morphometric analysis revealed that SK1, SK2 and IK1 were preferentially localized to neurones having *cell* bodies <1000 microm2 (putative nociceptors) in DRG.
+When human alpha1A-calcium channel gene with expanded CAG repeat is transfected into HEK *cells*, the voltage dependence of inactivation shifting negatively 6 to 11 mV was observed, indicating that calcium influx across plasma membrane is reduced.
+When alpha1A-calcium channel protein and polyglutamine stretch are examined in SCA6 brain by immunohistochemistry, formations of aggregations within the cytoplasm of SCA6 Purkinje *cells* were seen.
+In search of the hair-*cell* gating spring elastic properties of ankyrin and cadherin repeats.
+Mechanotransduction in vertebrate hair *cells* involves a biophysically defined elastic element (the "gating spring") that pulls on the transduction channels.
+The tip link, a fine filament made of cadherin 23 linking adjacent stereocilia in hair-*cell* bundles, has been suggested to be the gating spring.
+Calretinin is present in non-pyramidal *cells* of the rat hippocampus--I.
+Calretinin-containing *cells* were visualized with immunocytochemistry in the rat dorsal hippocampal formation.
+Calretinin immunoreactivity was present exclusively in non-pyramidal *cells* in all layers of the dentate gyrus and the CA1-3 areas.
+Several calretinin-immunoreactive *cells* were located within the hippocampal fissure.
+A distinct band of calretinin-immunoreactive fibres occupied the superficial part of the granule *cell* layer and the lowest part of the molecular layer.
+Closer examination of the calretinin-positive *cells* revealed that they formed two distinct *cell* groups.
+One group of *cells*, found exclusively in the stratum lucidum of the CA3 area and in the hilus of the dentate gyrus, was covered with numerous spines.
+*Cells* of the other group had smooth, often varicose, radially running dendrites, and were present in all areas and layers of the hippocampal formation.
+Two to three thick primary dendrites arose from the irregularly shaped *cell* body of spiny *cells* and emitted fine secondary branches only distally (70-100 microns) from the soma, where they formed a profuse network.
+The extensive dendritic tree of the *cells* spread horizontally within stratum lucidum and span a distance of 400-600 microns both in the septotemporal and in the transverse directions.
+The layer-specific location of these *cells* and their processes suggested that the majority of their input may derive from mossy fibres.
+A large number of asymmetrical synapses were found to cover the soma, the dendritic shafts and the spines (four to six synapses/spine) of the *cells*.
+Three to six primary dendrites arose from the multipolar, bipolar or pyramidal-shaped somata of spine-free *cells*, which were smaller than the somata of spiny *cells*.
+In the CA1 subfield, the vertically running dendrites frequently contacted other calretinin-immunoreactive spine-free dendrites or *cell* bodies.
+cDNA and then study alterations in channel behavior using whole-*cell* patch-clamp recording.
+ASIC1a transcripts were expressed in 20-25% of the DRG neurons, and most of the neurons had small (<30 microm)-diameter *cell* bodies.
+ASIC1b transcripts and ASIC3 transcripts were expressed in approximately 10% and 30-35% of the DRG neurons, respectively, and the greater part of each population was located in small-to-medium (30-50 microm)-diameter *cells*.
+TRPV1 transcripts were expressed in 35-40% of the DRG neurons, and most of the TRPV1-positive neurons had small-diameter *cell* bodies.
+Approximately 30% of the TRPV1-positive neurons expressed ASIC3 transcripts, and the double-labeled neurons were comprised of both small-diameter and medium-diameter *cells*.
+In contrast, MSK1 is expressed at highest levels in striatal and olfactory tubercle neurons and to a lesser degree in cerebellar Purkinje *cells*.
+At the subcellular level, MSK1 is confined to the nucleus of all expressing *cell* types.
+These findings clearly demonstrate the relationships among *cell* morphology, molecular signatures, and axonal terminations of the two distinct types of OSNs and suggest that the two segregated neural pathways are responsible for coding and processing of different types of odor information in the zebrafish olfactory system.
+Cerebellar Purkinje *cells* (PCs) receive GABAergic input that undergoes powerful retrograde modulation by presynaptic cannabinoid and glutamate receptors.
+We find that this mechanism operates mainly in the somatic vicinity of PCs in which large boutons of basket *cell* axons form synapses on the PC soma.
+Identification of dopaminergic neurons of nigral and ventral tegmental area subtypes in grafts of fetal ventral mesencephalon based on *cell* morphology, protein expression, and efferent projections.
+By retrograde axonal tracing, we show that dopaminergic innervation of the striatum is derived almost exclusively from the Girk2-positive SNpc *cells*, whereas the calbindin-positive VTA neurons project to the frontal cortex and probably also other forebrain areas.
+The results suggest the presence of axon guidance and target recognition mechanisms in the DA-denervated forebrain that can guide the growing axons to their appropriate targets and indicate that *cell* preparations used for *cell* replacement in Parkinson's disease will be therapeutically useful only if they contain *cells* capable of generating the correct nigral DA neuron phenotype.
+Differences in neuronal excitability within the nervous system may arise from differential expression of K+ channel genes, regulated spatially in a *cell* type-specific manner, or temporally in response to neuronal activity.
+Both regional and *cell* type-specific differences of K+ channel gene expression were found.
+In addition, seizure activity caused a reduction of Kv1.2 and Kv4.2 mRNAs in the dentate granule *cells* of the hippocampus, raising the possibility that K+ channel gene regulation may play a role in long-term neuronal plasticity.
+Intracellular application of Lucifer yellow revealed two types of morphology: one with a long process extruding from the *cell* body, and the other with numerous short processes surrounding the *cell* body.
+Ca2+-independent activation of BKCa channels at negative potentials in mammalian inner hair *cells*.
+We recorded BK(Ca)-mediated currents from auditory inner hair *cells* (IHCs) in acutely isolated organs of Corti using the patch-clamp technique in whole-*cell* and excised patch configuration.
+In intact IHCs, the activation curve of BK(Ca) currents recorded in whole-*cell* configuration exhibited a V(h) of -42 mV together with a high voltage dependence (slope factor of 10 mV) and submillisecond onset of current.
+We determined the area-percentage covered by neuronal perikarya in relation to the total area of the pyramidal *cell* layer in the four subdivisions of the ammon's horn (cornu ammonis, CA1-4) bilaterally.
+Additionally, we determined the area size of the pyramidal *cell* layer (CA1-4) and dentate gyrus (DG) granule *cell* layer.
+Transduction of HEK293 *cells* stably expressing NaV1.8 or primary dorsal root ganglion neurons with lentivirus expressing short hairpin RNA resulted in the knockdown of NaV1.8 protein and messenger RNA concentrations.
+Whole *cell* patch clamp recordings confirmed decrease in the NaV1.8-mediated current density without changes in other biophysical properties.
+Here we demonstrate that calcium-activated potassium (BK) channel accessory beta4 subunits serve as key regulators of intrinsic firing properties that contribute to the low-pass filtering function of dentate granule *cells*.
+In contrast, granule *cells* from beta4 knockout mice show a gain-of-function for BK channels that sharpens action potentials and supports higher firing rates.
+We found a high abundance of *cells* in vitro corresponding to the principal striatal output neuron, the medium spiny neuron.
+Immunocytochemical studies indicate that these *cells* have both dopamine-1 and dopamine-2 receptors and that there is overlap in their expression within the population of neurons.
+Alteration of activator protein 1 DNA binding activity in gentamicin-induced hair *cell* degeneration.
+Sensorineural hearing loss is often associated with damage of cochlear hair *cells* and/or of the neurons of the auditory pathway.
+Intracellular events that mediate aspects of aminoglycoside-mediated damage to hair *cells* have been partially unraveled.
+Mitogen-activated protein kinases are important mediators of signal transduction from the *cell* surface to the nucleus.
+Jun N-terminal kinases, members of the mitogen-activated protein kinase family, are strongly activated in *cell* culture conditions by stress inducing stimuli, including ultraviolet light, heat shock and tumor necrosis factor; therefore they are also referred to as stress-activated protein kinases.
+In hair *cells* aminoglycoside treatment was shown to activate the Jun N-terminal kinase signaling pathway.
+Moreover, we show that the activating protein-1 induction is transient and occurs exclusively in hair *cells* of rat organ of Corti explants.
+The dimers, in which the tertiary amines of the lidocaine moieties are linked by an alkylene chain (two to six methylene units), inhibited VGSC activator-evoked depolarization of *cells* heterologously-expressing rat (r) Na(v)1.2a,
+Few CaV1.3 channels regulate the exocytosis of a synaptic vesicle at the hair *cell* ribbon synapse.
+Hearing relies on faithful sound coding at hair *cell* ribbon synapses, which use Ca2+-triggered glutamate release to signal with submillisecond precision.
+Here, we investigated stimulus-secretion coupling at mammalian inner hair *cell* (IHC) synapses to explore the mechanisms underlying this high temporal fidelity.
+Photoreceptor metabolism, gene expression and synaptic transmission take place in a highly polarized structure consisting of the ellipsoid, subellipsoid, *cell* body and synaptic terminal regions.
+Transient receptor potential channels isoform 6 (TRPC6), a putative store-operated Ca2+ channel, was selectively localized to the *cell* body of rods.
+A moderate TRPC6 signal was observed in *cell* bodies of bipolar, amacrine and ganglion *cells*, but was absent from both plexiform layers.
+These results suggest that Ca2+ entry mechanisms in mammalian photoreceptors and bipolar *cells* are highly compartmentalized, consistent with local, region-specific activation of Ca2+-dependent processes.
+Solitary chemoreceptor *cell* proliferation in adult nasal epithelium.
+Nasal trigeminal chemosensitivity in mice and rats is mediated in part by solitary chemoreceptor *cells* (SCCs) in the nasal epithelium (Finger et al., 2003).
+While some populations of sensory *cells* are replaced throughout life (taste and olfaction), others are not (hair *cells* and carotid body chemoreceptors).
+Wild type C57/B6 mice were injected with the thymidine analog 5-bromo-2'-deoxyuridine (BrdU) to label dividing *cells*.
+Double labeled *cells* were detected as early as 3 days post BrdU injection and remained for as long as 12 days post-injection suggesting that SCCs do undergo turnover like the surrounding nasal epithelium.
+No BrdU labeled *cells* were detected after 24 days suggesting relatively rapid replacement of the SCCs.
+These potassium channel blockers presumably increase the activity and excitability of cerebellar Purkinje *cells*, thereby augmenting the inhibitory influence of these *cells* on vestibular and cerebellar nuclei.
+In summary, these results are consistent with the hypothesis that idazoxan potentiates granule *cell* responses to perforant path input in the dentate gyrus via increases in norepinephrine that lead to beta-adrenoceptor activation, and, further, that idazoxan reduces paired pulse feedback spike facilitation and enhances EPSP slope, but not spike, feedback inhibition.
+In the sham-operated group, Rip immunoreactivity was shown in the *cell* bodies and processes of oligodendrocytes in all layers of the hippocampus proper.
+In brief, these results indicate that the significant decrease of Rip immunoreactivity in processes in the stratum oriens of the hippocampal CA1 region occurs at late time after ischemia, and this decrease in Rip immunoreactivity may be associated with delayed neuronal death of CA1 pyramidal *cells*.
+The first gap is between outer hair *cells* and Deiters *cells*, the second is between outer sulcus *cells* and type II spiral ligament fibrocytes and the third is between intermediate and marginal *cells* in the stria vascularis.
+K+ taken up by *cells* bordering these interstitial spaces is accompanied by Cl-.
+Maintaining appropriate electrolyte balance and membrane potentials in these *cells* requires a mechanism for exit of the resorbed Cl-.
+These data support the hypothesis that both isoforms of ClC-K are co-expressed in some *cell* membranes and account for the preservation of hearing in the presence of a mutation in only one channel isoform.
+At postnatal day (pnd) 2, a high density of labelled MR mRNA was found in all pyramidal (CA1-4) and granular (dentate gyrus) *cell* fields of the hippocampal structure, the anterior hippocampus and indusium griseum, and cortex layer II.
+At pnd 2, abundant radiolabelled GR mRNA was found widespread over the tel- and diencephalon, with the highest density observed in *cell* field CA1 and CA2 of the hippocampus and the parvocellular division of the hypothalamic paraventricular nucleus.
+Moreover, we observed a trend towards a more condensed and narrow band of *cell* bodies in the hippocampus for both MR and GR mRNA during ontogeny.
+A semi-quantitative comparison of the intensity of both labelled mRNA's performed at each age revealed a significantly lower expression of GR than MR mRNA in the CA3 *cell* field at pnd 2.
+At pnd 8 and 12, the amount of GR mRNA was significantly lower in the dentate gyrus and the CA3, whereas in adulthood, less GR mRNA was measured in all pyramidal and granular *cell* fields.
+As is the case in the adult brain, there is more MR than GR mRNA in the hippocampus during ontogeny, especially in the CA3 *cell* field and the DG.
+Most fluorogold-traced *cells* were found at L1 (> 55%) and were of small diameter (24 microm).
+TRPV1 expression was similar between traced and untraced *cells*, except the estrogen treatment increased TRPV1 expression in traced *cells*.
+Calcitonin gene-related peptide expression was greater in traced than in untraced *cells*, with no effect of experimental treatment.
+No traced *cells* expressed the P2X3 receptor or somatostatin, although each of these was present in untraced *cells*.
+The pyramidal *cell* bodies of CA1-3 areas and the granule *cell* bodies of the dentate gyrus were immunoreactive for TRPC1, TRPC3, TRPC4 and TRPC5.
+K+ channels and GABAB receptors in hippocampal pyramidal *cells*.
+To determine the distribution of Kir3 channels and their spatial relationship to GABAB receptors on hippocampal pyramidal *cells*, we used a high-resolution immunocytochemical approach.
+Immunoreactivity for the Kir3.2 subunit was most abundant postsynaptically and localized to the extrasynaptic plasma membrane of dendritic shafts and spines of principal *cells*.
+Thus, Kir3 channels, localized to different subcellular compartments of hippocampal principal *cells*, appear to be differentially involved in synaptic integration in pyramidal *cell* dendrites.
+Na+/Ca2+ exchanger 1 alters in pyramidal *cells* and expresses in astrocytes of the gerbil hippocampal CA1 region after ischemia.
+In the sham-operated group, NCX1 immunoreactivity was mainly detected in CA1 pyramidal *cells*.
+At this time, NCX1 immunoreactivity in CA1 pyramidal *cells* was similar to that of the sham-operated group.
+Our results suggest that changes in NCX1 in CA1 pyramidal *cells* and astrocytes after ischemia are associated with intracellular Na(+) concentrations and that NCX1 may induce an intracellular calcium overload, which may be related to neuronal death.
+TRPA1 contributes to cold, mechanical, and chemical nociception but is not essential for hair-*cell* transduction.
+TRPA1, a member of the transient receptor potential (TRP) family of ion channels, is expressed by dorsal root ganglion neurons and by *cells* of the inner ear, where it has proposed roles in sensing sound, painful cold, and irritating chemicals.
+These mice have a normal startle reflex to loud noise, a normal sense of balance, a normal auditory brainstem response, and normal transduction currents in vestibular hair *cells*.
+TRPA1 is apparently not essential for hair-*cell* transduction but contributes to the transduction of mechanical, cold, and chemical stimuli in nociceptor sensory neurons.
+These results support the hypothesis that Ca2+ and L-type Ca2+ channels are involved in the function of the hair *cells* and the generation of the negative SP.
+A sphingosine-1-phosphate-activated calcium channel controlling vascular smooth muscle *cell* motility.
+TRPC5 is expressed in smooth muscle *cells* of human vein along with TRPC1, which forms a complex with TRPC5.
+We find S1P stimulates smooth muscle *cell* motility, and that this is inhibited by E3-targeted anti-TRPC5 antibody.
+The extracellular effect appears to have a primary role in S1P-evoked *cell* motility.
+Synaptic plasticity in CNGA3(-/-) mice: cone bipolar *cells* react on the missing cone input and form ectopic synapses with rods.
+In the mammalian retina, rods and cones connect to distinct sets of bipolar *cells*.
+Rods are presynaptic to a single type of rod bipolar *cell*, whereas cones connect to different types of cone bipolar *cells*.
+Synaptic rewiring between cone photoreceptor terminals and rod bipolar *cell* dendrites has been described as a general result of photoreceptor degeneration.
+To investigate whether cone bipolar *cells* also show synaptic plasticity in the absence of cone input, we studied the connectivity of cone bipolar *cell* dendrites in CNGA3(-/-) mice, a model with specific loss of cone photoreceptor function.
+Dendritic connections of ON and OFF cone bipolar *cells* were visualized using specific *cell* markers or by intracellular injection with fluorescent dyes.
+The results show that cone bipolar *cells* in CNGA3(-/-) mice form ectopic synapses with rods.
+In contrast, cone bipolar *cells* do not form ectopic synapses with rods in CNGA3(-/-)Rho(-/-) mice, in which both types of photoreceptors are nonfunctional.
+In analogy with these results, we found that input-deprived rod bipolar *cells* form ectopic synapses with functional cones in Rho(-/-) mice but not with inoperable cones in the CNGA3(-/-)Rho(-/-) mouse.
+Our data indicate that the formation of ectopic bipolar *cell* synapses in the outer plexiform layer requires a functional presynaptic photoreceptor.
+Cn2 also produced both actions in mouse Purkinje *cells*.
+To examine the isolated effects of altered currents in cerebellar Purkinje neurons, the authors used Scn8a-super(flox/flox), Purkinje *cell* protein-CRE (Pcp-CRE) mice in which Exon 1 of Scn8a is deleted only in Purkinje neurons.
+Immunoreactivity of pyramidal *cells* in the ELL with several Kv1 antibodies is consistent with Kv1 channels carrying low-threshold outward currents that regulate spike waveform in these *cells* (Fernandez et al., J Neurosci 2005;25:363-371).
+In vivo imaging and counting of rat retinal ganglion *cells* using a scanning laser ophthalmoscope.
+To determine whether a scanning laser ophthalmoscope (SLO) is useful for in vivo imaging and counting of rat retinal ganglion *cells* (RGCs).
+Fluorescent *cells* were also counted in retinal flatmounts at baseline and 1, 2, and 4 weeks after the crush.
+An image overlay analysis was performed to check *cell* positions in the SLO images over time.
+In the retina after the optic nerve crush, newly emerged DiA fluorescence detected by image overlay analysis corresponded to fluorescent *cells* morphologically different from RGCs in the retinal flatmount and was colocalized mostly with lectin-stained microglial processes.
+Recent evidence suggests that these channels contribute to the resting potential and input resistance in several neuron types, including hippocampal CA1 pyramidal *cells*.
+Taste receptor *cells* express voltage-dependent potassium channels in a *cell* age-specific manner.
+Two voltage-dependent potassium channels, KCNQ1 and KCNH2, are expressed in the taste buds and were identified as strong candidates involved in the repolarization of taste receptor *cells* expressing phospholipase C-beta2 and TRPM5 (beta2/M5-TRCs).
+In *cell* type-specific expression, KCNQ1 was expressed in most taste bud *cells*, including beta2/M5-TRCs, whereas KCNH2 was expressed in a subset of beta2/M5-TRCs with no correlation with their taste modality, such as sweet or bitter taste reception.
+These results suggest that taste bud *cells* other than beta2/M5-TRCs are depolarized by some stimuli and also that beta2/M5-TRCs have *cell* age-dependent molecular mechanisms of repolarization.
+What is the hair *cell* transduction channel?
+In contrast to nearly all other sensory systems, the mechanically sensitive ion channel carrying the receptor current into hair *cells* of the inner ear has not been identified in molecular terms.
+Medial olivocochlear efferent (MOCE) neurones innervate the outer hair *cells* (OHCs) of the mammalian cochlea, and convey signals that are capable of controlling the sensitivity of the peripheral auditory system in a frequency-specific manner.
+We compared the membrane localization and processing of native cerebellar alpha2delta-2 subunits with alpha2delta-2 stably expressed in tsA-201 *cells*.
+In tsA-201 *cells*, unlike cerebellum, alpha2delta-2 is not completely proteolytically processed into alpha2-2 and delta-2.
+However, this processing is more complete in the lipid raft fraction of tsA-201 *cells*, in which alpha2delta-2 also colocalizes with CaV2.1.
+Cholesterol depletion of intact *cells* disrupted their lipid rafts and enhanced CaV2.1/alpha2delta-2/beta4
+The apparent affinity of alpha2delta-2 for its ligand gabapentin is increased markedly in the cholesterol-rich microdomain fractions, in both cerebellum and the stable alpha2delta-2 *cell* line.
+TrkB and Kv1.3 co-immunoprecipitate from tissue preparations of the mouse olfactory bulb and olfactory cortex, and by immunocytochemical approaches, are found to be co-localized in the glomerular, mitral *cell*, and internal plexiform layers of the olfactory bulb.
+cAMP/protein kinase A signalling pathway protects against neuronal apoptosis and is associated with modulation of Kv2.1 in cerebellar granule *cells*.
+Forskolin is able to decrease the I(K) amplitude recording from neurons of both the LK-S and control group, and prevents apoptosis of granule *cells* that are induced by LK-S.
+Quantitative RT-PCR and whole-*cell* recording revealed that the expression of Kv2.1 was elevated in the apoptotic neurons, and forskolin significantly depressed the expression of Kv2.1.
+Adults show a reduction in size of the cerebellum and presynaptic and axon terminal abnormalities of Purkinje *cells*.
+This mutation was located at a highly conserved site close to the ion-selective pore and led to the shortening of the inactivation phase of the Ca(2+) channel current without a change of peak current density or current-voltage relationship in whole *cell* patch recordings of the recombinant Ca(2+) channel expressed in HEK *cells*.
+TRPC1 Ca(2+)-permeable channels in animal *cells*.
+The TRPC1 protein is widely expressed in different types of animal *cells*, and within a given *cell* is found at the plasma membrane and at intracellular sites.
+During the latent period of epileptogenesis, most CA1 pyramidal *cells* that normally fire in a regular pattern, acquire low-threshold bursting behaviour, generating high-frequency clusters of 3-5 spikes as their minimal response to depolarizing stimuli.
+The early appearance and predominance of I(CaT)-driven low-threshold bursting in CA1 pyramidal *cells* that experienced SE most probably contribute to the emergence of abnormal network discharges and may also play a role in the circuitry reorganization associated with epileptogenesis.
+Omega-conotoxins are routinely used as selective inhibitors of different classes of voltage-gated calcium channels (VGCCs) in excitable *cells*.
+Omega-conotoxins CVID and CVIB inhibited depolarization-activated whole-*cell* VGCC currents in DRG neurons with pIC50 values of 8.12 +/- 0.05 and 7.64 +/- 0.08, respectively.
+Using TRPV1-transiently transfected F11 *cells* and embryonic dorsal root ganglia explants, we show that activation of TRPV1 results in growth cone retraction, and collapse and formation of varicosities along neurites.
+In *cell* bodies of the neuron, the decrease in MMP was also statistically significant (p<0.05), but the decrease occurred more slowly.
+Single *cell* RT-PCR showed that virtually all pyramidal *cells* expressed Kv2.1 mRNA and approximately 80% expressed Kv2.2 mRNA.
+Kv2.1 subunits were clustered and located on somata and proximal dendrites of all pyramidal *cells*.
+Kv2.2 subunits were primarily distributed on large apical dendrites of a subset of pyramidal *cells* from deep layers.
+Considering the localization of Kv2.1 and 2.2 subunits, currents from truncated dissociated *cells* are probably dominated by Kv2.1 subunits.
+Compared with Kv2.1 currents in expression systems, the Kv2.1 current in neocortical pyramidal *cells* activated and inactivated at relatively negative potentials and was very sensitive to holding potential.
+Classic cadherins, comprising multiple subtypes, mediate selective *cell*-*cell* adhesion based on their subtype-specific binding nature.
+We performed whole-*cell* patch-clamp recordings from DH neurons in spinal cord slices, in combination with menthol stimulation as a tool to excite central terminals of primary afferents expressing TRPM8.
+Enhancement of sodium current in NG108-15 *cells* during neural differentiation is mainly due to an increase in NaV1.7 expression.
+In this work, we investigated whether the enhancement of sodium current in differentiated neuroblastoma x glioma NG108-15 *cells* treated with dibutyryl cAMP is related to the expression of voltage-gated sodium channels.
+The results were as follows. (1) Sodium current density on peak voltage in differentiated *cells* was significantly enhanced compared with that in undifferentiated *cells*, as detected by the whole-*cell* patch clamp method.
+The steady-state inactivation curve in differentiated *cells* was similar to that for undifferentiated *cells*, but a hyperpolarized shift in the activation curve for differentiated *cells* was observed.
+The sodium currents of differentiated and undifferentiated *cells* were completely inhibited by 10(-7) M tetrodotoxin (TTX).
+In HERG-transfected COS-7 *cells*, SM-21 potentiated the ifenprodil-induced blockade of the HERG current.
+Bradykinin-induced nuclear factor of activated T-*cells*-dependent transcription in rat dorsal root ganglion neurons.
+We tested the hypothesis that bradykinin could elicit long-lasting changes in nociceptor function by activating members of the nuclear factor of activated T-*cells* (NFAT) family of transcription factors.
+Aquaporin 9 changes in pyramidal *cells* before and is expressed in astrocytes after delayed neuronal death in the ischemic hippocampal CA1 region of the gerbil.
+Based on double-immunofluorescence staining, many AQP9-immunoreactive glial *cells* in the CA1 region were identified as astrocytes.
+These results indicate that changes in AQP9 in ischemic CA1 pyramidal *cells* may be related to delayed neuronal death and that the expression of AQP9 in astrocytes is related to gliosis in the CA1 region after transient forebrain ischemia.
+A role for acetylcholine receptors in their own aggregation on muscle *cells*.
+Furthermore, AChR function is required for agrin induced AChR aggregation in C2 muscle *cells*.
+Ca2+ channels in mature outer hair *cells* supports outer hair *cell* afferent signaling.
+Outer hair *cells* (OHCs) are innervated by type II afferent fibers of as yet unknown function.
+Ba2+ currents could hardly be measured in mature mouse OHCs because of their high fragility, whereas in the rat, the average Ba2+ current amplitude of apical OHCs was 58 +/- 9 pA (n = 20, P19-P30) compared with that of the inner hair *cells* (IHCs) of 181 +/- 50 pA (n = 24, P17-P30).
+mRNA was detected in mature OHCs using *cell*-specific reverse transcription (RT)-PCR and in situ hybridization.
+Results for T-type blockade varied widely between *cells*.
+Because this effect is *cell*-size specific, selective therapies might potentially be devised to differentially alter excitability of nociceptive and low-threshold sensory neurons.
+Sensitisation of TRPV1 in a similar proportion of neurones was observed using whole-*cell* patch clamping.
+No translocation of the PKC delta, epsilon and zeta isoforms to the *cell* membrane was observed in response to BAM (8-22).
+TRPM5, a taste-signaling transient receptor potential ion-channel, is a ubiquitous signaling component in chemosensory *cells*.
+TRPM5 is known to be abundantly expressed in taste receptor *cells* where it participates in sweet, amino acid and bitter perception.
+Apart from taste buds, where we found TRPM5 to be predominantly localized on the basolateral surface of taste receptor *cells*, TRPM5 immunoreactivity was seen in other chemosensory organs - the main olfactory epithelium and the vomeronasal organ.
+Most strikingly, we found solitary TRPM5-enriched epithelial *cells* in all parts of the respiratory and gastrointestinal tract.
+Based on their tissue distribution, the low *cell* density, morphological features and co-immunostaining with different epithelial markers, we identified these *cells* as brush *cells* (also known as tuft, fibrillovesicular, multivesicular or caveolated *cells*).
+In terms of morphological characteristics, brush *cells* resemble taste receptor *cells*, while their origin and biological role are still under intensive debate.
+We consider TRPM5 to be an intrinsic signaling component of mammalian chemosensory organs, and provide evidence for brush *cells* being an important cellular correlate in the periphery.
+We then recorded ASSR and ABR from mouse mutants bearing defects of either outer hair *cell* amplification (KCNQ4-knockout) or inner hair *cell* synaptic transmission (Bassoon-mutant).
+Although TASK-3 channels are abundant in cerebellar granule *cells*, the KO mice performed as well as the wild-type mice in walking on a rotating rod or along a 1.2-cm-diameter beam.
+We conclude that although p75(NTR) is a receptor for soluble RVG in transfected *cells* of heterologous expression systems, an RVG-p75(NTR) interaction is not necessary for RV infection of primary neurons.
+Large conductance (BK-type) calcium-activated potassium channels utilize alternative splicing and association with accessory beta subunits to tailor BK channel properties to diverse *cell* types.
+In this study, the combined functional consequences of STREX and the mouse beta4 subunit on mouse BK channel biophysical properties were investigated in transfected HEK 293 *cells*.
+Analysis of expression in brain slices suggests that STREX and beta4 mRNA overlap expression in the dentate gyrus of the hippocampus and the cerebellar Purkinje *cells*, suggesting that these unique properties of BK channels may underlie BK channel gating in these *cells*.
+In the ganglia, counts were made of positively labelled *cells* in the FB population.
+*Cell* specific gene expression is largely regulated by different combinations of transcription factors that bind cis-elements in the upstream promoter sequence.
+Additionally, we identify putative sites for IL-6 effectors (in rods) and RXR family members (in cones) that can explain experimental data showing changes to *cell*-fate by activating these signaling pathways during rod/cone development.
+Two of the predicted motifs (NRE and ROP2) have been confirmed experimentally to be involved in *cell*-specific expression patterns.
+was detected in pyramidal *cell* soma and dendritic fields of areas CA1-CA3 and in granule *cell* soma and fibers in the dentate gyrus.
+Using a combination of calcium fluorescent assays and whole-*cell* electrophysiology, we discovered several compounds that possess potent, selective TRPA1-activating activity, including several lipid compounds (farnesyl thiosalicylic acid, farnesyl thioacetic acid, 15-deoxy-Delta(12,14)-prostaglandin J(2), and 5,8,11,14-eicosatetraynoic acid), and two marketed drugs: disulfiram (Antabuse; a compound used in the treatment of alcohol abuse) and the antifungal agent chlordantoin.
+Biophysical properties of CaV1.3 calcium channels in gerbil inner hair *cells*.
+The Ca(2+) current (I(Ca)) in prehearing and adult inner hair *cells* (IHCs), the primary sensory receptors of the mammalian cochlea, is mainly carried by L-type (Ca(V)1.3)
+The size of I(Ca) in adult IHCs was about a third of that in immature *cells* with no apparent difference along the cochlea at both stages.
+The activation kinetics of I(Ca) were significantly faster in high-frequency IHCs, with that of adult *cells* being more rapid than immature *cells*.
+Immature basal IHCs showed faster recovery of I(Ca) from inactivation than apical *cells* allowing them to support a higher AP frequency.
+I(Ca) in adult IHCs was more resistant to progressive inactivation following repeated voltage stimulation than that of immature *cells*.
+In this study, we examined the effects of TRPV1 activation on *cell* injury pathways in this subpopulation of neurons in the streptozotocin-induced diabetic rat model.
+Large DRG neurons from diabetic (6-8 weeks) rats displayed increased oxidative stress and activation of *cell* injury markers compared with healthy controls.
+Treatment with capsazepine, a competitive TRPV1 antagonist, markedly reduced these abnormalities in vitro and prevented activation of *cell* injury in large DRG neurons in diabetic rats in vivo.
+The primary subunits of cone and rod CNG channels, CNGA3 and CNGA1, respectively, were heterologously expressed in HEK 293 *cells*, and channel activity was determined by ratiometric measurement of [Ca (2+)] i in response to cyclic guanosine monophosphate (cGMP) stimulation.
+In human embryonic kidney (HEK-293) *cells*, which constitutively express PARs, thrombin, PMA and FSK elevated AEA levels, and the effects of the two former compounds were counteracted by the PKC inhibitor, RO318220, whereas the effect of FSK was reduced by the PKA inhibitor RpcAMPs.
+In DBA/2 retina, elevated intraocular pressure increased microglial IL-6 in the ganglion *cell* layer.
+Fast-spiking *cells* (FS *cells*) are a prominent subtype of neocortical GABAergic interneurons with important functional roles.
+Multiple FS *cell* properties are coordinated for rapid response.
+Here, we describe an FS *cell* feature that serves to gate the powerful inhibition produced by FS *cell* activity.
+We show that FS *cells* in layer 2/3 barrel cortex possess a dampening mechanism mediated by Kv1.1-containing potassium channels localized to the axon initial segment.
+These channels powerfully regulate action potential threshold and allow FS *cells* to respond preferentially to large inputs that are fast enough to "outrun" Kv1 activation.
+In addition, Kv1.1 channel blockade converts the delay-type discharge pattern of FS *cells* to one of continuous fast spiking without influencing the high-frequency firing that defines FS *cells*.
+Thus, Kv1 channels provide a key counterbalance to the established rapid-response characteristics of FS *cells*, regulating excitability through a unique combination of electrophysiological properties and discrete subcellular localization.
+Whole *cell* patch clamp recordings (35 degrees C) were made from the primary afferent neurons retrogradely labelled from the oesophagus.
+In patch clamp studies, 2-methyl-5-HT (10 micromol L(-1)) activated a proportion of isolated oesophagus-specific nodose capsaicin-sensitive neurons (putative *cell* bodies of nodose C-fibres).
+The regulatory guidelines (ICHS7B) recommending inhibition of the delayed rectifier K(+) current (I(Kr)), carried by human ether-a-go-go-related gene (hERG) channels in cardiac *cells* (the hERG test), as a 'first line' test for identifying compounds inducing QT prolongation, have limitations, some of which are outlined here.
+hERG current was measured in HEK293 *cells*, stably transfected with hERG channels; action potential duration (APD) and arrhythmogenic effects were measured in isolated Purkinje fibres and perfused hearts from rabbits.
+BAPs have been well studied in a variety of neurons, and have been recently described in hippocampal and cortical interneurons, a heterogeneous population of GABAergic inhibitory *cells* that regulate activity of principal *cells* and neuronal networks.
+The non-selective cation channel TRPV4 is expressed in kidney distal tubule *cells*, and hair *cells* and the stria vascularis in the inner ear.
+To determine whether TRPV4 is involved in aminoglycoside trafficking, we generated a murine proximal-tubule *cell* line (KPT2) and a distal-tubule *cell* line (KDT3).
+TRPV4 expression was confirmed in KDT3 *cells* but not in KPT2 *cells*.
+To determine whether TRPV4 is permeable to GTTR, stable *cell* lines were generated that express TRPV4 in KPT2 (KPT2-TRPV4).
+KPT2-TRPV4 *cells* took up more GTTR than control *cell* lines (KPT2-pBabe) in the absence of extracellular Ca(2+).
+In an endolymph-like extracellular environment, clearance of GTTR was attenuated from KPT2-TRPV4 *cells* in a TRPV4-dependent fashion.
+In the present study, the excitatory effects of low-level lead exposure on action potential (AP) firing of pyramidal neurons in CA1 region of rat hippocampal slices and the pathway through which lead induced these effects were studied with conventional whole-*cell* recording.
+Several taste receptors have been identified within taste *cell* membranes on the surface of the tongue, and they include the T2R family of bitter taste receptors, the T1R receptors associated with sweet and umami taste perception, the ion channels PKD1L3 and PKD2L1 linked to sour taste, and the integral membrane protein CD36, which is a putative "fat taste" receptor.
+In SCA6 and FCMTE patients striking similarities with the extensive Purkinje *cell* changes in the cerebellar cortex were described, but the two disorders have a distinctive clinical picture.
+In the cerebral cortex, there was a significant decrease in IGFBP4 immunoreactivity in the pyramidal *cells*.
+In the hippocampal formation, IGFBP4 immunoreactivity was also decreased in the pyramidal *cells* of CA1-3 areas and the granule *cells* of dentate gyrus.
+Both SSTR2A and 2B immunoreactivities were increased in CA2-3 pyramidal *cells*.
+However, SSTR3 and SSTR4 immunoreactivities were reduced in the CA1 pyramidal *cells* of epileptic rat due to neuronal loss.
+In addition, SSTR5 immunoreactivity was reduced in CA2 pyramidal *cells* and various interneurons.
+Unlike the presynaptic location of Cacna1f and panalpha1 antibody staining, the skeletal muscle VDCCalpha1 subunit Cacna1s was present postsynaptically at ON-bipolar *cell* dendrites, where it colocalized with metabotropic glutamate receptor 6 (mGluR6).
+Subsequent analyses revealed severely reduced ON-bipolar *cell* dendritic expression of the sarcoplasmic reticulum Ca(2+) ATPase Serca2 in both mouse mutants and of mGluR6 in the Cacna1fDeltaEx14-17 mutant.
+Presynaptic mutations leading to reduced photoreceptor-to-bipolar *cell* signaling are associated with disturbances in protein expression within postsynaptic dendrites.
+Moreover, detection of Cacna1s and Serca2 in ON-bipolar *cell* dendrites in wild-type animals suggests a putative role in regulation of postsynaptic Ca(2+) flux.
+Is TrpM5 a reliable marker for chemosensory *cells*?
+Multiple types of microvillous *cells* in the main olfactory epithelium of mice.
+In the past, ciliated receptor neurons, basal *cells*, and supporting *cells* were considered the principal components of the main olfactory epithelium.
+Several studies reported the presence of microvillous *cells* but their function is unknown.
+A recent report showed *cells* in the main olfactory epithelium that express the transient receptor potential channel TrpM5 claiming that these *cells* are chemosensory and that TrpM5 is an intrinsic signaling component of mammalian chemosensory organs.
+We asked whether the TrpM5-positive *cells* in the olfactory epithelium are microvillous and whether they belong to a chemosensory system, i.e. are olfactory neurons or trigeminally-innervated solitary chemosensory *cells*.
+We investigated the main olfactory epithelium of mice at the light and electron microscopic level and describe several subpopulations of microvillous *cells*.
+The ultrastructure of the microvillous *cells* reveals at least three morphologically different types two of which express the TrpM5 channel.
+None of these *cells* have an axon that projects to the olfactory bulb.
+Tests with a large panel of *cell* markers indicate that the TrpM5-positive *cells* are not sensory since they express neither neuronal markers nor are contacted by trigeminal nerve fibers.
+We conclude that TrpM5 is not a reliable marker for chemosensory *cells*.
+The TrpM5-positive *cells* of the olfactory epithelium are microvillous and may be chemoresponsive albeit not part of the sensory apparatus.
+Activity of these microvillous *cells* may however influence functionality of local elements of the olfactory system.
+These results suggest the gender-dependent *cell* population expressing BK channels in amygdala complex and its up-regulation by AR stimulation.
+In signal transduction of metazoan *cells*, ion channels of the family of transient receptor potential (TRP) have been identified to respond to diverse external and internal stimuli, among them osmotic stimuli.
+FB-positive *cells* were traced in the L4-L5 (for gastrocnemius muscle) and L2-L4 (for erector spinae muscle) dorsal root ganglia.
+I(h) tunes hippocampal CA1 pyramidal *cell* dendrites to optimally respond to theta inputs (4-12 Hz), and provides a negative time delay to theta inputs.
+Here we report a progressive erosion of theta resonance and phase lead in pyramidal *cell* dendrites during epileptogenesis in a rat model of TLE.
+This acquired HCN channelopathy thus compromises temporal coding and tuning to theta inputs in pyramidal *cell* dendrites.
+Biochemical analysis demonstrated that the protein coprecipitates with CaV2.2 from lysates of rat or chick brain, including its synaptic, long-splice variant; presynaptic terminal surface membrane proteins, and a *cell* line coexpressing Munc18 and CaV2.2.
+However, the unitary conductance (gamma) of neuronal somatodendritic A-type K(+) channels composed of Kv4 pore-forming subunits is larger (approximately 7.5 pS) than that of Kv4 channels expressed singly in heterologous *cells* (approximately 4 pS).
+Using whole-*cell* patch clamp from brainstem slices, the selective ERG antagonist E-4031 reduced action potential (AP) threshold and increased firing on depolarisation.
+Otoferlin interacts with myosin VI: implications for maintenance of the basolateral synaptic structure of the inner hair *cell*.
+Otoferlin has been proposed to be the Ca(2+) sensor in hair *cell* exocytosis, compensating for the classical synaptic fusion proteins synaptotagmin-1 and synaptotagmin-2.
+Co-immunoprecipitation assay and co-expression suggest an interaction of both proteins within the basolateral part of inner hair *cells* (IHCs).
+(ii) Myosin VI mutant IHCs failed to transport BK channels to the membrane of the apical *cell* regions, and the exocytotic Ca(2+) efficiency did not mature.
+C57BL/6 mice, both TRPV1 knockout and wild type, were used for immunofluorescent and live *cell* imaging.
+ROS production was measured with live *cell* imaging and TNFR1 was detected with immunofluorescence in DRG primary cultures.
+Whole-*cell* patch-clamp was used to confirm the inhibition of capsaicin-induced currents by MCS-18 which was dose-dependent.
+The mechanism of inhibition does not require an intact *cell*, as capsaicin-induced currents were also inhibited in the excised outside-out configuration.
+Upregulation of inward rectifier K+ (Kir2) channels in dentate gyrus granule *cells* in temporal lobe epilepsy.
+In humans, temporal lobe epilepsy (TLE) is often associated with Ammon's horn sclerosis (AHS) characterized by hippocampal *cell* death, gliosis and granule *cell* dispersion (GCD) in the dentate gyrus.
+Granule *cells* surviving TLE have been proposed to be hyperexcitable and to play an important role in seizure generation.
+We studied granule *cells* using the intrahippocampal kainate injection mouse model of TLE, brain slice patch-clamp recordings, morphological reconstructions and immunocytochemistry.
+With progressing AHS and GCD, 'epileptic' granule *cells* of the injected hippocampus displayed a decreased input resistance, a decreased membrane time constant and an increased rheobase.
+The resting leak conductance was doubled in epileptic granule *cells* and roughly 70-80% of this difference were sensitive to K(+) replacement.
+Epileptic granule *cells* had strongly enlarged inwardly rectifying currents with a low micromolar Ba(2+) IC(50), reminiscent of classic inward rectifier K(+) channels (Irk/Kir2).
+Kir2.4) was upregulated in epileptic granule *cells*.
+We conclude that the excitability of granule *cells* in the sclerotic focus of TLE is reduced due to an increased resting conductance mainly due to upregulated K(+) channel expression.
+Site-specific regulation of *cell* cycle and DNA repair in post-mitotic GABA *cells* in schizophrenic versus bipolars.
+GABA *cell* dysfunction in both schizophrenia (SZ) and bipolar disorder (BD) involves decreased GAD(67) expression, although this change involves fundamentally different networks of genes in the 2 disorders.
+One gene that is common to these 2 networks is cyclin D2, a key component of *cell* cycle regulation that shows increased expression in SZ, but decreased expression in BD.
+Because of the importance of *cell* cycle regulation in maintaining functional differentiation and DNA repair, the current study has examined the genes involved in the G(1) and G(2) checkpoints to generate new hypotheses regarding the regulation of the GABA *cell* phenotype in the hippocampus of SZ and BD.
+The results have demonstrated significant changes in *cell* cycle regulation in both SZ and BD and these changes include the transcriptional complex (TC) that controls the expression of E2F/DP-1 target genes critical for progression to G(2)/M.
+Overall, the patterns of expression observed have suggested that the regulation of functional differentiation and/or genomic integrity of hippocampal GABA *cells* varies according to diagnosis and their location within the trisynaptic pathway.
+It is localized on epithelial, endothelial and inflammatory *cells*, as well as on transient receptor potential vanilloid 1 (TRPV1) receptor-expressing neurones.
+These data suggest that Ca(V)2.3 subunits contribute, but do not fully underlie, drug-resistant (R-type) Ca(2+) current in these *cells*.
+We localized TRPM1 in human retina to the ON bipolar *cell* dendrites in the outer plexifom layer.
+Our results suggest that in humans, TRPM1 is the channel gated by the mGluR6 (GRM6) signaling cascade, which results in the light-evoked response of ON bipolar *cells*.
+We have investigated rotenone (0.05-1 microm) effects on SNc neurons in acute rat midbrain slices, using whole-*cell* patch-clamp recording combined with microfluorometry.
+Combining electrophysiological, immunohistochemical, and two-photon Ca2+ imaging techniques, we show that CICR in NRT neurons takes place by a *cell*-type specific coupling of LVACC and RyR.
+This points to a defective synapse between the rod and the ON-bipolar *cell* causing the motility disorder: CACNA1F is located on the rod side of this synapse, whereas NYX is located on the side of the ON-bipolar *cell*.
+Rescue of motor coordination by Purkinje *cell*-targeted restoration of Kv3.3 channels in Kcnc3-null mice requires Kcnc1.
+Previously we reported that increased lateral deviation while ambulating and slips while traversing a narrow beam of ataxic Kcnc3-null mice were corrected by restoration of Kv3.3 channels specifically to Purkinje *cells*, whereas Kcnc3-mutant mice additionally lacking one Kcnc1 allele were partially rescued.
+For Purkinje *cell* output to reach the rest of the brain it must be conveyed by neurons of the DCN or vestibular nuclei.
+As Kcnc1, but not Kcnc3, alleles are lost, mutant mice exhibit increasing gait ataxia accompanied by spike broadening and deceleration in DCN neurons, suggesting the facet of coordination rescued by Purkinje-*cell*-restricted Kv3.3 restoration in mice lacking just Kcnc3 is hypermetria, while gait ataxia emerges when additionally Kcnc1 alleles are lost.
+Thus, fast repolarization in Purkinje *cells* appears important for normal movement velocity, whereas DCN neurons are a prime candidate locus where fast repolarization is necessary for normal gait patterning.
+Casein kinase 1 is a serine/threonine protein kinase and has been implicated in a wide range of signaling activities such as *cell* differentiation, proliferation, apoptosis, circadian rhythms and membrane transport.
+Synaptic activation of T-type Ca2+ channels via mGluR activation in the primary dendrite of mitral *cells*.
+Mitral *cells* are the primary output of the olfactory bulb, projecting to many higher brain areas.
+Understanding how mitral *cells* process and transmit information is key to understanding olfactory perception.
+We show that mitral *cells* also possess a low-voltage-activated T-type Ca(2+) current.
+In addition, using specific pharmacological and molecular tools combined with patch-clamp current recordings, we found that in heterologously expressed HEK-293 (human embryonic kidney) *cells*, TRPM8 channel is inhibited by the G(i) protein/adenylate cyclase (AC)/cAMP/protein kinase A (PKA) signaling cascade.
+Genetically increased *cell*-intrinsic excitability enhances neuronal integration into adult brain circuits.
+First, we observed that suppressing levels of *cell*-intrinsic neuronal activity via expression of ESKir2.1 potassium channels decreases, whereas enhancing activity via expression of NaChBac sodium channels increases survival of new neurons.
+Furthermore, even when neurons are induced to fire dramatically altered patterns of action potentials, increased levels of *cell*-intrinsic activity completely blocks *cell* death triggered by NMDA receptor deletion.
+These findings demonstrate that overall levels of *cell*-intrinsic activity govern survival of new neurons and precise firing patterns are not essential for neuronal integration into existing brain circuits.
+Unexpectedly, we found a markedly enhanced bicuculline- and L-655,708-sensitive background GABA(A) current in these *cells* that could be attributed to selective upregulation of GABA(A) alpha5 subunit expression in the cortex of HCN1 knock-out mice.
+Strikingly, despite diminished I(h), baseline sublinear summation of evoked EPSPs was unchanged in pyramidal neurons from HCN1 knock-out mice; however, blocking tonic GABA(A) currents with bicuculline enhanced synaptic summation more strongly in pyramidal *cells* from HCN1 knock-out mice than in those *cells* from wild-type mice.
+The sigmaR1-immunoreactivity (IR) was also observed in many *cells* in the inner nuclear layer and the ganglion *cell* layer.
+In the outer retina sigmaR1 was expressed in all horizontal *cells* labeled by calbindin.
+In contrast, no sigmaR1-IR was detected in several subtypes of bipolar *cells*, including rod-dominant ON-type bipolar *cells*, types 2, 3, 5 and 8 bipolar *cells*, labeled by protein kinase C (PKC), recoverin and hyperpolarization-activated cyclic nucleotide-gated potassium channel 4 (HCN4) respectively.
+In the inner retina, most of GABAergic amacrine *cells*, including dopaminergic and cholinergic ones, stained by tyrosine hydroxylase (TH) and choline acetyltransferase (ChAT) respectively, expressed sigmaR1.
+Some glycinergic amacrine *cells* were also labeled by sigmaR1, but glycinergic AII amacrine *cells* were not labeled.
+In addition, sigmaR1-IR was seen in almost all somata of the ganglion *cells* retrogradely labeled by fluorogold.
+Why should a polyglutamine stretch in the TATA-binding protein (that is important in all *cells*) particularly disrupt cerebellar coordination?
+We argue that the unifying feature of many genes involved in cerebellar ataxias is their impact on the signaling protein ITPR1 (inositiol 1,4,5-triphosphate receptor type 1), that underlies coincidence detection in Purkinje *cells* and could play an important role in cerebellar coordination.
+During recent years, strong evidence has been accumulated in support of the expression of several Na(v)1.5 splice variants in the heart, and in various other tissues and *cell* lines including brain, dorsal root ganglia, breast cancer *cells* and neuronal stem *cell* lines.
+In the present study the effects of SKF83959 on the spontaneous excitatory postsynaptic currents (sEPSCs) were investigated through whole-*cell* recording from layer V-VI pyramidal neurons in rat somatosensory cortical slices.
+In these animals, COX-2 immunoreactivity was mainly detected in pyramidal *cells* of the hippocampal CA2/3 region and in granule *cells* of the dentate gyrus.
+RTP1 was localized broadly across the VNO sensory epithelium, goblet *cells*, and the soft palate.
+The RTP1-dependent TRPC2 surface expression was paralleled with an increase in ATP-stimulated whole-*cell* current in an in vitro patch-clamp electrophysiological assay.
+The developed in vitro expression system, as described here, will be advantageous for detailed investigations into TRPC2 channel activity and *cell* signalling, for a channel protein that was traditionally difficult to physiologically assess.
+Most vestibular ganglion *cells* were immunoreactive for 5-HT(1B) and 5-HT(1D) receptors in macaques and rats.
+In the inner ear, 5-HT(1B) and 5-HT(1D) receptor immunopositivity was associated with endothelial *cells* of the vestibular ganglion, spiral ganglion, vestibulocochlear nerve, spiral ligament and stria vascularis.
+Agonist-induced calcium fluxes were recorded using the FLIPR technique in a recombinant, TRPV1-expressing *cell* line.
+Although nerve *cell* membranes are often assumed to be uniform with respect to electrical properties, there is increasing evidence for compartmentalization into subdomains with heterogeneous impacts on the overall *cell* function.
+Recently, clustering of large-conductance calcium-activated potassium (BK(Ca)) channels was shown at sites of subsurface membrane cisterns in cerebellar Purkinje *cells* (PC), where they likely participate in building a subcellular signaling unit, the 'PLasmERosome'.
+By applying SDS-digested freeze-fracture replica labeling (SDS-FRL) and postembedding immunogold electron microscopy, we have now studied the spatial organization of somatic BK(Ca) channels in neocortical layer 5 pyramidal neurons, principal neurons of the central and basolateral amygdaloid nuclei, hippocampal pyramidal neurons and dentate gyrus (DG) granule *cells* to establish whether there is a common organizational principle in the distribution of BK(Ca) channels in central principal neurons.
+In all *cell* types analyzed, somatic BK(Ca) channels were found to be non-homogenously distributed in the plasma membrane, forming two pools of channels with one pool consisting of clustered channels and the other of scattered channels in the extrasynaptic membrane.
+Quantitative analysis by means of SDS-FRL revealed that about two-thirds of BK(Ca) channels belong to the scattered pool and about one-third to the clustered pool in principal *cell* somata.
+Overall densities of channels in both pools differed in the different *cell* types analyzed, although being considerably lower compared to cerebellar PC.
+This study indicates a common organizational principle for somatic BK(Ca) channels in central principal neurons with the formation of a clustered and a scattered pool of channels, and a *cell*-type specific density of this channel type.
+TB-2-081 displaces the binding of IL-6 to the human recombinant soluble IL-6 receptor with apparent high affinity and inhibits IL-6 mediated *cell* growth.
+DRG *cells* from dry skin mice exhibited significantly larger responses to the PAR-2 agonist and 5-HT, but not histamine.
+The correspondence between enhanced behavioral scratching and DRG *cell* responses suggest that peripheral pruriceptors that respond to proteases and 5-HT, but not histamine, may be sensitized in dry skin itch.
+Mechanosensitive channels serve as essential sensors for *cells* to interact with their environment.
+Transfection of TRPA1 in HEK293 *cells* did not significantly alter the proportion or magnitude of mechanically-activated currents in HEK293 *cells*, indicating that TRPA1 alone is not sufficient to confer mechanical sensitivity.These
+During development, the rescue of spinal motoneurons as well as sensory neurons in the dorsal root ganglion (DRG) from programmed *cell* death (PCD) depends on the integrity of peripheral target innervation.
+In the present paper, we asked whether different *cell* types in the DRG exhibit distinct responses to Bax deletion.
+In 1-month-old Bax-deficient (Bax-/-) mice, distinct subsets of DRG neurons that were immunopositive for TrkA, CGRP, TRPV1 or TrkC, were all increased in number and exhibited *cell* atrophy compared to wild type DRG neurons.
+These data indicate that although Bax deletion rescues all of the DRG *cell* types examined here from PCD, the functional consequences of having excess *cells* differ between sensory phenotypes.
+Results showed that application of rat recombinant TNF-α (rrTNF) into the cultured normal adult rat DRG neurons increased the immunoreactive (IR) of Nav1.3 localized mainly around the *cell* membrane and pre-treatment with PDTC blocked the change dose-dependently.
+Models of Calcium Dynamics in Cerebellar Granule *Cells*.
+Intracellular calcium dynamics is critical for many functions of cerebellar granule *cells* (GrCs) including membrane excitability, synaptic plasticity, apoptosis, and regulation of gene transcription.
+Recent measurements of calcium responses in GrCs to depolarization and synaptic stimulation reveal spatial compartmentalization and heterogeneity within dendrites of these *cells*.
+Xenon reduces activation of transient receptor potential vanilloid type 1 (TRPV1) in rat dorsal root ganglion *cells* and in human TRPV1-expressing HEK293 *cells*.
+We studied the effect of xenon on capsaicin-evoked cobalt uptake in rat cultured primary sensory neurons and in human TRPV1 (hTRPV1)-expressing human embryonic kidney 293 (HEK293) *cells*.
+β4-subunit increases Slo responsiveness to physiological Ca2+ concentrations and together with β1 reduces surface expression of Slo in hair *cells*.
+Changing kinetics of large-conductance potassium (BK) channels in hair *cells* of nonmammalian vertebrates, including the chick, plays a critical role in electrical tuning, a mechanism used by these *cells* to discriminate between different frequencies of sound.
+BK currents are less abundant in low-frequency hair *cells* and show large openings in response to a rise in intracellular Ca(2+) at a hair *cell*'s operating voltage range (spanning -40 to -60 mV).
+Although the molecular underpinnings of its function in hair *cells* are poorly understood, it is established that BK channels consist of a pore-forming α-subunit (Slo) and a number of accessory subunits.
+We have cloned the chick β(4)- and β(1)-subunits and show that these subunits are preferentially expressed in low-frequency hair *cells*, where they decrease Slo surface expression.
+The β(4)-subunit in particular is responsible for the BK channel's increased responsiveness to Ca(2+) at a hair *cell*'s operating voltage.
+In contrast, however, the increases in relaxation times induced by both β-subunits suggest additional mechanisms responsible for BK channel function in hair *cells*.
+Here we show that Pirt does not alter the phosphoinositide sensitivity of TRPV1 in HEK-293 *cells*, that there is no FRET between TRPV1 and Pirt, and that dissociated dorsal root ganglion neurons from Pirt knock-out mice have an apparent affinity for PIP2 indistinguishable from that of their wild-type littermates.
+Biomechanics of hair *cell* kinocilia: experimental measurement of kinocilium shaft stiffness and base rotational stiffness with Euler-Bernoulli and Timoshenko beam analysis.
+Vestibular hair *cell* bundles in the inner ear contain a single kinocilium composed of a 9+2 microtubule structure.
+Kinocilia play a crucial role in transmitting movement of the overlying mass, otoconial membrane or cupula to the mechanotransducing portion of the hair *cell* bundle.
+Second, we measured the rotational stiffness of the kinocilium insertion (κ) into the hair *cell*'s apical surface.
+The mechanical parameters we quantified are important for understanding how forces arising from head movement are transduced and encoded by hair *cells*.
+New compounds nobilamides A-H and related known compounds A-3302-A and A-3302-B were isolated based upon their suppression of capsaicin-induced calcium uptake in a mouse dorsal root ganglion primary *cell* culture assay.
+The polymodal ion channel transient receptor potential vanilloid 4 modulates calcium flux, spiking rate, and apoptosis of mouse retinal ganglion *cells*.
+TRPV4 antibodies labeled perikarya, axons, and dendrites of retinal ganglion *cells* (RGCs) and intensely immunostained the optic nerve head.
+Müller glial *cells*, but not retinal astrocytes or microglia, also expressed TRPV4 immunoreactivity.
+Multiple components of both transient and sustained barium currents in a rat dorsal root ganglion *cell* line.
+Currents through voltage-activated Ca2+ channels in rat dorsal root ganglion (DRG) x mouse neuroblastoma hybrid (F-11) *cells* were studied using the whole-*cell* patch clamp technique with 30 mM-Ba2+ as charge carrier.
+Most F-11 *cells* had both the transient and sustained Ba2+ currents although the relative amount of the two currents varied with culture conditions.
+The transient current was more prominent in *cells* fed with a 'growth' medium (15-20% serum) whereas the sustained current was increased in *cells* fed with a 'differentiation' medium (1% serum plus growth factors).
+F-11 *cells* can be used to study transient current in relative isolation from sustained Ca2+ current under certain culture conditions.
+The neuroblastoma parent of the F-11 *cell* line, N18TG-2 *cells*, exhibited little or no voltage-dependent Ba2+ current.
+The transient and sustained Ba2+ currents in F-11 *cells* were reversibly blocked by brief exposure to Cd2+ or Ni2+.
+Identification of autoantibodies against TRPM1 in patients with paraneoplastic retinopathy associated with ON bipolar *cell* dysfunction.
+While several autoantibodies against retinal antigens have been identified, there has been no known autoantibody reacting specifically against bipolar *cell* antigens in the sera of patients with PR.
+We previously reported that the transient receptor potential cation channel, subfamily M, member 1 (TRPM1) is specifically expressed in retinal ON bipolar *cells* and functions as a component of ON bipolar *cell* transduction channels.
+The purpose of the current study is to investigate whether there are autoantibodies against TRPM1 in the sera of PR patients exhibiting ON bipolar *cell* dysfunction.
+The electroretinograms of this patient showed a severely reduced ON response with normal OFF response, indicating that the defect is in the signal transmission between photoreceptors and ON bipolar *cells*.
+We also investigated the sera of 26 patients with MAR for autoantibodies against TRPM1 because MAR patients are known to exhibit retinal ON bipolar *cell* dysfunction.
+Our study reveals TRPM1 to be one of the autoantigens targeted by autoantibodies in at least some patients with CAR or MAR associated with retinal ON bipolar *cell* dysfunction.
+Such damage often causes the dendrites of the spiral ganglion neurons (SGN), the neurons that provide the afferent innervation of the hair *cells*, to swell and degenerate thus damaging the synapse.
+along the SGN dendrites and Na(V)1.7 in the *cell* bodies after noise.
+Glutathione (GSH) is the most abundant thiol antioxidant in mammalian *cells* and maintains thiol redox in the *cells*.
+In whole-*cell* patch clamp experiments, TRPM2 currents in the rat were consistently induced by H(2)O(2) or BSO.
+Previous studies identified in retinal pigment epithelial (RPE) *cells* an M-type K(+) current, which in many other *cell* types is mediated by channels encoded by KCNQ genes.
+Application of the specific KCNQ channel blocker XE991 eliminated the M-type current in freshly isolated monkey RPE *cells*, indicating that KCNQ subunits contribute to the underlying channels.
+In situ hybridization in frozen monkey retinal sections revealed KCNQ5 gene expression in the ganglion *cell* layer and the inner and outer nuclear layers of the neural retina, but results in the RPE were inconclusive due to the presence of melanin.
+*Cells* of strain SW15(T) were Gram-negative, aerobic, light yellow, rod-shaped and motile by means of a single polar flagellum.
+Using Ca(2+) imaging and whole-*cell* patch-clamp methods, we analysed the response of TRP channels to three kinds of capsinoids, capsiate, dihydrocapsiate and nordihydrocapsiate, in HEK293T *cells* expressing TRP channels or in primary cultures of mouse dorsal root ganglion neurons.
+We found that in both *cell* types TRP ankyrin 1 (TRPA1) had a slightly weaker response to capsinoids compared with TRPV1, with the capsiate EC(50) for TRPA1 activation being more than that for TRPV1 activation, and that the capsinoid-evoked action was blocked by a specific TRPA1 antagonist.
+We therefore investigated the involvement of the SK channel-mediated AHP in controlling *cell* and network excitability in the pilocarpine model epilepsy.
+Both acutely isolated CA1 pyramidal *cells* and isolated hippocampal slices were investigated in terms of the impact of SK channel-mediated AHP on hyperexcitability.
+We conclude that SK2 channels are down-regulated in chronic epilepsy underlying the impaired SK channel function in CA1 pyramidal *cells*, and a further reduction of the remaining critical mass of SK channels results in an acute network decompensation.
+The HVA-Ca(2+) current was recorded by the technique of whole *cell* patch clamp.
+During inflammation, immune *cells* accumulate in damaged areas and release pro-inflammatory cytokines and neurotrophins.
+Defective trafficking of cone photoreceptor CNG channels induces the unfolded protein response and ER-stress-associated *cell* death.
+Accumulation of proteins in the ER (endoplasmic reticulum) is known to cause ER stress and trigger the UPR (unfolded protein response), an evolutionarily conserved cellular programme that results in either adaptation via increased protein processing capacity or apoptotic *cell* death.
+We hypothesize that defective trafficking of cone photoreceptor CNG channels can induce UPR-mediated *cell* death.
+To test this idea, CNGA3 subunits bearing the R563H and Q655X mutations were expressed in photoreceptor-derived 661W *cells* with CNGB3 subunits.
+ER retention was associated with increased expression of UPR-related markers of ER stress and with decreased *cell* viability.
+Improved subunit maturation was concordant with reduced expression of ER-stress markers and improved viability of *cells* expressing localization-defective channels.
+DRG neurons (T11-L2) retrogradely labeled from the kidney and subsequently cultured, were investigated by whole-*cell* patch clamp.
+Grid *cells* use HCN1 channels for spatial scaling.
+Entorhinal grid *cells* have periodic, hexagonally patterned firing locations that scale up progressively along the dorsal-ventral axis of medial entorhinal cortex.
+To test the hypothesis that grid scale is determined by Ih, we recorded grid *cells* in mice with forebrain-specific knockout of HCN1.
+In control rats, quantitative morphometric and statistical analyses of TRPV1 protein and mRNA expression in L5 dorsal root ganglion *cells* revealed distinct populations of small (type C) and small-to-medium (type B) neurons, which showed very high and moderate levels of TRPV1, whereas larger (type A) neurons mostly did not express this receptor.
+To explore potential nucleus-specific burst features, we compared the membrane properties of dorsal lateral geniculate nucleus (dLGN) and pulvinar nucleus relay neurons using in vitro whole-*cell* recording in juvenile and adult tree shrew (Tupaia) tissue slices.
+The development of outer hair *cell* (OHC) function is delayed, but Prestin and KCNQ4 immunostaining appear normal in mature Prop1 ( df ) mutants.
+Distribution and function of polycystin-2 in mouse retinal ganglion *cells*.
+Polycystin-2 channels have been cloned from retina, but their distribution and function in retinal ganglion *cells* (RGCs) have not yet been established.
+We detected polycystin-2 immunoreactivity both in the ganglion *cell* layer as well as in primary cultured RGCs.
+Whole-*cell* patch-clamp recordings demonstrated that CCL2 concentration-dependently increased TTX-resistant Na(v)1.8 current densities in both small- and medium-diameter sensory neurons.
+Although implicated in oxidative stress-induced neuronal *cell* death, and potentially in neurodegenerative disease, the physiological role of TRPM2 in the central nervous system is unknown.
+Disruption of neural crest Trpm7 at early stages results in loss of pigment *cells* and dorsal root ganglion neurons.
+We developed induced pluripotent stem *cells* and neural stem (NS) *cells* in which Trpm7 disruption could be induced.
+Trpm7(-/-) NS *cells* retained the capacities of self-renewal and differentiation into neurons and astrocytes.
+During in vitro differentiation of induced pluripotent stem *cells* to NS *cells*, Trpm7 disruption prevents the formation of the NS *cell* monolayer.
+Immunohistochemistry revealed the presence of TRPV4 in a population of the retinal *cells* identified as amacrine *cells* on the basis of their morphology and localization within the retina, as well as the co-localization of TRPV4 with calretinin.
+TRPV4 was first (3 dpf) found in the soma of *cells* localized in the inner nuclear and ganglion *cell* layers, and thereafter (10 dpf) also in the inner plexiform layer.
+The adult pattern of TRPV4 expression was achieved by 40 dpf the expression being restricted to the soma of some *cells* in the inner nuclear layer and ganglion *cell* layers.
+Retinal recoverin and guanylate cyclase activating proteins (GCAPs) both serve as calcium sensors in retinal rod *cells*, neuronal frequenin (NCS1) modulates synaptic activity and neuronal secretion, K(+) channel interacting proteins (KChIPs) regulate ion channels to control neuronal excitability, and DREAM (KChIP3) is a transcriptional repressor that regulates neuronal gene expression.
+We report here a difference between the CA1 and CA3 *cell* populations in the immature hippocampus with regard to 1) resting [K+]o, 2) magnitude of the [K+]o change during seizurelike events and SDs, and 3) susceptibility to SD episodes.
+In the CA3 region, spontaneous ictallike events consisting of tonic *cell* depolarization with repetitive activity followed by clonic afterdischarges were more likely to occur than SD episodes.
+The ouabain treatment also increased the frequency of spontaneous postsynaptic potential activity and decreased the amplitude and duration of CA3 pyramidal *cell* afterhyperpolarizations (AHPs).(ABSTRACT
+One aryl azido analogue of capsaicin produced a long-lasting stimulation of calcium uptake after irradiation in contact with *cells*, but not if samples were kept in the dark.
+Sera from seven patients with bronchogenic carcinoma and cerebellar dysfunction were tested for anti-Purkinje *cell* antibodies (APCA) by indirect immunofluorescence and indirect immunoperoxidase reaction.
+It becomes apparent that there was an inverse pathological pattern between the fascia dentata granule *cells* and the Ammon's horn CA3 pyramidal neurons.
+Thus it becomes apparent that the induction of pathological lesion in the Ammon's horn requires the functional integrity of the granule *cells*.
+In view that this inverse relationship also exists between the entorhinal cortical *cells* and the fascia dentate granule *cells* as well as between the CA3 and CA1,2 neurons in the Ammon's horn, a theory on the hyperexcitory cascade between the entorhinal cortex----fascia dentate----CA3----CA1,2 neurons was constructed.
+(3) Two different synaptic inputs to CA1 pyramidal *cells* were tested with respect to their ability to produce long-lasting synaptic potentiation after tetanization in strontium Ringer.
+There is autoradiographic, immunocytochemical, and pharmacological evidence that some amacrine *cells* and certain neurons in the ganglion *cell* layer probably use GABA as the neurotransmitter.
+The positions and numbers of these *cells* in the developing retina suggest that they will become GABA-ergic neurons in the adult retina.
+Nuclear localization of tritiated aldosterone in the CNS was studied in rats by numerical evaluation of silver grains, deposited over neuronal *cell* nuclei in thaw-mounted autoradiograms, and compared with the localization obtained after prior administration of a 100-fold excess of radioinert aldosterone, corticosterone or 18-hydroxy-11-deoxycorticosterone (18-OH-DOC).
+However, in contrast to pretreatment with aldosterone, pretreatment with corticosterone and 18-OH-DOC did not completely prevent the concentration of radioactivity in the *cell* nuclei of the indusium griseum.
+We conclude that (1) a receptor readily shared by aldosterone, corticosterone, 18-OH-DOC and DOC, but not by dihydrotestosterone, is widely distributed throughout the CNS, (2) a receptor shared by aldosterone and 18-OH-DOC, but not by corticosterone may be present in hippocampal areas CA1 and CA2, (3) that both these as well as the receptor accepting dihydrotestosterone can be located within the same *cell*.
+After exposure to physiological levels of Ca2+ (1-2.5 mM), the *cells* retained rod-shaped morphology, exhibited clear cross striations, and excluded the dye trypan blue (0.4%).
+Initial percents of viable Ca2+-tolerant rod-shaped *cells* were 58.6 +/- 3.4 (SE) and 51.8 +/- 3.5 for right and left ventricular *cells*, respectively.
+Measurements of *cell* length, width, and sarcomere length demonstrated no significant differences between right and left ventricular *cells* suspended in nominal (8-10 microM) and 1 mM Ca2+-containing buffer.
+No significant difference was found in the percent of binucleate *cells* when right and left ventricular myocytes were compared.
+Electrophysiological characteristics of hippocampal complex-spike *cells* and theta *cells*.
+All hippocampal units were classified s complex-spike *cells* or theta *cells* on the basis of the form of their action potentials and their rates of firing in various behaviors.
+Complex-spike *cells* (1) could often be antidromically activated in CA3 (it was not attempted in CA1); (2) could only be induced to fire one or two action potentials in response to a single stimulus; (3) had action potentials at the same time as the local population-spike and, in condition-test studies, were depressed when the population-spike was depressed.
+(The population-spike is presumably the summed synchronous action potentials of pyramidal *cells*.)
+Theta *cells*: (1) were antidromically activated in only one out of 25 cases; (2) usually could fire long bursts of action potentials in response to a sufficiently intense single stimulus; (3) this firing occurred before, during, and after the local orthodromic population-spike.
+Most complex-spike *cells* in Ammon's horn must be pyramidal *cells* (projection *cells*), and vice versa.
+The case for theta *cells* is more difficult.
+Some are non-pyramidal *cells* with locally ramifying axons, but at least some are projection *cells*.
+Calcium channels having alpha 1A subunits were concentrated in presynaptic terminals making synapses on *cell* bodies and on dendritic shafts and spines of many classes of neurons and were especially prominent in the synapses of the parallel fibers of cerebellar granule *cells* on Purkinje neurons where their localization in presynaptic terminals was confirmed by double labeling with the synaptic membrane protein syntaxin or the microinjected postsynaptic marker Neurobiotin.
+There was substantial labeling of Purkinje *cell* bodies, but less intense staining of the *cell* bodies of hippocampal pyramidal neurons, layer V pyramidal neurons in the dorsal cortex, and most other classes of neurons in the forebrain and cerebellum.
+Scattered *cell* bodies elsewhere in the brain were labeled at low levels.
+These results define a unique pattern of localization of class A calcium channels in the *cell* bodies, dendrites, and presynaptic terminals of most central neurons.
+An active membrane model of the cerebellar Purkinje *cell*.
+A detailed compartmental model of a cerebellar Purkinje *cell* with active dendritic membrane was constructed.
+The model was based on anatomic reconstructions of single Purkinje *cells* and included 10 different types of voltage-dependent channels described by Hodgkin-Huxley equations, derived from Purkinje *cell*-specific voltage-clamp data where available.
+Channel densities in the model were varied until it could reproduce Purkinje *cell* responses to current injections in the soma or dendrite, as observed in slice recordings.
+As in real Purkinje *cells*, the model generated two types of spiking behavior.
+Inwardly rectifying currents of saccular hair *cells* from the leopard frog.
+Inwardly rectifying currents were characterized in sensory hair *cells* isolated from the saccules of leopard frogs, using the whole *cell* configuration of the patch-clamp technique in voltage-clamp mode.
+We refer to this current as IK1, consistent with the terminology used for a similar current in cardiac *cells*.
+A correlation between *cell* shape and the type of inwardly rectifying current was noted; the more spherical *cells* had Ih alone and the more cylindrically shaped *cells* had Ih and IK1.
+The mean resting potential of 115 *cells* with IK1 and Ih was -68 +/- 0.5 mV (mean +/- SE) and that of 53 *cells* with Ih alone was -50 +/- 0.5 mV.
+This suggests that IK1 contributes to the more negative resting potential of the cylindrical *cells*.
+7. In current-clamp mode, the voltage responses to current steps of the two *cell* populations differed.
+Small negative current steps evoked faster, smaller responses in *cells* with IK1 and Ih than in *cells* with Ih alone.
+In *cells* with Ih alone, long (> 100 ms) negative current steps evoked a hyperpolarization that partly repolarized as Ih activated.
+*Cells* with Ih alone showed electrical resonance at rest whereas *cells* with IK1 resonated only in response to positive current steps.
+We investigated the effects of serotonin (5-hydroxytryptamine, 5-HT) on whole-*cell* barium currents through calcium channels in visualized neonatal rat hypoglossal motoneurones (HMs) in a thin brainstem slice preparation.
+Modulation of Ca2+ channels during repetitive activity in excitable *cells* can have an important role in altering cellular function.
+An inward rectifier potassium current is among those which have been measured in only subsets of chick cochlear hair *cells*.
+This localization is in agreement with the distribution of the native hair *cell* current, suggesting that the differential current expression is transcriptionally regulated.
+Whole *cell* recordings were obtained from pyramidal neurons acutely dissociated from the sensorimotor cortex of adult rats.
+2. Whole *cell* calcium channel currents were similar in appearance when elicited from holding potentials of -90 or -40 mV.
+We determined saturating doses for blockade of currents by nifedipine (Nif), omega-conotoxin GVIA (CgTx), and omega-agatoxin IVA (AgTx) in adult *cells*.
+In adult *cells*, each of these compounds blocked 30-35% of the current.
+Few biophysical differences were found between the pharmacologically defined current components in adult *cells*.
+Whole *cell* recordings were obtained from pyramidal neurons acutely dissociated from the sensorimotor cortex of adult (from Lorenzon and Foehring, companion paper) and immature rats postnatal day 1 (P1) to adult.
+Whole *cell* calcium channel currents were similar in appearance at all ages.
+Few biophysical differences were found between the pharmacologically defined current components in adult or 1-wk-old *cells*.
+N-, L-, and P-type currents activated at more positive potentials in 1-wk-old *cells* than in adult *cells*.
+Cholinergic regulation of [Ca2+]i during *cell* division and differentiation in the mammalian retina.
+Using the Ca2+ sensitive dye, fura-2, this study demonstrates that in the rabbit retina, ACh analogs stimulate a rise in cytosolic free Ca2+ concentration ([Ca2+]i) in many *cell* types, and in *cells* at various stages of differentiation during embryonic and neonatal development.
+The elevation in [Ca2+]i in *cells* within the ventricular zone (VZ) resulted primarily from the activation of muscarinic receptors.
+By contrast, the cholinergic regulation of [Ca2+]i of ganglion *cells* and amacrine *cells*, *cell* types which migrate to their final destinations early in fetal life, was largely mediated by nicotinic receptors.
+The muscarinic response of the VZ *cells* was mediated by the M1, rather than the M2-type of muscarinic receptor.
+The muscarinic response in the VZ disappeared at the end of the period of *cell* division in the retina, just prior to eye opening.
+By contrast, nicotinic-induced changes in [Ca2+]i in ganglion *cells* and amacrine *cells* persisted throughout development.
+Since previous studies have implicated that the precursors of ganglion *cells* and amacrine *cells* also possess muscarinic receptors (Yamashita and Fukuda, 1993), the concomitant emergence of different functional cholinergic receptor (AChR) subtypes with differentiation in vivo suggests that ACh may play diverse and temporally regulated roles in the developing retina.
+The lurcher gene induces apoptotic death in cerebellar Purkinje *cells*.
+In the neurologically mutant mouse strain lurcher (Lc), heterozygous animals display *cell* autonomous degeneration of cerebellar Purkinje *cells* beginning in the second postnatal week.
+During the course of our studies to identify the genetic lesion responsible for this disease (Norman et al., 1991), we have formulated an hypothesis suggesting that in Lc Purkinje *cells* homeostasis is sufficiently perturbed to lead to the activation of programmed *cell* death, thus resulting in neuronal loss and the consequent neurologic disease (Heintz, 1993).
+To address this possibility, we have examined the properties of Lc Purkinje *cells* as they die during the second postnatal week.
+Our light and electron microscopic studies demonstrate that dying Lc Purkinje *cells* exhibit the characteristic morphologic features of apoptosis, including nuclear condensation, axon beading and membrane blebbing.
+Using an in situ end-labeling method, we have also detected nicked nuclear DNA in these *cells*.
+Furthermore, we have examined the expression of the sulfated glycoprotein 2 (SGP2), whose mRNA is induced in both T-*cells* and prostate epithelial *cells* undergoing apoptotic death.
+We show by in situ hybridization that SGP2 is not expressed at detectable levels in normal Purkinje *cells*, but that its mRNA is present in Lc Purkinje *cells* prior to their death.
+Also expression of the Kv3.3b potassium channel, which marks the terminal phase of Purkinje *cell* differentiation, is evident in Lc Purkinje *cells* prior to their death.
+These data demonstrate that the Lc mutation induces apoptosis in cerebellar Purkinje *cells* following their maturation in postnatal cerebellum.
+In situ hybridization demonstrated that a wide variety of neurons express NaCh6, including motor neurons in the brainstem and spinal cord, cerebellar granule *cells*, and pyramidal and granule *cells* of the hippocampus.
+RT-PCR and/or in situ hybridization showed that astrocytes and Schwann *cells* express NaCh6.
+Thus, this sodium channel is broadly distributed throughout the nervous system and is shown to be expressed in both neurons and glial *cells*.
+Hippocampal pyramidal neurons in *cell* culture were used to examine the participation of these two classes of channels at different stages of synapse development.
+Specific Ca2+ channel toxins were used to block presynaptic Ca2+ channels while whole-*cell* voltage-clamp recordings were used to record evoked EPSCs in postsynaptic neurons.
+At immature synapses (*cells* in culture for 10-15 d), omega-CTx GVIA (1-5 microM) blocked transmission by more than 80% while omega-Aga IVA (1 microM) was less effective.
+The NK1 receptor antagonists cis-3-(2-methoxybenzyl-amino-2-benzhydrylquinuclidine (CP96345) and D-Pro9-[Spiro-y-lactam]-Leu10,Trp11)-Physalaemin(1-11) (GR82334) did not significantly reduce the responses of STT *cells* to mechanical stimulation of the skin.
+In fact, *cells* exposed to GR98400 or MEN10376 showed unusually sustained increases in the responses to mechanical stimuli after the first capsaicin injection, suggesting that these compounds actually induced sensitization.
+[3H]Resiniferatoxin autoradiography revealed high densities of binding sites in rat dorsal root ganglia as well as in the superficial dorsal horn of the spinal cord, known to contain the *cell* bodies and central terminals, respectively, of capsaicin-sensitive, sensory neurons.
+Inhibitory effects of dihydropyridines on macroscopic K+ currents and on the large-conductance Ca(2+)-activated K+ channel in cultured cerebellar granule *cells*.
+In cultured cerebellar granule *cells*, we examined the effects of dihydropyridines (DHPs) on K+ currents, using the whole-*cell* recording configuration of the patch-clamp technique and on Ca(2+)-activated K+ channels ("maxi K+ channels") using outside-out patches.
+Furthermore, cerebellar granule *cells* may express different subtypes of "maxi K+ channels" having different sensitivities to DHPs.
+We have found that daurisoline is an inhibitor of omega-Aga-IVA sensitive barium currents in cerebellar Purkinje *cells* and of excitatory postsynaptic potentials evoked in Purkinje *cells* by stimulating parallel fibres in acutely prepared cerebellar slices.
+Daurisoline did not significantly affect omega-Aga-IVA-insensitive barium currents recorded from granule *cells* freshly isolated from rat cerebellum.
+Lower, but still detectable signal, was apparent over CA3-CA4 pyramidal *cell* regions.
+MR mRNA was detected throughout the CA1-4 pyramidal *cell* fields of the hippocampus and the granular *cells* of the dentate gyrus.
+In the hippocampus, hippocalcin mRNA and immunoreactivity first appeared in the CA3 pyramidal *cells* on embryonic day 19 (E19) and postnatal day 1 (P1), respectively, and extended throughout Ammon's horn.
+After P14, the hippocampal pyramidal *cells*, especially in the CA1 region, maintained the highest expression level among the brain regions.
+The dentate granule *cells* expressed a small amount of hippocalcin mRNA and immunoreactivity from P7 and maintained a low level through the developmental stages.
+In the cerebral cortex, hippocalcin mRNA and immunoreactivity appeared in the pyramidal *cells* of the piriform cortex from P1 and P4, respectively.
+In the cerebellum, a few Purkinje *cells* expressed a small amount of hippocalcin mRNA and immunoreactivity on P7.
+Their expression became evident in most of the Purkinje *cells* on P14 and increased gradually by P28.
+Then, their expression declined with age; however, the immunoreactivity was concentrated in the *cell* bodies and proximal segments of the dendrites in adults.
+These results suggest that the expression of hippocalcin mRNA and protein is strictly controlled by both the *cell* type and the developmental process and that hippocalcin plays a role in neuronal differentiation in the early stages of development and may relate to other neuronal function in the adult brain.
+The [Ca2+]i increased by ETs was observed in the dentate gyrus and in the vicinity of CA1 and CA3 pyramidal *cell* layer in the hippocampus, findings in good accord with regions where the glutamate receptor agonists have an elevated [Ca2+]i.
+With the aim of characterizing the functional and pharmacological properties of the different voltage-dependent Ca2+ channels expressed in a given type of CNS neuron, we obtained single Ca2+ channel recordings from rat cerebellar granule *cells* in primary culture.
+Our data show that three novel classes of voltage-dependent Ca2+ channels are coexpressed in cerebellar granule *cells*.
+Together with the previously characterized multiple L-type Ca2+ channels (Forti and Pietrobon, 1993), G1-, G2-, and G3-type channels constitute the large majority of Ca2+ channels of cerebellar granule *cells* in culture.
+The Ca2+ current was measured by using the patch-clamp technique in whole *cell* configuration.
+These data support the role of the hippocampus in human memory and show further evidence of hippocampal subfield specificity in the relationship between memory performance and neuronal *cell* loss.
+The mouse monoclonal antibody RT97, which recognises the 200-kDa neurofilament subunit in its phosphorylated form, selectively labels the somata of sensory A-fibres (large light *cells*) in the dorsal root ganglion of the rat.
+Functional analysis of the weaver mutant GIRK2 K+ channel and rescue of weaver granule *cells*.
+In the neurological mutant mouse weaver, granule *cell* precursors proliferate normally in the external germinal layer of the cerebellar cortex, but fail to differentiate.
+Pharmacological blockade of the Na+ influx in weaver granule *cells* restores their ability to differentiate normally.
+Thus, Na+ flux through the weaver GIRK2 channel underlies the failure of granule *cell* development in situ.
+Because channel subunits may assemble as heteromultimers, additional functional characterization based on overlapping expression patterns may help to decipher the native K+ channels in neurons and glial *cells*.
+Thus, the increased Na+ permeability and resulting depolarization may contribute to the pathology of cerebellar granule *cells* and substantia nigra dopaminergic neurons observed in the weaver mice.
+In a previous study, fluorescence labeling of a plasmalemmal ATPase protein with the 5F10 monoclonal antibody revealed prominent antigen in the cerebellar molecular layer surrounding the somata and dendrites of Purkinje *cells*.
+In the present study, this antibody labeled with silver enhanced nano-sized gold particles on semithin plastic sections revealed a clearly demarcated plasma membrane outlining the somata and entire dendritic arbors of Purkinje *cells* including their spines.
+In the granular layer, somata of granule *cells* were reactive, as were their dendritic extensions into glomeruli where reactive claws surrounded voids formed by mossy fiber rosettes.
+Somata and dendrites of cerebellar nuclear *cells* also had reactive zones that were limited to the plasma membrane and a narrow zone of the sub-plasmalemmal endoplasmic reticulum.
+The ultrastructural distribution of calcium pump and P channel antibodies occurred in punctate sites along the plasma membrane of dendrites and spines of Purkinje *cells*.
+The relative contribution(s) of different Ca2+ channel subtypes to synaptic transmission between Schaffer collaterals of hippocampal CA3 pyramidal *cells* and CA1 pyramidal *cell* dendrites has been assessed using the synthetic invertebrate peptide toxins omega-conotoxin GVIA to block N-type Ca2+ channels, omega-agatoxin-IVA to block P-type Ca2+ channels and omega-conotoxin MVIIC to block N-, P- and Q-type Ca2+ channels.
+By combining single-channel and whole-*cell* patch-clamp recordings, we have established the sensitivity to omega-agatoxin IVA and omega-conotoxin MVIIC (SNX-230) of G1, G2, and G3, the three novel non-L-, non-N-type Ca2+ channels characterized previously in rat cerebellar granule *cells*.
+Being slowly inactivating during depolarizing pulses and completely inactivated at voltages in which steady-state inactivation of P-type channels in Purkinje *cells* is negligible, G1 represents a novel P subtype.
+The R-type whole-*cell* current was inhibited by Ni2+ with a biphasic dose-response curve (IC50: 4 and 153 microM), suggesting that G2 and G3 may have a different sensitivity to Ni2+ block.
+Our results uncover functional diversity of both native P-type and R-type Ca2+ channels and show that R subtypes with distinct biophysical properties are coexpressed in rat cerebellar granule *cells*.
+Voltage-dependent calcium currents were measured at room temperature using whole-*cell* patch clamp in acutely isolated somata and axon terminals of the magnocellular neurosecretory *cells* (MNCs) from the rat supraoptic nucleus.
+These data suggest that MNC somata express a single type of omega-Aga IVA-sensitive calcium current similar to the P-type calcium current described in other *cells*.
+These polyamines are critically evaluated for antagonism of three high-threshold calcium channel subtypes in rat neurons through the use of the whole-*cell* patch-clamp technique.
+Monitoring calcium in turtle hair *cells* with a calcium-activated potassium channel.
+An apamin-sensitive Ca(2+)-activated K+ channel was characterized in turtle hair *cells* and utilized to monitor submembranous intracellular Ca2+ and to evaluate the concentration of the mobile endogenous calcium buffer.
+Isolated hair *cells* were voltage clamped with whole-*cell* patch electrodes filled with a Cs(+)-based intracellular solution to block the large-conductance Ca(2+)-activated K+ (BK) channel.
+4. Intracellular Ca2+ was imaged with a confocal microscope in hair *cells* filled with the indicator Calcium Green-5N introduced via the patch pipette.
+Increases in Ca2+ evoked by depolarization were localized to hotspots on the basolateral surface of the *cell*.
+Ca(2+)-ATPase pump inhibitors thapsigargin, 2,4-di-(t-butyl)hydroquinone (BHQ) and vanadate, which are known to influence calcium regulation in turtle hair *cells*, prolonged the time course of the tail current, supporting the idea that the channel monitors cytoplasmic Ca2+.
+The mobile endogenous buffer was estimated by combining perforated-patch and whole-*cell* recordings on a single *cell*.
+After recording tail currents with an amphotericin-perforated patch, the patch was ruptured to obtain the whole-*cell* mode, thus allowing washout of soluble cytoplasmic proteins and exchange with pipette buffers.
+This large increase in cAMP levels results in release of cAMP or a cAMP metabolite and depression of synaptic transmission at the Schaffer collateral-CA1 pyramidal *cell* synapse through activation of A1 adenosine receptors.
+The selective group II mGluR agonist 2S,1'R,2'R,3'R-2(2,3-dicarboxycyclo-propyl)glycine (DCG-IV) failed to enhance cAMP-mediated electrophysiological responses to the beta-adrenergic receptor agonist isoprenaline (Iso) in CA1 pyramidal *cells*, suggesting that mGluRs coupled to potentiation of cAMP accumulation may not be present in these *cells*.
+However, L-AA and FC had no discernible effects on viability of CA1 pyramidal *cells*, or cAMP-mediated electrophysiological effects in these neurons.
+Highest levels of messenger RNA are found in the hippocampus, where messenger RNA is localized in proximal dendrites of CA pyramidal *cells*.
+Expression is also seen in other brain regions, including the neocortex, caudate-putamen, taenia tecti, claustrum, olfactory tubercle, anterior olfactory nucleus, and granule *cell* and glomerular layers of the olfactory bulb.
+Sequence analysis of the putative proximal promoter region identified two clusters of multiple E-box sites which may regulate the *cell*-specific expression.
+To establish an in vitro model of transcriptional regulation, the 3.4 and 0.9 kb 5' upstream regions were fused to a promoterless reporter gene encoding chloramphenicol acetyltransferase and transiently transfected into the hippocalcin-positive NG-108 *cells*.
+We investigated non-N, non-L Ba2+ currents through Ca2+ channels in freshly dissociated large diameter embryonic mouse dorsal root ganglion neurons using the whole-*cell* patch-clamp technique.
+There was no significant difference in density of TH-IR varicosities in apposition with either LN or SN *cell* bodies observed in either ACCx or PFCx of schizophrenics when compared to normal controls.
+The density of varicosities was significantly reduced in NPL of layers V and VI in ACCx, but 2 neuroleptic-free cases did not show this change, suggesting that these decreases of TH-IR varicosities may be related to antipsychotic effects on corticostriatal projection *cells* in this region.
+Studies using cultured PC12 *cells* indicate that both expression and targeting of PN1 is induced by treatment of the *cells* with nerve growth factor.
+We therefore studied the physiological role of potassium channels in memory, concentrating on the Shaker-like Kv1.1, a late rectifying potassium channel that is highly localized within dendrites of hippocampal CA3 pyramidal and dentate gyrus granular *cells*.
+Repeated intracerebroventricular injection of antisense oligodeoxyribonucleotide to Kv1.1 reduces expression of its particular intracellular mRNA target, decreases late rectifying K+ current(s) in dentate granule *cells*, and impairs memory but not other motor or sensory behaviors, in two different learning paradigms, mouse passive avoidance and rat spatial memory.
+These interneurons, morphologically corresponding to islets and antenna-type *cells* project dendrites to adjacent laminae.
+In contrast, significant decreases of immunodeposits were observed in both *cell* bodies and numerous dendrites of motoneuron surrounding neuropil.
+A dependence of glutamate release on L-type calcium channels also has been reported for depolarizing bipolar *cells* of a fish retina.
+Weaver mutant mouse cerebellar granule *cells* respond normally to chronic depolarization.
+We studied the effects of chronic K(+)-induced membrane depolarization and treatment with N-methyl-D-aspartate (NMDA) on cerebellar granule *cells* (CGCs) from weaver mutant mice and non-weaver litter-mates.
+The biochemical differentiation of CGCs was estimated as the rate of 2-deoxy-D-glucose accumulation and the expression of neural *cell* adhesion molecule (NCAM).
+The survival of weaver mutant mouse CGCs in medium containing 5 mM K+ ions was very low, only 20% of the plated *cells* surviving at 7 days after plating, as opposed to the 50% for non-weaver CGCs.
+Chronic high K+ treatment improved the relative survival of weaver mutant mouse CGCs 1.6 2.2-fold and that of non-weaver CGCs 1.2-1.4-fold; the same number of CGCs (about 20% of the plated *cells*) were rescued by high K+ in both types of culture.
+These results indicate that serotonin released from terminals in the hippocampus activates a 5-HT1a receptor on interneurons that suppresses their activity and thus enhances dentate granular *cell* population spike response to PP stimulation.
+The RTX-induced desensitization was not associated with loss of specific [3H]RTX binding, suggesting lack of gross *cell* toxicity.
+The characteristics of the blocking action of capsazepine on the residual current of *cells* which were pretreated with either omega-conotoxin or nimodipine were similar to control.
+Granule *cell* apoptosis and protein expression in hippocampal dentate gyrus after forebrain ischemia in the rat.
+In five of ten 8-min ischemic and three of ten 12-min ischemic animals, nearly all dead granule *cells* within the dentate gyrus exhibited apoptotic morphology.
+In the remaining animals, no granule *cell* death was evident.
+In the pyramidal regions (CA1/2), nearly all dead *cells* were necrotic with only scattered apoptotic *cells* present.
+The immunoreactive expression of wt-p53, p53-response proteins (WAF1, Bax and Gadd45), and a *cell* cycle protein (cyclin D) were detected and preferentially localized to nuclei of apoptotic granule *cells*, and were weakly expressed in nuclei of necrotic pyramidal CA1/2 *cells*.
+Thus, 48 h after 8 or 12 min of forebrain ischemia in the rat, most pyramidal *cells* and dentate granule *cells* undergo distinct *cell* death pathways of necrosis or apoptosis, respectively.
+In addition, the selective expression of proteins associated with DNA damage and *cell* cycle in apoptotic dentate granule *cells* suggests a role for these proteins in the induction of apoptosis.
+The effects of changes in external K+, Ca2+, and Mg2+ concentrations on 5-HT2- and 5-HT3 receptor-mediated depolarizations of the resting membrane potential in rat dorsal root ganglion (DRG) *cells* was studied.
+In *cells* exhibiting a 5-HT2-mediated response, 5-HT and alpha-methyl 5-HT depolarized the resting membrane potential (RMP) and increased the slope of the current-voltage (I/V) relationship.
+In a subpopulation of large-diameter acutely dissociated DRG neurons recorded from using the whole-*cell* patch-clamp configuration, 5-HT produced an inward shift in the current required to hold *cells* at -60 mV.
+In *cells* exhibiting a 5-HT3 receptor response, 5-HT and 2-methyl-5-HT produced depolarization with decreased R(in).
+In *cells* where both 5-HT2- and 5-HT3-mediated responses could be demonstrated, the elevation of K+ or the reduction of Ca2+ converted a 5-HT2 response to a 5-HT3 response.
+Mu and delta opioids but not kappa opioid inhibit voltage-activated Ba2+ currents in neuronal F-11 *cell*.
+Whole-*cell* patch-clamp recordings were used to study Ba2+ currents through voltage-dependent Ca2+ channels in dorsal root ganglion x mouse neuroblastoma hybrid (F-11) *cells*.
+The inhibitory effects of both DAMGO and DPDPE were blocked by pretreatment of the *cells* with pertussis toxin (PTX) as well as by brief exposure to the sulfhydryl alkylating agent, N-ethylmaleimide (NEM).
+These results demonstrate that mu and delta opioid receptors are negatively coupled to N-type Ca2+ channels via PTX- and NEM-sensitive GTP-binding proteins in F-11 *cells*.
+At E20, GAD67 mRNA-containing neurons were highly concentrated slightly above the outer border of the developing granule *cell* layer.
+By PN3-PN5, many labeled *cells* were distributed within the developing granule *cell* layer; by PN15, labeled neurons occupied positions normally seen in the adult, such as along the inner border of the granule *cell* layer.
+The possibility of apoptotic *cell* death was investigated with in situ end labeling techniques at developmental ages E21-PN15.
+Very few apoptotic *cells* were detected in the developing molecular layer at all ages examined.
+Birthdating studies of neurons labeled with bromodeoxyuridine revealed a changing pattern, similar to that of GAD67 mRNA, for *cells* with birthdates (E14) of many of the mature GAD-containing neurons in the dentate gyrus.
+The changes in the mRNA and birthdating patterns from E20-PN15 suggest that some of the early-appearing GABA neurons within the developing molecular layer of the dentate gyrus may alter their positions to eventually become the mature GABA population along the inner border of the granule *cell* layer.
+Taken together, the properties of Kv4 channels compare best with those of low-voltage activating "A-currents" present in the neuronal somatodendritic compartment and widely reported across several types of central and peripheral neurons, as well as the (Ca2+-independent) transient outward potassium conductance of heart *cells* (Ito).
+For example, in the olfactory bulb Kv4.2 dominates in granule *cells* and Kv4.3 in periglomerular *cells*.
+In the hippocampus Kv4.2 is the most abundant isoform in CA1 pyramidal *cells*, whereas only Kv4.3 is expressed in interneurons.
+Both are abundant in CA2-CA3 pyramidal *cells* and in granule *cells* of the dentate gyrus, which also express Kv4.1.
+In the cerebellum Kv4.3, but not Kv4.2, is expressed in Purkinje *cells* and molecular layer interneurons.
+In the cerebellar granule *cell* layer, the reciprocity between Kv4.2 and Kv4.3 is observed in subregions of the same neuronal population.
+Chick cerebellar Purkinje *cells* express omega-conotoxin GVIA-sensitive rather than funnel-web spider toxin-sensitive calcium channels.
+In cerebellar Purkinje *cells* these channels contribute to the characteristic electrophysiological pattern of complex spikes, first described in birds and later in mammals.
+A specific calcium channel, the P-type channel, has been shown to mediate the majority of the voltage-gated calcium flux in mammalian Purkinje *cells*.
+In the present work, we studied voltage-gated calcium channels in dissociated chick cerebellar Purkinje *cells* to examine the presence of different calcium channel types.
+Purkinje *cells* were used because, in mammals, they express predominantly P-type channels and because the morphology of these *cells* is thought to be phylogenetically conserved.
+Mouse cerebellar granule *cell* differentiation: electrical activity regulates the GABAA receptor alpha 6 subunit gene.
+GABAA receptor alpha6 subunit gene expression marks cerebellar granule *cell* maturation.
+At early stages of postnatal cerebellar development, alpha6-lacZ expression is mosaic; expression starts at postnatal day 5 in lobules 9 and 10, and alpha6-lacZ is switched on inside-out, appearing first in the deepest postmigratory granule *cells*.
+We looked for factors regulating this expression in *cell* culture.
+Membrane depolarization correlates inversely with alpha6-lacZ expression: granule *cells* grown in 25 mM [K+]o for 11-15 d do not express the alpha6 gene, whereas cultures grown for the same period in 5 mM [K+]o do.
+If the *cells* start in 5 mM [K+]o, however, they still express the alpha6-lacZ gene in 25 mM [K+]o.
+In contrast to granule *cells* grown in 5 mM [K+]o, *cells* cultured in 25 mM [K+]o exhibit no action potentials, mEPSCs, or mIPSCs.
+Blockade of ionotropic and metabotropic GABA and glutamate receptors or L-, N-, and P/Q-type Ca2+ channels did not prevent alpha6-lacZ expression, but inhibition of action potentials with tetrodotoxin blocked expression in a subpopulation of *cells*.
+We used whole *cell* patch recordings to compare cesium-sensitive IK1 and 4-aminopyridine (4-AP)-resistant, noninactivating sustained IK between normal Purkinje myocytes (NZPCs) and IZPCs.
+The toxin also blocks L-type channels of rat β pancreatic *cells*, with an affinity 40 times lower.
+In addition, Scn8a has been observed to mediate unique persistent and resurgent currents in cerebellar Purkinje *cells* (Raman et al., 1997).
+The superficial *cells* of the entorhinal cortex (EC), main input to the hippocampus, receive a serotonergic input from the raphe nuclei and express 5-hydroxytryptamine creatine sulfate complex (5-HT) receptors at high density.
+We investigated the development of a low (T-type) and two high voltage-activated (N- and L-type) calcium channel currents in large diameter dorsal root ganglion neurones acutely isolated from embryonic mice using the whole-*cell* patch-clamp technique.
+In dissociated cholinergic basal forebrain neurons using whole-*cell* recordings, it is shown that a selective serotonin 5-HT1A agonist (8-OH-DPAT) predominantly blocks N-type HVA calcium current, although a minor reduction of P-type current was also observed.
+Here we study channel activity in *cell*-attached patches from hippocampal neurons and report a unique specificity of coupling.
+Although N- and P-type Ca2+ channels predominant in fast-secreting systems, Lc-type Ca2+ channels (C-class) can play a similar role in certain secretory *cells* and synapses.
+For example, in retinal bipolar *cells*, Ca2+ entry through the Lc channels triggers ultrafast exocytosis, and in pancreatic beta-*cells*, evoked secretion is highly sensitive to Ca2+.
+Lc753-893 injected into single insulin-secreting beta-*cell*, inhibits secretion in response to channel opening, but not in response to photolysis of caged Ca2+, nor does it affect Ca2+ current.
+Capsaicin depletes the sensory neuropeptide substance P (SP) in the rat due to a combination of neuron loss and decreased synthesis in the surviving *cells*.
+Rat OBNs, which express Kv1.3 channels, had whole-*cell* outward currents that were suppressed by picomolar quantities of margatoxin and showed a slow inactivation that increased over a 10-min period.
+These same pharmacological and kinetic properties were found also in human embryonic kidney (HEK 293) *cells* transfected with rat Kv1.3 cDNA.
+Exogenous application of insulin was found to suppress whole-*cell* outward current in all OBNs tested.
+Using site-directed mutagenesis of six tyrosine residues contained within good recognition motifs for tyrosine phosphorylation, we constructed conservative Y to F mutations in the Kv1.3 cDNA and expressed the Kv1.3 channels in HEK 293 *cells*.
