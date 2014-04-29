@@ -1,3 +1,5 @@
+
+output/*
 *.class
 
 # Package Files #

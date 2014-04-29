@@ -1,0 +1,99 @@
+neuron/cell definitions:
+neuron
+cell
+interneuron
+
+morphology based:
+medium spiny neuron
+pyramidal cell
+basket cell
+stellate cell
+horizontal cell
+granule neurons
+fusiform cell
+giant cell
+cartwheel cell
+octopus cell
+mitral cells
+Renshaw cell
+Lugaro cell
+Golgi cell
+large polymorphous interneurons
+rod bipolar cells
+double bouquet cells 
+basket and Purkinje cells
+parasol ganglion cells
+amacrine cells
+
+cell lamina/brain region based:
+CA1 pyramidal cell
+hippocampus basket cell
+olfactory bulb mitral cell
+striatal medium spiny neuron
+cortical neurons
+Cerebellar unipolar brush cells
+dorsal cochlear nucleus pyramidal cells
+cerebellar granule neurons
+cochlear nucleus granule cells
+locus coeruleus neurons
+inferior colliculus neurons
+trigeminal nucleus pars caudalis neuron
+layer V prefrontal cortical pyramidal neurons
+layer 5 pyramidal neuron
+dentate granule cell
+Schaffer collateral-associated interneurones 
+oriens-lacunosum moleculare (O-LM) subtype of interneuron
+Layer V postsynaptic interneurons
+dorsal root ganglion cells
+sensorimotor cortex neuron
+medial geniculate (MGB) neuron
+GABAergic interneurons in prefrontal cortex
+putative layer V-VI pyramidal neuron
+
+protein/gene based:
+somatostatin positive neuron
+parvalbumin expressing neuron
+parvalbumin-positive interneurons
+parvalbumin-containing neuron
+GABA-immunonegative cell
+glycine-immunopositive neurons
+aspartate-immunopositive neurons
+glycinergic principal cells
+Cholecystokinin-immunopositive interneurones
+cholecystokinin-positive cells
+GABAergic cell expressing cholecystokinin
+triangular heat shock protein - immunoreactive neuron
+insulin-like growth factor-1-immunoreactive neurons
+parvalbumin-positive interneurons
+parvalbumin-expressing neurons
+
+neurotransmitter based:
+GABAergic neuron
+glutamatergic neuron
+GABAergic horizontal cells
+dopaminergic neurons
+gonadotropin-releasing hormone neurons
+dopaminergic substantia nigra neurons
+
+projection pattern based:
+rubrospinal neuron
+paraventricular nucleus-projecting nucleus of the solitary tract neurons
+paraventricular nucleus-projecting neurons
+
+electrophysiology based:
+fast-spiking cell
+late-spiking cell
+fast-firing neuron
+
+function-based
+OFF cone bipolar cells
+ON ganglion cells
+L-type horizontal cells 
+Onset cells
+Pause-build cell
+Rebound-regular cell
+vertical system tangential cells
+burst firing cell
+capsaicin-sensitive C type sensory neuron
+[A-D] type
+slowly adapting stretch receptor neuron

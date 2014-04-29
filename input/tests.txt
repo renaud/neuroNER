@@ -1,0 +1,11 @@
+
+
+
+
+TODO:
+basket and Purkinjes neurons
+slowly adapting stretch receptor neuron
+Each contains sensory dendrites of an A-type (RnA) and B-type (RnB) neuron
+tufted pyramidal cell towards l1
+
+

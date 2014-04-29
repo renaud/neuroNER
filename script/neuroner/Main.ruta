@@ -1,31 +1,56 @@
 PACKAGE neuroner;
 
+// NEURON
+DECLARE Neuron, NeuronProperty;
+Document{->COLOR(Neuron, "red", "green", true)};
+"\\b((inter)?neurons?|cells?)\\b" -> Neuron;
 
-
-
-DECLARE Neuron, Cell;
-"neurons?" -> Neuron;
-"cells?" -> Cell;
-
-DECLARE NeuronProperty;
-DECLARE NeuronProperty Expressing;
+// ORIENTATION
 DECLARE NeuronProperty Orientation;
-DECLARE NeuronProperty ShapeQualifier;
-DECLARE NeuronProperty Shape;
+"inverted|horizontal|descending" -> Orientation;
+
+// MORPHOLOGY
+DECLARE NeuronProperty Morphology;
+WORDLIST morphology = 'morphology.txt';
+Document{-> MARKFAST(Morphology, morphology)};
+
+// SIZE
 DECLARE NeuronProperty Size;
+"large|medium|small|narrow|giant" -> Size;
 
-WORDLIST expressing = 'expressing.txt';
-Document{-> MARKFAST(Expressing, expressing)};
-Expressing{-> SHIFT(Expressing, 1, 2)} ("-"? "expressing") (Cell | Neuron);
+// PROTEIN
+DECLARE ProteinName;
+DECLARE NeuronProperty Protein;
+WORDLIST proteinNames = 'proteins.twl';
+Document{-> MARKFAST(ProteinName, proteinNames)};
+ProteinName{-> MARK(Protein, 1, 2)} ("-"? "positive");
+ProteinName{-> MARK(Protein, 1, 2)} ("-"? "expressing|principal|containing|immuno(negative|positive)|positive");
+ProteinName{-> MARK(Protein, 1, 2)}  ("expressing|principal|containing|immuno(negative|positive)|positive");
+//ProteinName{-> MARK(Protein, 1, 2)} ("expressing");
 
-WORDLIST orientation = 'orientation.txt';
-Document{-> MARKFAST(Orientation, orientation)};
-WORDLIST shape_qualifyier = 'shape_qualifyier.txt';
-Document{-> MARKFAST(ShapeQualifier, shape_qualifyier)};
-WORDLIST shape = 'shape.txt';
-Document{-> MARKFAST(Shape, shape)};
-WORDLIST size = 'size.txt';
-Document{-> MARKFAST(Size, size)};
+// BRAINREGION
+DECLARE NeuronProperty BrainRegion;
+WORDLIST brainRegions = 'all_regions.twl';
+Document{-> MARKFAST(BrainRegion, brainRegions)};
 
-DECLARE Synapse;
-"synapses?" -> Synapse;
+// NEUROTRANSMITTER 
+DECLARE NeuronProperty Neurotransmitter;
+"(gaba|GABA|glutamat|dopamin)ergic" -> Neurotransmitter;
+
+// FUNCTION 
+DECLARE NeuronProperty Function;
+WORDLIST functions = 'functions.txt';
+Document{-> MARKFAST(Function, functions)};
+
+// LAYER
+DECLARE NeuronProperty Layer;
+"[Ll]ayer ([1-6]([/-][1-6])?|[IV]+([/-][IV]+)?)" -> Layer;
+    
+// ELECTROPYHSIOLOGY
+DECLARE NeuronProperty Electrophysiology;
+"(continu(ally|ous)?|delayed)? ?(fast|late|burst(ing)?|classical|delayed)[ -]((non-)?accomodating|spiking|firing|irregular|stuttering)" -> Electrophysiology;
+
+DECLARE NeuronGroup;
+NeuronProperty+{-> MARK(NeuronGroup, 1, 2)} Neuron;
+(NeuronProperty (COMMA | "and" | (COMMA "and")))* {-> MARK(NeuronGroup, 1, 3)} NeuronProperty Neuron;
+

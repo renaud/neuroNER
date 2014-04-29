@@ -1,0 +1,24 @@
+OFF
+ON
+ON and OFF
+A-type
+A type
+B-type
+B type
+C-type
+C type
+D-type
+D type
+L-type 
+L type 
+Onset
+Pause-build
+Rebound-regular
+sensory
+primary sensory
+secondary sensory
+motor
+primary motor
+secondary motor
+receptor
+slowly adapting stretch 
