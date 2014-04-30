@@ -11,4 +11,8 @@ Purkinjes neurons
 Each contains sensory dendrites of an A-type (RnA) and B-type (RnB) neuron
 tufted pyramidal cell towards l1
 
+vertical system tangential cells
+gonadotropin-releasing hormone neurons
+cajal-retzius cell
+ALL projection pattern based
 
