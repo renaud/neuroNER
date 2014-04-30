@@ -21,4 +21,5 @@ motor
 primary motor
 secondary motor
 receptor
+olfactory
 slowly adapting stretch 

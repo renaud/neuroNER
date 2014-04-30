@@ -1,10 +1,13 @@
-
-
-
+layer V and layer iii large pyramidal neurons
+slowly adapting stretch receptor neuron
+basket and Purkinje neurons
+tufted pyramidal cell
+large inhibitory neuron
+excitatory neuron
+the olfactory sensory neurons.
 
 TODO:
-basket and Purkinjes neurons
-slowly adapting stretch receptor neuron
+Purkinjes neurons
 Each contains sensory dendrites of an A-type (RnA) and B-type (RnB) neuron
 tufted pyramidal cell towards l1
 

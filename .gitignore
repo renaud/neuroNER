@@ -1,8 +1,6 @@
 
 output/*
-*.class
+descriptor/neuroner/*
 
-# Package Files #
-*.jar
-*.war
-*.ear
+
+*.class
