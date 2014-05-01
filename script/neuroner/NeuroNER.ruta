@@ -13,7 +13,7 @@ DECLARE NeuronProperty Orientation;
 
 // MORPHOLOGY
 DECLARE NeuronProperty Morphology;
-WORDLIST morphology = 'morphology.txt';
+WORDLIST morphology = 'morphology_manual.txt';
 Document{-> MARKFAST(Morphology, morphology)};
 
 // SIZE
@@ -21,19 +21,21 @@ DECLARE NeuronProperty Size;
 "large|medium|small|narrow|giant" -> Size;
 
 // PROTEIN
-DECLARE ProteinName;
-DECLARE NeuronProperty Protein;
-WORDLIST proteinNames = 'proteins.twl';
+DECLARE NeuronProperty ProteinP;
+DECLARE ProteinName, ProteinTrigger;
+WORDLIST proteinNames = 'proteins_list.twl';
+WORDLIST proteinNames_manual = 'proteins_ns_manual.txt';
 Document{-> MARKFAST(ProteinName, proteinNames)};
-ProteinName{-> MARK(Protein, 1, 2)} ("-"? "positive");
-ProteinName{-> MARK(Protein, 1, 2)} ("-"? "expressing|principal|containing|immuno(negative|positive)|positive");
-ProteinName{-> MARK(Protein, 1, 2)}  ("expressing|principal|containing|immuno(negative|positive)|positive");
-//ProteinName{-> MARK(Protein, 1, 2)} ("expressing");
+Document{-> MARKFAST(ProteinName, proteinNames_manual)};
+"expressing|principal|containing|immuno(nega|posi|reac)tive|positive" -> ProteinTrigger;
+(ProteinName){-> MARK(ProteinP, 1, 2)} ("-"? ProteinTrigger);
 
 // BRAINREGION
-DECLARE NeuronProperty BrainRegion;
-WORDLIST brainRegions = 'all_regions.twl';
-Document{-> MARKFAST(BrainRegion, brainRegions)};
+DECLARE NeuronProperty BrainRegionP; // so as not to be confused w/ other BrainRegion
+WORDLIST brainRegions = 'regions_list.twl';
+WORDLIST brainRegions_manual = 'regions_manual.txt';
+Document{-> MARKFAST(BrainRegionP, brainRegions)};
+Document{-> MARKFAST(BrainRegionP, brainRegions_manual)};
 
 // NEUROTRANSMITTER 
 DECLARE NeuronProperty Neurotransmitter;
@@ -41,7 +43,7 @@ DECLARE NeuronProperty Neurotransmitter;
 
 // FUNCTION 
 DECLARE NeuronProperty Function;
-WORDLIST functions = 'functions.txt';
+WORDLIST functions = 'functions_manual.txt';
 Document{-> MARKFAST(Function, functions)};
 
 // LAYER
@@ -50,9 +52,9 @@ DECLARE NeuronProperty Layer;
     
 // ELECTROPYHSIOLOGY
 DECLARE NeuronProperty Electrophysiology;
-"(continu(ally|ous)?|delayed)? ?(fast|late|burst(ing)?|classical|delayed)[ -]((non-)?accomodating|spiking|firing|irregular|stuttering)" -> Electrophysiology;
+"((continu(ally|ous)?|delayed) )?((regular|fast|late|burst(ing)?|classical|delayed)[ -])?((non[- ]+)?accomm?odating|spiking|firing|irregular|stuttering)" -> Electrophysiology;
 
-// gather NeuronProperty occuring after and before Neuron
+// gather NeuronProperty occuring before Neuron
 DECLARE NeuronWithProperties;
 NeuronProperty+{-> MARK(NeuronWithProperties, 1, 2)} Neuron;
 (NeuronProperty+ (COMMA | "and" | (COMMA "and")))* {-> MARK(NeuronWithProperties, 1, 3)} NeuronProperty+ Neuron;
