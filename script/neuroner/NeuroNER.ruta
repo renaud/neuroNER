@@ -4,7 +4,7 @@ PACKAGE neuroner;
 
 // NEURON
 DECLARE Neuron, NeuronProperty;
-"\\b((inter)?neurons?|cells?)\\b" -> Neuron;
+"\\b((inter)?neurone?s?|cells?)\\b" -> Neuron;
 //"\\b((inter)?neurons?)\\b" -> Neuron;
 
 // ORIENTATION
@@ -21,25 +21,25 @@ DECLARE NeuronProperty Size;
 "large|medium|small|narrow|giant" -> Size;
 
 // PROTEIN
-DECLARE NeuronProperty ProteinP;
+DECLARE NeuronProperty ProteinProp;
 DECLARE ProteinName, ProteinTrigger;
 WORDLIST proteinNames = 'proteins_list.twl';
 WORDLIST proteinNames_manual = 'proteins_ns_manual.txt';
 Document{-> MARKFAST(ProteinName, proteinNames)};
 Document{-> MARKFAST(ProteinName, proteinNames_manual)};
 "expressing|principal|containing|immuno(nega|posi|reac)tive|positive" -> ProteinTrigger;
-(ProteinName){-> MARK(ProteinP, 1, 2)} ("-"? ProteinTrigger);
+(ProteinName){-> MARK(ProteinProp, 1, 2)} ("-"? ProteinTrigger);
 
 // BRAINREGION
-DECLARE NeuronProperty BrainRegionP; // so as not to be confused w/ other BrainRegion
+DECLARE NeuronProperty BrainRegionProp; // so as not to be confused w/ other BrainRegion
 WORDLIST brainRegions = 'regions_list.twl';
 WORDLIST brainRegions_manual = 'regions_manual.txt';
-Document{-> MARKFAST(BrainRegionP, brainRegions)};
-Document{-> MARKFAST(BrainRegionP, brainRegions_manual)};
+Document{-> MARKFAST(BrainRegionProp, brainRegions)};
+Document{-> MARKFAST(BrainRegionProp, brainRegions_manual)};
 
 // NEUROTRANSMITTER 
-DECLARE NeuronProperty Neurotransmitter;
-"(gaba|GABA|glutamat|dopamin)ergic" -> Neurotransmitter;
+DECLARE NeuronProperty NeurotransmitterProp;
+"(gaba|GABA|glutamat|dopamin)ergic" -> NeurotransmitterProp;
 
 // FUNCTION 
 DECLARE NeuronProperty Function;
@@ -62,11 +62,11 @@ NeuronProperty+{-> MARK(NeuronWithProperties, 1, 2)} Neuron;
 NeuronWithProperties{PARTOFNEQ(NeuronWithProperties) -> DEL};
 // TODO remove cells without NeuronProperty
 
-// Log words preceding a NeuronWithProperties to see what is still missing
-//DECLARE Sentence; PERIOD #{-> MARK(Sentence)} PERIOD;
+// Find up to 3 unmatched words preceding a NeuronWithProperties to see what is still missing
+// DECLARE Sentence; PERIOD #{-> MARK(Sentence)} PERIOD;
+DECLARE Missing, InBetweenMissing;
+(W{-PARTOF(NeuronProperty)}){-> MARK(Missing, 1, 1)} NeuronWithProperties;
+W{-PARTOF(NeuronProperty)} Missing{-> SHIFT(Missing, 1, 2)};
+W{-PARTOF(NeuronProperty)} Missing{-> SHIFT(Missing, 1, 2)};
+W{-PARTOF(NeuronProperty)} Missing{-> SHIFT(Missing, 1, 2)};
 
-//DECLARE Missing;
-//(W){-> MARK(Missing, 1, 1)} NeuronWithProperties;
-//(W W){-> MARK(Missing, 1, 1)} NeuronWithProperties;
-//(W W W){-> MARK(Missing, 1, 1)} NeuronWithProperties;
-//(W W W W){-> MARK(Missing, 1, 1)} NeuronWithProperties;
