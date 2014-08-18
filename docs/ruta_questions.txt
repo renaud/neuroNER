@@ -1,0 +1,23 @@
+
+
+Inline tests:
+Can I create inline tests
+
+"the" -> DET;
+EXPECTCOUNT("The brown fox. the red frog", DET, 2);
+EXPECT("The brown fox. the red frog", DET, 1, "The");
+
+
+
+Alias (or SHORTCUT):
+Is there a way to create aliases (similar to https://en.wikipedia.org/wiki/Alias_%28command%29)?
+Examples:
+ALIAS MyVeryLongAnnotationName N;
+ALIAS BrainRegionHierarchicalCooccurrence Cooc;
+
+
+
+MyType = TypeA | TypeB | TypeC;
+e.g.
+Unit = ConcentrationUnit | LengthUnit | WeightUnit;
+

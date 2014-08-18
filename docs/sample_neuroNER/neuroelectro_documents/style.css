@@ -1,0 +1,47 @@
+/* stylesheet copied from Bluima/modules/bluima_utils/src/main/resources/html_viewer */
+
+/*span.an {text-decoration:underline;}*/
+span.an {padding-left: 1px; padding-right: 1px;}
+
+.BioLexicon{color:black;background:lightgreen;}
+.Abbreviation{color:black;background:green;}
+.BioEntityMention{color:white;background:mediumpurple;}
+.Protein{color:black;background:yellow;}
+.CellType{color:black;background:cyan;}
+.Concentration{color:black;background:salmon;}
+.Measure{color:black;background:yellow;}
+.CellTypeProteinConcentration{color:black;background:tan;}
+.Verb{color:black;background:salmon;}
+.BioVerb{color:black;background:salmon;}
+.POS{color:black;background:salmon;}
+.Age{color:black;background:yellow;}
+.Cell{border-bottom:2px solid cyan;}
+.Organism{border-bottom:2px solid green;}
+.Region{border-bottom:2px solid pink;}
+.Sex{color:black;background:blue;}
+.Subcell{border-bottom:2px solid red;}
+.Uniprot{color:black;background:brown;}
+.Theontology{color:black;background:lightblue;}
+.LinnaeusSpecies{border-bottom:2px solid red;}
+.Chemical{border-bottom:2px solid red;}
+.Verb{color:black;background:lightred;}
+.Protein{color:black;background:orange;}
+.Punctuation{color:black;background:orange;}
+.BrainRegion{color:black;background:orange;}
+.BrainRegionDictTerm{color:black;background:orange;}
+
+.SurfaceForm{border-bottom:2px solid blue;}
+
+
+/* neurNER*/
+.Neuron{color:white;background:#606060;}
+.NeuronWithProperties{border-bottom:4px solid #606060;}
+.Orientation{color:black;background:yellow;}
+.Morphology{color:black;background:orange;}
+.Size{color:black;background:lightblue;}
+.ProteinP{color:white;background:brown;}
+.BrainRegionP{color:white;background:green;}
+.Neurotransmitter{color:black;background:salmon;}
+.Function{color:black;background:tan;}
+.Layer{color:black;background:gray;}
+.Electrophysiology{color:black;background:lightgreen;}

@@ -1,0 +1,91 @@
+Somatosensory Cortex S1 Layer I
+Delayed Non-Accomodating Cell
+Early bifurcating Thick Tufted Pyramidal Cell
+Double Bouquet Cell
+Basal Dendrite
+Somatosensory Cortex S1 Layer V
+Large Axon Cell
+Somatic Compartment
+Tufted Pyramidal Cell
+Late bifurcating Thick Tufted Pyramidal Cell
+information extraction method
+Excitatory Neuron Class
+Untufted (slender) Pyramidal Cell
+Spike Non-Accomodating Cell
+Horizontal Axon Cell
+Delayed Firing Cell
+Cell
+Untufted Pyramidal Cell
+Apical Dendrite
+Somatosensory Cortex S1 Layer II/III Pyramidal Cell
+Axon
+Hippocampal Pyramidal Cell
+Tufted PC towards L1
+Tufted PC towards L4
+Inverted Pyramidal Cell
+Distal Dendrite
+Small Tufted Pyramidal Cell
+Proximal Dendrite
+Inhibitory Neuron Class
+Small Basket Cell
+Glial Cell Class
+Medium
+Hippocampus
+Bitufted Cell
+Active Zone
+Horizontal Pyramidal Cell
+Somatosensory Cortex S1 Layer V Thick Tufted Pyramidal Cell
+Basket Cell
+method
+Neurogliaform Cell
+Bursting Irregular Cell
+Chandelier Cell
+Post Synaptic compartment
+Classical Stuttering Cell
+Cell Wall
+Plasma Membrane
+Delayed Stuttering Cell
+Somatosensory Cortex S1 Layer VI
+Star Pyramidal Cell
+Thick Tufted Pyramidal Cell
+Spiny Stellate Cell
+Cytoplasm
+Martinotti Cell
+Membrane
+Descending Axon Cell
+Pyramidal Cell
+Classical Accomodating Cell
+Classical Non-Accomodating Cell
+Bursting Accomodating Cell
+Classically Firing Cell
+Dendritic Compartment
+Synapse
+Spine
+Cell Compartment
+Axonal Compartment
+Chloroplast
+Bipolar Pyramidal Cell
+Soma
+Irregular Spiking Cell
+cell measurement method
+Nest Basket Cell
+Spike Stuttering Cell
+Somatosensory Cortex S1 Layer II/III
+Bipolar Cell
+Bursting Non-Accomodating Cell
+Dendrite
+Classical Irregular Cell
+Neurogliaform Cell with Dense Axonal Arbours
+Dendrite Surface
+Neurogliaform Cell with Sparse Axonal Arbours
+Spike Accomodating Cell
+Large Basket Cell
+Small Axon Cell
+Narrow Pyramidal Cell projecting to thalamus
+Glia
+Burst Firing Cell
+Cajal-Retzius cell like cell
+Somatosensory Cortex S1 Layer IV
+Cytosol
+Neuron
+Bursting Stuttering Cell
