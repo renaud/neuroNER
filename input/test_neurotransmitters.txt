@@ -1,0 +1,6 @@
+GABAergic neuron
+glutamatergic neuron
+GABAergic horizontal cells
+dopaminergic neurons
+gonadotropin-releasing hormone neurons
+dopaminergic substantia nigra neurons

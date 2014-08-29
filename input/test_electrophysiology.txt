@@ -1,0 +1,6 @@
+Fast-spiking cell
+fast-spiking cell
+ast-spiking cell SHOULD FAIL
+
+late-spiking cell
+fast-firing neuron

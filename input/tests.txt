@@ -5,6 +5,8 @@ tufted pyramidal cell
 large inhibitory neuron
 excitatory neuron
 the olfactory sensory neurons.
+rat neuron
+hippocampal mitotic cell
 
 TODO:
 Purkinjes neurons
@@ -22,3 +24,14 @@ rat neuron exhibited spike accommodation (data not shown).
 twelve neurons classified as FS cells were immunopositive for parvalbumin
  Schiess et al. (1999) classified CeA neurons as either type A (no accommodation) or type B (with accommodation). Our results are consistent with this classification of CeA cells and their general morphology, showing that non-accommodating type A cells are smaller than accommodating type B cells, but the two types have overlapping shapes
  Both glutamate and GABA synaptic transmission in CeA neurons have been characterize
+ 
+We describe seven varieties of local circuit neurons with somata within layers 1-2/3A
+local circuit, largely gamma-aminobutyric acid (GABA)-containing neurons in macaque monkey visual cortex, area V1
+
+TEST MISSING
+
+bla bla bla bla large tufted neuron bla bla bla bla  bla NO MISSING
+bla bla bla bla large bla neuron bla bla bla bla bla bla HAS MISSING
+bla bla bla bla large bla bla neuron bla bla bla bla bla HAS MISSING
+bla bla bla bla large bla bla bla neuron bla bla bla bla HAS MISSING
+bla bla bla bla large bla bla bla bla neuron bla bla bla NO MISSING 

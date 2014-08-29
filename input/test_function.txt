@@ -1,0 +1,11 @@
+OFF cone bipolar cells
+ON ganglion cells
+L-type horizontal cells 
+Onset cells
+Pause-build cell
+Rebound-regular cell
+vertical system tangential cells
+burst firing cell
+capsaicin-sensitive C type sensory neuron
+[A-D] type
+slowly adapting stretch receptor neuron

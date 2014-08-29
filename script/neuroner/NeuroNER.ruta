@@ -1,60 +1,63 @@
 PACKAGE neuroner;
 
-//UIMAFIT 
-
 // NEURON
+// acts as a trigger
 DECLARE Neuron, NeuronProperty;
-"\\b((inter)?neurone?s?|cells?)\\b" -> Neuron;
+"(?i)\\b((inter)?neurone?s?|cells?)\\b" -> Neuron;
 //"\\b((inter)?neurons?)\\b" -> Neuron;
+
+// DICTIONARY MATCHING
+// we use a single compiled trie to match word lists (found in resources folder)
+DECLARE NeuronProperty Developmental; // developmental stages
+DECLARE NeuronProperty Species; 
+DECLARE NeuronProperty Function;
+DECLARE NeuronProperty Morphology;
+DECLARE NeuronProperty BrainRegionProp; // so as not to be confused w/ other BrainRegion
+DECLARE ProteinName; // is further aggregated below
+DECLARE NeuronProperty NeurotransmitterProp;
+WORDLIST generated = 'generated.mtwl';
+Document{->TRIE(
+"developmental.txt" = Developmental,
+"functions.txt" = Function,
+"morphology.txt" = Morphology,
+"neurotransmitter.txt" = NeurotransmitterProp,
+"proteins_ns_dan.txt" = ProteinName,
+"proteins_obo_pro.txt" = ProteinName,
+"regions_adverbs_al.txt" = BrainRegionProp,
+"regions_adverbs_ic.txt" = BrainRegionProp,
+"regions_lfrench.txt" = BrainRegionProp,
+"regions.txt" = BrainRegionProp,
+"species.txt" = Species,
+generated, true, 4, false, 0, "")}; // case ignored if word length > 4; edit distance deactivated
 
 // ORIENTATION
 DECLARE NeuronProperty Orientation;
-"inverted|horizontal|descending" -> Orientation;
-
-// MORPHOLOGY
-DECLARE NeuronProperty Morphology;
-WORDLIST morphology = 'morphology_manual.txt';
-Document{-> MARKFAST(Morphology, morphology)};
+"(?i)inverted|horizontal|descending" -> Orientation;
 
 // SIZE
 DECLARE NeuronProperty Size;
-"large|medium|small|narrow|giant" -> Size;
+"(?i)large|medium|small|narrow|giant" -> Size;
 
 // PROTEIN
+// aggregate protein names (as it was matched above) with a trigger 
+DECLARE ProteinTrigger;
+"(?i)expressing|principal|containing|immuno(nega|posi|reac)tive|positive" -> ProteinTrigger;
 DECLARE NeuronProperty ProteinProp;
-DECLARE ProteinName, ProteinTrigger;
-WORDLIST proteinNames = 'proteins_list.twl';
-WORDLIST proteinNames_manual = 'proteins_ns_manual.txt';
-Document{-> MARKFAST(ProteinName, proteinNames)};
-Document{-> MARKFAST(ProteinName, proteinNames_manual)};
-"expressing|principal|containing|immuno(nega|posi|reac)tive|positive" -> ProteinTrigger;
 (ProteinName){-> MARK(ProteinProp, 1, 2)} ("-"? ProteinTrigger);
-
-// BRAINREGION
-DECLARE NeuronProperty BrainRegionProp; // so as not to be confused w/ other BrainRegion
-WORDLIST brainRegions = 'regions_list.twl';
-WORDLIST brainRegions_manual = 'regions_manual.txt';
-Document{-> MARKFAST(BrainRegionProp, brainRegions)};
-Document{-> MARKFAST(BrainRegionProp, brainRegions_manual)};
-
-// NEUROTRANSMITTER 
-DECLARE NeuronProperty NeurotransmitterProp;
-"(gaba|GABA|glutamat|dopamin)ergic" -> NeurotransmitterProp;
-
-// FUNCTION 
-DECLARE NeuronProperty Function;
-WORDLIST functions = 'functions_manual.txt';
-Document{-> MARKFAST(Function, functions)};
 
 // LAYER
 DECLARE NeuronProperty Layer;
-"[Ll]ayer ([1-6]([/-][1-6])?|[iIvV]+([/-][iIvV]+)?)" -> Layer;
+"[Ll]ayers? ([1-6][AaBb]?([/-][1-6][AaBb]?)?|[iIvV]+([/-][iIvV]+)?)" -> Layer;
     
 // ELECTROPYHSIOLOGY
 DECLARE NeuronProperty Electrophysiology;
-"((continu(ally|ous)?|delayed) )?((regular|fast|late|burst(ing)?|classical|delayed)[ -])?((non[- ]+)?accomm?odating|spiking|firing|irregular|stuttering)" -> Electrophysiology;
+"(?i)((continu(ally|ous)?|delayed) )?((regular|fast|late|burst(ing)?|classical|delayed)[ -])?((non[- ]+)?accomm?odating|spiking|firing|irregular|stuttering)" -> Electrophysiology;
 
-// gather NeuronProperty occuring before Neuron
+
+
+//////////////////////////////////////////////////////////
+
+// gather NeuronProperty occurring before Neuron
 DECLARE NeuronWithProperties;
 NeuronProperty+{-> MARK(NeuronWithProperties, 1, 2)} Neuron;
 (NeuronProperty+ (COMMA | "and" | (COMMA "and")))* {-> MARK(NeuronWithProperties, 1, 3)} NeuronProperty+ Neuron;
@@ -65,8 +68,8 @@ NeuronWithProperties{PARTOFNEQ(NeuronWithProperties) -> DEL};
 // Find up to 3 unmatched words preceding a NeuronWithProperties to see what is still missing
 // DECLARE Sentence; PERIOD #{-> MARK(Sentence)} PERIOD;
 DECLARE Missing, InBetweenMissing;
-(W{-PARTOF(NeuronProperty)}){-> MARK(Missing, 1, 1)} NeuronWithProperties;
-W{-PARTOF(NeuronProperty)} Missing{-> SHIFT(Missing, 1, 2)};
-W{-PARTOF(NeuronProperty)} Missing{-> SHIFT(Missing, 1, 2)};
-W{-PARTOF(NeuronProperty)} Missing{-> SHIFT(Missing, 1, 2)};
+
+NeuronProperty (ANY{-PARTOF(NeuronProperty)}) {-> MARK(Missing, 2, 2)}(NeuronWithProperties|Neuron);
+NeuronProperty (ANY{-PARTOF(NeuronProperty)} ANY{-PARTOF(NeuronProperty)}) {-> MARK(Missing, 2, 2)}(NeuronWithProperties|Neuron);
+NeuronProperty (ANY{-PARTOF(NeuronProperty)} ANY{-PARTOF(NeuronProperty)} ANY{-PARTOF(NeuronProperty)}) {-> MARK(Missing, 2, 2)}(NeuronWithProperties|Neuron);
 

@@ -1,0 +1,8 @@
+layer V neurons
+layer 2/3 neuron
+layer 5 neuron
+Layer V interneurons
+layer V-VI neuron
+
+layer 3a neuron
+layers 1-2/3A neuron TODO

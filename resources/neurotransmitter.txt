@@ -1,0 +1,11 @@
+gabaergic
+glutamatergic
+dopaminergic
+glycinergic
+cholinergic
+serotonergic
+noradrenergic
+peptidergic
+nitrergic
+noncholinergic
+nonpeptiergic

@@ -1,8 +1,0 @@
-CA1
-striatal
-cortical
-cerebellar
-cortical
-putative
-dorsal
-prefrontal
