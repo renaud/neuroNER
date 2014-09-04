@@ -37,3 +37,19 @@ untufted
 unipolar
 spiral
 starburst
+ganglion
+Müller
+nonpyramidal
+aspiny
+neural stem
+glial
+hair
+Schwann
+magnocellular
+parvocellular
+photoreceptor
+mossy
+Cajal-Retzius
+Bergmann
+bistratified
+monopolar

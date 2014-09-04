@@ -48,3 +48,7 @@ dysplastic
 limbic
 multidendritic
 mesodiencephalic
+thalamic
+corticothalamic
+supraoptic
+optic

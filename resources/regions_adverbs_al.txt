@@ -60,3 +60,6 @@ meningeal
 pudendal
 metacerebral
 ventromedial
+reticulospinal
+corticopetal
+rubrospinal
