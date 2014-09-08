@@ -1,13 +1,9 @@
 PACKAGE neuroner;
 
-// NEURON
-// acts as a trigger
-DECLARE Neuron, NeuronProperty;
-"(?i)\\b((inter)?neurone?s?|cells?)\\b" -> Neuron;
-//"\\b((inter)?neurons?)\\b" -> Neuron;
 
 // DICTIONARY MATCHING
 // we use a single compiled trie to match word lists (found in resources folder)
+DECLARE Neuron, NeuronProperty; // acts as a trigger
 DECLARE NeuronProperty Developmental; // developmental stages
 DECLARE NeuronProperty Species; 
 DECLARE NeuronProperty Function;
@@ -20,6 +16,7 @@ Document{->TRIE(
 "developmental.txt" = Developmental,
 "functions.txt" = Function,
 "morphology.txt" = Morphology,
+"neuron_triggers.txt" = Neuron,
 "neurotransmitter.txt" = NeurotransmitterProp,
 "proteins_ns_dan.txt" = ProteinName,
 "proteins_obo_pro.txt" = ProteinName,

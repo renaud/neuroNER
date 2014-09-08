@@ -1,13 +1,14 @@
 
-ALL LEXICA IN HERE ARE COMPILED TO 'generated.mtwl'
-YOU NEED TO RECOMPILE THEM EVERY TIME YOU ADD A TERM TO ONE OF THE .txt FILES
-(select all files, right click and 'UIMA Ruta' -> 'convert to multi TWL')
+* ALL LEXICA IN HERE ARE COMPILED TO `generated.mtwl`
+* YOU NEED TO RECOMPILE THEM EVERY TIME YOU ADD A TERM TO ONE OF THE `.txt` FILES
+    * (select all files, right click and `UIMA Ruta` -> `convert to multi TWL`)
 
 ### Manually added lexica:
 
 * developmental.txt
 * functions.txt
 * morphology.txt
+* neuron_triggers.txt
 * neurotransmitter.txt
 * proteins_ns_dan.txt
 	* based on a list from Daniel.Keller@epfl.ch

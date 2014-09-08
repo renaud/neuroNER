@@ -23,5 +23,3 @@ oligodendrocyte
 oligodendrocytes
 astroglia
 microglia
-
-

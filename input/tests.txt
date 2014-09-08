@@ -27,11 +27,3 @@ twelve neurons classified as FS cells were immunopositive for parvalbumin
  
 We describe seven varieties of local circuit neurons with somata within layers 1-2/3A
 local circuit, largely gamma-aminobutyric acid (GABA)-containing neurons in macaque monkey visual cortex, area V1
-
-TEST MISSING
-
-bla bla bla bla large tufted neuron bla bla bla bla  bla NO MISSING
-bla bla bla bla large bla neuron bla bla bla bla bla bla HAS MISSING
-bla bla bla bla large bla bla neuron bla bla bla bla bla HAS MISSING
-bla bla bla bla large bla bla bla neuron bla bla bla bla HAS MISSING
-bla bla bla bla large bla bla bla bla neuron bla bla bla NO MISSING 
