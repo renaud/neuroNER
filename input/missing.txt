@@ -13,6 +13,8 @@ excitatory neuron
 the olfactory sensory neurons.
 
 TODO:
+whatever neurons.
+
 Purkinjes neurons
 Each contains sensory dendrites of an A-type (RnA) and B-type (RnB) neuron
 tufted pyramidal cell towards l1
