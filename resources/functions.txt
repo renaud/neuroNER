@@ -71,5 +71,3 @@ nondifferentiated
 relay
 local
 functional
-presympathetic
-parasympathetic
