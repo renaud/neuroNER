@@ -1,25 +1,12 @@
 PACKAGE neuroner;
 
-// DICTIONARY MATCHING
-// we use a single compiled trie to match word lists (found in resources folder)
-DECLARE Neuron, NeuronProperty; // acts as a trigger
+Document{-> RETAINTYPE(BREAK)};
+
+DECLARE NeuronTrigger, NeuronProperty; // acts as a trigger
 DECLARE NeuronProperty Function;
 DECLARE NeuronProperty Morphology;
 DECLARE NeuronProperty BrainRegionProp; // so as not to be confused w/ other BrainRegion
 DECLARE ProteinName; // is further aggregated below
-
-WORDLIST generated = 'bluima/neuroner/generated.mtwl';
-Document{->TRIE(
-"functions.txt" = Function,
-"morphology.txt" = Morphology,
-"neuron_triggers.txt" = Neuron,
-"proteins_ns_dan.txt" = ProteinName,
-"proteins_obo_pro.txt" = ProteinName,
-"regions_adverbs_al.txt" = BrainRegionProp,
-"regions_adverbs_ic.txt" = BrainRegionProp,
-"regions_lfrench.txt" = BrainRegionProp,
-"regions.txt" = BrainRegionProp,
-generated, true, 4, false, 0, "")}; // case ignored if word length > 4; edit distance deactivated
 
 
 // DEVELOPMENTAL STAGES
@@ -39,24 +26,39 @@ DECLARE NeuronProperty Layer(STRING name, STRING ontologyId);
 Document{-> MARKTABLE(Layer, 1, layerWt, true, 2, "", 2, "ontologyId" = 2)};
 
 // SPECIES
-WORDTABLE speciesWt = 'bluima/neuroner/species.csv';
+WORDTABLE speciesWt = 'bluima/neuroner/ncbi_species_top1000.csv';
 DECLARE NeuronProperty Species(STRING name, STRING ontologyId);
 Document{-> MARKTABLE(Species, 1, speciesWt, true, 2, "", 2, "ontologyId" = 2)};
 
 
+
 // ORIENTATION
 DECLARE NeuronProperty Orientation;
-"(?i)inverted|horizontal|descending" -> Orientation;
+"(?i)inverted|horizontal|descending|upper|lower" -> Orientation;
 
 // SIZE
 DECLARE NeuronProperty Size;
 "(?i)large|medium|small|narrow|giant" -> Size;
 
-    
 // ELECTROPYHSIOLOGY
 DECLARE NeuronProperty Electrophysiology;
-"(?i)((continu(ally|ous)?|delayed) )?((regular|fast|late|burst(ing)?|classical|delayed)[ -])?((non[- ]+)?accomm?odating|spiking|firing|irregular|stuttering)" -> Electrophysiology;
+"(?i)((continu(ally|ous)?|delayed) )?(((ir)?regular|fast|late|burst(ing)?|classical|delayed)[ -])?((non[- ]?)?(accomm?odating|adapting|spiking|firing|irregular|stuttering))" -> Electrophysiology;
 
+
+// DICTIONARY MATCHING
+// we use a single compiled trie to match word lists (found in resources folder)
+WORDLIST generated = 'bluima/neuroner/generated.mtwl';
+Document{->TRIE(
+"neuron_triggers.txt" = NeuronTrigger,
+"functions.txt" = Function,
+"morphology.txt" = Morphology,
+"proteins_ns_dan.txt" = ProteinName,
+"proteins_obo_pro.txt" = ProteinName,
+"regions_adverbs_al.txt" = BrainRegionProp,
+"regions_adverbs_ic.txt" = BrainRegionProp,
+"regions_lfrench.txt" = BrainRegionProp,
+"regions.txt" = BrainRegionProp,
+generated, true, 4, false, 0, "")}; // case ignored if word length > 4; edit distance deactivated
 
 
 // PROTEIN
@@ -64,25 +66,31 @@ DECLARE NeuronProperty Electrophysiology;
 DECLARE ProteinTrigger;
 "(?i)expressing|principal|containing|immuno(nega|posi|reac)tive|positive" -> ProteinTrigger;
 DECLARE NeuronProperty ProteinProp;
-(ProteinName){-> MARK(ProteinProp, 1, 2)} ("-"? ProteinTrigger);
+(ProteinName "-"? ProteinTrigger){-> MARK(ProteinProp)};
+(ProteinTrigger ProteinName (COMMA ProteinName)?){-> MARK(ProteinProp)};
+//TODO (ProteinTrigger){-> MARK(ProteinProp, 1, 2)} ("-"? ProteinName);
 
+
+(NeuronTrigger "and" NeuronTrigger){-> SHIFT(NeuronTrigger)};
 
 //////////////////////////////////////////////////////////
 
-DECLARE NeuronWithProperties;
-// gather NeuronProperty occurring before Neuron
-NeuronProperty+{-> MARK(NeuronWithProperties, 1, 2)} Neuron;
-// single Neuron (pruned below), but not "cell"
-Neuron{NOT(REGEXP("[Cc]ells?")) -> MARK(NeuronWithProperties, 1, 1)}; 
-(NeuronProperty+ (COMMA | "and" | (COMMA "and")))* {-> MARK(NeuronWithProperties, 1, 3)} NeuronProperty+ Neuron;
-// keep only longest NeuronWithProperties
-NeuronWithProperties{PARTOFNEQ(NeuronWithProperties) -> DEL};
+DECLARE Neuron;
+// gather NeuronProperty occurring around Neuron
+(NeuronProperty* NeuronTrigger NeuronProperty*) {-> MARK(Neuron)} ;
+(NeuronProperty+ (COMMA | "and" | (COMMA "and")))* {-> MARK(Neuron, 1, 3)} NeuronProperty+ NeuronTrigger;
+
+// remove single isolated Neuron, unless "cell"
+NeuronTrigger{NOT(REGEXP("[Cc]ells?")) -> MARK(Neuron, 1, 1)}; 
+
+Neuron{CONTAINS(BREAK) -> DEL};
+// keep only longest Neuron
+Neuron{PARTOF(Neuron) -> DEL};
 // TODO remove cells without NeuronProperty
 
-// Find up to 3 unmatched words preceding a NeuronWithProperties to see what is still missing
+// Find up to 3 unmatched words preceding a Neuron to see what is still missing
 // DECLARE Sentence; PERIOD #{-> MARK(Sentence)} PERIOD;
 DECLARE Missing, InBetweenMissing;
-NeuronProperty (ANY{-PARTOF(NeuronProperty)}) {-> MARK(Missing, 2, 2)}(NeuronWithProperties|Neuron);
-NeuronProperty (ANY{-PARTOF(NeuronProperty)} ANY{-PARTOF(NeuronProperty)}) {-> MARK(Missing, 2, 2)}(NeuronWithProperties|Neuron);
-NeuronProperty (ANY{-PARTOF(NeuronProperty)} ANY{-PARTOF(NeuronProperty)} ANY{-PARTOF(NeuronProperty)}) {-> MARK(Missing, 2, 2)}(NeuronWithProperties|Neuron);
-
+NeuronProperty (ANY{-PARTOF(NeuronProperty)}) {-> MARK(Missing, 2, 2)}(Neuron|NeuronTrigger);
+NeuronProperty (ANY{-PARTOF(NeuronProperty)} ANY{-PARTOF(NeuronProperty)}) {-> MARK(Missing, 2, 2)}(Neuron|NeuronTrigger);
+NeuronProperty (ANY{-PARTOF(NeuronProperty)} ANY{-PARTOF(NeuronProperty)} ANY{-PARTOF(NeuronProperty)}) {-> MARK(Missing, 2, 2)}(Neuron|NeuronTrigger);

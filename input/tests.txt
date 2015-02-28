@@ -8,7 +8,70 @@ the olfactory sensory neurons.
 rat neuron
 hippocampal mitotic cell
 
+aa neurons and cells bb cell and neuron
+
+(parvalbumin-positive fast-spiking basket cells, somatostatin-positive regular-spiking bipolar and multipolar cells, and cholecystokinin-positive irregular-spiking bipolar and multipolar cells) and projection neurons (thick-tufted layer 5 nonadapting pyramidal neurons and layer 6 adapting corticothalamic neurons;
+to cortical GABA neurons expressing parvalbumin, Somatostatin, but not Vasoactive intestinal peptide (
+of GABAergic neurons in embryonic, postnatal, and mature brains, 
+of Dlx5-CreER labeled neurons situated deeper in layer 6 than Dlx1-CreER labeled neurons
+such as VIP or CR positive interneurons. 
+
+infragranular, calbindin-containing, layer 1-targeting ("Martinotti") cells
+Dendritic connections of ON and OFF cone bipolar cells were 
+in rat cerebellar Golgi cells.
+in neurons of the rat dorsal motor nucleus of the vagus.
+Neurons situated in the principal sensory trigeminal nucleus (PSTN) convey 
+
+
+neurofilament-negative small- and medium-sized dorsal root ganglion cells
+the IB4-binding cells that produce somatostatin has
+very small cells that express the receptor tyrosine kinase (RET) and that do not label for trkA or IB4-binding has
+of dentate granule cell dendritic spines.
+In contrast, neurons in the hilus and in layer III of the entorhinal cortex were not protected
+ including cortical interneurones, hippocampal CA3 pyramidal neurones, the anterior thalamic reticular nucleus and cerebellar Purkinje neurones. 
+Intracellular recordings from neurobiotin-labeled cells in brain slices of the rat medial nucleus of the trapezoid body.
+
+the three GAD-positive rat neurons were non-accommodating (see Fig. 4C), while the one GAD-negative
+rat neuron exhibited spike accommodation (data not shown). 
+twelve neurons classified as FS cells were immunopositive for parvalbumin
+ Schiess et al. (1999) classified CeA neurons as either type A (no accommodation) or type B (with accommodation). Our results are consistent with this classification of CeA cells and their general morphology, showing that non-accommodating type A cells are smaller than accommodating type B cells, but the two types have overlapping shapes
+ Both glutamate and GABA synaptic transmission in CeA neurons have been characterize
+
+#Straightforward examples of neuron mentions. Bold the neuron types.
+Watermaze learning enhances excitability of CA1 pyramidal neurons.
+
+A molecular mechanism for electrical tuning of cochlear hair cells.
+
+#Examples where a specific neuron type is mentioned along with its brain region. Bold the neuron type plus its region as a single phrase:
+Similar to pyramidal cells in piriform cortex,...
+In contrast, LVA Ca2+ channel-evoked CICR was absent from ventrolateral thalamocortical relay neurons,...
+We have also investigated the function of mGluR2 in granule cells of the accessory olfactory bulb by combining...
+
+#Example of a neuron reference through a previously used acronym:
+We have also investigated the function of mGluR2 in granule cells of the accessory olfactory bulb (AOB GCs)... AOB GCs differ from other cells of their brain in their properties... <tag AOB GCs in this case>
+
+#Example where 2 neuron types are mentioned, conjoined by an “and”. In this case, bold the entire phrase:
+A-type K+ current of dopamine and GABA neurons in the ventral tegmental area.
+In cross-correlation plots, thalamic and reticular nucleus neurons did not show a statistically significant relationship...
+
+#Examples of a complicated mention of a single neuron type:
+Thus the ventromedial hypothalamus-projecting neurons in the medial amygdala differ from...
+Kv3.1 subunits are specifically found in fast-spiking, parvalbumin (PV)-containing cortical interneurons, and recent studies
+
+#Example where multiple neuron types are mentioned as a single phrase. Bold the entire phrase:
+Whole cell voltage-clamp recordings of GABA-evoked responses were conducted in neurons isolated from ventrobasal thalamus, nucleus reticularis thalami, and somatosensory cortex
+
+#Some mentions will be very ambiguous, do not tag these:
+We conclude that when the Ca2+ influx into the pre- or postsynaptic cell (don’t tag post-synaptic cell)
+
+
+
 TODO:
+http://www.ncbi.nlm.nih.gov/pmc/articles/PMC164696/
+cholinergic cell elimination in the striatum
+cholinergic cell-eliminated mice
+other striatal cell types such as somatostatin-positive, parvalbuminpositive, and calbindin D-28k-positive neurons, or for cholinergic neurons
+
 Purkinjes neurons
 Each contains sensory dendrites of an A-type (RnA) and B-type (RnB) neuron
 tufted pyramidal cell towards l1

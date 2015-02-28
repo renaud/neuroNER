@@ -1,0 +1,9 @@
+In the cingulate cortex (CG), the five populations represented three major classes of interneurons2, 9 (parvalbumin-positive fast-spiking basket cells, somatostatin-positive regular-spiking bipolar and multipolar cells, and cholecystokinin-positive irregular-spiking bipolar and multipolar cells) and two major classes of projection neurons (thick-tufted layer 5 nonadapting pyramidal neurons and layer 6 adapting corticothalamic neurons; Fig. 1).
+
+E12 induction gave rise to cortical GABA neurons expressing parvalbumin (PV), somatostatin (SST), but not vasoactive intestinal peptide (VIP) (Figure 2J-L).
+
+Dlx genes continue to express in subsets of GABAergic neurons in embryonic, postnatal, and mature brains, 
+
+In mature cortex (P21), both cohorts settled in deep cortical layers despite their different migration routes, with a larger fraction of Dlx5-CreER labeled neurons situated deeper in layer 6 than Dlx1-CreER labeled neurons
+
+Many of these interneurons showed bipolar morphology and were reminiscent of CGE-derived populations such as VIP or CR positive interneurons. 
