@@ -62,7 +62,7 @@ generated, true, 4, false, 0, "")}; // case ignored if word length > 4; edit dis
 
 
 // PROTEIN
-// aggregate protein names (as it was matched above) with a trigger 
+// aggregate protein names (as it was matched above) with a ProteinTrigger 
 DECLARE ProteinTrigger;
 "(?i)expressing|principal|containing|immuno(nega|posi|reac)tive|positive" -> ProteinTrigger;
 DECLARE NeuronProperty ProteinProp;
@@ -70,27 +70,45 @@ DECLARE NeuronProperty ProteinProp;
 (ProteinTrigger ProteinName (COMMA ProteinName)?){-> MARK(ProteinProp)};
 //TODO (ProteinTrigger){-> MARK(ProteinProp, 1, 2)} ("-"? ProteinName);
 
-
+// aggregate multiple triggers together
 (NeuronTrigger "and" NeuronTrigger){-> SHIFT(NeuronTrigger)};
 
 //////////////////////////////////////////////////////////
 
 DECLARE Neuron;
-// gather NeuronProperty occurring around Neuron
-(NeuronProperty* NeuronTrigger NeuronProperty*) {-> MARK(Neuron)} ;
-(NeuronProperty+ (COMMA | "and" | (COMMA "and")))* {-> MARK(Neuron, 1, 3)} NeuronProperty+ NeuronTrigger;
+//(NeuronProperty* NeuronTrigger NeuronProperty*) {-> MARK(Neuron)} ;
+
+// context before and after a neuron trigger
+DECLARE PreNeuron, PostNeuron;
+
+// gather NeuronProperty occurring before and after Neuron into Pre and PostNeuron
+NeuronProperty+{-> MARK(PreNeuron, 1, 1)} NeuronTrigger;
+(NeuronProperty+ (COMMA | "and" | (COMMA "and")))* {-> MARK(PreNeuron, 1, 2)} NeuronProperty+ NeuronTrigger;
+(("in" | "of") "the"? NeuronProperty+)* {-> MARK(PostNeuron)};
+
+// aggregate Pre and PostNeurons into Neuron, remove them
+PreNeuron NeuronTrigger PostNeuron {-> MARK(Neuron, 1, 3)};
+NeuronTrigger PostNeuron {-> MARK(Neuron, 1, 2)};
+PreNeuron NeuronTrigger {-> MARK(Neuron, 1, 2)};
+//PreNeuron{-> DEL};
+//PostNeuron{-> DEL};
 
 // remove single isolated Neuron, unless "cell"
 NeuronTrigger{NOT(REGEXP("[Cc]ells?")) -> MARK(Neuron, 1, 1)}; 
 
-Neuron{CONTAINS(BREAK) -> DEL};
+// remove neuron that have line breaks 
+Neuron{CONTAINS(BREAK) -> DEL}; // TODO check above with pdf (new lines?)
 // keep only longest Neuron
-Neuron{PARTOF(Neuron) -> DEL};
-// TODO remove cells without NeuronProperty
+Neuron{PARTOF(Neuron) -> DEL}; // TODO remove cells without NeuronProperty
 
 // Find up to 3 unmatched words preceding a Neuron to see what is still missing
-// DECLARE Sentence; PERIOD #{-> MARK(Sentence)} PERIOD;
 DECLARE Missing, InBetweenMissing;
-NeuronProperty (ANY{-PARTOF(NeuronProperty)}) {-> MARK(Missing, 2, 2)}(Neuron|NeuronTrigger);
-NeuronProperty (ANY{-PARTOF(NeuronProperty)} ANY{-PARTOF(NeuronProperty)}) {-> MARK(Missing, 2, 2)}(Neuron|NeuronTrigger);
-NeuronProperty (ANY{-PARTOF(NeuronProperty)} ANY{-PARTOF(NeuronProperty)} ANY{-PARTOF(NeuronProperty)}) {-> MARK(Missing, 2, 2)}(Neuron|NeuronTrigger);
+NeuronProperty (ANY{-PARTOF(NeuronProperty)})                                                           {-> MARK(Missing, 2, 2)} (Neuron|NeuronTrigger);
+NeuronProperty (ANY{-PARTOF(NeuronProperty)} ANY{-PARTOF(NeuronProperty)})                              {-> MARK(Missing, 2, 2)} (Neuron|NeuronTrigger);
+NeuronProperty (ANY{-PARTOF(NeuronProperty)} ANY{-PARTOF(NeuronProperty)} ANY{-PARTOF(NeuronProperty)}) {-> MARK(Missing, 2, 2)} (Neuron|NeuronTrigger);
+NeuronTrigger  (ANY{-PARTOF(NeuronProperty)})                                                           {-> MARK(Missing, 2, 2)} PostNeuron;
+Neuron         (ANY{-PARTOF(NeuronProperty)})                                                           {-> MARK(Missing, 2, 2)} PostNeuron;
+NeuronTrigger  (ANY{-PARTOF(NeuronProperty)} ANY{-PARTOF(NeuronProperty)})                              {-> MARK(Missing, 2, 2)} PostNeuron;
+Neuron         (ANY{-PARTOF(NeuronProperty)} ANY{-PARTOF(NeuronProperty)})                              {-> MARK(Missing, 2, 2)} PostNeuron;
+NeuronTrigger  (ANY{-PARTOF(NeuronProperty)} ANY{-PARTOF(NeuronProperty)} ANY{-PARTOF(NeuronProperty)}) {-> MARK(Missing, 2, 2)} PostNeuron;
+Neuron         (ANY{-PARTOF(NeuronProperty)} ANY{-PARTOF(NeuronProperty)} ANY{-PARTOF(NeuronProperty)}) {-> MARK(Missing, 2, 2)} PostNeuron;
