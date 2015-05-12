@@ -187,3 +187,10 @@ luteinizing hormone-releasing hormone
 LHRH
 POMC
 proopiomelanocortin
+ACTH
+adrenocorticotropic hormone
+LH
+luteinizing hormone
+FSH
+follicle stimulating hormone
+follicle-stimulating hormone
