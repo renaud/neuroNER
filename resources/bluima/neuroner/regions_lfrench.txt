@@ -8921,3 +8921,4 @@ zone of lissauer
 sulcus interparietalis
 gyrus centralis posterior secundus
 ventral supraoptic decussation
+semicircular canal
