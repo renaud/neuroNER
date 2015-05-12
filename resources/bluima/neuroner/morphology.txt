@@ -64,3 +64,4 @@ Bergmann
 bistratified
 monopolar
 radial
+Merkel
