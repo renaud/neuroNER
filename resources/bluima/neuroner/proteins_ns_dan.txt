@@ -181,3 +181,5 @@ Mg
 Raf
 orexin
 nitric oxide synthase
+GnRH
+gonadotropin releasing hormone
