@@ -63,3 +63,4 @@ Cajal-Retzius
 Bergmann
 bistratified
 monopolar
+radial
