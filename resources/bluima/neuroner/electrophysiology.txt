@@ -49,6 +49,9 @@ delayed
 continuous
 continuous firing
 
+spontaneous
+spontaneously
+
 low-threshold bursters
 
 accomodating
