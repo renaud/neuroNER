@@ -183,3 +183,5 @@ orexin
 nitric oxide synthase
 GnRH
 gonadotropin releasing hormone
+luteinizing hormone-releasing hormone
+LHRH
