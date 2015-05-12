@@ -185,3 +185,5 @@ GnRH
 gonadotropin releasing hormone
 luteinizing hormone-releasing hormone
 LHRH
+POMC
+proopiomelanocortin
