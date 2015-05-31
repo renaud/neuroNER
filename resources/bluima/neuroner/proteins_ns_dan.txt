@@ -194,3 +194,7 @@ luteinizing hormone
 FSH
 follicle stimulating hormone
 follicle-stimulating hormone
+glutamic acid decarboxylase
+GAD
+GAD1
+GAD2
