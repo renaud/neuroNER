@@ -3,7 +3,7 @@ firing
 
 regular-spiking
 regular spiking
-regular firing
+
 
 irregular
 irregular spiking
