@@ -9,6 +9,7 @@ irregular
 irregular spiking
 irregular-spiking
 
+fast-spiking
 fast spiking
 fast-firing
 fast firing
