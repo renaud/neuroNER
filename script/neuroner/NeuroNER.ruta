@@ -64,14 +64,17 @@ generated, true, 4, false, 0, "")}; // case ignored if word length > 4; edit dis
 // PROTEIN
 // aggregate protein names (as it was matched above) with a ProteinTrigger 
 DECLARE ProteinTrigger;
-"(?i)expressing|principal|containing|immuno(nega|posi|reac)tive|positive" -> ProteinTrigger;
+"(?i)(contain|secret|releas|bind|synthesiz|express|contain)ing|principal|immuno(nega|posi|reac)tive|(reac|posi)tive|immunoreactivity|
+reactive|labeled|stained" -> ProteinTrigger;
 DECLARE NeuronProperty ProteinProp;
 (ProteinName "-"? ProteinTrigger){-> MARK(ProteinProp)};
 (ProteinTrigger ProteinName (COMMA ProteinName)?){-> MARK(ProteinProp)};
 //TODO (ProteinTrigger){-> MARK(ProteinProp, 1, 2)} ("-"? ProteinName);
+// also apply to NT
+(NeurotransmitterProp "-"? ProteinTrigger){-> SHIFT(NeurotransmitterProp,1,3)};
 
 // aggregate multiple triggers together
-(NeuronTrigger "and" NeuronTrigger){-> SHIFT(NeuronTrigger)};
+(NeuronTrigger "and"? NeuronTrigger){-> SHIFT(NeuronTrigger)};
 
 //////////////////////////////////////////////////////////
 
@@ -84,7 +87,7 @@ DECLARE PreNeuron, PostNeuron;
 // gather NeuronProperty occurring before and after Neuron into Pre and PostNeuron
 NeuronProperty+{-> MARK(PreNeuron, 1, 1)} NeuronTrigger;
 (NeuronProperty+ (COMMA | "and" | (COMMA "and")))* {-> MARK(PreNeuron, 1, 2)} NeuronProperty+ NeuronTrigger;
-(("in" | "of") "the"? NeuronProperty+)* {-> MARK(PostNeuron)};
+(("in" | "of" | "with") "the"? NeuronProperty+)* {-> MARK(PostNeuron)};
 
 // aggregate Pre and PostNeurons into Neuron, remove them
 PreNeuron NeuronTrigger PostNeuron {-> MARK(Neuron, 1, 3)};

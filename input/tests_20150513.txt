@@ -1,0 +1,55 @@
+
+dopaminergic glia cells 
+
+cells in the reticular nucleus of the thalamus
+
+locus coeruleus noradrenergic neurons
+
+neurones in the dorsal motor nucleus of vagus
+
+dopaminergic substantia nigra neurons
+
+noradrenergic and adrenergic neurons
+
+suprachiasmatic nucleus neurons
+
+suprachiasmatic nuclei neurons
+
+supraoptic nucleus neurons
+
+medium-sized putatively GABAergic nucleus accumbens neurons
+
+neuropeptide Y-like immunoreactivity cells
+
+nucleus magnocellularis cells
+
+tractus solitarius cells
+
+preoptic nucleus
+
+serotonergic, various peptidergic and possibly cholinergic neurons in the medullary raphe nuclei
+
+stratum radiatum cells
+
+postmetamorphic fish secondary horizontal semicircular canal neurons
+
+spiny neurons of stratum lucidum of the CA3 region and in the dentate hilus
+
+nitrergic motoneurons - this is another neurotransmitter, nitric oxide http://www.ncbi.nlm.nih.gov/pubmed/9843769
+
+neurons in the thalamic reticular nuclei
+
+thalamic reticular nucleus neurons
+
+intrinsic bursting capability of individual neurons - why is "bursting" not found here? http://www.ncbi.nlm.nih.gov/pubmed/6090987
+
+hypothalamic parvocellular somatostatin cells
+
+oligodendrocytes or Schwann cells - oligodendrocytes should be a trigger word here
+
+raphe pallidus neurons http://www.ncbi.nlm.nih.gov/pubmed/6172025
+
+globus pallidus neurons http://www.ncbi.nlm.nih.gov/pubmed/6655084
+
+Neurons in the magnocellular regions of the paraventricular nucleus - is your trigger word finding case sensitive?
+
