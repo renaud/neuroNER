@@ -198,3 +198,144 @@ glutamic acid decarboxylase
 GAD
 GAD1
 GAD2
+CNR1
+CB1
+CNR
+CB-R
+CB1A
+CB1R
+CANN6
+CB1K5
+5HT-3
+SLC6A4
+5-HTT
+5-HTTLPR
+5HTT
+HTT
+OCD1
+SERT
+SERT1
+hSERT
+alpha-actinin-2
+AChE
+CB
+calbindin
+CCK
+Calca
+CAL6
+CGRP
+Cal1
+Calc
+RATCAL6
+calcitonin
+CHAT 
+choline O-acetyltransferase
+CMS6
+CMS1A
+CMS1A2
+CHOACTASE
+Nr2f2
+EAR3
+ARP-1
+SVP40
+Aporp1
+COUPTFB
+COUP-TF2
+Tcfcoup2
+COUP-TFII
+2700033K02Rik
+9430015G03Rik
+Slc1a1
+EAAC1
+EAAC2
+EAAT3
+MEAAC1
+D130048G10Rik
+PENK
+proenkephalin
+enkephalin
+ENK
+GABRA1
+EJM
+ECA4
+EJM5
+EIEE19
+Slc6a1
+Gabt
+Gat1
+XT-1
+GAT-1
+Gabt1
+Xtrp1
+GABATR
+GABATHG
+A730043E01
+Slc6a5
+Glyt2
+prestin
+NET1
+GLYT2
+HKPX3
+GLYT-2
+Oprm1
+mor
+Oprm
+muOR
+MOP-R
+MOR-1
+M-OR-1
+MOR-1O
+Chrm2
+M2
+Chrm-2
+AChR-M2
+TAC3
+NKB
+HH10
+NKNB
+PRO1155
+ZNEUROK1
+tachykinin 3
+nNOS
+neuronal nitric oxide synthase
+Tac1 tachykinin 1
+SP
+NK1
+NK-1
+Nkna
+PPTA
+PPT-A
+4930528L02Rik
+preprotachykinin A
+PPTB
+preprotachykinin B
+substance P receptor
+Tacr1
+tachykinin receptor 1
+Spr
+Nk1r
+Tac1r
+neurokinin 1
+vAChT
+vesicular acetylcholine transporter
+Slc18a3
+VAChT
+VAT
+vGluT2
+vesicular glutamate transporter 2
+Slc17a6
+2900073D12Rik
+DNPI
+VGLUT2
+vGluT3
+vesicular glutamate transporter 3
+Slc17a8
+Vglut3
+DFNA25
+VIAAT
+vesicular inhibitory amino acid transporter
+Slc32a1
+VGAT
+Viaat
+VIP
+vasoactive intestinal polypeptide
