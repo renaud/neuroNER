@@ -2,10 +2,11 @@ PACKAGE neuroner;
 
 Document{-> RETAINTYPE(BREAK)};
 
-DECLARE NeuronTrigger, NeuronProperty; // acts as a trigger
+DECLARE NeuronTrigger; // acts as a trigger
+DECLARE Annotation NeuronProperty(STRING ontologyId); 
 DECLARE NeuronProperty Function;
 DECLARE NeuronProperty Morphology;
-DECLARE NeuronProperty BrainRegionProp; // so as not to be confused w/ other BrainRegion
+DECLARE NeuronProperty BrainRegionProp; // so as not to be confused w/ other BrainRegion annotations
 DECLARE ProteinName; // is further aggregated below
 
 
@@ -22,12 +23,12 @@ Document{-> MARKTABLE(NeurotransmitterProp, 1, neurotransmitterWt, true, 2, "", 
 // LAYER
 //"[Ll]ayers? ([1-6][AaBb]?([/-][1-6][AaBb]?)?|[iIvV]+([/-][iIvV]+)?)" -> Layer;
 WORDTABLE layerWt = 'bluima/neuroner/hbp_layer_ontology.csv';
-DECLARE NeuronProperty Layer(STRING name, STRING ontologyId);
+DECLARE NeuronProperty Layer(STRING name);
 Document{-> MARKTABLE(Layer, 1, layerWt, true, 2, "", 2, "ontologyId" = 2)};
 
 // SPECIES
 WORDTABLE speciesWt = 'bluima/neuroner/ncbi_species_top1000.csv';
-DECLARE NeuronProperty Species(STRING name, STRING ontologyId);
+DECLARE NeuronProperty Species(STRING name);
 Document{-> MARKTABLE(Species, 1, speciesWt, true, 2, "", 2, "ontologyId" = 2)};
 
 
@@ -67,7 +68,7 @@ DECLARE ProteinTrigger;
 "(?i)(contain|secret|releas|bind|synthesiz|express|contain)ing|principal|immuno(nega|posi|reac)tive|(reac|posi)tive|immunoreactivity|
 reactive|labeled|stained" -> ProteinTrigger;
 DECLARE NeuronProperty ProteinProp;
-(ProteinName "-"? ProteinTrigger){-> MARK(ProteinProp)};
+(ProteinName "-"? ProteinTrigger){-> CREATE(ProteinProp, "ontologyId" = ProteinName)};
 (ProteinTrigger ProteinName (COMMA ProteinName)?){-> MARK(ProteinProp)};
 //TODO (ProteinTrigger){-> MARK(ProteinProp, 1, 2)} ("-"? ProteinName);
 // also apply to NT

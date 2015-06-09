@@ -1,3 +1,7 @@
+
+
+## Different ways of noting that a cell “expresses” or “contains” a protein or a neurotransmitter
+########################################################################################################
 EGFR-expressing cells
 EGFR expressing cells
 
@@ -14,3 +18,42 @@ vasopressin synthesizing cells
 vasopressin-synthesizing cells
 
 cells with vasopressin-immunoreactivity
+
+
+
+
+
+## More types of neurotransmitters which need to be added to the neurotransmitter ontology
+################################################################################################
+noradrenergic neurons - needs to be added to neurotransmitter ontology http://www.ncbi.nlm.nih.gov/pubmed/2458
+noradrenaline
+oxytocin neurons - oxytocin needs to be added to the neurotransmitter ontology
+oxytocinergic
+catecholamine
+catecholaminergic
+prolactin
+monoaminergic
+monoamine
+nitrergic
+
+add the following rule to Ruta:
+"-ergic" ; <neurotransmitter>-ergic; i.e., GABA-ergic, DA-ergic
+“ergic” <neurotransmitter>ergic
+
+
+## more neuron trigger words to add
+################################################################################################
+pyramidal neurones bla bla
+pyramidal neurone bla bla
+pyramidal motoneuron bla bla
+pyramidal motoneurons bla bla
+
+## Difficult examples
+glia cells - this is difficult example, glia is used as a morphology term here but it's also a neuron trigger word...
+astrocyte cells - same issue as above
+
+
+## Full term
+proteins_ns_dan.txt often contains abbreviations, but not always the full term. 
+so after expanding abbreviations (which I asked you to implement) these terms aren't identified anymore. 
+This is a really easy fix and I can just add the full terms to this list.
