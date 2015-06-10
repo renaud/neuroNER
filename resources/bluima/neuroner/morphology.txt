@@ -68,3 +68,6 @@ Merkel
 brush
 polygonal
 oligodendrogrial
+slender
+slender-tufted
+slender tufted
