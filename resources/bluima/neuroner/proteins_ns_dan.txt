@@ -345,3 +345,6 @@ vasoactive intestinal peptide
 NeuN
 doublecortin
 DCX
+Fos
+c-Fos
+cFos
