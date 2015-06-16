@@ -36,7 +36,8 @@ Shank 2
 Shank 3
 SynGAP
 Calbindin-D28k
-Glutamate
+calbindinD28k
+calbindin-D28-k
 beta-catenin
 delta-catenin
 n-cadherin
