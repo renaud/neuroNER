@@ -4,10 +4,10 @@ aspartate
 somatostatin
 Glutamate Receptor 4
 Voltage-dependent anion-selective channel pro
-Sarcoplasmic_endoplasmic reticulum calcium AT
-Plasma_membrane_calcium_transporting_ATPase_2
-Sodium_channel_protein_type_10_subunit_alpha
-Sodium_calcium_exchanger_1
+Sarcoplasmic endoplasmic reticulum calcium AT
+Plasma membrane calcium transporting ATPase 2
+Sodium channel protein type 10 subunit alpha
+Sodium calcium exchanger 1
 Voltage-dependent L-type calcium channel subunit alpha-1D
 alpha-catenin
 Calcium calmodulin dependent protein kinase II
@@ -23,7 +23,10 @@ Homer 3
 IRSp53
 mGluR1
 mGluR5
-NMDA_Receptor_NR1_NR2A_NR2B
+NMDA Receptor 
+NR1 
+NR2A 
+NR2B
 PSD-95
 SAP97
 SAPAP1
@@ -71,7 +74,7 @@ AP2
 clathrin
 NSF
 SNAP-25
-AMPA_Receptor
+AMPA Receptor
 syntaxin BP
 ARF3
 cAMP-GEFII
@@ -137,9 +140,8 @@ csp
 VGLUT1
 VGLUT2
 V-ATPase V1-B SUBUNIT
-Ca
-Immobile_buffer
-HVA_Calcium_channel
+Immobile buffer
+HVA Calcium channel
 ATP
 Glu
 Ca
@@ -161,7 +163,7 @@ phosphodiesterase
 cAMP
 PP1
 ANCHOR
-NMDA_Receptor
+NMDA Receptor
 NCX
 SERCA
 parvalbumin
@@ -179,10 +181,10 @@ PP1
 AA
 AMPAR
 GRIP
-Mg
 Raf
 orexin
 nitric oxide synthase
+neuronal nitric oxide synthase
 GnRH
 gonadotropin releasing hormone
 luteinizing hormone-releasing hormone
@@ -293,14 +295,14 @@ Chrm-2
 AChR-M2
 TAC3
 NKB
-HH10
 NKNB
 PRO1155
 ZNEUROK1
 tachykinin 3
 nNOS
 neuronal nitric oxide synthase
-Tac1 tachykinin 1
+Tac1 
+tachykinin 1
 SP
 NK1
 NK-1
