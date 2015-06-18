@@ -27,8 +27,6 @@ Nest
 mitral
 multipolar
 neurogliaform
-nest
-Nest
 octopus
 parasol ganglion
 Purkinje
