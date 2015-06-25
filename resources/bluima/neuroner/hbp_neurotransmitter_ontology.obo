@@ -27,10 +27,14 @@ name: serotonin
 synonym: "serotonine" RELATED MISSPELLING []
 synonym: "serotonergic" RELATED ADJECTIVE []
 synonym: "serotoninergic" RELATED ADJECTIVE []
+synonym: "5-HT3" RELATED ADJECTIVE []
+synonym: "5HT-3" RELATED ADJECTIVE []
+
 
 [Term]
 id: HBP_NEUROTRANSMITTER:0000002
 name: nonserotonergic
+synonym: "non-serotonergic" RELATED ADJECTIVE []
 disjoint_from: HBP_NEUROTRANSMITTER:0000001 ! serotonin
 
 [Term]
