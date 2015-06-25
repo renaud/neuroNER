@@ -1,0 +1,11 @@
+
+# don't require that the protein trigger be activated before identifying the protein.
+
+# works currently
+Parvalbumin-expressing neurons 
+
+# doesn't work currently
+parvalbumin neuron 
+
+# marks, but doesn't get ontology ID currently
+neuron expressing parvalbumin 
