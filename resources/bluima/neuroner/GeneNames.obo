@@ -1,0 +1,5078 @@
+format-version: 1.1
+data-version: 0.1
+date: 26:06:2015 12:00
+saved-by: stripathy@chibi.ubc.ca
+default-namespace: NCBI_GENE
+ontology: Genes
+
+synonymtypedef: MISSPELLING "misspelling" RELATED
+synonymtypedef: ACRONYM "acronym" BROAD
+synonymtypedef: ADJECTIVE "adjective" RELATED
+synonymtypedef: ADVERB "adverb" RELATED
+synonymtypedef: PLURAL "plural term" EXACT
+
+
+[Term]
+id NCBI_GENE: 12289
+name: Cacna1d
+synonym: "8430418G19Rik" RELATED ADJECTIVE []
+synonym: "Cchl1a2" RELATED ADJECTIVE []
+synonym: "Cach3" RELATED ADJECTIVE []
+synonym: "Cav1.3" RELATED ADJECTIVE []
+synonym: "Cacn4" RELATED ADJECTIVE []
+synonym: "Cacna1d" RELATED ADJECTIVE []
+synonym: "Cacnl1a2" RELATED ADJECTIVE []
+synonym: "C79217" RELATED ADJECTIVE []
+synonym: "Cchl1a" RELATED ADJECTIVE []
+synonym: "Voltage-dependent L-type calcium channel subunit alpha-1D" RELATED ADJECTIVE []
+synonym: "Calcium channel, L type, alpha-1 polypeptide isoform 2" RELATED ADJECTIVE []
+synonym: "D-LTCC" RELATED ADJECTIVE []
+synonym: "Voltage-gated calcium channel subunit alpha Cav1.3" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 110603
+name: Myhn2
+synonym: "myosin IIb" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 12300
+name: Cacng2
+synonym: "Voltage-dependent calcium channel gamma-2 subunit" RELATED ADJECTIVE []
+synonym: "Neuronal voltage-gated calcium channel gamma-2 subunit" RELATED ADJECTIVE []
+synonym: "Stg" RELATED ADJECTIVE []
+synonym: "B230105C07Rik" RELATED ADJECTIVE []
+synonym: "stargazin" RELATED ADJECTIVE []
+synonym: "wag" RELATED ADJECTIVE []
+synonym: "B930041E13Rik" RELATED ADJECTIVE []
+synonym: "AW060990" RELATED ADJECTIVE []
+synonym: "waggler" RELATED ADJECTIVE []
+synonym: "stg" RELATED ADJECTIVE []
+synonym: "Stargazin" RELATED ADJECTIVE []
+synonym: "Cacng2" RELATED ADJECTIVE []
+synonym: "TARP gamma-2" RELATED ADJECTIVE []
+synonym: "stargazer" RELATED ADJECTIVE []
+synonym: "Transmembrane AMPAR regulatory protein gamma-2" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 243725
+name: Ppp1r9a
+synonym: "5330407E15" RELATED ADJECTIVE []
+synonym: "neurabin-I" RELATED ADJECTIVE []
+synonym: "4930518N04Rik" RELATED ADJECTIVE []
+synonym: "NRB" RELATED ADJECTIVE []
+synonym: "neurabin" RELATED ADJECTIVE []
+synonym: "Ppp1r9a" RELATED ADJECTIVE []
+synonym: "A230094E16Rik" RELATED ADJECTIVE []
+synonym: "2810430P21Rik" RELATED ADJECTIVE []
+synonym: "BB181831" RELATED ADJECTIVE []
+synonym: "mKIAA1222" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 233489
+name: Picalm
+synonym: "mKIAA4114" RELATED ADJECTIVE []
+synonym: "PAP180" RELATED ADJECTIVE []
+synonym: "clathrin" RELATED ADJECTIVE []
+synonym: "CLTH" RELATED ADJECTIVE []
+synonym: "Phosphatidylinositol-binding clathrin assembly protein" RELATED ADJECTIVE []
+synonym: "CALM" RELATED ADJECTIVE []
+synonym: "Clathrin assembly lymphoid myeloid leukemia" RELATED ADJECTIVE []
+synonym: "Fit1" RELATED ADJECTIVE []
+synonym: "fit1" RELATED ADJECTIVE []
+synonym: "Picalm" RELATED ADJECTIVE []
+synonym: "Calm" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 12307
+name: Calb1
+synonym: "Vitamin D-dependent calcium-binding protein, avian-type" RELATED ADJECTIVE []
+synonym: "calbindin-D 28k" RELATED ADJECTIVE []
+synonym: "Brain-2" RELATED ADJECTIVE []
+synonym: "CB" RELATED ADJECTIVE []
+synonym: "calbindin-D28k" RELATED ADJECTIVE []
+synonym: "PCD-29" RELATED ADJECTIVE []
+synonym: "Calbindin-D28K" RELATED ADJECTIVE []
+synonym: "D-28K" RELATED ADJECTIVE []
+synonym: "calbindinD28k" RELATED ADJECTIVE []
+synonym: "calbindin" RELATED ADJECTIVE []
+synonym: "Calb-1" RELATED ADJECTIVE []
+synonym: "Calbindin-D28k" RELATED ADJECTIVE []
+synonym: "calbindin-D28K" RELATED ADJECTIVE []
+synonym: "calbindin-D28-k" RELATED ADJECTIVE []
+synonym: "Calbindin" RELATED ADJECTIVE []
+synonym: "CalBindin" RELATED ADJECTIVE []
+synonym: "Calb" RELATED ADJECTIVE []
+synonym: "Calb1" RELATED ADJECTIVE []
+synonym: "calbindin-D 28K" RELATED ADJECTIVE []
+synonym: "Spot 35 protein" RELATED ADJECTIVE []
+synonym: "Calbindin D28" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 12308
+name: Calb2
+synonym: "" RELATED ADJECTIVE []
+synonym: "CR" RELATED ADJECTIVE []
+synonym: "Calretinin" RELATED ADJECTIVE []
+synonym: "Calb2" RELATED ADJECTIVE []
+synonym: "calretinin" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 12310
+name: Calca
+synonym: "CGRP-I" RELATED ADJECTIVE []
+synonym: "calcitonin" RELATED ADJECTIVE []
+synonym: "Calcitonin gene-related peptide 1" RELATED ADJECTIVE []
+synonym: "Alpha-type CGRP" RELATED ADJECTIVE []
+synonym: "Calcitonin" RELATED ADJECTIVE []
+synonym: "Cgrp" RELATED ADJECTIVE []
+synonym: "CA" RELATED ADJECTIVE []
+synonym: "CGRP" RELATED ADJECTIVE []
+synonym: "Calcitonin gene-related peptide I" RELATED ADJECTIVE []
+synonym: "Calc1" RELATED ADJECTIVE []
+synonym: "CGRP-1" RELATED ADJECTIVE []
+synonym: "Calca" RELATED ADJECTIVE []
+synonym: "Ctn" RELATED ADJECTIVE []
+synonym: "Calc" RELATED ADJECTIVE []
+synonym: "CGRP1" RELATED ADJECTIVE []
+synonym: "Ct" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 110616
+name: Atxn3
+synonym: "ATX3" RELATED ADJECTIVE []
+synonym: "Mjd" RELATED ADJECTIVE []
+synonym: "2210008M02Rik" RELATED ADJECTIVE []
+synonym: "Machado-Joseph disease protein 1 homolog" RELATED ADJECTIVE []
+synonym: "ataxin-3" RELATED ADJECTIVE []
+synonym: "MJD1" RELATED ADJECTIVE []
+synonym: "AI647473" RELATED ADJECTIVE []
+synonym: "Ataxin-3" RELATED ADJECTIVE []
+synonym: "Sca3" RELATED ADJECTIVE []
+synonym: "AI463012" RELATED ADJECTIVE []
+synonym: "Atxn3" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 16412
+name: Itgb1
+synonym: "Itgb1" RELATED ADJECTIVE []
+synonym: "AA409975" RELATED ADJECTIVE []
+synonym: "CD29" RELATED ADJECTIVE []
+synonym: "Fibronectin receptor subunit beta" RELATED ADJECTIVE []
+synonym: "AA960159" RELATED ADJECTIVE []
+synonym: "fibronectin" RELATED ADJECTIVE []
+synonym: "4633401G24Rik" RELATED ADJECTIVE []
+synonym: "Gm9863" RELATED ADJECTIVE []
+synonym: "Fibronectin" RELATED ADJECTIVE []
+synonym: "Fnrb" RELATED ADJECTIVE []
+synonym: "gpIIa" RELATED ADJECTIVE []
+synonym: "ENSMUSG00000051907" RELATED ADJECTIVE []
+synonym: "VLA-4 subunit beta" RELATED ADJECTIVE []
+synonym: "Integrin beta-1" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 12317
+name: Calr
+synonym: "Calsperin" RELATED ADJECTIVE []
+synonym: "Calr3" RELATED ADJECTIVE []
+synonym: "Calr" RELATED ADJECTIVE []
+synonym: "Calregulin" RELATED ADJECTIVE []
+synonym: "Calreticulin" RELATED ADJECTIVE []
+synonym: "Calreticulin-2" RELATED ADJECTIVE []
+synonym: "Calreticulin-3" RELATED ADJECTIVE []
+synonym: "CRP55" RELATED ADJECTIVE []
+synonym: "Endoplasmic reticulum resident protein 60" RELATED ADJECTIVE []
+synonym: "Crt2" RELATED ADJECTIVE []
+synonym: "HACBP" RELATED ADJECTIVE []
+synonym: "ERp60" RELATED ADJECTIVE []
+synonym: "calreticulin" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 20510
+name: Slc1a1
+synonym: "Sodium-dependent glutamate/aspartate transporter 3" RELATED ADJECTIVE []
+synonym: "D130048G10Rik" RELATED ADJECTIVE []
+synonym: "EAAT3" RELATED ADJECTIVE []
+synonym: "MEAAC1" RELATED ADJECTIVE []
+synonym: "Solute carrier family 1 member 1" RELATED ADJECTIVE []
+synonym: "Excitatory amino-acid carrier 1" RELATED ADJECTIVE []
+synonym: "EAAC2" RELATED ADJECTIVE []
+synonym: "Eaac1" RELATED ADJECTIVE []
+synonym: "Eaat3" RELATED ADJECTIVE []
+synonym: "Excitatory amino acid transporter 3" RELATED ADJECTIVE []
+synonym: "EAAC1" RELATED ADJECTIVE []
+synonym: "Slc1a1" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 12322
+name: Camk2a
+synonym: "mKIAA0968" RELATED ADJECTIVE []
+synonym: "calmodulin" RELATED ADJECTIVE []
+synonym: "Calcium calmodulin dependent protein kinase II" RELATED ADJECTIVE []
+synonym: "CaMK-II subunit alpha" RELATED ADJECTIVE []
+synonym: "CaM kinase II subunit alpha" RELATED ADJECTIVE []
+synonym: "Camk2a" RELATED ADJECTIVE []
+synonym: "CaMKII" RELATED ADJECTIVE []
+synonym: "Calcium/calmodulin-dependent protein kinase type II subunit alpha" RELATED ADJECTIVE []
+synonym: "R74975" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 16424
+name: Itih1
+synonym: "Inter-alpha-inhibitor heavy chain 1" RELATED ADJECTIVE []
+synonym: "Inter-alpha-trypsin inhibitor heavy chain H1" RELATED ADJECTIVE []
+synonym: "ITI-HC1" RELATED ADJECTIVE []
+synonym: "Itih-1" RELATED ADJECTIVE []
+synonym: "Intin1" RELATED ADJECTIVE []
+synonym: "Itih1" RELATED ADJECTIVE []
+synonym: "ITI heavy chain H1" RELATED ADJECTIVE []
+synonym: "trypsin" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 12330
+name: Canx
+synonym: "AI988026" RELATED ADJECTIVE []
+synonym: "1110069N15Rik" RELATED ADJECTIVE []
+synonym: "Cnx" RELATED ADJECTIVE []
+synonym: "calnexin" RELATED ADJECTIVE []
+synonym: "D11Ertd153e" RELATED ADJECTIVE []
+synonym: "Calnexin" RELATED ADJECTIVE []
+synonym: "Canx" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 18479
+name: Pak1
+synonym: "Paka" RELATED ADJECTIVE []
+synonym: "PAK1" RELATED ADJECTIVE []
+synonym: "Serine/threonine-protein kinase PAK 1" RELATED ADJECTIVE []
+synonym: "Alpha-PAK" RELATED ADJECTIVE []
+synonym: "p21-activated kinase 1" RELATED ADJECTIVE []
+synonym: "AW045634" RELATED ADJECTIVE []
+synonym: "p65-PAK" RELATED ADJECTIVE []
+synonym: "PAK-1" RELATED ADJECTIVE []
+synonym: "Pak1" RELATED ADJECTIVE []
+synonym: "CDC42/RAC effector kinase PAK-A" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 243764
+name: Chrm2
+synonym: "AChR-M2" RELATED ADJECTIVE []
+synonym: "Muscarinic acetylcholine receptor M2" RELATED ADJECTIVE []
+synonym: "Chrm2" RELATED ADJECTIVE []
+synonym: "Chrm-2" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 14394
+name: Gabra1
+synonym: "Gabra1" RELATED ADJECTIVE []
+synonym: "GABA(A) receptor subunit alpha-1" RELATED ADJECTIVE []
+synonym: "Gabra-1" RELATED ADJECTIVE []
+synonym: "GABRA1" RELATED ADJECTIVE []
+synonym: "Gamma-aminobutyric acid receptor subunit alpha-1" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 20541
+name: Slc8a1
+synonym: "AI852629" RELATED ADJECTIVE []
+synonym: "Ncx" RELATED ADJECTIVE []
+synonym: "AV344025" RELATED ADJECTIVE []
+synonym: "D930008O12Rik" RELATED ADJECTIVE []
+synonym: "Sodium/calcium exchanger 1" RELATED ADJECTIVE []
+synonym: "Solute carrier family 8 member 1" RELATED ADJECTIVE []
+synonym: "Na(+)/Ca(2+)-exchange protein 1" RELATED ADJECTIVE []
+synonym: "Slc8a1" RELATED ADJECTIVE []
+synonym: "Sodium calcium exchanger 1" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 16447
+name: Ivl
+synonym: "Ivl" RELATED ADJECTIVE []
+synonym: "1110019C06Rik" RELATED ADJECTIVE []
+synonym: "Involucrin" RELATED ADJECTIVE []
+synonym: "involucrin" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 12359
+name: Cat
+synonym: "Cat56" RELATED ADJECTIVE []
+synonym: "Cat53" RELATED ADJECTIVE []
+synonym: "Rpp21" RELATED ADJECTIVE []
+synonym: "CAT-3" RELATED ADJECTIVE []
+synonym: "Cas-1" RELATED ADJECTIVE []
+synonym: "MHC class I region proline-rich protein CAT53" RELATED ADJECTIVE []
+synonym: "Ribonuclease P protein subunit p21" RELATED ADJECTIVE []
+synonym: "CAT3" RELATED ADJECTIVE []
+synonym: "MHC class I region proline-rich protein CAT56" RELATED ADJECTIVE []
+synonym: "Pnuts" RELATED ADJECTIVE []
+synonym: "RNaseP protein p21" RELATED ADJECTIVE []
+synonym: "Catalase" RELATED ADJECTIVE []
+synonym: "Cationic amino acid transporter 3" RELATED ADJECTIVE []
+synonym: "Cs-1" RELATED ADJECTIVE []
+synonym: "Proline-rich protein 3" RELATED ADJECTIVE []
+synonym: "Cat60" RELATED ADJECTIVE []
+synonym: "Atrc3" RELATED ADJECTIVE []
+synonym: "Cationic amino acid transporter y+" RELATED ADJECTIVE []
+synonym: "2210418N07" RELATED ADJECTIVE []
+synonym: "catalase" RELATED ADJECTIVE []
+synonym: "Cat" RELATED ADJECTIVE []
+synonym: "Cat3" RELATED ADJECTIVE []
+synonym: "Serine/threonine-protein phosphatase 1 regulatory subunit 10" RELATED ADJECTIVE []
+synonym: "Solute carrier family 7 member 3" RELATED ADJECTIVE []
+synonym: "Prr3" RELATED ADJECTIVE []
+synonym: "Slc7a3" RELATED ADJECTIVE []
+synonym: "Ribonucleoprotein V" RELATED ADJECTIVE []
+synonym: "Ppp1r10" RELATED ADJECTIVE []
+synonym: "Cas1" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 14414
+name: gad
+synonym: "Glutamate decarboxylase 65 kDa isoform" RELATED ADJECTIVE []
+synonym: "Glutamate decarboxylase 2" RELATED ADJECTIVE []
+synonym: "Glutamate decarboxylase 67 kDa isoform" RELATED ADJECTIVE []
+synonym: "Gad67" RELATED ADJECTIVE []
+synonym: "Gad65" RELATED ADJECTIVE []
+synonym: "GAD-65" RELATED ADJECTIVE []
+synonym: "65 kDa glutamic acid decarboxylase" RELATED ADJECTIVE []
+synonym: "Glutamate decarboxylase 1" RELATED ADJECTIVE []
+synonym: "67 kDa glutamic acid decarboxylase" RELATED ADJECTIVE []
+synonym: "GAD" RELATED ADJECTIVE []
+synonym: "Gad1" RELATED ADJECTIVE []
+synonym: "Gad2" RELATED ADJECTIVE []
+synonym: "GAD-67" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 14415
+name: Gad1
+synonym: "Glutamate decarboxylase 67 kDa isoform" RELATED ADJECTIVE []
+synonym: "GAD44" RELATED ADJECTIVE []
+synonym: "GAD67" RELATED ADJECTIVE []
+synonym: "glutamic acid decarboxylase" RELATED ADJECTIVE []
+synonym: "GAD1" RELATED ADJECTIVE []
+synonym: "EP10" RELATED ADJECTIVE []
+synonym: "Gad67" RELATED ADJECTIVE []
+synonym: "Glutamate decarboxylase 1" RELATED ADJECTIVE []
+synonym: "67 kDa glutamic acid decarboxylase" RELATED ADJECTIVE []
+synonym: "Gad-1" RELATED ADJECTIVE []
+synonym: "Gad1" RELATED ADJECTIVE []
+synonym: "GAD25" RELATED ADJECTIVE []
+synonym: "GAD-67" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 14417
+name: Gad2
+synonym: "Glutamate decarboxylase 65 kDa isoform" RELATED ADJECTIVE []
+synonym: "6330404F12Rik" RELATED ADJECTIVE []
+synonym: "GAD65" RELATED ADJECTIVE []
+synonym: "GAD(65)" RELATED ADJECTIVE []
+synonym: "Gad-2" RELATED ADJECTIVE []
+synonym: "65 kDa glutamic acid decarboxylase" RELATED ADJECTIVE []
+synonym: "Gad2" RELATED ADJECTIVE []
+synonym: "GAD-65" RELATED ADJECTIVE []
+synonym: "Glutamate decarboxylase 2" RELATED ADJECTIVE []
+synonym: "Gad65" RELATED ADJECTIVE []
+synonym: "GAD2" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 14419
+name: Gal
+synonym: "Galactose-3-O-sulfotransferase 3" RELATED ADJECTIVE []
+synonym: "Galactose-3-O-sulfotransferase 2" RELATED ADJECTIVE []
+synonym: "Gcst" RELATED ADJECTIVE []
+synonym: "Cst" RELATED ADJECTIVE []
+synonym: "3'-phosphoadenylylsulfate:galactosylceramide 3'-sulfotransferase" RELATED ADJECTIVE []
+synonym: "Gal" RELATED ADJECTIVE []
+synonym: "Galanin message-associated peptide" RELATED ADJECTIVE []
+synonym: "GalCer sulfotransferase" RELATED ADJECTIVE []
+synonym: "Galanin" RELATED ADJECTIVE []
+synonym: "Gal-beta-1, 3-GalNAc 3'-sulfotransferase 3" RELATED ADJECTIVE []
+synonym: "Gal-beta-1, 3-GalNAc 3'-sulfotransferase 2" RELATED ADJECTIVE []
+synonym: "Cerebroside sulfotransferase" RELATED ADJECTIVE []
+synonym: "GMAP" RELATED ADJECTIVE []
+synonym: "Gal3st1" RELATED ADJECTIVE []
+synonym: "Galactosylceramide sulfotransferase" RELATED ADJECTIVE []
+synonym: "Gal3st3" RELATED ADJECTIVE []
+synonym: "Gal3st2" RELATED ADJECTIVE []
+synonym: "Gm988" RELATED ADJECTIVE []
+synonym: "Galanin peptides" RELATED ADJECTIVE []
+synonym: "Beta-galactose-3-O-sulfotransferase 3" RELATED ADJECTIVE []
+synonym: "Beta-galactose-3-O-sulfotransferase 2" RELATED ADJECTIVE []
+synonym: "galanin" RELATED ADJECTIVE []
+synonym: "Gal3ST-3" RELATED ADJECTIVE []
+synonym: "Gal3ST-2" RELATED ADJECTIVE []
+synonym: "Galn" RELATED ADJECTIVE []
+synonym: "3'-phosphoadenosine-5'-phosphosulfate:GalCer sulfotransferase" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 16476
+name: Jun
+synonym: "Jun-d" RELATED ADJECTIVE []
+synonym: "Transcription factor AP-1" RELATED ADJECTIVE []
+synonym: "Jun-b" RELATED ADJECTIVE []
+synonym: "AP-1" RELATED ADJECTIVE []
+synonym: "Junc" RELATED ADJECTIVE []
+synonym: "AP1" RELATED ADJECTIVE []
+synonym: "Jun" RELATED ADJECTIVE []
+synonym: "Jund" RELATED ADJECTIVE []
+synonym: "Proto-oncogene c-Jun" RELATED ADJECTIVE []
+synonym: "Jund1" RELATED ADJECTIVE []
+synonym: "V-jun avian sarcoma virus 17 oncogene homolog" RELATED ADJECTIVE []
+synonym: "Jun A" RELATED ADJECTIVE []
+synonym: "Activator protein 1" RELATED ADJECTIVE []
+synonym: "Junb" RELATED ADJECTIVE []
+synonym: "Transcription factor jun-D" RELATED ADJECTIVE []
+synonym: "MyD21" RELATED ADJECTIVE []
+synonym: "Transcription factor jun-B" RELATED ADJECTIVE []
+synonym: "c-jun" RELATED ADJECTIVE []
+synonym: "AH119" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 57441
+name: Gmnn
+synonym: "Gmnn" RELATED ADJECTIVE []
+synonym: "AW546347" RELATED ADJECTIVE []
+synonym: "geminin" RELATED ADJECTIVE []
+synonym: "Geminin" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 12387
+name: Ctnnb1
+synonym: "Bfc" RELATED ADJECTIVE []
+synonym: "Catenin beta-1" RELATED ADJECTIVE []
+synonym: "Ctnnb1" RELATED ADJECTIVE []
+synonym: "cadherin" RELATED ADJECTIVE []
+synonym: "Beta-catenin" RELATED ADJECTIVE []
+synonym: "Mesc" RELATED ADJECTIVE []
+synonym: "Catnb" RELATED ADJECTIVE []
+synonym: "beta-catenin" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 12388
+name: Ctnnd1
+synonym: "p120 catenin" RELATED ADJECTIVE []
+synonym: "delta-catenin" RELATED ADJECTIVE []
+synonym: "Ctnnd1" RELATED ADJECTIVE []
+synonym: "P120" RELATED ADJECTIVE []
+synonym: "Catns" RELATED ADJECTIVE []
+synonym: "AU019353" RELATED ADJECTIVE []
+synonym: "Ctnnd" RELATED ADJECTIVE []
+synonym: "p120(cas)" RELATED ADJECTIVE []
+synonym: "CAS" RELATED ADJECTIVE []
+synonym: "Catenin delta-1" RELATED ADJECTIVE []
+synonym: "Cadherin-associated Src substrate" RELATED ADJECTIVE []
+synonym: "p120(ctn)" RELATED ADJECTIVE []
+synonym: "AA409437" RELATED ADJECTIVE []
+synonym: "mKIAA0384" RELATED ADJECTIVE []
+synonym: "Kiaa0384" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 12389
+name: Cav1
+synonym: "Cav-1" RELATED ADJECTIVE []
+synonym: "Caveolin-1" RELATED ADJECTIVE []
+synonym: "Cav1" RELATED ADJECTIVE []
+synonym: "Cav" RELATED ADJECTIVE []
+synonym: "caveolin-1" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 12392
+name: cb
+synonym: "CB" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 14459
+name: Gast
+synonym: "Gastrin-71" RELATED ADJECTIVE []
+synonym: "G34" RELATED ADJECTIVE []
+synonym: "Gas" RELATED ADJECTIVE []
+synonym: "GAS" RELATED ADJECTIVE []
+synonym: "Gastrin" RELATED ADJECTIVE []
+synonym: "Big gastrin" RELATED ADJECTIVE []
+synonym: "G71" RELATED ADJECTIVE []
+synonym: "Gastrin-34" RELATED ADJECTIVE []
+synonym: "gastrin" RELATED ADJECTIVE []
+synonym: "Gast" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 20604
+name: Sst
+synonym: "Antrin" RELATED ADJECTIVE []
+synonym: "Sst2" RELATED ADJECTIVE []
+synonym: "Sst" RELATED ADJECTIVE []
+synonym: "SS2-R" RELATED ADJECTIVE []
+synonym: "SRIF-1" RELATED ADJECTIVE []
+synonym: "somatostatin" RELATED ADJECTIVE []
+synonym: "SS2R" RELATED ADJECTIVE []
+synonym: "Sstr2" RELATED ADJECTIVE []
+synonym: "SS-2-R" RELATED ADJECTIVE []
+synonym: "Somatostatin receptor type 2" RELATED ADJECTIVE []
+synonym: "Somatostatin-14" RELATED ADJECTIVE []
+synonym: "SRIF" RELATED ADJECTIVE []
+synonym: "SOM" RELATED ADJECTIVE []
+synonym: "Somatostatin-28" RELATED ADJECTIVE []
+synonym: "Smst" RELATED ADJECTIVE []
+synonym: "Somatostatin" RELATED ADJECTIVE []
+synonym: "Smstr2" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 20614
+name: Snap25
+synonym: "Snap25" RELATED ADJECTIVE []
+synonym: "GENA70" RELATED ADJECTIVE []
+synonym: "Synaptosomal-associated 25 kDa protein" RELATED ADJECTIVE []
+synonym: "Super protein" RELATED ADJECTIVE []
+synonym: "sp" RELATED ADJECTIVE []
+synonym: "Bdr" RELATED ADJECTIVE []
+synonym: "SUP" RELATED ADJECTIVE []
+synonym: "Snap" RELATED ADJECTIVE []
+synonym: "SNAP-25" RELATED ADJECTIVE []
+synonym: "Synaptosomal-associated protein 25" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 12424
+name: Cck
+synonym: "Cholecystokinin-12" RELATED ADJECTIVE []
+synonym: "CCK8" RELATED ADJECTIVE []
+synonym: "Cck" RELATED ADJECTIVE []
+synonym: "Cholecystokinin-33" RELATED ADJECTIVE []
+synonym: "CCK12" RELATED ADJECTIVE []
+synonym: "CCK33" RELATED ADJECTIVE []
+synonym: "CCK" RELATED ADJECTIVE []
+synonym: "Cholecystokinin-8" RELATED ADJECTIVE []
+synonym: "Cholecystokinin" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 20617
+name: Snca
+synonym: "Non-A4 component of amyloid precursor" RELATED ADJECTIVE []
+synonym: "alphaSYN" RELATED ADJECTIVE []
+synonym: "alpha-Synuclein" RELATED ADJECTIVE []
+synonym: "Alpha-synuclein" RELATED ADJECTIVE []
+synonym: "Syn" RELATED ADJECTIVE []
+synonym: "NACP" RELATED ADJECTIVE []
+synonym: "Snca" RELATED ADJECTIVE []
+synonym: "Non-A beta component of AD amyloid" RELATED ADJECTIVE []
+synonym: "alpha-synuclein" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 20618
+name: Sncg
+synonym: "C79089" RELATED ADJECTIVE []
+synonym: "Persyn" RELATED ADJECTIVE []
+synonym: "Gamma-synuclein" RELATED ADJECTIVE []
+synonym: "persyn" RELATED ADJECTIVE []
+synonym: "Sncg" RELATED ADJECTIVE []
+synonym: "gamma-synuclein" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 14360
+name: Fyn
+synonym: "p59-Fyn" RELATED ADJECTIVE []
+synonym: "Tyrosine-protein kinase Fyn" RELATED ADJECTIVE []
+synonym: "Proto-oncogene c-Fyn" RELATED ADJECTIVE []
+synonym: "Fyn" RELATED ADJECTIVE []
+synonym: "AI448320" RELATED ADJECTIVE []
+synonym: "fyn" RELATED ADJECTIVE []
+synonym: "AW552119" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 30878
+name: Apln
+synonym: "apelin" RELATED ADJECTIVE []
+synonym: "6030430G11Rik" RELATED ADJECTIVE []
+synonym: "Apelin" RELATED ADJECTIVE []
+synonym: "APJ endogenous ligand" RELATED ADJECTIVE []
+synonym: "Apelin-28" RELATED ADJECTIVE []
+synonym: "Apelin-13" RELATED ADJECTIVE []
+synonym: "Apelin-36" RELATED ADJECTIVE []
+synonym: "Apelin-31" RELATED ADJECTIVE []
+synonym: "Apel" RELATED ADJECTIVE []
+synonym: "Apln" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 53414
+name: Bysl
+synonym: "Bystin" RELATED ADJECTIVE []
+synonym: "Bysl" RELATED ADJECTIVE []
+synonym: "Enp1" RELATED ADJECTIVE []
+synonym: "Bys" RELATED ADJECTIVE []
+synonym: "bystin" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 20508
+name: Slc18a3
+synonym: "vesicular acetylcholine transporter" RELATED ADJECTIVE []
+synonym: "vAChT" RELATED ADJECTIVE []
+synonym: "Vesicular acetylcholine transporter" RELATED ADJECTIVE []
+synonym: "Solute carrier family 18 member 3" RELATED ADJECTIVE []
+synonym: "Vacht" RELATED ADJECTIVE []
+synonym: "Slc18a3" RELATED ADJECTIVE []
+synonym: "VAChT" RELATED ADJECTIVE []
+synonym: "VAT" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 56349
+name: Net1
+synonym: "Rho guanine nucleotide exchange factor 8" RELATED ADJECTIVE []
+synonym: "Arhgef8" RELATED ADJECTIVE []
+synonym: "Net1a" RELATED ADJECTIVE []
+synonym: "Net1" RELATED ADJECTIVE []
+synonym: "mNET1" RELATED ADJECTIVE []
+synonym: "NET1" RELATED ADJECTIVE []
+synonym: "Neuroepithelial cell-transforming gene 1 protein" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 18610
+name: Pdyn
+synonym: "Big Dyn" RELATED ADJECTIVE []
+synonym: "Dynorphin A(1-8)" RELATED ADJECTIVE []
+synonym: "Dynorphin A(1-17)" RELATED ADJECTIVE []
+synonym: "Dynorphin A(1-13)" RELATED ADJECTIVE []
+synonym: "Rimorphin" RELATED ADJECTIVE []
+synonym: "Dyn-A17" RELATED ADJECTIVE []
+synonym: "Beta-neoendorphin" RELATED ADJECTIVE []
+synonym: "Dyn" RELATED ADJECTIVE []
+synonym: "Beta-neoendorphin-dynorphin" RELATED ADJECTIVE []
+synonym: "Dyn-B" RELATED ADJECTIVE []
+synonym: "Dynorphin B-29" RELATED ADJECTIVE []
+synonym: "Preprodynorphin" RELATED ADJECTIVE []
+synonym: "dyn" RELATED ADJECTIVE []
+synonym: "Proenkephalin-B" RELATED ADJECTIVE []
+synonym: "Leumorphin" RELATED ADJECTIVE []
+synonym: "Pdyn" RELATED ADJECTIVE []
+synonym: "proenkephalin" RELATED ADJECTIVE []
+synonym: "Big dynorphin" RELATED ADJECTIVE []
+synonym: "Alpha-neoendorphin" RELATED ADJECTIVE []
+synonym: "Leu-enkephalin" RELATED ADJECTIVE []
+synonym: "Dynorphin A" RELATED ADJECTIVE []
+synonym: "Dynorphin B" RELATED ADJECTIVE []
+synonym: "Dynorphin B(1-13)" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 20662
+name: Sos1
+synonym: "4430401P03Rik" RELATED ADJECTIVE []
+synonym: "Sos1" RELATED ADJECTIVE []
+synonym: "AI449023" RELATED ADJECTIVE []
+synonym: "mSOS-1" RELATED ADJECTIVE []
+synonym: "sos" RELATED ADJECTIVE []
+synonym: "SOS-1" RELATED ADJECTIVE []
+synonym: "Son of sevenless homolog 1" RELATED ADJECTIVE []
+synonym: "9630010N06" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 225467
+name: Pggt1b
+synonym: "AI451237" RELATED ADJECTIVE []
+synonym: "Geranylgeranyl transferase type-1 subunit beta" RELATED ADJECTIVE []
+synonym: "Type I protein geranyl-geranyltransferase subunit beta" RELATED ADJECTIVE []
+synonym: "AI551093" RELATED ADJECTIVE []
+synonym: "Pggt1b" RELATED ADJECTIVE []
+synonym: "GGT1" RELATED ADJECTIVE []
+synonym: "Geranylgeranyl transferase type I subunit beta" RELATED ADJECTIVE []
+synonym: "Cal1" RELATED ADJECTIVE []
+synonym: "2010207C17Rik" RELATED ADJECTIVE []
+synonym: "BGG1" RELATED ADJECTIVE []
+synonym: "2610100E13" RELATED ADJECTIVE []
+synonym: "GGTase-I-beta" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 211134
+name: Lzts1
+synonym: "FEZ1" RELATED ADJECTIVE []
+synonym: "Leucine zipper putative tumor suppressor 1" RELATED ADJECTIVE []
+synonym: "Fez1" RELATED ADJECTIVE []
+synonym: "F37/Esophageal cancer-related gene-coding leucine-zipper motif" RELATED ADJECTIVE []
+synonym: "F37" RELATED ADJECTIVE []
+synonym: "LZTS1" RELATED ADJECTIVE []
+synonym: "Lzts1" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 67784
+name: Plxnd1
+synonym: "6230425C21Rik" RELATED ADJECTIVE []
+synonym: "b2b1863Clo" RELATED ADJECTIVE []
+synonym: "b2b553Clo" RELATED ADJECTIVE []
+synonym: "plexin-D1" RELATED ADJECTIVE []
+synonym: "Plexin-D1" RELATED ADJECTIVE []
+synonym: "Plxnd1" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 18125
+name: Nos1
+synonym: "Nos1" RELATED ADJECTIVE []
+synonym: "Constitutive NOS" RELATED ADJECTIVE []
+synonym: "NO" RELATED ADJECTIVE []
+synonym: "NOS-I" RELATED ADJECTIVE []
+synonym: "N-NOS" RELATED ADJECTIVE []
+synonym: "Neuronal NOS" RELATED ADJECTIVE []
+synonym: "2310005C01Rik" RELATED ADJECTIVE []
+synonym: "Nitric oxide synthase, brain" RELATED ADJECTIVE []
+synonym: "neuronal nitric oxide synthase" RELATED ADJECTIVE []
+synonym: "bNOS" RELATED ADJECTIVE []
+synonym: "NC-NOS" RELATED ADJECTIVE []
+synonym: "nnos" RELATED ADJECTIVE []
+synonym: "Peptidyl-cysteine S-nitrosylase NOS1" RELATED ADJECTIVE []
+synonym: "Nos-1" RELATED ADJECTIVE []
+synonym: "NOS type I" RELATED ADJECTIVE []
+synonym: "nNOS" RELATED ADJECTIVE []
+synonym: "NOS" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 20692
+name: Sparc
+synonym: "ON" RELATED ADJECTIVE []
+synonym: "BM-40" RELATED ADJECTIVE []
+synonym: "Basement-membrane protein 40" RELATED ADJECTIVE []
+synonym: "SPARC" RELATED ADJECTIVE []
+synonym: "Sparc" RELATED ADJECTIVE []
+synonym: "Osteonectin" RELATED ADJECTIVE []
+synonym: "Secreted protein acidic and rich in cysteine" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 243961
+name: Shank1
+synonym: "SH3 and multiple ankyrin repeat domains protein 1" RELATED ADJECTIVE []
+synonym: "Shank 1" RELATED ADJECTIVE []
+synonym: "Shank1" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 20739
+name: Spta1
+synonym: "sph" RELATED ADJECTIVE []
+synonym: "Spectrin" RELATED ADJECTIVE []
+synonym: "Spta" RELATED ADJECTIVE []
+synonym: "nmf4" RELATED ADJECTIVE []
+synonym: "spectrin" RELATED ADJECTIVE []
+synonym: "Spna1" RELATED ADJECTIVE []
+synonym: "ihj" RELATED ADJECTIVE []
+synonym: "Spta1" RELATED ADJECTIVE []
+synonym: "Spna-1" RELATED ADJECTIVE []
+synonym: "AF093576" RELATED ADJECTIVE []
+synonym: "Erythroid alpha-spectrin" RELATED ADJECTIVE []
+synonym: "ha" RELATED ADJECTIVE []
+synonym: "Spectrin alpha chain, erythrocytic 1" RELATED ADJECTIVE []
+synonym: "AI451697" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 20740
+name: Sptan1
+synonym: "Spectrin alpha chain, non-erythrocytic 1" RELATED ADJECTIVE []
+synonym: "Sptan1" RELATED ADJECTIVE []
+synonym: "Spna2" RELATED ADJECTIVE []
+synonym: "Fodrin alpha chain" RELATED ADJECTIVE []
+synonym: "Spna-2" RELATED ADJECTIVE []
+synonym: "Spta2" RELATED ADJECTIVE []
+synonym: "2610027H02Rik" RELATED ADJECTIVE []
+synonym: "Alpha-II spectrin" RELATED ADJECTIVE []
+synonym: "alpha-spectrin" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 18693
+name: Pick1
+synonym: "Protein interacting with C kinase 1" RELATED ADJECTIVE []
+synonym: "Pick1" RELATED ADJECTIVE []
+synonym: "PICK1" RELATED ADJECTIVE []
+synonym: "PRKCA-binding protein" RELATED ADJECTIVE []
+synonym: "Prkcabp" RELATED ADJECTIVE []
+synonym: "Protein kinase C-alpha-binding protein" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 14598
+name: Ggt1
+synonym: "Gamma-glutamyltransferase 1" RELATED ADJECTIVE []
+synonym: "GGT" RELATED ADJECTIVE []
+synonym: "Gamma-glutamyl transpeptidase" RELATED ADJECTIVE []
+synonym: "gamma-glutamyl transpeptidase" RELATED ADJECTIVE []
+synonym: "GGT 1" RELATED ADJECTIVE []
+synonym: "Ggt" RELATED ADJECTIVE []
+synonym: "Leukotriene-C4 hydrolase" RELATED ADJECTIVE []
+synonym: "Gamma-glutamyltranspeptidase 1" RELATED ADJECTIVE []
+synonym: "gamma-glutamyltranspeptidase" RELATED ADJECTIVE []
+synonym: "Glutathione hydrolase 1" RELATED ADJECTIVE []
+synonym: "Ggtp" RELATED ADJECTIVE []
+synonym: "gamma-Glutamyl transpeptidase" RELATED ADJECTIVE []
+synonym: "dwg" RELATED ADJECTIVE []
+synonym: "CD224" RELATED ADJECTIVE []
+synonym: "Ggt1" RELATED ADJECTIVE []
+synonym: "Gamma-glutamyltranspeptidase 1 light chain" RELATED ADJECTIVE []
+synonym: "Gamma-glutamyltranspeptidase 1 heavy chain" RELATED ADJECTIVE []
+synonym: "GGT-1" RELATED ADJECTIVE []
+synonym: "Gamma-glutamyl Transpeptidase" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 14599
+name: Gh
+synonym: "Somatotropin" RELATED ADJECTIVE []
+synonym: "somatotropin" RELATED ADJECTIVE []
+synonym: "Growth hormone" RELATED ADJECTIVE []
+synonym: "Gh1" RELATED ADJECTIVE []
+synonym: "Gh" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 319757
+name: Smo
+synonym: "PAOh1" RELATED ADJECTIVE []
+synonym: "SMO" RELATED ADJECTIVE []
+synonym: "E130215L21Rik" RELATED ADJECTIVE []
+synonym: "Smox" RELATED ADJECTIVE []
+synonym: "smoothened" RELATED ADJECTIVE []
+synonym: "Spermine oxidase" RELATED ADJECTIVE []
+synonym: "Smoothened" RELATED ADJECTIVE []
+synonym: "Polyamine oxidase 1" RELATED ADJECTIVE []
+synonym: "Smo" RELATED ADJECTIVE []
+synonym: "Smoh" RELATED ADJECTIVE []
+synonym: "bnb" RELATED ADJECTIVE []
+synonym: "PAO-1" RELATED ADJECTIVE []
+synonym: "Smoothened homolog" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 20750
+name: Spp1
+synonym: "BSPI" RELATED ADJECTIVE []
+synonym: "Opnl" RELATED ADJECTIVE []
+synonym: "Sphingosine-1-phosphatase 1" RELATED ADJECTIVE []
+synonym: "2AR" RELATED ADJECTIVE []
+synonym: "Early T-lymphocyte activation 1 protein" RELATED ADJECTIVE []
+synonym: "Apl-1" RELATED ADJECTIVE []
+synonym: "ETA-1" RELATED ADJECTIVE []
+synonym: "SPP" RELATED ADJECTIVE []
+synonym: "Osteopontin" RELATED ADJECTIVE []
+synonym: "Spp-1" RELATED ADJECTIVE []
+synonym: "Spp1" RELATED ADJECTIVE []
+synonym: "Opn" RELATED ADJECTIVE []
+synonym: "Calcium oxalate crystal growth inhibitor protein" RELATED ADJECTIVE []
+synonym: "mSPP1" RELATED ADJECTIVE []
+synonym: "osteopontin" RELATED ADJECTIVE []
+synonym: "Spph1" RELATED ADJECTIVE []
+synonym: "Bone sialoprotein 1" RELATED ADJECTIVE []
+synonym: "Minopontin" RELATED ADJECTIVE []
+synonym: "Sgpp1" RELATED ADJECTIVE []
+synonym: "Op" RELATED ADJECTIVE []
+synonym: "SPPase1" RELATED ADJECTIVE []
+synonym: "Eta-1" RELATED ADJECTIVE []
+synonym: "SPP-1" RELATED ADJECTIVE []
+synonym: "Eta" RELATED ADJECTIVE []
+synonym: "BNSP" RELATED ADJECTIVE []
+synonym: "Sphingosine-1-phosphate phosphatase 1" RELATED ADJECTIVE []
+synonym: "Secreted phosphoprotein 1" RELATED ADJECTIVE []
+synonym: "Ric" RELATED ADJECTIVE []
+synonym: "OP" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 18708
+name: Pik3r1
+synonym: "Phosphatidylinositol 3-kinase regulatory subunit alpha" RELATED ADJECTIVE []
+synonym: "PtdIns-3-kinase regulatory subunit alpha" RELATED ADJECTIVE []
+synonym: "PI3K" RELATED ADJECTIVE []
+synonym: "p50alpha" RELATED ADJECTIVE []
+synonym: "p85alpha" RELATED ADJECTIVE []
+synonym: "PI3K regulatory subunit alpha" RELATED ADJECTIVE []
+synonym: "PI3-kinase subunit p85-alpha" RELATED ADJECTIVE []
+synonym: "PtdIns-3-kinase regulatory subunit p85-alpha" RELATED ADJECTIVE []
+synonym: "PI3-kinase regulatory subunit alpha" RELATED ADJECTIVE []
+synonym: "Pik3r1" RELATED ADJECTIVE []
+synonym: "Phosphatidylinositol 3-kinase 85 kDa regulatory subunit alpha" RELATED ADJECTIVE []
+synonym: "p55alpha" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 268566
+name: Gphn
+synonym: "Molybdopterin molybdenumtransferase" RELATED ADJECTIVE []
+synonym: "GPH" RELATED ADJECTIVE []
+synonym: "Gephyrin" RELATED ADJECTIVE []
+synonym: "geph" RELATED ADJECTIVE []
+synonym: "Domain G" RELATED ADJECTIVE []
+synonym: "GPHRYN" RELATED ADJECTIVE []
+synonym: "MPT adenylyltransferase" RELATED ADJECTIVE []
+synonym: "gephyrin" RELATED ADJECTIVE []
+synonym: "AI662856" RELATED ADJECTIVE []
+synonym: "5730552E08Rik" RELATED ADJECTIVE []
+synonym: "MPT Mo-transferase" RELATED ADJECTIVE []
+synonym: "Domain E" RELATED ADJECTIVE []
+synonym: "C230040D23" RELATED ADJECTIVE []
+synonym: "Molybdopterin adenylyltransferase" RELATED ADJECTIVE []
+synonym: "BC027112" RELATED ADJECTIVE []
+synonym: "Gphn" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 545156
+name: Kalrn
+synonym: "E530005C20Rik" RELATED ADJECTIVE []
+synonym: "Kalirin" RELATED ADJECTIVE []
+synonym: "Protein Duo" RELATED ADJECTIVE []
+synonym: "Kalrn" RELATED ADJECTIVE []
+synonym: "AV235988" RELATED ADJECTIVE []
+synonym: "kalirin" RELATED ADJECTIVE []
+synonym: "2210407G14Rik" RELATED ADJECTIVE []
+synonym: "Serine/threonine-protein kinase with Dbl- and pleckstrin homology domain" RELATED ADJECTIVE []
+synonym: "Gm539" RELATED ADJECTIVE []
+synonym: "DUET" RELATED ADJECTIVE []
+synonym: "Hapip" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 14313
+name: Fst
+synonym: "FS" RELATED ADJECTIVE []
+synonym: "AL033346" RELATED ADJECTIVE []
+synonym: "follistatin" RELATED ADJECTIVE []
+synonym: "Fst" RELATED ADJECTIVE []
+synonym: "Follistatin" RELATED ADJECTIVE []
+synonym: "Activin-binding protein" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 20779
+name: Src
+synonym: "Ncoa2" RELATED ADJECTIVE []
+synonym: "Ncoa1" RELATED ADJECTIVE []
+synonym: "mNRC-1" RELATED ADJECTIVE []
+synonym: "p60-Src" RELATED ADJECTIVE []
+synonym: "Nuclear receptor coactivator 2" RELATED ADJECTIVE []
+synonym: "Nuclear receptor coactivator 1" RELATED ADJECTIVE []
+synonym: "SRC-1" RELATED ADJECTIVE []
+synonym: "SRC-2" RELATED ADJECTIVE []
+synonym: "NCoA-1" RELATED ADJECTIVE []
+synonym: "NCoA-2" RELATED ADJECTIVE []
+synonym: "Tif2" RELATED ADJECTIVE []
+synonym: "Src" RELATED ADJECTIVE []
+synonym: "GRIP-1" RELATED ADJECTIVE []
+synonym: "AW259666" RELATED ADJECTIVE []
+synonym: "Grip1" RELATED ADJECTIVE []
+synonym: "Neuronal proto-oncogene tyrosine-protein kinase Src" RELATED ADJECTIVE []
+synonym: "Steroid receptor coactivator 1" RELATED ADJECTIVE []
+synonym: "Steroid receptor coactivator 2" RELATED ADJECTIVE []
+synonym: "src" RELATED ADJECTIVE []
+synonym: "Proto-oncogene c-Src" RELATED ADJECTIVE []
+synonym: "Transcriptional intermediary factor 2" RELATED ADJECTIVE []
+synonym: "Src2" RELATED ADJECTIVE []
+synonym: "Src1" RELATED ADJECTIVE []
+synonym: "Nuclear receptor coactivator protein 1" RELATED ADJECTIVE []
+synonym: "Glucocorticoid receptor-interacting protein 1" RELATED ADJECTIVE []
+synonym: "pp60c-src" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 12558
+name: Cdh2
+synonym: "Neural cadherin" RELATED ADJECTIVE []
+synonym: "N-cadherin" RELATED ADJECTIVE []
+synonym: "CDHN" RELATED ADJECTIVE []
+synonym: "Ncad" RELATED ADJECTIVE []
+synonym: "Cadherin-2" RELATED ADJECTIVE []
+synonym: "Cdh2" RELATED ADJECTIVE []
+synonym: "n-cadherin" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 18747
+name: Prkaca
+synonym: "cAMP-dependent protein kinase catalytic subunit alpha" RELATED ADJECTIVE []
+synonym: "PKA C-alpha" RELATED ADJECTIVE []
+synonym: "PKA" RELATED ADJECTIVE []
+synonym: "Prkaca" RELATED ADJECTIVE []
+synonym: "PKCD" RELATED ADJECTIVE []
+synonym: "Pkaca" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 18750
+name: Prkca
+synonym: "AI875142" RELATED ADJECTIVE []
+synonym: "PKC-alpha" RELATED ADJECTIVE []
+synonym: "Prkca" RELATED ADJECTIVE []
+synonym: "PKC" RELATED ADJECTIVE []
+synonym: "Pkca" RELATED ADJECTIVE []
+synonym: "PKC-A" RELATED ADJECTIVE []
+synonym: "Protein kinase C alpha type" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 72003
+name: Synpr
+synonym: "Synaptoporin" RELATED ADJECTIVE []
+synonym: "Synpr" RELATED ADJECTIVE []
+synonym: "1500003F20Rik" RELATED ADJECTIVE []
+synonym: "synaptoporin" RELATED ADJECTIVE []
+synonym: "SPO" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 74053
+name: Grip1
+synonym: "GRIP" RELATED ADJECTIVE []
+synonym: "Ncoa2" RELATED ADJECTIVE []
+synonym: "Transcriptional intermediary factor 2" RELATED ADJECTIVE []
+synonym: "Nuclear receptor coactivator 2" RELATED ADJECTIVE []
+synonym: "eb" RELATED ADJECTIVE []
+synonym: "Src2" RELATED ADJECTIVE []
+synonym: "GRIP-1" RELATED ADJECTIVE []
+synonym: "Glutamate receptor-interacting protein 1" RELATED ADJECTIVE []
+synonym: "SRC-2" RELATED ADJECTIVE []
+synonym: "Grip1" RELATED ADJECTIVE []
+synonym: "NCoA-2" RELATED ADJECTIVE []
+synonym: "4931400F03Rik" RELATED ADJECTIVE []
+synonym: "Glucocorticoid receptor-interacting protein 1" RELATED ADJECTIVE []
+synonym: "Tif2" RELATED ADJECTIVE []
+synonym: "Steroid receptor coactivator 2" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 14665
+name: Glyt2
+synonym: "Slc6a5" RELATED ADJECTIVE []
+synonym: "GlyT2" RELATED ADJECTIVE []
+synonym: "Sodium- and chloride-dependent glycine transporter 2" RELATED ADJECTIVE []
+synonym: "Glyt2" RELATED ADJECTIVE []
+synonym: "Solute carrier family 6 member 5" RELATED ADJECTIVE []
+synonym: "GLYT2" RELATED ADJECTIVE []
+synonym: "GlyT-2" RELATED ADJECTIVE []
+synonym: "GLYT-2" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 76113
+name: Lpo
+synonym: "Lpo" RELATED ADJECTIVE []
+synonym: "lactoperoxidase" RELATED ADJECTIVE []
+synonym: "5830499B15Rik" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 10578
+name: GNLY
+synonym: "Lymphokine LAG-2" RELATED ADJECTIVE []
+synonym: "LAG-2" RELATED ADJECTIVE []
+synonym: "GNLY" RELATED ADJECTIVE []
+synonym: "granulysin" RELATED ADJECTIVE []
+synonym: "LAG2" RELATED ADJECTIVE []
+synonym: "519" RELATED ADJECTIVE []
+synonym: "Protein NKG5" RELATED ADJECTIVE []
+synonym: "Granulysin" RELATED ADJECTIVE []
+synonym: "T-cell activation protein 519" RELATED ADJECTIVE []
+synonym: "TLA519" RELATED ADJECTIVE []
+synonym: "D2S69E" RELATED ADJECTIVE []
+synonym: "NKG5" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 14682
+name: Gnaq
+synonym: "Guanine nucleotide-binding protein G(q) subunit alpha" RELATED ADJECTIVE []
+synonym: "Guanine nucleotide-binding protein alpha-q" RELATED ADJECTIVE []
+synonym: "Gnaq" RELATED ADJECTIVE []
+synonym: "Gq" RELATED ADJECTIVE []
+synonym: "6230401I02Rik" RELATED ADJECTIVE []
+synonym: "Dsk10" RELATED ADJECTIVE []
+synonym: "GqI" RELATED ADJECTIVE []
+synonym: "AA408290" RELATED ADJECTIVE []
+synonym: "1110005L02Rik" RELATED ADJECTIVE []
+synonym: "AW060788" RELATED ADJECTIVE []
+synonym: "Dsk1" RELATED ADJECTIVE []
+synonym: "Galphaq" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 18784
+name: Pla2g5
+synonym: "PLA2" RELATED ADJECTIVE []
+synonym: "Group V phospholipase A2" RELATED ADJECTIVE []
+synonym: "Phosphatidylcholine 2-acylhydrolase 5" RELATED ADJECTIVE []
+synonym: "Pla2g5" RELATED ADJECTIVE []
+synonym: "PLA2-10" RELATED ADJECTIVE []
+synonym: "Calcium-dependent phospholipase A2" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 14694
+name: Gnb2l1
+synonym: "Gnb2l1" RELATED ADJECTIVE []
+synonym: "Guanine nucleotide-binding protein subunit beta-2-like 1, N-terminally processed" RELATED ADJECTIVE []
+synonym: "Gnb2-rs1" RELATED ADJECTIVE []
+synonym: "Guanine nucleotide-binding protein subunit beta-2-like 1" RELATED ADJECTIVE []
+synonym: "Receptor for activated C kinase" RELATED ADJECTIVE []
+synonym: "p205" RELATED ADJECTIVE []
+synonym: "AL033335" RELATED ADJECTIVE []
+synonym: "Receptor of activated protein kinase C 1" RELATED ADJECTIVE []
+synonym: "Rack1" RELATED ADJECTIVE []
+synonym: "12-3" RELATED ADJECTIVE []
+synonym: "GB-like" RELATED ADJECTIVE []
+synonym: "RACK1" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 12647
+name: Chat
+synonym: "Chat" RELATED ADJECTIVE []
+synonym: "Choline acetylase" RELATED ADJECTIVE []
+synonym: "CHAT" RELATED ADJECTIVE []
+synonym: "CHOACTase" RELATED ADJECTIVE []
+synonym: "Sh2d3c" RELATED ADJECTIVE []
+synonym: "CHOACTASE" RELATED ADJECTIVE []
+synonym: "Shep1" RELATED ADJECTIVE []
+synonym: "choline O-acetyltransferase" RELATED ADJECTIVE []
+synonym: "SH2 domain-containing protein 3C" RELATED ADJECTIVE []
+synonym: "Choline O-acetyltransferase" RELATED ADJECTIVE []
+synonym: "Cas/HEF1-associated signal transducer" RELATED ADJECTIVE []
+synonym: "ChAT" RELATED ADJECTIVE []
+synonym: "SH2 domain-containing Eph receptor-binding protein 1" RELATED ADJECTIVE []
+synonym: "B230380D24Rik" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 381290
+name: Atp2b4
+synonym: "PMCA" RELATED ADJECTIVE []
+synonym: "Atp2b4" RELATED ADJECTIVE []
+synonym: "Pmca4" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 18795
+name: Plcb1
+synonym: "Plcb1" RELATED ADJECTIVE []
+synonym: "Plcb" RELATED ADJECTIVE []
+synonym: "Phospholipase C-beta-1" RELATED ADJECTIVE []
+synonym: "AI132408" RELATED ADJECTIVE []
+synonym: "mKIAA0581" RELATED ADJECTIVE []
+synonym: "3110043I21Rik" RELATED ADJECTIVE []
+synonym: "Phosphoinositide phospholipase C-beta-1" RELATED ADJECTIVE []
+synonym: "PLC-154" RELATED ADJECTIVE []
+synonym: "1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase beta-1" RELATED ADJECTIVE []
+synonym: "PLC-beta-1" RELATED ADJECTIVE []
+synonym: "PLC beta" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 12652
+name: Chga
+synonym: "Serpinin" RELATED ADJECTIVE []
+synonym: "CgA" RELATED ADJECTIVE []
+synonym: "Chga" RELATED ADJECTIVE []
+synonym: "chromogranin-A" RELATED ADJECTIVE []
+synonym: "Chromogranin-A" RELATED ADJECTIVE []
+synonym: "Pancreastatin" RELATED ADJECTIVE []
+synonym: "AL26" RELATED ADJECTIVE []
+synonym: "WE-14" RELATED ADJECTIVE []
+synonym: "Catestatin" RELATED ADJECTIVE []
+synonym: "ChrA" RELATED ADJECTIVE []
+synonym: "p-Glu serpinin precursor" RELATED ADJECTIVE []
+synonym: "Beta-granin" RELATED ADJECTIVE []
+synonym: "Serpinin-RRG" RELATED ADJECTIVE []
+synonym: "GE-25" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 18803
+name: Plcg1
+synonym: "PLC-gamma-1" RELATED ADJECTIVE []
+synonym: "Plc-gamma1" RELATED ADJECTIVE []
+synonym: "Phospholipase C-gamma-1" RELATED ADJECTIVE []
+synonym: "1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase gamma-1" RELATED ADJECTIVE []
+synonym: "Cded" RELATED ADJECTIVE []
+synonym: "Phosphoinositide phospholipase C-gamma-1" RELATED ADJECTIVE []
+synonym: "Plc-1" RELATED ADJECTIVE []
+synonym: "AI894140" RELATED ADJECTIVE []
+synonym: "Plcg1" RELATED ADJECTIVE []
+synonym: "PLC gamma" RELATED ADJECTIVE []
+synonym: "Plcg-1" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 53624
+name: Cldn7
+synonym: "Claudin-7" RELATED ADJECTIVE []
+synonym: "claudin-7" RELATED ADJECTIVE []
+synonym: "Cldn7" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 14714
+name: Gnrh1
+synonym: "Prolactin release-inhibiting factor 1" RELATED ADJECTIVE []
+synonym: "Gonadoliberin I" RELATED ADJECTIVE []
+synonym: "Lhrh1" RELATED ADJECTIVE []
+synonym: "Luteinizing hormone-releasing hormone I" RELATED ADJECTIVE []
+synonym: "Gonadoliberin-1" RELATED ADJECTIVE []
+synonym: "Luliberin I" RELATED ADJECTIVE []
+synonym: "Progonadoliberin-1" RELATED ADJECTIVE []
+synonym: "GnRH" RELATED ADJECTIVE []
+synonym: "LH-RH I" RELATED ADJECTIVE []
+synonym: "Lnrh" RELATED ADJECTIVE []
+synonym: "luteinizing hormone-releasing hormone" RELATED ADJECTIVE []
+synonym: "Gonadotropin-releasing hormone I" RELATED ADJECTIVE []
+synonym: "hpg" RELATED ADJECTIVE []
+synonym: "LHRH" RELATED ADJECTIVE []
+synonym: "Gnrh2" RELATED ADJECTIVE []
+synonym: "Gnrh1" RELATED ADJECTIVE []
+synonym: "gonadotropin releasing hormone" RELATED ADJECTIVE []
+synonym: "Gnrh" RELATED ADJECTIVE []
+synonym: "NKB" RELATED ADJECTIVE []
+synonym: "GnRH-I" RELATED ADJECTIVE []
+synonym: "Prolactin release-inhibiting factor I" RELATED ADJECTIVE []
+synonym: "Progonadoliberin I" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 12667
+name: Chrd
+synonym: "Chordin" RELATED ADJECTIVE []
+synonym: "chordin" RELATED ADJECTIVE []
+synonym: "Chrd" RELATED ADJECTIVE []
+synonym: "Chd" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 16765
+name: Stmn1
+synonym: "pp17" RELATED ADJECTIVE []
+synonym: "pp19" RELATED ADJECTIVE []
+synonym: "Leukemia-associated phosphoprotein p18" RELATED ADJECTIVE []
+synonym: "Pp18" RELATED ADJECTIVE []
+synonym: "Stmn1" RELATED ADJECTIVE []
+synonym: "Stathmin" RELATED ADJECTIVE []
+synonym: "Pr22" RELATED ADJECTIVE []
+synonym: "Lag" RELATED ADJECTIVE []
+synonym: "Leukemia-associated gene protein" RELATED ADJECTIVE []
+synonym: "Prosolin" RELATED ADJECTIVE []
+synonym: "P18" RELATED ADJECTIVE []
+synonym: "P19" RELATED ADJECTIVE []
+synonym: "Oncoprotein 18" RELATED ADJECTIVE []
+synonym: "Protein Pr22" RELATED ADJECTIVE []
+synonym: "stathmin" RELATED ADJECTIVE []
+synonym: "Phosphoprotein p19" RELATED ADJECTIVE []
+synonym: "Op18" RELATED ADJECTIVE []
+synonym: "19k" RELATED ADJECTIVE []
+synonym: "Lap18" RELATED ADJECTIVE []
+synonym: "Pp17" RELATED ADJECTIVE []
+synonym: "Pp19" RELATED ADJECTIVE []
+synonym: "Pig" RELATED ADJECTIVE []
+synonym: "Metablastin" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 6532
+name: SLC6A4
+synonym: "SERT" RELATED ADJECTIVE []
+synonym: "5HTT" RELATED ADJECTIVE []
+synonym: "SERT1" RELATED ADJECTIVE []
+synonym: "SLC6A4" RELATED ADJECTIVE []
+synonym: "Sodium-dependent serotonin transporter" RELATED ADJECTIVE []
+synonym: "hSERT" RELATED ADJECTIVE []
+synonym: "5-HTTLPR" RELATED ADJECTIVE []
+synonym: "Solute carrier family 6 member 4" RELATED ADJECTIVE []
+synonym: "HTT" RELATED ADJECTIVE []
+synonym: "5-HTT" RELATED ADJECTIVE []
+synonym: "5HT transporter" RELATED ADJECTIVE []
+synonym: "OCD1" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 74117
+name: Actr3
+synonym: "Actin-related protein 3" RELATED ADJECTIVE []
+synonym: "arp3" RELATED ADJECTIVE []
+synonym: "Actin-like protein 3" RELATED ADJECTIVE []
+synonym: "1200003A09Rik" RELATED ADJECTIVE []
+synonym: "Actr3" RELATED ADJECTIVE []
+synonym: "Arp3" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 14726
+name: Pdpn
+synonym: "podoplanin" RELATED ADJECTIVE []
+synonym: "T1A" RELATED ADJECTIVE []
+synonym: "T1alpha" RELATED ADJECTIVE []
+synonym: "T1a" RELATED ADJECTIVE []
+synonym: "Podoplanin" RELATED ADJECTIVE []
+synonym: "Gp38" RELATED ADJECTIVE []
+synonym: "T1-alpha" RELATED ADJECTIVE []
+synonym: "RANDAM-2" RELATED ADJECTIVE []
+synonym: "Pdpn" RELATED ADJECTIVE []
+synonym: "PA2.26 antigen" RELATED ADJECTIVE []
+synonym: "Aggrus" RELATED ADJECTIVE []
+synonym: "OTS-8" RELATED ADJECTIVE []
+synonym: "Ots8" RELATED ADJECTIVE []
+synonym: "Transmembrane glycoprotein E11" RELATED ADJECTIVE []
+synonym: "Glycoprotein 38" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 14734
+name: Gpc3
+synonym: "Secreted glypican-3" RELATED ADJECTIVE []
+synonym: "Gpc3" RELATED ADJECTIVE []
+synonym: "OCI-5" RELATED ADJECTIVE []
+synonym: "Glypican-3" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 227753
+name: Gsn
+synonym: "" RELATED ADJECTIVE []
+synonym: "gelsolin" RELATED ADJECTIVE []
+synonym: "Actin-depolymerizing factor" RELATED ADJECTIVE []
+synonym: "Gelsolin" RELATED ADJECTIVE []
+synonym: "ADF" RELATED ADJECTIVE []
+synonym: "Brevin" RELATED ADJECTIVE []
+synonym: "Gsb" RELATED ADJECTIVE []
+synonym: "Actin" RELATED ADJECTIVE []
+synonym: "Gsn" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 20907
+name: Stx1a
+synonym: "Stx1a" RELATED ADJECTIVE []
+synonym: "HPC-1" RELATED ADJECTIVE []
+synonym: "Syntaxin-1A" RELATED ADJECTIVE []
+synonym: "syntaxin 1" RELATED ADJECTIVE []
+synonym: "Neuron-specific antigen HPC-1" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 65969
+name: Cubn
+synonym: "AA408369" RELATED ADJECTIVE []
+synonym: "Cubilin" RELATED ADJECTIVE []
+synonym: "AL022750" RELATED ADJECTIVE []
+synonym: "Cubn" RELATED ADJECTIVE []
+synonym: "Ifcr" RELATED ADJECTIVE []
+synonym: "cubilin" RELATED ADJECTIVE []
+synonym: "Intrinsic factor-cobalamin receptor" RELATED ADJECTIVE []
+synonym: "D2Wsu88e" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 240057
+name: Syngap1
+synonym: "Synaptic Ras-GAP 1" RELATED ADJECTIVE []
+synonym: "Ras/Rap GTPase-activating protein SynGAP" RELATED ADJECTIVE []
+synonym: "Syngap" RELATED ADJECTIVE []
+synonym: "Synaptic Ras GTPase-activating protein 1" RELATED ADJECTIVE []
+synonym: "Neuronal RasGAP" RELATED ADJECTIVE []
+synonym: "Syngap1" RELATED ADJECTIVE []
+synonym: "Gm1963" RELATED ADJECTIVE []
+synonym: "SynGAP" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 14784
+name: Grb2
+synonym: "SH2/SH3 adapter GRB2" RELATED ADJECTIVE []
+synonym: "Adapter protein GRB2" RELATED ADJECTIVE []
+synonym: "AA408164" RELATED ADJECTIVE []
+synonym: "Grb2" RELATED ADJECTIVE []
+synonym: "grb2" RELATED ADJECTIVE []
+synonym: "Ash" RELATED ADJECTIVE []
+synonym: "Growth factor receptor-bound protein 2" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 12737
+name: Cldn1
+synonym: "Cldn1" RELATED ADJECTIVE []
+synonym: "claudin-1" RELATED ADJECTIVE []
+synonym: "AI596271" RELATED ADJECTIVE []
+synonym: "Claudin-1" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 20938
+name: Sv2
+synonym: "Calcium regulator SV2A" RELATED ADJECTIVE []
+synonym: "Synaptic vesicle glycoprotein 2A" RELATED ADJECTIVE []
+synonym: "sv2" RELATED ADJECTIVE []
+synonym: "Kiaa0736" RELATED ADJECTIVE []
+synonym: "Synaptic vesicle protein 2A" RELATED ADJECTIVE []
+synonym: "Sv2a" RELATED ADJECTIVE []
+synonym: "Synaptic vesicle protein 2" RELATED ADJECTIVE []
+synonym: "Sv2" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 16846
+name: Lep
+synonym: "obese" RELATED ADJECTIVE []
+synonym: "Leptin" RELATED ADJECTIVE []
+synonym: "Obesity factor" RELATED ADJECTIVE []
+synonym: "ob" RELATED ADJECTIVE []
+synonym: "Ob" RELATED ADJECTIVE []
+synonym: "Lep" RELATED ADJECTIVE []
+synonym: "Lenep" RELATED ADJECTIVE []
+synonym: "Lep503" RELATED ADJECTIVE []
+synonym: "leptin" RELATED ADJECTIVE []
+synonym: "Lens epithelial cell protein LEP503" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 14802
+name: Gria4
+synonym: "GluA4" RELATED ADJECTIVE []
+synonym: "spkw1" RELATED ADJECTIVE []
+synonym: "Gluralpha4" RELATED ADJECTIVE []
+synonym: "Glur4" RELATED ADJECTIVE []
+synonym: "Glutamate receptor ionotropic, AMPA 4" RELATED ADJECTIVE []
+synonym: "Glur-4" RELATED ADJECTIVE []
+synonym: "Gria4" RELATED ADJECTIVE []
+synonym: "AMPA-selective glutamate receptor 4" RELATED ADJECTIVE []
+synonym: "Glutamate receptor 4" RELATED ADJECTIVE []
+synonym: "GluR-4" RELATED ADJECTIVE []
+synonym: "GluR4" RELATED ADJECTIVE []
+synonym: "Glutamate Receptor 4" RELATED ADJECTIVE []
+synonym: "GluR-D" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 16852
+name: Lgals1
+synonym: "Galbp" RELATED ADJECTIVE []
+synonym: "Gbp" RELATED ADJECTIVE []
+synonym: "S-Lac lectin 1" RELATED ADJECTIVE []
+synonym: "L-14.5" RELATED ADJECTIVE []
+synonym: "Lectin galactoside-binding soluble 1" RELATED ADJECTIVE []
+synonym: "galectin-1" RELATED ADJECTIVE []
+synonym: "Galectin-1" RELATED ADJECTIVE []
+synonym: "Gal-1" RELATED ADJECTIVE []
+synonym: "AA410090" RELATED ADJECTIVE []
+synonym: "Lect14" RELATED ADJECTIVE []
+synonym: "Beta-galactoside-binding lectin L-14-I" RELATED ADJECTIVE []
+synonym: "Lgals1" RELATED ADJECTIVE []
+synonym: "14 kDa lectin" RELATED ADJECTIVE []
+synonym: "Galaptin" RELATED ADJECTIVE []
+synonym: "Lactose-binding lectin 1" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 14806
+name: Grik2
+synonym: "Glurbeta2" RELATED ADJECTIVE []
+synonym: "Glur6" RELATED ADJECTIVE []
+synonym: "GluK2" RELATED ADJECTIVE []
+synonym: "AW124492" RELATED ADJECTIVE []
+synonym: "Grik2" RELATED ADJECTIVE []
+synonym: "Glutamate receptor ionotropic, kainate 2" RELATED ADJECTIVE []
+synonym: "GluR beta-2" RELATED ADJECTIVE []
+synonym: "Glutamate receptor beta-2" RELATED ADJECTIVE []
+synonym: "Glur-6" RELATED ADJECTIVE []
+synonym: "Glutamate receptor 6" RELATED ADJECTIVE []
+synonym: "GluR-6" RELATED ADJECTIVE []
+synonym: "Glutamate Receptor 6" RELATED ADJECTIVE []
+synonym: "GluR6" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 12759
+name: Clu
+synonym: "Clusterin beta chain" RELATED ADJECTIVE []
+synonym: "Apo-J" RELATED ADJECTIVE []
+synonym: "Msgp-2" RELATED ADJECTIVE []
+synonym: "Cli" RELATED ADJECTIVE []
+synonym: "Sugp-2" RELATED ADJECTIVE []
+synonym: "AI893575" RELATED ADJECTIVE []
+synonym: "Apoj" RELATED ADJECTIVE []
+synonym: "Sulfated glycoprotein 2" RELATED ADJECTIVE []
+synonym: "Apolipoprotein J" RELATED ADJECTIVE []
+synonym: "ApoJ" RELATED ADJECTIVE []
+synonym: "Clustrin" RELATED ADJECTIVE []
+synonym: "Clusterin" RELATED ADJECTIVE []
+synonym: "clusterin" RELATED ADJECTIVE []
+synonym: "D14Ucla3" RELATED ADJECTIVE []
+synonym: "SP-40" RELATED ADJECTIVE []
+synonym: "Clu" RELATED ADJECTIVE []
+synonym: "SGP-2" RELATED ADJECTIVE []
+synonym: "Clusterin alpha chain" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 14810
+name: Grin1
+synonym: "Nmdar" RELATED ADJECTIVE []
+synonym: "Glurz1" RELATED ADJECTIVE []
+synonym: "GluN1" RELATED ADJECTIVE []
+synonym: "M100174" RELATED ADJECTIVE []
+synonym: "GluRzeta1" RELATED ADJECTIVE []
+synonym: "N-methyl-D-aspartate receptor subunit NR1" RELATED ADJECTIVE []
+synonym: "Rgsc174" RELATED ADJECTIVE []
+synonym: "NMD-R1" RELATED ADJECTIVE []
+synonym: "Glutamate receptor ionotropic, NMDA 1" RELATED ADJECTIVE []
+synonym: "Glutamate [NMDA] receptor subunit zeta-1" RELATED ADJECTIVE []
+synonym: "Aspartate" RELATED ADJECTIVE []
+synonym: "NR1" RELATED ADJECTIVE []
+synonym: "NMDAR1" RELATED ADJECTIVE []
+synonym: "Grin1" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 14811
+name: Grin2a
+synonym: "Glutamate receptor ionotropic, NMDA 2A" RELATED ADJECTIVE []
+synonym: "NR2A" RELATED ADJECTIVE []
+synonym: "GluN2A" RELATED ADJECTIVE []
+synonym: "N-methyl D-aspartate receptor subtype 2A" RELATED ADJECTIVE []
+synonym: "Grin2a" RELATED ADJECTIVE []
+synonym: "Glutamate [NMDA] receptor subunit epsilon-1" RELATED ADJECTIVE []
+synonym: "NMDAR2A" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 14812
+name: Grin2b
+synonym: "Glutamate receptor ionotropic, NMDA 2B" RELATED ADJECTIVE []
+synonym: "NR2B" RELATED ADJECTIVE []
+synonym: "Glutamate [NMDA] receptor subunit epsilon-2" RELATED ADJECTIVE []
+synonym: "Grin2b" RELATED ADJECTIVE []
+synonym: "N-methyl D-aspartate receptor subtype 2B" RELATED ADJECTIVE []
+synonym: "GluN2B" RELATED ADJECTIVE []
+synonym: "Nmdar2b" RELATED ADJECTIVE []
+synonym: "AW490526" RELATED ADJECTIVE []
+synonym: "NMDAR2B" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 12765
+name: Cxcr2
+synonym: "interleukin-8" RELATED ADJECTIVE []
+synonym: "IL8RA" RELATED ADJECTIVE []
+synonym: "GRO/MGSA receptor" RELATED ADJECTIVE []
+synonym: "IL-8R B" RELATED ADJECTIVE []
+synonym: "Il8rb" RELATED ADJECTIVE []
+synonym: "Gpcr16" RELATED ADJECTIVE []
+synonym: "High affinity interleukin-8 receptor B" RELATED ADJECTIVE []
+synonym: "CD128" RELATED ADJECTIVE []
+synonym: "IL-8Rh" RELATED ADJECTIVE []
+synonym: "CDw128" RELATED ADJECTIVE []
+synonym: "Cxcr2" RELATED ADJECTIVE []
+synonym: "IL-8rb" RELATED ADJECTIVE []
+synonym: "CXCR-2" RELATED ADJECTIVE []
+synonym: "mIL-8RH" RELATED ADJECTIVE []
+synonym: "CXC-R2" RELATED ADJECTIVE []
+synonym: "C-X-C chemokine receptor type 2" RELATED ADJECTIVE []
+synonym: "Cmkar2" RELATED ADJECTIVE []
+synonym: "Interleukin-8" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 14816
+name: Grm1
+synonym: "Gprc1a" RELATED ADJECTIVE []
+synonym: "Gm10828" RELATED ADJECTIVE []
+synonym: "rcw" RELATED ADJECTIVE []
+synonym: "nmf373" RELATED ADJECTIVE []
+synonym: "Metabotropic glutamate receptor 1" RELATED ADJECTIVE []
+synonym: "mGluR1" RELATED ADJECTIVE []
+synonym: "Mglur1" RELATED ADJECTIVE []
+synonym: "ENSMUSG00000075319" RELATED ADJECTIVE []
+synonym: "wobl" RELATED ADJECTIVE []
+synonym: "Grm1" RELATED ADJECTIVE []
+synonym: "4930455H15Rik" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 16866
+name: Lhb
+synonym: "Lhb" RELATED ADJECTIVE []
+synonym: "Luteinizing hormone subunit beta" RELATED ADJECTIVE []
+synonym: "LH" RELATED ADJECTIVE []
+synonym: "Lutropin beta chain" RELATED ADJECTIVE []
+synonym: "LSH-B" RELATED ADJECTIVE []
+synonym: "LSH-beta" RELATED ADJECTIVE []
+synonym: "LH-B" RELATED ADJECTIVE []
+synonym: "Lutropin subunit beta" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 16867
+name: Lhcgr
+synonym: "Lhcgr" RELATED ADJECTIVE []
+synonym: "Luteinizing hormone receptor" RELATED ADJECTIVE []
+synonym: "Lutropin-choriogonadotropic hormone receptor" RELATED ADJECTIVE []
+synonym: "luteinizing hormone" RELATED ADJECTIVE []
+synonym: "LSH-R" RELATED ADJECTIVE []
+synonym: "LH-R" RELATED ADJECTIVE []
+synonym: "Lhr" RELATED ADJECTIVE []
+synonym: "Gpcr19-rs1" RELATED ADJECTIVE []
+synonym: "LH/CG-R" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 20964
+name: Syn1
+synonym: "Syn-1" RELATED ADJECTIVE []
+synonym: "Syn1-S" RELATED ADJECTIVE []
+synonym: "Synapsin-1" RELATED ADJECTIVE []
+synonym: "synapsin" RELATED ADJECTIVE []
+synonym: "Synapsin I" RELATED ADJECTIVE []
+synonym: "Syn1" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 20969
+name: Sdc1
+synonym: "syn-1" RELATED ADJECTIVE []
+synonym: "Synd-1" RELATED ADJECTIVE []
+synonym: "syndecan-1" RELATED ADJECTIVE []
+synonym: "AA408134" RELATED ADJECTIVE []
+synonym: "Sdc1" RELATED ADJECTIVE []
+synonym: "Synd" RELATED ADJECTIVE []
+synonym: "CD138" RELATED ADJECTIVE []
+synonym: "AA409076" RELATED ADJECTIVE []
+synonym: "Sstn" RELATED ADJECTIVE []
+synonym: "SYND1" RELATED ADJECTIVE []
+synonym: "Syndecan-1" RELATED ADJECTIVE []
+synonym: "Synd1" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 20972
+name: Syngr1
+synonym: "Syngr1" RELATED ADJECTIVE []
+synonym: "R75468" RELATED ADJECTIVE []
+synonym: "Synaptogyrin-1" RELATED ADJECTIVE []
+synonym: "synaptogyrin 1" RELATED ADJECTIVE []
+synonym: "Syngr1b" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 20977
+name: Syp
+synonym: "BM89 antigen" RELATED ADJECTIVE []
+synonym: "Syp" RELATED ADJECTIVE []
+synonym: "AI848995" RELATED ADJECTIVE []
+synonym: "Synaptophysin" RELATED ADJECTIVE []
+synonym: "A230093K24Rik" RELATED ADJECTIVE []
+synonym: "synaptophysin" RELATED ADJECTIVE []
+synonym: "Major synaptic vesicle protein p38" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 20979
+name: Syt1
+synonym: "p65" RELATED ADJECTIVE []
+synonym: "AW124717" RELATED ADJECTIVE []
+synonym: "G630098F17Rik" RELATED ADJECTIVE []
+synonym: "Syt1" RELATED ADJECTIVE []
+synonym: "synaptotagmin 1" RELATED ADJECTIVE []
+synonym: "SytI" RELATED ADJECTIVE []
+synonym: "Synaptotagmin I" RELATED ADJECTIVE []
+synonym: "Synaptotagmin-1" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 12801
+name: Cnr1
+synonym: "Cnr1" RELATED ADJECTIVE []
+synonym: "CNR1" RELATED ADJECTIVE []
+synonym: "PCDH-alpha-4" RELATED ADJECTIVE []
+synonym: "Pcdha4" RELATED ADJECTIVE []
+synonym: "CB1R" RELATED ADJECTIVE []
+synonym: "Protocadherin alpha-4" RELATED ADJECTIVE []
+synonym: "Cannabinoid receptor 1" RELATED ADJECTIVE []
+synonym: "CB-R" RELATED ADJECTIVE []
+synonym: "CB1" RELATED ADJECTIVE []
+synonym: "Brain-type cannabinoid receptor" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 64011
+name: Nrgn
+synonym: "NG/RC3" RELATED ADJECTIVE []
+synonym: "Pss1" RELATED ADJECTIVE []
+synonym: "Nrgn" RELATED ADJECTIVE []
+synonym: "AI838505" RELATED ADJECTIVE []
+synonym: "NG" RELATED ADJECTIVE []
+synonym: "NEUG(55-78)" RELATED ADJECTIVE []
+synonym: "R75334" RELATED ADJECTIVE []
+synonym: "RC3" RELATED ADJECTIVE []
+synonym: "neurogranin" RELATED ADJECTIVE []
+synonym: "Neurogranin" RELATED ADJECTIVE []
+synonym: "Ng" RELATED ADJECTIVE []
+synonym: "0710001B06Rik" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 387609
+name: Zhx2
+synonym: "Raf" RELATED ADJECTIVE []
+synonym: "Zinc fingers and homeoboxes protein 2" RELATED ADJECTIVE []
+synonym: "Afr1" RELATED ADJECTIVE []
+synonym: "Regulator of AFP" RELATED ADJECTIVE []
+synonym: "Alpha-fetoprotein regulator 1" RELATED ADJECTIVE []
+synonym: "Zhx2" RELATED ADJECTIVE []
+synonym: "mKIAA0854" RELATED ADJECTIVE []
+synonym: "Zinc finger and homeodomain protein 2" RELATED ADJECTIVE []
+synonym: "AFP regulator 1" RELATED ADJECTIVE []
+synonym: "Afr-1" RELATED ADJECTIVE []
+synonym: "raf" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 18976
+name: Pomc
+synonym: "BE" RELATED ADJECTIVE []
+synonym: "Alpha-MSH" RELATED ADJECTIVE []
+synonym: "CLIP" RELATED ADJECTIVE []
+synonym: "alphaMSH" RELATED ADJECTIVE []
+synonym: "Lipotropin gamma" RELATED ADJECTIVE []
+synonym: "Adrenocorticotropic hormone" RELATED ADJECTIVE []
+synonym: "Beta-MSH" RELATED ADJECTIVE []
+synonym: "pro-opiomelanocortin" RELATED ADJECTIVE []
+synonym: "Melanotropin beta" RELATED ADJECTIVE []
+synonym: "Melanotropin gamma" RELATED ADJECTIVE []
+synonym: "Gamma-LPH" RELATED ADJECTIVE []
+synonym: "Pomc" RELATED ADJECTIVE []
+synonym: "Melanotropin alpha" RELATED ADJECTIVE []
+synonym: "adrenocorticotropic hormone" RELATED ADJECTIVE []
+synonym: "Met-enkephalin" RELATED ADJECTIVE []
+synonym: "Corticotropin" RELATED ADJECTIVE []
+synonym: "gamma-MSH" RELATED ADJECTIVE []
+synonym: "Beta-endorphin" RELATED ADJECTIVE []
+synonym: "Proopiomelanocortin" RELATED ADJECTIVE []
+synonym: "POMC" RELATED ADJECTIVE []
+synonym: "Beta-LPH" RELATED ADJECTIVE []
+synonym: "alpha-MSH" RELATED ADJECTIVE []
+synonym: "Clip" RELATED ADJECTIVE []
+synonym: "Lipotropin beta" RELATED ADJECTIVE []
+synonym: "Gamma-MSH" RELATED ADJECTIVE []
+synonym: "Pomc-1" RELATED ADJECTIVE []
+synonym: "Pomc1" RELATED ADJECTIVE []
+synonym: "ACTH" RELATED ADJECTIVE []
+synonym: "Corticotropin-lipotropin" RELATED ADJECTIVE []
+synonym: "proopiomelanocortin" RELATED ADJECTIVE []
+synonym: "beta-MSH" RELATED ADJECTIVE []
+synonym: "Pro-opiomelanocortin" RELATED ADJECTIVE []
+synonym: "NPP" RELATED ADJECTIVE []
+synonym: "Corticotropin-like intermediary peptide" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 12854
+name: Cort
+synonym: "Cortistatin" RELATED ADJECTIVE []
+synonym: "PCST" RELATED ADJECTIVE []
+synonym: "Cort" RELATED ADJECTIVE []
+synonym: "cortistatin" RELATED ADJECTIVE []
+synonym: "Cortistatin-14" RELATED ADJECTIVE []
+synonym: "CST" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 14915
+name: Guca2a
+synonym: "Guca2a" RELATED ADJECTIVE []
+synonym: "Guanylate cyclase activator 2A" RELATED ADJECTIVE []
+synonym: "Guanylin" RELATED ADJECTIVE []
+synonym: "guanylin" RELATED ADJECTIVE []
+synonym: "Guca2" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 244310
+name: Dlgap2
+synonym: "PSD-95/SAP90-binding protein 2" RELATED ADJECTIVE []
+synonym: "6430596N04Rik" RELATED ADJECTIVE []
+synonym: "Disks large-associated protein 2" RELATED ADJECTIVE []
+synonym: "DAP-2" RELATED ADJECTIVE []
+synonym: "Dlgap2" RELATED ADJECTIVE []
+synonym: "Dap2" RELATED ADJECTIVE []
+synonym: "Sapap2" RELATED ADJECTIVE []
+synonym: "DAP2" RELATED ADJECTIVE []
+synonym: "SAP90/PSD-95-associated protein 2" RELATED ADJECTIVE []
+synonym: "SAPAP2" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 27226
+name: Pla2g7
+synonym: "R75400" RELATED ADJECTIVE []
+synonym: "Pla2g7" RELATED ADJECTIVE []
+synonym: "LDL-PLA(2)" RELATED ADJECTIVE []
+synonym: "2-acetyl-1-alkylglycerophosphocholine esterase" RELATED ADJECTIVE []
+synonym: "LDL-associated phospholipase A2" RELATED ADJECTIVE []
+synonym: "PAF 2-acylhydrolase" RELATED ADJECTIVE []
+synonym: "PAF acetylhydrolase" RELATED ADJECTIVE []
+synonym: "PLA" RELATED ADJECTIVE []
+synonym: "Pafah" RELATED ADJECTIVE []
+synonym: "Platelet-activating factor acetylhydrolase" RELATED ADJECTIVE []
+synonym: "1-alkyl-2-acetylglycerophosphocholine esterase" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 22287
+name: Scgb1a1
+synonym: "Ugb" RELATED ADJECTIVE []
+synonym: "Secretoglobin family 1A member 1" RELATED ADJECTIVE []
+synonym: "Utg" RELATED ADJECTIVE []
+synonym: "Clara cell phospholipid-binding protein" RELATED ADJECTIVE []
+synonym: "UGB" RELATED ADJECTIVE []
+synonym: "Clara cell 17 kDa protein" RELATED ADJECTIVE []
+synonym: "CCPBP" RELATED ADJECTIVE []
+synonym: "uteroglobin" RELATED ADJECTIVE []
+synonym: "CCSP" RELATED ADJECTIVE []
+synonym: "PCB-BP" RELATED ADJECTIVE []
+synonym: "PCB-binding protein" RELATED ADJECTIVE []
+synonym: "Clara cells 10 kDa secretory protein" RELATED ADJECTIVE []
+synonym: "CC10" RELATED ADJECTIVE []
+synonym: "UG" RELATED ADJECTIVE []
+synonym: "Scgb1a1" RELATED ADJECTIVE []
+synonym: "Uteroglobin" RELATED ADJECTIVE []
+synonym: "Cc10" RELATED ADJECTIVE []
+synonym: "CC16" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 217692
+name: Sipa1l1
+synonym: "SIPA1-like protein 1" RELATED ADJECTIVE []
+synonym: "mKIAA0440" RELATED ADJECTIVE []
+synonym: "4931426N11Rik" RELATED ADJECTIVE []
+synonym: "SPAR" RELATED ADJECTIVE []
+synonym: "Kiaa0440" RELATED ADJECTIVE []
+synonym: "AW213287" RELATED ADJECTIVE []
+synonym: "Spar" RELATED ADJECTIVE []
+synonym: "Sipa1l1" RELATED ADJECTIVE []
+synonym: "Signal-induced proliferation-associated 1-like protein 1" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 242274
+name: Lrrc7
+synonym: "Protein LAP1" RELATED ADJECTIVE []
+synonym: "Lap1" RELATED ADJECTIVE []
+synonym: "Lrrc7" RELATED ADJECTIVE []
+synonym: "AK122498" RELATED ADJECTIVE []
+synonym: "densin" RELATED ADJECTIVE []
+synonym: "Leucine-rich repeat-containing protein 7" RELATED ADJECTIVE []
+synonym: "Densin-180" RELATED ADJECTIVE []
+synonym: "densin-180" RELATED ADJECTIVE []
+synonym: "Kiaa1365" RELATED ADJECTIVE []
+synonym: "Densin" RELATED ADJECTIVE []
+synonym: "mKIAA1365" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 19047
+name: Ppp1cc
+synonym: "PP-1G" RELATED ADJECTIVE []
+synonym: "Ppp1cc" RELATED ADJECTIVE []
+synonym: "Protein phosphatase 1C catalytic subunit" RELATED ADJECTIVE []
+synonym: "dis2m1" RELATED ADJECTIVE []
+synonym: "protein phosphatase PP1" RELATED ADJECTIVE []
+synonym: "PP1" RELATED ADJECTIVE []
+synonym: "Serine/threonine-protein phosphatase PP1-gamma catalytic subunit" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 17002
+name: Ltf
+synonym: "Lf" RELATED ADJECTIVE []
+synonym: "MMS10R" RELATED ADJECTIVE []
+synonym: "Lactoferrin" RELATED ADJECTIVE []
+synonym: "Lactotransferrin" RELATED ADJECTIVE []
+synonym: "Csp82" RELATED ADJECTIVE []
+synonym: "Ms10r" RELATED ADJECTIVE []
+synonym: "Ltf" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 19052
+name: Ppp2ca
+synonym: "Serine/threonine-protein phosphatase 2A catalytic subunit alpha isoform" RELATED ADJECTIVE []
+synonym: "R75353" RELATED ADJECTIVE []
+synonym: "Ppp2ca" RELATED ADJECTIVE []
+synonym: "protein phosphatase PP2A" RELATED ADJECTIVE []
+synonym: "PP2A" RELATED ADJECTIVE []
+synonym: "PP2A-alpha" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 19055
+name: Ppp3ca
+synonym: "CAM-PRP catalytic subunit" RELATED ADJECTIVE []
+synonym: "protein phosphatase PP2B" RELATED ADJECTIVE []
+synonym: "2900074D19Rik" RELATED ADJECTIVE []
+synonym: "Calna" RELATED ADJECTIVE []
+synonym: "Caln" RELATED ADJECTIVE []
+synonym: "CnA" RELATED ADJECTIVE []
+synonym: "Ppp3ca" RELATED ADJECTIVE []
+synonym: "Calmodulin-dependent calcineurin A subunit alpha isoform" RELATED ADJECTIVE []
+synonym: "Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 14960
+name: H2-Aa
+synonym: "AA" RELATED ADJECTIVE []
+synonym: "Aalpha" RELATED ADJECTIVE []
+synonym: "H-2 class II histocompatibility antigen, A-F alpha chain" RELATED ADJECTIVE []
+synonym: "Ia1" RELATED ADJECTIVE []
+synonym: "H-2 class II histocompatibility antigen, A-K alpha chain" RELATED ADJECTIVE []
+synonym: "Ia-1" RELATED ADJECTIVE []
+synonym: "H2-Aa" RELATED ADJECTIVE []
+synonym: "I-Aalpha" RELATED ADJECTIVE []
+synonym: "H-2 class II histocompatibility antigen, A-B alpha chain" RELATED ADJECTIVE []
+synonym: "H-2 class II histocompatibility antigen, A-U alpha chain" RELATED ADJECTIVE []
+synonym: "H-2 class II histocompatibility antigen, A-S alpha chain" RELATED ADJECTIVE []
+synonym: "IAalpha" RELATED ADJECTIVE []
+synonym: "H-2Aa" RELATED ADJECTIVE []
+synonym: "H2Aa" RELATED ADJECTIVE []
+synonym: "H-2 class II histocompatibility antigen, A-R alpha chain" RELATED ADJECTIVE []
+synonym: "H-2 class II histocompatibility antigen, A-Q alpha chain" RELATED ADJECTIVE []
+synonym: "H-2 class II histocompatibility antigen, A-D alpha chain" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 19060
+name: Ppp5c
+synonym: "Serine/threonine-protein phosphatase 5" RELATED ADJECTIVE []
+synonym: "Ppp5c" RELATED ADJECTIVE []
+synonym: "AU020526" RELATED ADJECTIVE []
+synonym: "Protein phosphatase T" RELATED ADJECTIVE []
+synonym: "PP5" RELATED ADJECTIVE []
+synonym: "PPT" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 12918
+name: Crh
+synonym: "Corticoliberin" RELATED ADJECTIVE []
+synonym: "Gm1347" RELATED ADJECTIVE []
+synonym: "corticoliberin" RELATED ADJECTIVE []
+synonym: "Corticotropin-releasing factor" RELATED ADJECTIVE []
+synonym: "CRF" RELATED ADJECTIVE []
+synonym: "Crh" RELATED ADJECTIVE []
+synonym: "Corticotropin-releasing hormone" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 12937
+name: Pcdha6
+synonym: "Pcdha6" RELATED ADJECTIVE []
+synonym: "Crnr2" RELATED ADJECTIVE []
+synonym: "CNR" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 17035
+name: Lxn
+synonym: "latexin" RELATED ADJECTIVE []
+synonym: "Latexin" RELATED ADJECTIVE []
+synonym: "Tissue carboxypeptidase inhibitor" RELATED ADJECTIVE []
+synonym: "ECI" RELATED ADJECTIVE []
+synonym: "TCI" RELATED ADJECTIVE []
+synonym: "Lxn" RELATED ADJECTIVE []
+synonym: "Endogenous carboxypeptidase inhibitor" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 19109
+name: Prl
+synonym: "Prolactin-5A1" RELATED ADJECTIVE []
+synonym: "Prolactin" RELATED ADJECTIVE []
+synonym: "Prl4a1" RELATED ADJECTIVE []
+synonym: "PRL-like protein C3" RELATED ADJECTIVE []
+synonym: "PRL-like protein C2" RELATED ADJECTIVE []
+synonym: "PRL-like protein C1" RELATED ADJECTIVE []
+synonym: "Prl7c1" RELATED ADJECTIVE []
+synonym: "Decidualin" RELATED ADJECTIVE []
+synonym: "Prl8a9" RELATED ADJECTIVE []
+synonym: "Prl8a8" RELATED ADJECTIVE []
+synonym: "PRL" RELATED ADJECTIVE []
+synonym: "Prolactin-3B1" RELATED ADJECTIVE []
+synonym: "Mrpplf3" RELATED ADJECTIVE []
+synonym: "Prolactin-2B1" RELATED ADJECTIVE []
+synonym: "PRP" RELATED ADJECTIVE []
+synonym: "PLP C-alpha" RELATED ADJECTIVE []
+synonym: "PLP-I" RELATED ADJECTIVE []
+synonym: "Prl7b1" RELATED ADJECTIVE []
+synonym: "Protein-tyrosine phosphatase of regenerating liver 2" RELATED ADJECTIVE []
+synonym: "Prl" RELATED ADJECTIVE []
+synonym: "Prolactin-2A1" RELATED ADJECTIVE []
+synonym: "Placental prolactin-like protein O" RELATED ADJECTIVE []
+synonym: "Placental prolactin-like protein N" RELATED ADJECTIVE []
+synonym: "PRL-like protein G" RELATED ADJECTIVE []
+synonym: "PRL-like protein F" RELATED ADJECTIVE []
+synonym: "PRL-like protein A" RELATED ADJECTIVE []
+synonym: "Placental prolactin-like protein J" RELATED ADJECTIVE []
+synonym: "PRL-like protein B" RELATED ADJECTIVE []
+synonym: "Placental prolactin-like protein G" RELATED ADJECTIVE []
+synonym: "Placental prolactin-like protein F" RELATED ADJECTIVE []
+synonym: "PRL-like protein O" RELATED ADJECTIVE []
+synonym: "PRL-like protein N" RELATED ADJECTIVE []
+synonym: "PRL-like protein I" RELATED ADJECTIVE []
+synonym: "Placental prolactin-like protein B" RELATED ADJECTIVE []
+synonym: "Placental prolactin-like protein A" RELATED ADJECTIVE []
+synonym: "PRL-like protein J" RELATED ADJECTIVE []
+synonym: "Prlpo" RELATED ADJECTIVE []
+synonym: "Prlpn" RELATED ADJECTIVE []
+synonym: "Prlpm" RELATED ADJECTIVE []
+synonym: "Prlpl" RELATED ADJECTIVE []
+synonym: "Prlpk" RELATED ADJECTIVE []
+synonym: "Prlpj" RELATED ADJECTIVE []
+synonym: "Prlpi" RELATED ADJECTIVE []
+synonym: "Placental prolactin-like protein C1" RELATED ADJECTIVE []
+synonym: "Prlpf" RELATED ADJECTIVE []
+synonym: "Placental prolactin-like protein C3" RELATED ADJECTIVE []
+synonym: "Prolactin-7A1" RELATED ADJECTIVE []
+synonym: "Prlpc" RELATED ADJECTIVE []
+synonym: "Prlpb" RELATED ADJECTIVE []
+synonym: "Prlpa" RELATED ADJECTIVE []
+synonym: "Prolactin-6A1" RELATED ADJECTIVE []
+synonym: "AV290867" RELATED ADJECTIVE []
+synonym: "Prl7a1" RELATED ADJECTIVE []
+synonym: "Prl7a2" RELATED ADJECTIVE []
+synonym: "Plf2" RELATED ADJECTIVE []
+synonym: "Plf3" RELATED ADJECTIVE []
+synonym: "Plf1" RELATED ADJECTIVE []
+synonym: "containing prolactin" RELATED ADJECTIVE []
+synonym: "PL-I" RELATED ADJECTIVE []
+synonym: "Placental prolactin-like protein M" RELATED ADJECTIVE []
+synonym: "Plf" RELATED ADJECTIVE []
+synonym: "Placental prolactin-like protein L" RELATED ADJECTIVE []
+synonym: "Prl2a1" RELATED ADJECTIVE []
+synonym: "Protein-tyrosine phosphatase 4a1" RELATED ADJECTIVE []
+synonym: "Protein-tyrosine phosphatase 4a2" RELATED ADJECTIVE []
+synonym: "Protein-tyrosine phosphatase 4a3" RELATED ADJECTIVE []
+synonym: "Prolactin-3D1" RELATED ADJECTIVE []
+synonym: "PRL-like protein M" RELATED ADJECTIVE []
+synonym: "PRL-like protein L" RELATED ADJECTIVE []
+synonym: "Placental prolactin-like protein E" RELATED ADJECTIVE []
+synonym: "Plfr" RELATED ADJECTIVE []
+synonym: "Prolactin-like protein C-beta" RELATED ADJECTIVE []
+synonym: "Prl2b1" RELATED ADJECTIVE []
+synonym: "Pl1" RELATED ADJECTIVE []
+synonym: "Prl2c4" RELATED ADJECTIVE []
+synonym: "PRL-like protein K" RELATED ADJECTIVE []
+synonym: "Prl8a6" RELATED ADJECTIVE []
+synonym: "PLP-F" RELATED ADJECTIVE []
+synonym: "PLP-G" RELATED ADJECTIVE []
+synonym: "PLP-E" RELATED ADJECTIVE []
+synonym: "PLP-B" RELATED ADJECTIVE []
+synonym: "PLP-A" RELATED ADJECTIVE []
+synonym: "PLP-N" RELATED ADJECTIVE []
+synonym: "PLP-O" RELATED ADJECTIVE []
+synonym: "PLP-L" RELATED ADJECTIVE []
+synonym: "PLP-M" RELATED ADJECTIVE []
+synonym: "PLP-J" RELATED ADJECTIVE []
+synonym: "PLP-K" RELATED ADJECTIVE []
+synonym: "PRL-2" RELATED ADJECTIVE []
+synonym: "PRL-3" RELATED ADJECTIVE []
+synonym: "Prl1a1" RELATED ADJECTIVE []
+synonym: "Prolactin-7A2" RELATED ADJECTIVE []
+synonym: "Chorionic somatomammotropin hormone 2" RELATED ADJECTIVE []
+synonym: "Mrp1" RELATED ADJECTIVE []
+synonym: "Mrp3" RELATED ADJECTIVE []
+synonym: "Mrp2" RELATED ADJECTIVE []
+synonym: "Prl6a1" RELATED ADJECTIVE []
+synonym: "Pl-2" RELATED ADJECTIVE []
+synonym: "Pl-1" RELATED ADJECTIVE []
+synonym: "Prl2c3" RELATED ADJECTIVE []
+synonym: "Prl2c2" RELATED ADJECTIVE []
+synonym: "Csh2" RELATED ADJECTIVE []
+synonym: "Csh1" RELATED ADJECTIVE []
+synonym: "D13Wsu14e" RELATED ADJECTIVE []
+synonym: "PRL-like protein E" RELATED ADJECTIVE []
+synonym: "Prolactin-like protein C-alpha" RELATED ADJECTIVE []
+synonym: "Prlpg" RELATED ADJECTIVE []
+synonym: "PLP-C2" RELATED ADJECTIVE []
+synonym: "PLP-C3" RELATED ADJECTIVE []
+synonym: "PLP-C1" RELATED ADJECTIVE []
+synonym: "Prlpe" RELATED ADJECTIVE []
+synonym: "Placental prolactin-like protein C2" RELATED ADJECTIVE []
+synonym: "PLP C-beta" RELATED ADJECTIVE []
+synonym: "Prl5a1" RELATED ADJECTIVE []
+synonym: "Prolactin-7B1" RELATED ADJECTIVE []
+synonym: "Prolactin-like protein I" RELATED ADJECTIVE []
+synonym: "Pl2" RELATED ADJECTIVE []
+synonym: "Proliferin-1" RELATED ADJECTIVE []
+synonym: "Proliferin-3" RELATED ADJECTIVE []
+synonym: "Proliferin-2" RELATED ADJECTIVE []
+synonym: "Prolactin-like protein C-gamma" RELATED ADJECTIVE []
+synonym: "Prolactin-4A1" RELATED ADJECTIVE []
+synonym: "Chorionic somatomammotropin hormone 1" RELATED ADJECTIVE []
+synonym: "Prl3d1" RELATED ADJECTIVE []
+synonym: "Prl2" RELATED ADJECTIVE []
+synonym: "Prl3" RELATED ADJECTIVE []
+synonym: "PL-II" RELATED ADJECTIVE []
+synonym: "Prl1" RELATED ADJECTIVE []
+synonym: "Mitogen-regulated protein 1" RELATED ADJECTIVE []
+synonym: "Prolactin-7C1" RELATED ADJECTIVE []
+synonym: "Mitogen-regulated protein 3" RELATED ADJECTIVE []
+synonym: "Mitogen-regulated protein 2" RELATED ADJECTIVE []
+synonym: "Ptp4a1" RELATED ADJECTIVE []
+synonym: "Ptp4a3" RELATED ADJECTIVE []
+synonym: "Ptp4a2" RELATED ADJECTIVE []
+synonym: "Placental prolactin-like protein K" RELATED ADJECTIVE []
+synonym: "Proliferin-related protein" RELATED ADJECTIVE []
+synonym: "Prolactin-8A9" RELATED ADJECTIVE []
+synonym: "Prolactin-8A8" RELATED ADJECTIVE []
+synonym: "Prolactin-2C3" RELATED ADJECTIVE []
+synonym: "Placental lactogen I" RELATED ADJECTIVE []
+synonym: "Protein-tyrosine phosphatase of regenerating liver 1" RELATED ADJECTIVE []
+synonym: "Protein-tyrosine phosphatase of regenerating liver 3" RELATED ADJECTIVE []
+synonym: "Prl3c1" RELATED ADJECTIVE []
+synonym: "Protein tyrosine phosphatase type IVA 3" RELATED ADJECTIVE []
+synonym: "Protein tyrosine phosphatase type IVA 2" RELATED ADJECTIVE []
+synonym: "Protein tyrosine phosphatase type IVA 1" RELATED ADJECTIVE []
+synonym: "Prolactin-3C1" RELATED ADJECTIVE []
+synonym: "Prolactin-7D1" RELATED ADJECTIVE []
+synonym: "Prl7d1" RELATED ADJECTIVE []
+synonym: "PRL-1" RELATED ADJECTIVE []
+synonym: "PLP C-gamma" RELATED ADJECTIVE []
+synonym: "Prolactin-8A6" RELATED ADJECTIVE []
+synonym: "Prlpc1" RELATED ADJECTIVE []
+synonym: "Prolactin-like protein C" RELATED ADJECTIVE []
+synonym: "Prlpc3" RELATED ADJECTIVE []
+synonym: "Prlpc2" RELATED ADJECTIVE []
+synonym: "Placental lactogen II" RELATED ADJECTIVE []
+synonym: "Prolactin-2C2" RELATED ADJECTIVE []
+synonym: "Prolactin-2C4" RELATED ADJECTIVE []
+synonym: "Prl3b1" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 17062
+name: Ly6
+synonym: "Ly6" RELATED ADJECTIVE []
+synonym: "DAG" RELATED ADJECTIVE []
+synonym: "TAP" RELATED ADJECTIVE []
+synonym: "Ly6a" RELATED ADJECTIVE []
+synonym: "Ly-27" RELATED ADJECTIVE []
+synonym: "Ly-6" RELATED ADJECTIVE []
+synonym: "Ly-6A.2/Ly-6E.1" RELATED ADJECTIVE []
+synonym: "Ala-1" RELATED ADJECTIVE []
+synonym: "H9/25" RELATED ADJECTIVE []
+synonym: "T-cell-activating protein" RELATED ADJECTIVE []
+synonym: "SCA-1" RELATED ADJECTIVE []
+synonym: "Ly27" RELATED ADJECTIVE []
+synonym: "Stem cell antigen 1" RELATED ADJECTIVE []
+synonym: "Lymphocyte antigen 6A-2/6E-1" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 19133
+name: Prph2
+synonym: "AOFMD" RELATED ADJECTIVE []
+synonym: "peripherin" RELATED ADJECTIVE []
+synonym: "Peripherin" RELATED ADJECTIVE []
+synonym: "rds" RELATED ADJECTIVE []
+synonym: "RP7" RELATED ADJECTIVE []
+synonym: "Rd-2" RELATED ADJECTIVE []
+synonym: "Prph2" RELATED ADJECTIVE []
+synonym: "Rd2" RELATED ADJECTIVE []
+synonym: "PRPH" RELATED ADJECTIVE []
+synonym: "Rds" RELATED ADJECTIVE []
+synonym: "AVMD" RELATED ADJECTIVE []
+synonym: "Tspan22" RELATED ADJECTIVE []
+synonym: "Nmf193" RELATED ADJECTIVE []
+synonym: "Peripherin-2" RELATED ADJECTIVE []
+synonym: "Retinal degeneration slow protein" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 238276
+name: Akap5
+synonym: "Akap5" RELATED ADJECTIVE []
+synonym: "A-kinase anchor protein 150 kDa" RELATED ADJECTIVE []
+synonym: "AKAP-5" RELATED ADJECTIVE []
+synonym: "AKAP150" RELATED ADJECTIVE []
+synonym: "Gm258" RELATED ADJECTIVE []
+synonym: "3526401B18Rik" RELATED ADJECTIVE []
+synonym: "Akap150" RELATED ADJECTIVE []
+synonym: "cAMP-dependent protein kinase regulatory subunit II high affinity-binding protein" RELATED ADJECTIVE []
+synonym: "A-kinase anchor protein 5" RELATED ADJECTIVE []
+synonym: "P150" RELATED ADJECTIVE []
+synonym: "BB098886" RELATED ADJECTIVE []
+synonym: "AKAP 150" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 13002
+name: Dnajc5
+synonym: "Csp" RELATED ADJECTIVE []
+synonym: "Cysteine string protein" RELATED ADJECTIVE []
+synonym: "AU018536" RELATED ADJECTIVE []
+synonym: "Dnajc5" RELATED ADJECTIVE []
+synonym: "csp" RELATED ADJECTIVE []
+synonym: "DnaJ homolog subfamily C member 5" RELATED ADJECTIVE []
+synonym: "2610314I24Rik" RELATED ADJECTIVE []
+synonym: "CSP" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 6866
+name: TAC3
+synonym: "NKNB" RELATED ADJECTIVE []
+synonym: "NKB" RELATED ADJECTIVE []
+synonym: "Tachykinin-3" RELATED ADJECTIVE []
+synonym: "TAC3" RELATED ADJECTIVE []
+synonym: "Neuromedin-K" RELATED ADJECTIVE []
+synonym: "ZNEUROK1" RELATED ADJECTIVE []
+synonym: "UNQ585/PRO1155" RELATED ADJECTIVE []
+synonym: "PRO1155" RELATED ADJECTIVE []
+synonym: "Neurokinin-B" RELATED ADJECTIVE []
+synonym: "HH10" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 19164
+name: Psen1
+synonym: "PS1-CTF12" RELATED ADJECTIVE []
+synonym: "presenilin-1" RELATED ADJECTIVE []
+synonym: "Presenilin-1 CTF subunit" RELATED ADJECTIVE []
+synonym: "Presenilin-1 NTF subunit" RELATED ADJECTIVE []
+synonym: "Presenilin-1 CTF12" RELATED ADJECTIVE []
+synonym: "Psen1" RELATED ADJECTIVE []
+synonym: "Presenilin-1" RELATED ADJECTIVE []
+synonym: "S182" RELATED ADJECTIVE []
+synonym: "PS-1" RELATED ADJECTIVE []
+synonym: "PS1" RELATED ADJECTIVE []
+synonym: "Protein S182" RELATED ADJECTIVE []
+synonym: "Ad3h" RELATED ADJECTIVE []
+synonym: "Psnl1" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 56047
+name: Msln
+synonym: "MPF" RELATED ADJECTIVE []
+synonym: "Mesothelin" RELATED ADJECTIVE []
+synonym: "Mesothelin, cleaved form" RELATED ADJECTIVE []
+synonym: "Megakaryocyte-potentiating factor" RELATED ADJECTIVE []
+synonym: "mesothelin" RELATED ADJECTIVE []
+synonym: "Mes" RELATED ADJECTIVE []
+synonym: "Mpf" RELATED ADJECTIVE []
+synonym: "Msln" RELATED ADJECTIVE []
+synonym: "Pre-pro-megakaryocyte-potentiating factor" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 16168
+name: Il15
+synonym: "AI503618" RELATED ADJECTIVE []
+synonym: "IL-15" RELATED ADJECTIVE []
+synonym: "interleukin-15" RELATED ADJECTIVE []
+synonym: "Il15" RELATED ADJECTIVE []
+synonym: "Interleukin-15" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 64242
+name: Ngb
+synonym: "Neuroglobin" RELATED ADJECTIVE []
+synonym: "Ngb" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 13043
+name: Cttn
+synonym: "1110020L01Rik" RELATED ADJECTIVE []
+synonym: "Ems1" RELATED ADJECTIVE []
+synonym: "Cttn" RELATED ADJECTIVE []
+synonym: "cortactin" RELATED ADJECTIVE []
+synonym: "Src substrate cortactin" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 13051
+name: Cx3cr1
+synonym: "Cx3cr1" RELATED ADJECTIVE []
+synonym: "CX3CR1" RELATED ADJECTIVE []
+synonym: "C-X3-C CKR-1" RELATED ADJECTIVE []
+synonym: "CX3C chemokine receptor 1" RELATED ADJECTIVE []
+synonym: "Fractalkine receptor" RELATED ADJECTIVE []
+synonym: "fractalkine" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 16854
+name: Lgals3
+synonym: "Laminin-binding protein" RELATED ADJECTIVE []
+synonym: "Gal-3" RELATED ADJECTIVE []
+synonym: "gal3" RELATED ADJECTIVE []
+synonym: "L-34" RELATED ADJECTIVE []
+synonym: "Mac-2 antigen" RELATED ADJECTIVE []
+synonym: "CBP 35" RELATED ADJECTIVE []
+synonym: "Mac-2" RELATED ADJECTIVE []
+synonym: "L-34 galactoside-binding lectin" RELATED ADJECTIVE []
+synonym: "Galactose-specific lectin 3" RELATED ADJECTIVE []
+synonym: "IgE-binding protein" RELATED ADJECTIVE []
+synonym: "galectin-3" RELATED ADJECTIVE []
+synonym: "Lgals3" RELATED ADJECTIVE []
+synonym: "35 kDa lectin" RELATED ADJECTIVE []
+synonym: "Galectin-3" RELATED ADJECTIVE []
+synonym: "Carbohydrate-binding protein 35" RELATED ADJECTIVE []
+synonym: "Lectin L-29" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 17181
+name: Matn2
+synonym: "Crtm2" RELATED ADJECTIVE []
+synonym: "Matn2" RELATED ADJECTIVE []
+synonym: "Matrilin-2" RELATED ADJECTIVE []
+synonym: "matrilin-2" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 17189
+name: Mb
+synonym: "B-cell antigen receptor complex-associated protein alpha chain" RELATED ADJECTIVE []
+synonym: "Mb21d2" RELATED ADJECTIVE []
+synonym: "m-cGAS" RELATED ADJECTIVE []
+synonym: "CAMPATH-1 antigen" RELATED ADJECTIVE []
+synonym: "Mab-21 domain-containing protein 1" RELATED ADJECTIVE []
+synonym: "Mab-21 domain-containing protein 2" RELATED ADJECTIVE []
+synonym: "MB-1 membrane glycoprotein" RELATED ADJECTIVE []
+synonym: "H-2Mb1" RELATED ADJECTIVE []
+synonym: "Mb21d1" RELATED ADJECTIVE []
+synonym: "Iga" RELATED ADJECTIVE []
+synonym: "Protein MB21D2" RELATED ADJECTIVE []
+synonym: "myoglobin" RELATED ADJECTIVE []
+synonym: "Surface IgM-associated protein" RELATED ADJECTIVE []
+synonym: "cGAMP synthase" RELATED ADJECTIVE []
+synonym: "Ig-alpha" RELATED ADJECTIVE []
+synonym: "Class II histocompatibility antigen, M beta 1 chain" RELATED ADJECTIVE []
+synonym: "Mb7" RELATED ADJECTIVE []
+synonym: "Nucleosome assembly protein 1-like 3" RELATED ADJECTIVE []
+synonym: "Cd52" RELATED ADJECTIVE []
+synonym: "Mb20" RELATED ADJECTIVE []
+synonym: "Mb" RELATED ADJECTIVE []
+synonym: "Cyclic GMP-AMP synthase" RELATED ADJECTIVE []
+synonym: "Nap1l3" RELATED ADJECTIVE []
+synonym: "H2-DMb1" RELATED ADJECTIVE []
+synonym: "Mb-1" RELATED ADJECTIVE []
+synonym: "Cdw52" RELATED ADJECTIVE []
+synonym: "Cd79a" RELATED ADJECTIVE []
+synonym: "H2-M beta 1 chain" RELATED ADJECTIVE []
+synonym: "Membrane-bound immunoglobulin-associated protein" RELATED ADJECTIVE []
+synonym: "AI325109" RELATED ADJECTIVE []
+synonym: "Lymphocyte differentiation antigen B7" RELATED ADJECTIVE []
+synonym: "cGAS" RELATED ADJECTIVE []
+synonym: "Brain-specific protein MB20" RELATED ADJECTIVE []
+synonym: "Myoglobin" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 19247
+name: Ptpn11
+synonym: "SHP-2" RELATED ADJECTIVE []
+synonym: "AW536184" RELATED ADJECTIVE []
+synonym: "Ptpn11" RELATED ADJECTIVE []
+synonym: "Tyrosine-protein phosphatase non-receptor type 11" RELATED ADJECTIVE []
+synonym: "PTP1D" RELATED ADJECTIVE []
+synonym: "2700084A17Rik" RELATED ADJECTIVE []
+synonym: "PTP2C" RELATED ADJECTIVE []
+synonym: "SAP-2" RELATED ADJECTIVE []
+synonym: "Shp2" RELATED ADJECTIVE []
+synonym: "SH-PTP2" RELATED ADJECTIVE []
+synonym: "SH-PTP3" RELATED ADJECTIVE []
+synonym: "Protein-tyrosine phosphatase SYP" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 12425
+name: Cckar
+synonym: "Cholecystokinin receptor type A" RELATED ADJECTIVE []
+synonym: "CCK1-R" RELATED ADJECTIVE []
+synonym: "Cholecystokinin-1 receptor" RELATED ADJECTIVE []
+synonym: "AW106902" RELATED ADJECTIVE []
+synonym: "Cckar" RELATED ADJECTIVE []
+synonym: "CCK-AR" RELATED ADJECTIVE []
+synonym: "CCK-A receptor" RELATED ADJECTIVE []
+synonym: "cholecystokinin" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 269116
+name: Nfasc
+synonym: "Neurofascin" RELATED ADJECTIVE []
+synonym: "AA387016" RELATED ADJECTIVE []
+synonym: "D430023G06Rik" RELATED ADJECTIVE []
+synonym: "mKIAA0756" RELATED ADJECTIVE []
+synonym: "NF" RELATED ADJECTIVE []
+synonym: "Nfasc" RELATED ADJECTIVE []
+synonym: "neurofascin" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 104245
+name: Slc6a5
+synonym: "Slc6a5" RELATED ADJECTIVE []
+synonym: "Glyt2" RELATED ADJECTIVE []
+synonym: "Sodium- and chloride-dependent glycine transporter 2" RELATED ADJECTIVE []
+synonym: "Solute carrier family 6 member 5" RELATED ADJECTIVE []
+synonym: "GlyT2" RELATED ADJECTIVE []
+synonym: "GlyT-2" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 15171
+name: Hcrt
+synonym: "Hcrt2" RELATED ADJECTIVE []
+synonym: "Orexin" RELATED ADJECTIVE []
+synonym: "Hypocretin" RELATED ADJECTIVE []
+synonym: "Ppox" RELATED ADJECTIVE []
+synonym: "Orexin-B" RELATED ADJECTIVE []
+synonym: "Orexin-A" RELATED ADJECTIVE []
+synonym: "orexin" RELATED ADJECTIVE []
+synonym: "PPOX" RELATED ADJECTIVE []
+synonym: "Hcrt1" RELATED ADJECTIVE []
+synonym: "Ox" RELATED ADJECTIVE []
+synonym: "Hcrt" RELATED ADJECTIVE []
+synonym: "Hypocretin-1" RELATED ADJECTIVE []
+synonym: "Hypocretin-2" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 17228
+name: Cma1
+synonym: "Mcp-5" RELATED ADJECTIVE []
+synonym: "chymase" RELATED ADJECTIVE []
+synonym: "Mcp5" RELATED ADJECTIVE []
+synonym: "Alpha-chymase" RELATED ADJECTIVE []
+synonym: "Mast cell protease I" RELATED ADJECTIVE []
+synonym: "mMCP-5" RELATED ADJECTIVE []
+synonym: "Mcpt5" RELATED ADJECTIVE []
+synonym: "Cma1" RELATED ADJECTIVE []
+synonym: "Chymase" RELATED ADJECTIVE []
+synonym: "Mast cell protease 5" RELATED ADJECTIVE []
+synonym: "MMCP-5" RELATED ADJECTIVE []
+synonym: "Mast cell chymase 1" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 17229
+name: Tpsb2
+synonym: "Tpsb2" RELATED ADJECTIVE []
+synonym: "AV011504" RELATED ADJECTIVE []
+synonym: "Mcp6" RELATED ADJECTIVE []
+synonym: "MMCP-6" RELATED ADJECTIVE []
+synonym: "tryptase" RELATED ADJECTIVE []
+synonym: "Tryptase beta-2" RELATED ADJECTIVE []
+synonym: "mMCP-6" RELATED ADJECTIVE []
+synonym: "Tryptase" RELATED ADJECTIVE []
+synonym: "Mcpt6" RELATED ADJECTIVE []
+synonym: "Mast cell protease 6" RELATED ADJECTIVE []
+synonym: "Mcp-6" RELATED ADJECTIVE []
+synonym: "Tryptase-2" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 13138
+name: Dag1
+synonym: "Dystrophin-associated glycoprotein 1" RELATED ADJECTIVE []
+synonym: "Alpha-dystroglycan" RELATED ADJECTIVE []
+synonym: "dystroglycan" RELATED ADJECTIVE []
+synonym: "Dystroglycan" RELATED ADJECTIVE []
+synonym: "DG" RELATED ADJECTIVE []
+synonym: "Alpha-DG" RELATED ADJECTIVE []
+synonym: "D9Wsu13e" RELATED ADJECTIVE []
+synonym: "Dag-1" RELATED ADJECTIVE []
+synonym: "Dag1" RELATED ADJECTIVE []
+synonym: "Beta-dystroglycan" RELATED ADJECTIVE []
+synonym: "Beta-DG" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 21333
+name: Tac1
+synonym: "PPTA" RELATED ADJECTIVE []
+synonym: "Substance P" RELATED ADJECTIVE []
+synonym: "Nkna" RELATED ADJECTIVE []
+synonym: "4930528L02Rik" RELATED ADJECTIVE []
+synonym: "NPK" RELATED ADJECTIVE []
+synonym: "NKA" RELATED ADJECTIVE []
+synonym: "Tac1" RELATED ADJECTIVE []
+synonym: "Tac2" RELATED ADJECTIVE []
+synonym: "PPT" RELATED ADJECTIVE []
+synonym: "Neuropeptide gamma" RELATED ADJECTIVE []
+synonym: "Neuromedin L" RELATED ADJECTIVE []
+synonym: "preprotachykinin A" RELATED ADJECTIVE []
+synonym: "Neuropeptide K" RELATED ADJECTIVE []
+synonym: "PPT-A" RELATED ADJECTIVE []
+synonym: "Protachykinin-1" RELATED ADJECTIVE []
+synonym: "Neurokinin A" RELATED ADJECTIVE []
+synonym: "Substance K" RELATED ADJECTIVE []
+synonym: "C-terminal-flanking peptide" RELATED ADJECTIVE []
+synonym: "Nka" RELATED ADJECTIVE []
+synonym: "NK-1" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 21334
+name: Tac2
+synonym: "TAC3" RELATED ADJECTIVE []
+synonym: "PPT-B" RELATED ADJECTIVE []
+synonym: "Substance P" RELATED ADJECTIVE []
+synonym: "Nkna" RELATED ADJECTIVE []
+synonym: "Neuromedin-K" RELATED ADJECTIVE []
+synonym: "Preprotachykinin-B" RELATED ADJECTIVE []
+synonym: "Neuropeptide K" RELATED ADJECTIVE []
+synonym: "ZNEUROK1" RELATED ADJECTIVE []
+synonym: "Protachykinin-1" RELATED ADJECTIVE []
+synonym: "Neuropeptide gamma" RELATED ADJECTIVE []
+synonym: "Substance K" RELATED ADJECTIVE []
+synonym: "C-terminal-flanking peptide" RELATED ADJECTIVE []
+synonym: "Nka" RELATED ADJECTIVE []
+synonym: "Neurokinin B-like protein Zneurok1" RELATED ADJECTIVE []
+synonym: "PPT" RELATED ADJECTIVE []
+synonym: "Neurokinin A" RELATED ADJECTIVE []
+synonym: "preprotachykinin B" RELATED ADJECTIVE []
+synonym: "NKA" RELATED ADJECTIVE []
+synonym: "NKB" RELATED ADJECTIVE []
+synonym: "NPK" RELATED ADJECTIVE []
+synonym: "Tac1" RELATED ADJECTIVE []
+synonym: "Tac2" RELATED ADJECTIVE []
+synonym: "Tac3" RELATED ADJECTIVE []
+synonym: "Tachykinin-3" RELATED ADJECTIVE []
+synonym: "Neuromedin L" RELATED ADJECTIVE []
+synonym: "Nknb" RELATED ADJECTIVE []
+synonym: "Neurokinin-B" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 21336
+name: Tacr1
+synonym: "Nk1r" RELATED ADJECTIVE []
+synonym: "NK1R" RELATED ADJECTIVE []
+synonym: "NK-1 receptor" RELATED ADJECTIVE []
+synonym: "substance P receptor" RELATED ADJECTIVE []
+synonym: "NK-1R" RELATED ADJECTIVE []
+synonym: "Tachykinin receptor 1" RELATED ADJECTIVE []
+synonym: "neurokinin 1" RELATED ADJECTIVE []
+synonym: "SPR" RELATED ADJECTIVE []
+synonym: "Tac1r" RELATED ADJECTIVE []
+synonym: "tachykinin receptor 1" RELATED ADJECTIVE []
+synonym: "Tacr1" RELATED ADJECTIVE []
+synonym: "Substance-P receptor" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 15194
+name: Htt
+synonym: "Huntingtin" RELATED ADJECTIVE []
+synonym: "HD protein homolog" RELATED ADJECTIVE []
+synonym: "Sert" RELATED ADJECTIVE []
+synonym: "5HTT" RELATED ADJECTIVE []
+synonym: "IT15" RELATED ADJECTIVE []
+synonym: "Slc6a4" RELATED ADJECTIVE []
+synonym: "C430023I11Rik" RELATED ADJECTIVE []
+synonym: "Sodium-dependent serotonin transporter" RELATED ADJECTIVE []
+synonym: "Solute carrier family 6 member 4" RELATED ADJECTIVE []
+synonym: "huntingtin" RELATED ADJECTIVE []
+synonym: "Htt" RELATED ADJECTIVE []
+synonym: "Hd" RELATED ADJECTIVE []
+synonym: "HTT" RELATED ADJECTIVE []
+synonym: "AI256365" RELATED ADJECTIVE []
+synonym: "5HT transporter" RELATED ADJECTIVE []
+synonym: "Huntington disease protein homolog" RELATED ADJECTIVE []
+synonym: "Hdh" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 19293
+name: Pvalb
+synonym: "PV" RELATED ADJECTIVE []
+synonym: "Pva" RELATED ADJECTIVE []
+synonym: "Parv" RELATED ADJECTIVE []
+synonym: "Pvalb" RELATED ADJECTIVE []
+synonym: "parvalbumin" RELATED ADJECTIVE []
+synonym: "Parvalbumin" RELATED ADJECTIVE []
+synonym: "Parvalbumin alpha" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 16187
+name: Il3
+synonym: "BPA" RELATED ADJECTIVE []
+synonym: "HCGF" RELATED ADJECTIVE []
+synonym: "MCGF" RELATED ADJECTIVE []
+synonym: "Mast cell growth factor" RELATED ADJECTIVE []
+synonym: "Interleukin-3" RELATED ADJECTIVE []
+synonym: "P-cell-stimulating factor" RELATED ADJECTIVE []
+synonym: "Hematopoietic growth factor" RELATED ADJECTIVE []
+synonym: "Il-3" RELATED ADJECTIVE []
+synonym: "interleukin-3" RELATED ADJECTIVE []
+synonym: "Il3" RELATED ADJECTIVE []
+synonym: "Multipotential colony-stimulating factor" RELATED ADJECTIVE []
+synonym: "IL-3" RELATED ADJECTIVE []
+synonym: "Csfmu" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 27494
+name: Amot
+synonym: "angiomotin" RELATED ADJECTIVE []
+synonym: "CAG-2" RELATED ADJECTIVE []
+synonym: "Kiaa1071" RELATED ADJECTIVE []
+synonym: "Sii6" RELATED ADJECTIVE []
+synonym: "Amot" RELATED ADJECTIVE []
+synonym: "D0Kist1" RELATED ADJECTIVE []
+synonym: "Angiomotin" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 21351
+name: Taldo1
+synonym: "Tal" RELATED ADJECTIVE []
+synonym: "transaldolase" RELATED ADJECTIVE []
+synonym: "Taldo" RELATED ADJECTIVE []
+synonym: "Transaldolase" RELATED ADJECTIVE []
+synonym: "Taldo1" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 21356
+name: Tapbp
+synonym: "Tapa" RELATED ADJECTIVE []
+synonym: "D17Wsu91e" RELATED ADJECTIVE []
+synonym: "Tapasin" RELATED ADJECTIVE []
+synonym: "TPN" RELATED ADJECTIVE []
+synonym: "TPSN" RELATED ADJECTIVE []
+synonym: "Tapbp" RELATED ADJECTIVE []
+synonym: "TAP-associated protein" RELATED ADJECTIVE []
+synonym: "TAP-binding protein" RELATED ADJECTIVE []
+synonym: "tapasin" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 949101
+name: fliC
+synonym: "flagellin" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 21367
+name: Cntn2
+synonym: "TAG-1" RELATED ADJECTIVE []
+synonym: "Tax" RELATED ADJECTIVE []
+synonym: "Cntn2" RELATED ADJECTIVE []
+synonym: "Contactin-2" RELATED ADJECTIVE []
+synonym: "TAX-1" RELATED ADJECTIVE []
+synonym: "contactin" RELATED ADJECTIVE []
+synonym: "D130012K04Rik" RELATED ADJECTIVE []
+synonym: "Transient axonal glycoprotein 1" RELATED ADJECTIVE []
+synonym: "Axonin-1" RELATED ADJECTIVE []
+synonym: "Axonal glycoprotein TAG-1" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 58234
+name: Shank3
+synonym: "Proline-rich synapse-associated protein 2" RELATED ADJECTIVE []
+synonym: "SHANK3c-4" RELATED ADJECTIVE []
+synonym: "Prosap2" RELATED ADJECTIVE []
+synonym: "SH3 and multiple ankyrin repeat domains protein 3" RELATED ADJECTIVE []
+synonym: "Shank3b" RELATED ADJECTIVE []
+synonym: "ProSAP2" RELATED ADJECTIVE []
+synonym: "Shank 3" RELATED ADJECTIVE []
+synonym: "SPANK-2" RELATED ADJECTIVE []
+synonym: "AI841104" RELATED ADJECTIVE []
+synonym: "SHANK3c-3" RELATED ADJECTIVE []
+synonym: "Kiaa1650" RELATED ADJECTIVE []
+synonym: "Shank3" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 20287
+name: Sct
+synonym: "Sct" RELATED ADJECTIVE []
+synonym: "secretin" RELATED ADJECTIVE []
+synonym: "Secretin" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 56191
+name: Tro
+synonym: "trophinin" RELATED ADJECTIVE []
+synonym: "Tro" RELATED ADJECTIVE []
+synonym: "Trol" RELATED ADJECTIVE []
+synonym: "Maged3" RELATED ADJECTIVE []
+synonym: "Maged3l" RELATED ADJECTIVE []
+synonym: "magphinin" RELATED ADJECTIVE []
+synonym: "AA409408" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 17283
+name: Men1
+synonym: "Menin" RELATED ADJECTIVE []
+synonym: "menin" RELATED ADJECTIVE []
+synonym: "Men1" RELATED ADJECTIVE []
+synonym: "AW045611" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 226180
+name: Ina
+synonym: "NF66" RELATED ADJECTIVE []
+synonym: "Neurofilament-66" RELATED ADJECTIVE []
+synonym: "Alpha-Inx" RELATED ADJECTIVE []
+synonym: "alpha-internexin" RELATED ADJECTIVE []
+synonym: "AV028420" RELATED ADJECTIVE []
+synonym: "NF-66" RELATED ADJECTIVE []
+synonym: "Alpha-internexin" RELATED ADJECTIVE []
+synonym: "66 kDa neurofilament protein" RELATED ADJECTIVE []
+synonym: "Ina" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 13193
+name: Dcx
+synonym: "Doublin" RELATED ADJECTIVE []
+synonym: "Dcn" RELATED ADJECTIVE []
+synonym: "doublecortin" RELATED ADJECTIVE []
+synonym: "Lissencephalin-X" RELATED ADJECTIVE []
+synonym: "DCX" RELATED ADJECTIVE []
+synonym: "Dbct" RELATED ADJECTIVE []
+synonym: "Neuronal migration protein doublecortin" RELATED ADJECTIVE []
+synonym: "Lis-X" RELATED ADJECTIVE []
+synonym: "Dcx" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 19339
+name: Rab3a
+synonym: "Ras-related protein Rab-3A" RELATED ADJECTIVE []
+synonym: "rab 3a" RELATED ADJECTIVE []
+synonym: "Rab3a" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 232333
+name: Slc6a1
+synonym: "Slc6a1" RELATED ADJECTIVE []
+synonym: "GAT-1" RELATED ADJECTIVE []
+synonym: "Gabt" RELATED ADJECTIVE []
+synonym: "Solute carrier family 6 member 1" RELATED ADJECTIVE []
+synonym: "Gat1" RELATED ADJECTIVE []
+synonym: "Sodium- and chloride-dependent GABA transporter 1" RELATED ADJECTIVE []
+synonym: "GAT1" RELATED ADJECTIVE []
+synonym: "Gat-1" RELATED ADJECTIVE []
+synonym: "Xtrp1" RELATED ADJECTIVE []
+synonym: "GABATHG" RELATED ADJECTIVE []
+synonym: "A730043E01" RELATED ADJECTIVE []
+synonym: "GABATR" RELATED ADJECTIVE []
+synonym: "Gabt1" RELATED ADJECTIVE []
+synonym: "XT-1" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 56212
+name: Rhog
+synonym: "Rhog" RELATED ADJECTIVE []
+synonym: "2810426G09Rik" RELATED ADJECTIVE []
+synonym: "Sid10750" RELATED ADJECTIVE []
+synonym: "Arhg" RELATED ADJECTIVE []
+synonym: "Rho-related GTP-binding protein RhoG" RELATED ADJECTIVE []
+synonym: "Sid 10750" RELATED ADJECTIVE []
+synonym: "rhoG" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 19353
+name: Rac1
+synonym: "p21-Rac1" RELATED ADJECTIVE []
+synonym: "AL023026" RELATED ADJECTIVE []
+synonym: "rac1" RELATED ADJECTIVE []
+synonym: "D5Ertd559e" RELATED ADJECTIVE []
+synonym: "Rac1" RELATED ADJECTIVE []
+synonym: "Ras-related C3 botulinum toxin substrate 1" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 19354
+name: Rac2
+synonym: "p21-Rac2" RELATED ADJECTIVE []
+synonym: "Rac2" RELATED ADJECTIVE []
+synonym: "Protein EN-7" RELATED ADJECTIVE []
+synonym: "Ras-related C3 botulinum toxin substrate 2" RELATED ADJECTIVE []
+synonym: "AI323801" RELATED ADJECTIVE []
+synonym: "rac2" RELATED ADJECTIVE []
+synonym: "AI452260" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 56226
+name: Espn
+synonym: "je" RELATED ADJECTIVE []
+synonym: "espin" RELATED ADJECTIVE []
+synonym: "Espin" RELATED ADJECTIVE []
+synonym: "Ectoplasmic specialization protein" RELATED ADJECTIVE []
+synonym: "Espn" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 5047
+name: PAEP
+synonym: "PAEG" RELATED ADJECTIVE []
+synonym: "GdS" RELATED ADJECTIVE []
+synonym: "PAEP" RELATED ADJECTIVE []
+synonym: "glycodelin" RELATED ADJECTIVE []
+synonym: "Placental protein 14" RELATED ADJECTIVE []
+synonym: "Progesterone-associated endometrial protein" RELATED ADJECTIVE []
+synonym: "Pregnancy-associated endometrial alpha-2 globulin" RELATED ADJECTIVE []
+synonym: "Progestagen-associated endometrial protein" RELATED ADJECTIVE []
+synonym: "Glycodelin" RELATED ADJECTIVE []
+synonym: "GdA" RELATED ADJECTIVE []
+synonym: "GD" RELATED ADJECTIVE []
+synonym: "GdF" RELATED ADJECTIVE []
+synonym: "PEG" RELATED ADJECTIVE []
+synonym: "PP14" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 19412
+name: ras
+synonym: "asr" RELATED ADJECTIVE []
+synonym: "ras" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 242667
+name: Dlgap3
+synonym: "Disks large-associated protein 3" RELATED ADJECTIVE []
+synonym: "PSD-95/SAP90-binding protein 3" RELATED ADJECTIVE []
+synonym: "DAP-3" RELATED ADJECTIVE []
+synonym: "Dlgap3" RELATED ADJECTIVE []
+synonym: "Dap3" RELATED ADJECTIVE []
+synonym: "Sapap3" RELATED ADJECTIVE []
+synonym: "BC058433" RELATED ADJECTIVE []
+synonym: "Prpl8" RELATED ADJECTIVE []
+synonym: "DAP3" RELATED ADJECTIVE []
+synonym: "SAPAP3" RELATED ADJECTIVE []
+synonym: "SAP90/PSD-95-associated protein 3" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 109552
+name: Sri
+synonym: "2210417O06Rik" RELATED ADJECTIVE []
+synonym: "2900070H08Rik" RELATED ADJECTIVE []
+synonym: "Sri" RELATED ADJECTIVE []
+synonym: "sorcin" RELATED ADJECTIVE []
+synonym: "Sor" RELATED ADJECTIVE []
+synonym: "Sorcin" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 17393
+name: Mmp7
+synonym: "" RELATED ADJECTIVE []
+synonym: "matrilysin" RELATED ADJECTIVE []
+synonym: "MMP-7" RELATED ADJECTIVE []
+synonym: "Uterine metalloproteinase" RELATED ADJECTIVE []
+synonym: "Matrix metalloproteinase-7" RELATED ADJECTIVE []
+synonym: "Pump-1 protease" RELATED ADJECTIVE []
+synonym: "Matrilysin" RELATED ADJECTIVE []
+synonym: "Matrin" RELATED ADJECTIVE []
+synonym: "Mmp7" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 23196666
+name: AQ00_RS04750
+synonym: "coagulase" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 56320
+name: Dbn1
+synonym: "Drebrin" RELATED ADJECTIVE []
+synonym: "Drba" RELATED ADJECTIVE []
+synonym: "drebin" RELATED ADJECTIVE []
+synonym: "Developmentally-regulated brain protein" RELATED ADJECTIVE []
+synonym: "Dbn1" RELATED ADJECTIVE []
+synonym: "drebrin" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 80907
+name: Lactb
+synonym: "LACT-1" RELATED ADJECTIVE []
+synonym: "Lactb2" RELATED ADJECTIVE []
+synonym: "Lact1" RELATED ADJECTIVE []
+synonym: "Beta-lactamase-like protein 2" RELATED ADJECTIVE []
+synonym: "Mrpl56" RELATED ADJECTIVE []
+synonym: "Lactb" RELATED ADJECTIVE []
+synonym: "beta-lactamase" RELATED ADJECTIVE []
+synonym: "Serine beta-lactamase-like protein LACTB, mitochondrial" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 21338
+name: Tacr3
+synonym: "Neurokinin B receptor" RELATED ADJECTIVE []
+synonym: "Nk3r" RELATED ADJECTIVE []
+synonym: "NK-3R" RELATED ADJECTIVE []
+synonym: "Tachykinin receptor 3" RELATED ADJECTIVE []
+synonym: "NKR" RELATED ADJECTIVE []
+synonym: "tachykinin 3" RELATED ADJECTIVE []
+synonym: "Nkr" RELATED ADJECTIVE []
+synonym: "NK-3 receptor" RELATED ADJECTIVE []
+synonym: "Tac3r" RELATED ADJECTIVE []
+synonym: "Tacr3" RELATED ADJECTIVE []
+synonym: "Neuromedin-K receptor" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 13346
+name: Des
+synonym: "Degs1" RELATED ADJECTIVE []
+synonym: "Degs" RELATED ADJECTIVE []
+synonym: "Sphingolipid delta(4)-desaturase DES1" RELATED ADJECTIVE []
+synonym: "Degenerative spermatocyte homolog 1" RELATED ADJECTIVE []
+synonym: "Desmin" RELATED ADJECTIVE []
+synonym: "Des" RELATED ADJECTIVE []
+synonym: "Des1" RELATED ADJECTIVE []
+synonym: "Mdes" RELATED ADJECTIVE []
+synonym: "desmin" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 107561
+name: Cgrp
+synonym: "CGRP" RELATED ADJECTIVE []
+synonym: "positive CGRP" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 56376
+name: Pdlim5
+synonym: "Pdlim5" RELATED ADJECTIVE []
+synonym: "AI987914" RELATED ADJECTIVE []
+synonym: "Enigma-like PDZ and LIM domains protein" RELATED ADJECTIVE []
+synonym: "1110001A05Rik" RELATED ADJECTIVE []
+synonym: "Enh" RELATED ADJECTIVE []
+synonym: "LIM" RELATED ADJECTIVE []
+synonym: "Enigma homolog" RELATED ADJECTIVE []
+synonym: "PDZ and LIM domain protein 5" RELATED ADJECTIVE []
+synonym: "Enh1" RELATED ADJECTIVE []
+synonym: "Enh3" RELATED ADJECTIVE []
+synonym: "Enh2" RELATED ADJECTIVE []
+synonym: "C87059" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 13383
+name: Dlg1
+synonym: "Dlg1" RELATED ADJECTIVE []
+synonym: "SAP97" RELATED ADJECTIVE []
+synonym: "SAP-97" RELATED ADJECTIVE []
+synonym: "E-dlg/SAP97" RELATED ADJECTIVE []
+synonym: "Embryo-dlg/synapse-associated protein 97" RELATED ADJECTIVE []
+synonym: "Synapse-associated protein 97" RELATED ADJECTIVE []
+synonym: "Disks large homolog 1" RELATED ADJECTIVE []
+synonym: "B130052P05Rik" RELATED ADJECTIVE []
+synonym: "Dlgh1" RELATED ADJECTIVE []
+synonym: "mKIAA4187" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 13385
+name: Dlg4
+synonym: "Postsynaptic density protein 95" RELATED ADJECTIVE []
+synonym: "PSD-95" RELATED ADJECTIVE []
+synonym: "SAP90" RELATED ADJECTIVE []
+synonym: "Synapse-associated protein 90" RELATED ADJECTIVE []
+synonym: "PSD95" RELATED ADJECTIVE []
+synonym: "SAP90A" RELATED ADJECTIVE []
+synonym: "Dlgh4" RELATED ADJECTIVE []
+synonym: "SAP-90" RELATED ADJECTIVE []
+synonym: "Disks large homolog 4" RELATED ADJECTIVE []
+synonym: "Psd95" RELATED ADJECTIVE []
+synonym: "Dlg4" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 80979
+name: Slc26a5
+synonym: "prestin" RELATED ADJECTIVE []
+synonym: "Solute carrier family 26 member 5" RELATED ADJECTIVE []
+synonym: "Prestin" RELATED ADJECTIVE []
+synonym: "Pres" RELATED ADJECTIVE []
+synonym: "Slc26a5" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 56405
+name: Dusp14
+synonym: "MKP-6" RELATED ADJECTIVE []
+synonym: "D11Ertd395e" RELATED ADJECTIVE []
+synonym: "Dual specificity protein phosphatase 14" RELATED ADJECTIVE []
+synonym: "Mitogen-activated protein kinase phosphatase 6" RELATED ADJECTIVE []
+synonym: "MAP kinase phosphatase 6" RELATED ADJECTIVE []
+synonym: "Mkp6" RELATED ADJECTIVE []
+synonym: "2310042C07Rik" RELATED ADJECTIVE []
+synonym: "1110014C10Rik" RELATED ADJECTIVE []
+synonym: "MKP" RELATED ADJECTIVE []
+synonym: "Dusp14" RELATED ADJECTIVE []
+synonym: "MKP-L" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 109658
+name: Txlna
+synonym: "Alpha-taxilin" RELATED ADJECTIVE []
+synonym: "AW209241" RELATED ADJECTIVE []
+synonym: "Il14" RELATED ADJECTIVE []
+synonym: "Txlna" RELATED ADJECTIVE []
+synonym: "2600010N21Rik" RELATED ADJECTIVE []
+synonym: "alpha-taxilin" RELATED ADJECTIVE []
+synonym: "AI425952" RELATED ADJECTIVE []
+synonym: "Txln" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 13405
+name: Dmd
+synonym: "dystrophin" RELATED ADJECTIVE []
+synonym: "Dmd" RELATED ADJECTIVE []
+synonym: "DXSmh9" RELATED ADJECTIVE []
+synonym: "DXSmh7" RELATED ADJECTIVE []
+synonym: "Dystrophin" RELATED ADJECTIVE []
+synonym: "dys" RELATED ADJECTIVE []
+synonym: "mdx" RELATED ADJECTIVE []
+synonym: "pke" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 54366
+name: Ctnnal1
+synonym: "AI616177" RELATED ADJECTIVE []
+synonym: "ACRP" RELATED ADJECTIVE []
+synonym: "Ctnnal1" RELATED ADJECTIVE []
+synonym: "Catnal1" RELATED ADJECTIVE []
+synonym: "alpha-Catenin" RELATED ADJECTIVE []
+synonym: "Alpha-catenin-related protein" RELATED ADJECTIVE []
+synonym: "alpha-catenin" RELATED ADJECTIVE []
+synonym: "C86009" RELATED ADJECTIVE []
+synonym: "Catenin alpha-like protein 1" RELATED ADJECTIVE []
+synonym: "Alpha-catulin" RELATED ADJECTIVE []
+synonym: "AW545119" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 18619
+name: Penk
+synonym: "PPA" RELATED ADJECTIVE []
+synonym: "Met-enkephalin-Arg-Phe" RELATED ADJECTIVE []
+synonym: "PENK(143-184)" RELATED ADJECTIVE []
+synonym: "Penk" RELATED ADJECTIVE []
+synonym: "Opioid growth factor" RELATED ADJECTIVE []
+synonym: "PENK(238-259)" RELATED ADJECTIVE []
+synonym: "AI326464" RELATED ADJECTIVE []
+synonym: "Leu-enkephalin" RELATED ADJECTIVE []
+synonym: "Met-enkephalin-Arg-Ser-Leu" RELATED ADJECTIVE []
+synonym: "Penk1" RELATED ADJECTIVE []
+synonym: "Proenkephalin-A" RELATED ADJECTIVE []
+synonym: "PENK(114-133)" RELATED ADJECTIVE []
+synonym: "OGF" RELATED ADJECTIVE []
+synonym: "Synenkephalin" RELATED ADJECTIVE []
+synonym: "Met-enkephalin" RELATED ADJECTIVE []
+synonym: "PENK" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 13424
+name: Dync1h1
+synonym: "Dnch1" RELATED ADJECTIVE []
+synonym: "mKIAA0325" RELATED ADJECTIVE []
+synonym: "Loa" RELATED ADJECTIVE []
+synonym: "AI894280" RELATED ADJECTIVE []
+synonym: "DNCL" RELATED ADJECTIVE []
+synonym: "Cytoplasmic dynein heavy chain 1" RELATED ADJECTIVE []
+synonym: "dynein" RELATED ADJECTIVE []
+synonym: "Dnec1" RELATED ADJECTIVE []
+synonym: "P22" RELATED ADJECTIVE []
+synonym: "Dyhc" RELATED ADJECTIVE []
+synonym: "Cytoplasmic dynein 1 heavy chain 1" RELATED ADJECTIVE []
+synonym: "DHC1a" RELATED ADJECTIVE []
+synonym: "DHC1" RELATED ADJECTIVE []
+synonym: "MAP1C" RELATED ADJECTIVE []
+synonym: "Swl" RELATED ADJECTIVE []
+synonym: "Dnchc1" RELATED ADJECTIVE []
+synonym: "9930018I23Rik" RELATED ADJECTIVE []
+synonym: "Dnecl" RELATED ADJECTIVE []
+synonym: "Dhc1" RELATED ADJECTIVE []
+synonym: "Dynein heavy chain, cytosolic" RELATED ADJECTIVE []
+synonym: "Dync1h1" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 17523
+name: Mpo
+synonym: "Myeloperoxidase light chain" RELATED ADJECTIVE []
+synonym: "Mpo" RELATED ADJECTIVE []
+synonym: "myeloperoxidase" RELATED ADJECTIVE []
+synonym: "Myeloperoxidase heavy chain" RELATED ADJECTIVE []
+synonym: "Myeloperoxidase" RELATED ADJECTIVE []
+synonym: "MPO" RELATED ADJECTIVE []
+synonym: "mKIAA4033" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 14526
+name: Gcg
+synonym: "GLP-1" RELATED ADJECTIVE []
+synonym: "Glucagon-like peptide 1(7-36)" RELATED ADJECTIVE []
+synonym: "GLP-1(7-36)" RELATED ADJECTIVE []
+synonym: "GLP-2" RELATED ADJECTIVE []
+synonym: "PPG" RELATED ADJECTIVE []
+synonym: "Gcg" RELATED ADJECTIVE []
+synonym: "Glucagon-like peptide 1(7-37)" RELATED ADJECTIVE []
+synonym: "GLP-1(7-37)" RELATED ADJECTIVE []
+synonym: "Glicentin" RELATED ADJECTIVE []
+synonym: "Glucagon" RELATED ADJECTIVE []
+synonym: "Glicentin-related polypeptide" RELATED ADJECTIVE []
+synonym: "Immunoreactive glucagon" RELATED ADJECTIVE []
+synonym: "OXM" RELATED ADJECTIVE []
+synonym: "Oxyntomodulin" RELATED ADJECTIVE []
+synonym: "Glucagon-like peptide 1" RELATED ADJECTIVE []
+synonym: "glucagon" RELATED ADJECTIVE []
+synonym: "GRPP" RELATED ADJECTIVE []
+synonym: "Glucagon-like peptide 2" RELATED ADJECTIVE []
+synonym: "Glu" RELATED ADJECTIVE []
+synonym: "OXY" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 15212
+name: Hexb
+synonym: "N-acetyl-beta-glucosaminidase subunit beta" RELATED ADJECTIVE []
+synonym: "Beta-N-acetylhexosaminidase subunit beta" RELATED ADJECTIVE []
+synonym: "Hexb" RELATED ADJECTIVE []
+synonym: "beta-hexosaminidase" RELATED ADJECTIVE []
+synonym: "Hexosaminidase subunit B" RELATED ADJECTIVE []
+synonym: "Beta-hexosaminidase subunit beta" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 56461
+name: Kcnip3
+synonym: "4933407H12Rik" RELATED ADJECTIVE []
+synonym: "A-type potassium channel modulatory protein 3" RELATED ADJECTIVE []
+synonym: "calsenilin" RELATED ADJECTIVE []
+synonym: "AI413860" RELATED ADJECTIVE []
+synonym: "Kcnip3" RELATED ADJECTIVE []
+synonym: "Csen" RELATED ADJECTIVE []
+synonym: "Kv channel-interacting protein 3" RELATED ADJECTIVE []
+synonym: "Calsenilin" RELATED ADJECTIVE []
+synonym: "DRE-antagonist modulator" RELATED ADJECTIVE []
+synonym: "Kchip3" RELATED ADJECTIVE []
+synonym: "R74849" RELATED ADJECTIVE []
+synonym: "Calsenilin isoform 4" RELATED ADJECTIVE []
+synonym: "Dream" RELATED ADJECTIVE []
+synonym: "DREAM" RELATED ADJECTIVE []
+synonym: "KChIP3" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 66713
+name: Actr2
+synonym: "Actin-related protein 2" RELATED ADJECTIVE []
+synonym: "4921510D23Rik" RELATED ADJECTIVE []
+synonym: "Actin-like protein 2" RELATED ADJECTIVE []
+synonym: "Arp2" RELATED ADJECTIVE []
+synonym: "AA409782" RELATED ADJECTIVE []
+synonym: "D6Ertd746e" RELATED ADJECTIVE []
+synonym: "Actr2" RELATED ADJECTIVE []
+synonym: "arp2" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 11423
+name: Ache
+synonym: "Ache" RELATED ADJECTIVE []
+synonym: "Acetylcholinesterase" RELATED ADJECTIVE []
+synonym: "acetylcholinesterase" RELATED ADJECTIVE []
+synonym: "ACHE" RELATED ADJECTIVE []
+synonym: "AChE" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 29856
+name: Smtn
+synonym: "Smsmo" RELATED ADJECTIVE []
+synonym: "Smoothelin" RELATED ADJECTIVE []
+synonym: "smsmo" RELATED ADJECTIVE []
+synonym: "Smtn" RELATED ADJECTIVE []
+synonym: "smoothelin" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 216227
+name: Slc17a8
+synonym: "BC042593" RELATED ADJECTIVE []
+synonym: "Vesicular glutamate transporter 3" RELATED ADJECTIVE []
+synonym: "Solute carrier family 17 member 8" RELATED ADJECTIVE []
+synonym: "DFNA25" RELATED ADJECTIVE []
+synonym: "VGLUT3" RELATED ADJECTIVE []
+synonym: "Vglut3" RELATED ADJECTIVE []
+synonym: "Slc17a8" RELATED ADJECTIVE []
+synonym: "vGluT3" RELATED ADJECTIVE []
+synonym: "vesicular glutamate transporter 3" RELATED ADJECTIVE []
+synonym: "VGluT3" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 214189
+name: Scgn
+synonym: "Scg10" RELATED ADJECTIVE []
+synonym: "secretagogin" RELATED ADJECTIVE []
+synonym: "Superior cervical ganglion-10 protein" RELATED ADJECTIVE []
+synonym: "Protein SCG10" RELATED ADJECTIVE []
+synonym: "Stmn2" RELATED ADJECTIVE []
+synonym: "Stathmin-2" RELATED ADJECTIVE []
+synonym: "Scgn" RELATED ADJECTIVE []
+synonym: "Stmb2" RELATED ADJECTIVE []
+synonym: "Secretagogin" RELATED ADJECTIVE []
+synonym: "Scgn10" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 60595
+name: Actn4
+synonym: "C77391" RELATED ADJECTIVE []
+synonym: "alpha-actinin" RELATED ADJECTIVE []
+synonym: "Alpha-actinin-4" RELATED ADJECTIVE []
+synonym: "Non-muscle alpha-actinin 4" RELATED ADJECTIVE []
+synonym: "Actn4" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 107705
+name: Gkap
+synonym: "GKAP" RELATED ADJECTIVE []
+synonym: "cGMP-dependent protein kinase-anchoring protein of 42 kDa" RELATED ADJECTIVE []
+synonym: "Disks large-associated protein 1" RELATED ADJECTIVE []
+synonym: "Kiaa4162" RELATED ADJECTIVE []
+synonym: "DAP-1" RELATED ADJECTIVE []
+synonym: "SAP90/PSD-95-associated protein 1" RELATED ADJECTIVE []
+synonym: "PSD-95/SAP90-binding protein 1" RELATED ADJECTIVE []
+synonym: "Gkap42" RELATED ADJECTIVE []
+synonym: "Dlgap1" RELATED ADJECTIVE []
+synonym: "SAPAP1" RELATED ADJECTIVE []
+synonym: "Gkap1" RELATED ADJECTIVE []
+synonym: "G kinase-anchoring protein 1" RELATED ADJECTIVE []
+synonym: "Guanylate kinase-associated protein" RELATED ADJECTIVE []
+synonym: "Gkap" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 56508
+name: Rapgef4
+synonym: "cAMP-dependent Rap1 guanine-nucleotide exchange factor" RELATED ADJECTIVE []
+synonym: "cAMP-GEFII" RELATED ADJECTIVE []
+synonym: "6330581N18Rik" RELATED ADJECTIVE []
+synonym: "5730402K07Rik" RELATED ADJECTIVE []
+synonym: "mKIAA4040" RELATED ADJECTIVE []
+synonym: "Epac-2" RELATED ADJECTIVE []
+synonym: "1300003D15Rik" RELATED ADJECTIVE []
+synonym: "Rap guanine nucleotide exchange factor 4" RELATED ADJECTIVE []
+synonym: "Rapgef4" RELATED ADJECTIVE []
+synonym: "Epac2" RELATED ADJECTIVE []
+synonym: "Cgef2" RELATED ADJECTIVE []
+synonym: "Exchange factor directly activated by cAMP 2" RELATED ADJECTIVE []
+synonym: "Exchange protein directly activated by cAMP 2" RELATED ADJECTIVE []
+synonym: "EPAC 2" RELATED ADJECTIVE []
+synonym: "cAMP-regulated guanine nucleotide exchange factor II" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 52428
+name: Rhpn2
+synonym: "Rhophilin-2" RELATED ADJECTIVE []
+synonym: "1300002E07Rik" RELATED ADJECTIVE []
+synonym: "Rhpn2" RELATED ADJECTIVE []
+synonym: "C85860" RELATED ADJECTIVE []
+synonym: "AA536890" RELATED ADJECTIVE []
+synonym: "D7Ertd784e" RELATED ADJECTIVE []
+synonym: "GTP-Rho-binding protein 2" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 15567
+name: Slc6a4
+synonym: "Sert" RELATED ADJECTIVE []
+synonym: "5HTT" RELATED ADJECTIVE []
+synonym: "SLC6A4" RELATED ADJECTIVE []
+synonym: "Sodium-dependent serotonin transporter" RELATED ADJECTIVE []
+synonym: "Slc6a4" RELATED ADJECTIVE []
+synonym: "5-HTTLPR" RELATED ADJECTIVE []
+synonym: "SERT" RELATED ADJECTIVE []
+synonym: "Solute carrier family 6 member 4" RELATED ADJECTIVE []
+synonym: "Htt" RELATED ADJECTIVE []
+synonym: "AI323329" RELATED ADJECTIVE []
+synonym: "5-HTT" RELATED ADJECTIVE []
+synonym: "5HT transporter" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 11472
+name: Actn2
+synonym: "Actn2" RELATED ADJECTIVE []
+synonym: "1110008F24Rik" RELATED ADJECTIVE []
+synonym: "Alpha-actinin-2" RELATED ADJECTIVE []
+synonym: "F-actin cross-linking protein" RELATED ADJECTIVE []
+synonym: "alpha-actinin-2" RELATED ADJECTIVE []
+synonym: "Alpha-actinin skeletal muscle isoform 2" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 19674
+name: Rcvrn
+synonym: "Protein CAR" RELATED ADJECTIVE []
+synonym: "recoverin" RELATED ADJECTIVE []
+synonym: "S-modulin" RELATED ADJECTIVE []
+synonym: "Rcv1" RELATED ADJECTIVE []
+synonym: "Recoverin" RELATED ADJECTIVE []
+synonym: "Rcvrn" RELATED ADJECTIVE []
+synonym: "23 kDa photoreceptor cell-specific protein" RELATED ADJECTIVE []
+synonym: "Cancer-associated retinopathy protein" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 16591
+name: Kl
+synonym: "alpha-kl" RELATED ADJECTIVE []
+synonym: "Klotho" RELATED ADJECTIVE []
+synonym: "Klotho peptide" RELATED ADJECTIVE []
+synonym: "Kl" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 19699
+name: Reln
+synonym: "reelin" RELATED ADJECTIVE []
+synonym: "Reelin" RELATED ADJECTIVE []
+synonym: "rl" RELATED ADJECTIVE []
+synonym: "reeler" RELATED ADJECTIVE []
+synonym: "Reln" RELATED ADJECTIVE []
+synonym: "Reeler protein" RELATED ADJECTIVE []
+synonym: "Rl" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 1268
+name: CNR1
+synonym: "CNR1" RELATED ADJECTIVE []
+synonym: "CB1K5" RELATED ADJECTIVE []
+synonym: "CNR" RELATED ADJECTIVE []
+synonym: "CB1R" RELATED ADJECTIVE []
+synonym: "Cannabinoid receptor 1" RELATED ADJECTIVE []
+synonym: "CB-R" RELATED ADJECTIVE []
+synonym: "CB1" RELATED ADJECTIVE []
+synonym: "CB1A" RELATED ADJECTIVE []
+synonym: "CANN6" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 19701
+name: Ren1
+synonym: "Angiotensinogenase" RELATED ADJECTIVE []
+synonym: "Ren-1" RELATED ADJECTIVE []
+synonym: "D19352" RELATED ADJECTIVE []
+synonym: "Renin-1" RELATED ADJECTIVE []
+synonym: "Ren1" RELATED ADJECTIVE []
+synonym: "Ren" RELATED ADJECTIVE []
+synonym: "renin" RELATED ADJECTIVE []
+synonym: "Rn-1" RELATED ADJECTIVE []
+synonym: "Renin" RELATED ADJECTIVE []
+synonym: "Ren-A" RELATED ADJECTIVE []
+synonym: "Ren1c" RELATED ADJECTIVE []
+synonym: "Kidney renin" RELATED ADJECTIVE []
+synonym: "Ren1d" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 11518
+name: Add1
+synonym: "Erythrocyte adducin subunit alpha" RELATED ADJECTIVE []
+synonym: "Add1" RELATED ADJECTIVE []
+synonym: "AI256389" RELATED ADJECTIVE []
+synonym: "alpha-adducin" RELATED ADJECTIVE []
+synonym: "Alpha-adducin" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 72961
+name: Slc17a7
+synonym: "Solute carrier family 17 member 7" RELATED ADJECTIVE []
+synonym: "Vesicular glutamate transporter 1" RELATED ADJECTIVE []
+synonym: "VGLUT1" RELATED ADJECTIVE []
+synonym: "VGluT1" RELATED ADJECTIVE []
+synonym: "Slc17a7" RELATED ADJECTIVE []
+synonym: "AI851913" RELATED ADJECTIVE []
+synonym: "Bnpi" RELATED ADJECTIVE []
+synonym: "Vglut1" RELATED ADJECTIVE []
+synonym: "2900052E22Rik" RELATED ADJECTIVE []
+synonym: "Brain-specific Na(+)-dependent inorganic phosphate cotransporter" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 11535
+name: Adm
+synonym: "" RELATED ADJECTIVE []
+synonym: "Intermedin-long" RELATED ADJECTIVE []
+synonym: "Intermedin-short" RELATED ADJECTIVE []
+synonym: "IMDS" RELATED ADJECTIVE []
+synonym: "AM2" RELATED ADJECTIVE []
+synonym: "ADM" RELATED ADJECTIVE []
+synonym: "Intermedin" RELATED ADJECTIVE []
+synonym: "AM" RELATED ADJECTIVE []
+synonym: "PAMP" RELATED ADJECTIVE []
+synonym: "Proadrenomedullin N-20 terminal peptide" RELATED ADJECTIVE []
+synonym: "ADM2" RELATED ADJECTIVE []
+synonym: "Am2" RELATED ADJECTIVE []
+synonym: "ProAM N-terminal 20 peptide" RELATED ADJECTIVE []
+synonym: "IMDL" RELATED ADJECTIVE []
+synonym: "Adm" RELATED ADJECTIVE []
+synonym: "Adm2" RELATED ADJECTIVE []
+synonym: "Adrenomedullin" RELATED ADJECTIVE []
+synonym: "Adrenomedullin-2" RELATED ADJECTIVE []
+synonym: "ProAM-N20" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 17695
+name: Msmb
+synonym: "beta-MSP" RELATED ADJECTIVE []
+synonym: "Beta-microseminoprotein" RELATED ADJECTIVE []
+synonym: "PSP94" RELATED ADJECTIVE []
+synonym: "Prostate secretory protein of 94 amino acids" RELATED ADJECTIVE []
+synonym: "Psp94" RELATED ADJECTIVE []
+synonym: "PSP-94" RELATED ADJECTIVE []
+synonym: "Msmb" RELATED ADJECTIVE []
+synonym: "Prostate secreted seminal plasma protein" RELATED ADJECTIVE []
+synonym: "PIP" RELATED ADJECTIVE []
+synonym: "beta-microseminoprotein" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 13614
+name: Edn1
+synonym: "ET-1" RELATED ADJECTIVE []
+synonym: "PPET1" RELATED ADJECTIVE []
+synonym: "preproET" RELATED ADJECTIVE []
+synonym: "Preproendothelin-1" RELATED ADJECTIVE []
+synonym: "endothelin-1" RELATED ADJECTIVE []
+synonym: "Endothelin-1" RELATED ADJECTIVE []
+synonym: "Edn1" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 13615
+name: Edn2
+synonym: "VIC" RELATED ADJECTIVE []
+synonym: "ET-2" RELATED ADJECTIVE []
+synonym: "Vasoactive intestinal contractor" RELATED ADJECTIVE []
+synonym: "PPET2" RELATED ADJECTIVE []
+synonym: "endothelin-2" RELATED ADJECTIVE []
+synonym: "Preproendothelin-2" RELATED ADJECTIVE []
+synonym: "Endothelin-2" RELATED ADJECTIVE []
+synonym: "Edn2" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 13616
+name: Edn3
+synonym: "endothelin-3" RELATED ADJECTIVE []
+synonym: "114CH19" RELATED ADJECTIVE []
+synonym: "ET-3" RELATED ADJECTIVE []
+synonym: "tmgc48" RELATED ADJECTIVE []
+synonym: "PPET3" RELATED ADJECTIVE []
+synonym: "Preproendothelin-3" RELATED ADJECTIVE []
+synonym: "Endothelin-3" RELATED ADJECTIVE []
+synonym: "ls" RELATED ADJECTIVE []
+synonym: "Edn3" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 9522
+name: SCAMP1
+synonym: "SCAMP37" RELATED ADJECTIVE []
+synonym: "SCAMP1" RELATED ADJECTIVE []
+synonym: "Secretory carrier-associated membrane protein 1" RELATED ADJECTIVE []
+synonym: "SCAMP" RELATED ADJECTIVE []
+synonym: "Secretory carrier membrane protein 1" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 23859
+name: Dlg2
+synonym: "Dlgh2" RELATED ADJECTIVE []
+synonym: "PSD-93" RELATED ADJECTIVE []
+synonym: "Dlg2" RELATED ADJECTIVE []
+synonym: "Postsynaptic density protein PSD-93" RELATED ADJECTIVE []
+synonym: "A330103J02Rik" RELATED ADJECTIVE []
+synonym: "Channel-associated protein of synapse-110" RELATED ADJECTIVE []
+synonym: "PSD93" RELATED ADJECTIVE []
+synonym: "Chapsyn-110" RELATED ADJECTIVE []
+synonym: "Disks large homolog 2" RELATED ADJECTIVE []
+synonym: "Gm1197" RELATED ADJECTIVE []
+synonym: "B230218P12Rik" RELATED ADJECTIVE []
+synonym: "B330007M19Rik" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 11576
+name: Afp
+synonym: "Alpha-fetoprotein" RELATED ADJECTIVE []
+synonym: "alpha-fetoprotein" RELATED ADJECTIVE []
+synonym: "alpha-Fetoprotein" RELATED ADJECTIVE []
+synonym: "Alpha-fetoglobulin" RELATED ADJECTIVE []
+synonym: "Afp" RELATED ADJECTIVE []
+synonym: "Alpha-1-fetoprotein" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 21819
+name: Tg
+synonym: "thyroglobulin" RELATED ADJECTIVE []
+synonym: "Tg737" RELATED ADJECTIVE []
+synonym: "TgN737Rpw" RELATED ADJECTIVE []
+synonym: "Intraflagellar transport protein 88 homolog" RELATED ADJECTIVE []
+synonym: "Tgn" RELATED ADJECTIVE []
+synonym: "Ift88" RELATED ADJECTIVE []
+synonym: "Tg737Rpw" RELATED ADJECTIVE []
+synonym: "TPR repeat protein 10" RELATED ADJECTIVE []
+synonym: "Ttc10" RELATED ADJECTIVE []
+synonym: "cog" RELATED ADJECTIVE []
+synonym: "Tg" RELATED ADJECTIVE []
+synonym: "Recessive polycystic kidney disease protein Tg737" RELATED ADJECTIVE []
+synonym: "TgN(Imorpk)737Rpw" RELATED ADJECTIVE []
+synonym: "Tetratricopeptide repeat protein 10" RELATED ADJECTIVE []
+synonym: "Thyroglobulin" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 13649
+name: Egfr
+synonym: "EGFr" RELATED ADJECTIVE []
+synonym: "9030024J15Rik" RELATED ADJECTIVE []
+synonym: "EGFR" RELATED ADJECTIVE []
+synonym: "AI552599" RELATED ADJECTIVE []
+synonym: "Egfr" RELATED ADJECTIVE []
+synonym: "Errb1" RELATED ADJECTIVE []
+synonym: "wa-2" RELATED ADJECTIVE []
+synonym: "Erbb" RELATED ADJECTIVE []
+synonym: "Epidermal growth factor receptor" RELATED ADJECTIVE []
+synonym: "Wa5" RELATED ADJECTIVE []
+synonym: "Errp" RELATED ADJECTIVE []
+synonym: "wa2" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 11603
+name: Agrn
+synonym: "C22" RELATED ADJECTIVE []
+synonym: "Agrin C-terminal 22 kDa fragment" RELATED ADJECTIVE []
+synonym: "nmf380" RELATED ADJECTIVE []
+synonym: "Agrin C-terminal 110 kDa subunit" RELATED ADJECTIVE []
+synonym: "Agrin N-terminal 110 kDa subunit" RELATED ADJECTIVE []
+synonym: "agrin" RELATED ADJECTIVE []
+synonym: "Agrin C-terminal 90 kDa fragment" RELATED ADJECTIVE []
+synonym: "Agrn" RELATED ADJECTIVE []
+synonym: "Agrin" RELATED ADJECTIVE []
+synonym: "C90" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 17754
+name: Map1a
+synonym: "Map1a" RELATED ADJECTIVE []
+synonym: "6330416M19Rik" RELATED ADJECTIVE []
+synonym: "AI853608" RELATED ADJECTIVE []
+synonym: "MAP1A heavy chain" RELATED ADJECTIVE []
+synonym: "Mtap1a" RELATED ADJECTIVE []
+synonym: "moth1" RELATED ADJECTIVE []
+synonym: "MAP1 light chain LC2" RELATED ADJECTIVE []
+synonym: "MAP-1A" RELATED ADJECTIVE []
+synonym: "Mtap-1" RELATED ADJECTIVE []
+synonym: "Mtap1" RELATED ADJECTIVE []
+synonym: "Microtubule-associated protein 1A" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 17755
+name: Map1b
+synonym: "MAP1 light chain LC1" RELATED ADJECTIVE []
+synonym: "Map1b" RELATED ADJECTIVE []
+synonym: "LC1" RELATED ADJECTIVE []
+synonym: "A230055D22" RELATED ADJECTIVE []
+synonym: "Mtap1b" RELATED ADJECTIVE []
+synonym: "MAP1B heavy chain" RELATED ADJECTIVE []
+synonym: "MAP1(X)" RELATED ADJECTIVE []
+synonym: "MAP-1B" RELATED ADJECTIVE []
+synonym: "MAP1.2" RELATED ADJECTIVE []
+synonym: "MAP5" RELATED ADJECTIVE []
+synonym: "Mtap5" RELATED ADJECTIVE []
+synonym: "AI843217" RELATED ADJECTIVE []
+synonym: "Mtap-5" RELATED ADJECTIVE []
+synonym: "Microtubule-associated protein 1B" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 17756
+name: Map2
+synonym: "MAP2" RELATED ADJECTIVE []
+synonym: "G1-397-34" RELATED ADJECTIVE []
+synonym: "Microtubule-associated protein 2" RELATED ADJECTIVE []
+synonym: "repro4" RELATED ADJECTIVE []
+synonym: "Map2" RELATED ADJECTIVE []
+synonym: "MAP-2" RELATED ADJECTIVE []
+synonym: "Mtap-2" RELATED ADJECTIVE []
+synonym: "Mtap2" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 210274
+name: Shank2
+synonym: "mKIAA1022" RELATED ADJECTIVE []
+synonym: "ProSAP1" RELATED ADJECTIVE []
+synonym: "CortBP1" RELATED ADJECTIVE []
+synonym: "SH3 and multiple ankyrin repeat domains protein 2" RELATED ADJECTIVE []
+synonym: "Shank 2" RELATED ADJECTIVE []
+synonym: "Cortbp1" RELATED ADJECTIVE []
+synonym: "Kiaa1022" RELATED ADJECTIVE []
+synonym: "Shank2" RELATED ADJECTIVE []
+synonym: "Cortactin-binding protein 1" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 54631
+name: Nphs1
+synonym: "Nephrin" RELATED ADJECTIVE []
+synonym: "NephrinB" RELATED ADJECTIVE []
+synonym: "nephrin" RELATED ADJECTIVE []
+synonym: "Nphs1" RELATED ADJECTIVE []
+synonym: "Nphn" RELATED ADJECTIVE []
+synonym: "Renal glomerulus-specific cell adhesion receptor" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 30060
+name: Mfi2
+synonym: "Mfi2" RELATED ADJECTIVE []
+synonym: "MTf" RELATED ADJECTIVE []
+synonym: "Membrane-bound transferrin-like protein p97" RELATED ADJECTIVE []
+synonym: "Melanotransferrin" RELATED ADJECTIVE []
+synonym: "CD228" RELATED ADJECTIVE []
+synonym: "Mtf" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 214384
+name: Myocd
+synonym: "Myocardin" RELATED ADJECTIVE []
+synonym: "Mycd" RELATED ADJECTIVE []
+synonym: "BSAC2A" RELATED ADJECTIVE []
+synonym: "Basic SAP coiled-coil transcription activator 2" RELATED ADJECTIVE []
+synonym: "Myocd" RELATED ADJECTIVE []
+synonym: "Srfcp" RELATED ADJECTIVE []
+synonym: "SRF cofactor protein" RELATED ADJECTIVE []
+synonym: "Bsac2" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 216439
+name: Agap2
+synonym: "PIKE" RELATED ADJECTIVE []
+synonym: "mKIAA0167" RELATED ADJECTIVE []
+synonym: "Kiaa0167" RELATED ADJECTIVE []
+synonym: "AGAP-2" RELATED ADJECTIVE []
+synonym: "Cnt-g1" RELATED ADJECTIVE []
+synonym: "Agap2" RELATED ADJECTIVE []
+synonym: "Arf-GAP with GTPase, ANK repeat and PH domain-containing protein 2" RELATED ADJECTIVE []
+synonym: "Phosphatidylinositol 3-kinase enhancer" RELATED ADJECTIVE []
+synonym: "Centaurin-gamma-1" RELATED ADJECTIVE []
+synonym: "cnt-g1" RELATED ADJECTIVE []
+synonym: "Centg1" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 109959
+name: Amy2a5
+synonym: "Amy-2" RELATED ADJECTIVE []
+synonym: "Amy2" RELATED ADJECTIVE []
+synonym: "mAmy2-2" RELATED ADJECTIVE []
+synonym: "Amy2a5" RELATED ADJECTIVE []
+synonym: "alpha-amylase" RELATED ADJECTIVE []
+synonym: "1810008N23Rik" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 56724
+name: Cript
+synonym: "AA589469" RELATED ADJECTIVE []
+synonym: "Cysteine-rich interactor of PDZ3" RELATED ADJECTIVE []
+synonym: "Cysteine-rich interactor of PDZ three" RELATED ADJECTIVE []
+synonym: "Cysteine-rich PDZ-binding protein" RELATED ADJECTIVE []
+synonym: "CRIPT" RELATED ADJECTIVE []
+synonym: "1200020A08Rik" RELATED ADJECTIVE []
+synonym: "Cript" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 23959
+name: Nt5e
+synonym: "5'-nucleotidase" RELATED ADJECTIVE []
+synonym: "CD73" RELATED ADJECTIVE []
+synonym: "AI447961" RELATED ADJECTIVE []
+synonym: "Ecto-5'-nucleotidase" RELATED ADJECTIVE []
+synonym: "Nt5e" RELATED ADJECTIVE []
+synonym: "5'-NT" RELATED ADJECTIVE []
+synonym: "eNT" RELATED ADJECTIVE []
+synonym: "Nt5" RELATED ADJECTIVE []
+synonym: "2210401F01Rik" RELATED ADJECTIVE []
+synonym: "Nte" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 21922
+name: Clec3b
+synonym: "C-type lectin domain family 3 member B" RELATED ADJECTIVE []
+synonym: "Clec3b" RELATED ADJECTIVE []
+synonym: "Plasminogen kringle 4-binding protein" RELATED ADJECTIVE []
+synonym: "TN" RELATED ADJECTIVE []
+synonym: "Tetranectin" RELATED ADJECTIVE []
+synonym: "tetranectin" RELATED ADJECTIVE []
+synonym: "Tna" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 21923
+name: Tnc
+synonym: "cytotactin" RELATED ADJECTIVE []
+synonym: "Hxb" RELATED ADJECTIVE []
+synonym: "Tnc" RELATED ADJECTIVE []
+synonym: "Ten" RELATED ADJECTIVE []
+synonym: "tenascin-C" RELATED ADJECTIVE []
+synonym: "Hexabrachion" RELATED ADJECTIVE []
+synonym: "Tenascin-C" RELATED ADJECTIVE []
+synonym: "TN" RELATED ADJECTIVE []
+synonym: "Tenascin" RELATED ADJECTIVE []
+synonym: "C130033P17Rik" RELATED ADJECTIVE []
+synonym: "TN-C" RELATED ADJECTIVE []
+synonym: "AI528729" RELATED ADJECTIVE []
+synonym: "tenascin" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 21926
+name: Tnf
+synonym: "Gamma-glutamyl Transpeptidase" RELATED ADJECTIVE []
+synonym: "DIF" RELATED ADJECTIVE []
+synonym: "Tnfsf1a" RELATED ADJECTIVE []
+synonym: "Tnfa" RELATED ADJECTIVE []
+synonym: "TNF-alpha" RELATED ADJECTIVE []
+synonym: "Tumor necrosis factor, soluble form" RELATED ADJECTIVE []
+synonym: "N-terminal fragment" RELATED ADJECTIVE []
+synonym: "TNF-a" RELATED ADJECTIVE []
+synonym: "TNFSF2" RELATED ADJECTIVE []
+synonym: "Tumor necrosis factor" RELATED ADJECTIVE []
+synonym: "Tumor necrosis factor, membrane form" RELATED ADJECTIVE []
+synonym: "Cachectin" RELATED ADJECTIVE []
+synonym: "ICD1" RELATED ADJECTIVE []
+synonym: "ICD2" RELATED ADJECTIVE []
+synonym: "Tnf" RELATED ADJECTIVE []
+synonym: "Tumor necrosis factor ligand superfamily member 2" RELATED ADJECTIVE []
+synonym: "TNFalpha" RELATED ADJECTIVE []
+synonym: "Intracellular domain 1" RELATED ADJECTIVE []
+synonym: "Intracellular domain 2" RELATED ADJECTIVE []
+synonym: "C-domain 2" RELATED ADJECTIVE []
+synonym: "C-domain 1" RELATED ADJECTIVE []
+synonym: "Tnfsf2" RELATED ADJECTIVE []
+synonym: "NTF" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 23985
+name: Slc26a4
+synonym: "Pds" RELATED ADJECTIVE []
+synonym: "Pendrin" RELATED ADJECTIVE []
+synonym: "pendrin" RELATED ADJECTIVE []
+synonym: "Solute carrier family 26 member 4" RELATED ADJECTIVE []
+synonym: "Sodium-independent chloride/iodide transporter" RELATED ADJECTIVE []
+synonym: "Slc26a4" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 110006
+name: Gusb
+synonym: "beta-glucuronidase" RELATED ADJECTIVE []
+synonym: "g" RELATED ADJECTIVE []
+synonym: "Gus-s" RELATED ADJECTIVE []
+synonym: "Gus-r" RELATED ADJECTIVE []
+synonym: "Gus-u" RELATED ADJECTIVE []
+synonym: "AI747421" RELATED ADJECTIVE []
+synonym: "asd" RELATED ADJECTIVE []
+synonym: "Gus-t" RELATED ADJECTIVE []
+synonym: "Gus" RELATED ADJECTIVE []
+synonym: "Gur" RELATED ADJECTIVE []
+synonym: "Beta-glucuronidase" RELATED ADJECTIVE []
+synonym: "Gut" RELATED ADJECTIVE []
+synonym: "Gusb" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 11727
+name: Ang
+synonym: "Angrp" RELATED ADJECTIVE []
+synonym: "Angiopoietin-3" RELATED ADJECTIVE []
+synonym: "Angiogenin-related protein" RELATED ADJECTIVE []
+synonym: "Ang3" RELATED ADJECTIVE []
+synonym: "Angiopoietin-4" RELATED ADJECTIVE []
+synonym: "Ang4" RELATED ADJECTIVE []
+synonym: "Agpt4" RELATED ADJECTIVE []
+synonym: "EF-5" RELATED ADJECTIVE []
+synonym: "Ribonuclease 5" RELATED ADJECTIVE []
+synonym: "Ang2" RELATED ADJECTIVE []
+synonym: "RNase 5" RELATED ADJECTIVE []
+synonym: "Angiogenin-related protein 2" RELATED ADJECTIVE []
+synonym: "Rnase5a" RELATED ADJECTIVE []
+synonym: "Angiogenin-1" RELATED ADJECTIVE []
+synonym: "Angiogenin-2" RELATED ADJECTIVE []
+synonym: "Angiogenin-3" RELATED ADJECTIVE []
+synonym: "Angiogenin-4" RELATED ADJECTIVE []
+synonym: "Angpt4" RELATED ADJECTIVE []
+synonym: "AI385586" RELATED ADJECTIVE []
+synonym: "Rnase5" RELATED ADJECTIVE []
+synonym: "Angl" RELATED ADJECTIVE []
+synonym: "ANG-3" RELATED ADJECTIVE []
+synonym: "ANG-4" RELATED ADJECTIVE []
+synonym: "Ang" RELATED ADJECTIVE []
+synonym: "Angiogenin" RELATED ADJECTIVE []
+synonym: "Ang1" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 228836
+name: Dlgap4
+synonym: "SAPAP4" RELATED ADJECTIVE []
+synonym: "DAP-4" RELATED ADJECTIVE []
+synonym: "AI225853" RELATED ADJECTIVE []
+synonym: "BC024558" RELATED ADJECTIVE []
+synonym: "Kiaa0964" RELATED ADJECTIVE []
+synonym: "Sapap4" RELATED ADJECTIVE []
+synonym: "DAP4" RELATED ADJECTIVE []
+synonym: "Dlgap4" RELATED ADJECTIVE []
+synonym: "SAPAP-4" RELATED ADJECTIVE []
+synonym: "Disks large-associated protein 4" RELATED ADJECTIVE []
+synonym: "SAP90/PSD-95-associated protein 4" RELATED ADJECTIVE []
+synonym: "WBP16" RELATED ADJECTIVE []
+synonym: "PSD-95/SAP90-binding protein 4" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 13805
+name: Eng
+synonym: "Endoglin" RELATED ADJECTIVE []
+synonym: "AI528660" RELATED ADJECTIVE []
+synonym: "Cell surface MJ7/18 antigen" RELATED ADJECTIVE []
+synonym: "CD105" RELATED ADJECTIVE []
+synonym: "Eng" RELATED ADJECTIVE []
+synonym: "endoglin" RELATED ADJECTIVE []
+synonym: "AI662476" RELATED ADJECTIVE []
+synonym: "S-endoglin" RELATED ADJECTIVE []
+synonym: "Endo" RELATED ADJECTIVE []
+synonym: "Edg" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 13806
+name: Eno1
+synonym: "Alpha-enolase" RELATED ADJECTIVE []
+synonym: "MBP-1" RELATED ADJECTIVE []
+synonym: "NNE" RELATED ADJECTIVE []
+synonym: "Enolase 1" RELATED ADJECTIVE []
+synonym: "2-phospho-D-glycerate hydro-lyase" RELATED ADJECTIVE []
+synonym: "Eno-1" RELATED ADJECTIVE []
+synonym: "Eno1" RELATED ADJECTIVE []
+synonym: "alpha-enolase" RELATED ADJECTIVE []
+synonym: "AL022784" RELATED ADJECTIVE []
+synonym: "Non-neural enolase" RELATED ADJECTIVE []
+synonym: "0610008I15" RELATED ADJECTIVE []
+synonym: "Enolase" RELATED ADJECTIVE []
+synonym: "enolase" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 13807
+name: Eno2
+synonym: "Eno-2" RELATED ADJECTIVE []
+synonym: "NSE" RELATED ADJECTIVE []
+synonym: "Enolase 2" RELATED ADJECTIVE []
+synonym: "Eno2" RELATED ADJECTIVE []
+synonym: "Gamma-enolase" RELATED ADJECTIVE []
+synonym: "2-phospho-D-glycerate hydro-lyase" RELATED ADJECTIVE []
+synonym: "gamma-enolase" RELATED ADJECTIVE []
+synonym: "AI837106" RELATED ADJECTIVE []
+synonym: "Neuron-specific enolase" RELATED ADJECTIVE []
+synonym: "Neural enolase" RELATED ADJECTIVE []
+synonym: "D6Ertd375e" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 11770
+name: Fabp4
+synonym: "Adipocyte lipid-binding protein" RELATED ADJECTIVE []
+synonym: "P2 adipocyte protein" RELATED ADJECTIVE []
+synonym: "Fatty acid-binding protein, adipocyte" RELATED ADJECTIVE []
+synonym: "422/aP2" RELATED ADJECTIVE []
+synonym: "AP2" RELATED ADJECTIVE []
+synonym: "Ap2" RELATED ADJECTIVE []
+synonym: "Myelin P2 protein homolog" RELATED ADJECTIVE []
+synonym: "Lbpl" RELATED ADJECTIVE []
+synonym: "AFABP" RELATED ADJECTIVE []
+synonym: "A-FABP" RELATED ADJECTIVE []
+synonym: "Fabp4" RELATED ADJECTIVE []
+synonym: "Fatty acid-binding protein 4" RELATED ADJECTIVE []
+synonym: "P15" RELATED ADJECTIVE []
+synonym: "ALBP" RELATED ADJECTIVE []
+synonym: "Protein 422" RELATED ADJECTIVE []
+synonym: "ALBP/Ap2" RELATED ADJECTIVE []
+synonym: "Adipocyte-type fatty acid-binding protein" RELATED ADJECTIVE []
+synonym: "3T3-L1 lipid-binding protein" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 103932
+name: Pv
+synonym: "Plvap" RELATED ADJECTIVE []
+synonym: "MECA-32 antigen" RELATED ADJECTIVE []
+synonym: "Pv" RELATED ADJECTIVE []
+synonym: "Plasmalemma vesicle-associated protein" RELATED ADJECTIVE []
+synonym: "PV-1" RELATED ADJECTIVE []
+synonym: "Plasmalemma vesicle protein 1" RELATED ADJECTIVE []
+synonym: "PV" RELATED ADJECTIVE []
+synonym: "Pv1" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 17918
+name: Myo5a
+synonym: "flail" RELATED ADJECTIVE []
+synonym: "Dilute" RELATED ADJECTIVE []
+synonym: "d" RELATED ADJECTIVE []
+synonym: "Dbv" RELATED ADJECTIVE []
+synonym: "Unconventional myosin-Va" RELATED ADJECTIVE []
+synonym: "9630007J19Rik" RELATED ADJECTIVE []
+synonym: "Myo5" RELATED ADJECTIVE []
+synonym: "myosin V" RELATED ADJECTIVE []
+synonym: "MVa" RELATED ADJECTIVE []
+synonym: "d-120J" RELATED ADJECTIVE []
+synonym: "Myo5a" RELATED ADJECTIVE []
+synonym: "AI661011" RELATED ADJECTIVE []
+synonym: "Dilute myosin heavy chain, non-muscle" RELATED ADJECTIVE []
+synonym: "AI413174" RELATED ADJECTIVE []
+synonym: "MyoVA" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 17920
+name: Myo6
+synonym: "BC029719" RELATED ADJECTIVE []
+synonym: "Unconventional myosin-VI" RELATED ADJECTIVE []
+synonym: "Unconventional myosin-6" RELATED ADJECTIVE []
+synonym: "Myo6" RELATED ADJECTIVE []
+synonym: "sv" RELATED ADJECTIVE []
+synonym: "Tlc" RELATED ADJECTIVE []
+synonym: "myosin VI" RELATED ADJECTIVE []
+synonym: "Sv" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 17928
+name: Myog
+synonym: "myogenin" RELATED ADJECTIVE []
+synonym: "MYOD1-related protein" RELATED ADJECTIVE []
+synonym: "MYF4" RELATED ADJECTIVE []
+synonym: "Myogenin" RELATED ADJECTIVE []
+synonym: "bHLHc3" RELATED ADJECTIVE []
+synonym: "myo" RELATED ADJECTIVE []
+synonym: "Myog" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 171530
+name: Ucn2
+synonym: "Uts2" RELATED ADJECTIVE []
+synonym: "Urocortin" RELATED ADJECTIVE []
+synonym: "Urotensin-2" RELATED ADJECTIVE []
+synonym: "Ucn II" RELATED ADJECTIVE []
+synonym: "UII" RELATED ADJECTIVE []
+synonym: "Urocortin II" RELATED ADJECTIVE []
+synonym: "ucn-II" RELATED ADJECTIVE []
+synonym: "U-II" RELATED ADJECTIVE []
+synonym: "Urotensin II" RELATED ADJECTIVE []
+synonym: "Ucn2" RELATED ADJECTIVE []
+synonym: "urocortin" RELATED ADJECTIVE []
+synonym: "Urocortin-2" RELATED ADJECTIVE []
+synonym: "Ucn-2" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 13838
+name: Epha4
+synonym: "2900005C20Rik" RELATED ADJECTIVE []
+synonym: "AI385584" RELATED ADJECTIVE []
+synonym: "ephrin" RELATED ADJECTIVE []
+synonym: "Tyrosine-protein kinase receptor MPK-3" RELATED ADJECTIVE []
+synonym: "Ephrin type-A receptor 4" RELATED ADJECTIVE []
+synonym: "Hek8" RELATED ADJECTIVE []
+synonym: "Tyro1" RELATED ADJECTIVE []
+synonym: "Epha4" RELATED ADJECTIVE []
+synonym: "Sek1" RELATED ADJECTIVE []
+synonym: "Cek8" RELATED ADJECTIVE []
+synonym: "rb" RELATED ADJECTIVE []
+synonym: "Tyrosine-protein kinase receptor SEK-1" RELATED ADJECTIVE []
+synonym: "Sek" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 50706
+name: Postn
+synonym: "Osf2" RELATED ADJECTIVE []
+synonym: "PLF" RELATED ADJECTIVE []
+synonym: "OSF-2" RELATED ADJECTIVE []
+synonym: "peri" RELATED ADJECTIVE []
+synonym: "Osteoblast-specific factor 2" RELATED ADJECTIVE []
+synonym: "Periostin" RELATED ADJECTIVE []
+synonym: "Postn" RELATED ADJECTIVE []
+synonym: "AI747096" RELATED ADJECTIVE []
+synonym: "A630052E07Rik" RELATED ADJECTIVE []
+synonym: "PN" RELATED ADJECTIVE []
+synonym: "periostin" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 13856
+name: Epo
+synonym: "Epo" RELATED ADJECTIVE []
+synonym: "Erythropoietin" RELATED ADJECTIVE []
+synonym: "erythropoietin" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 13857
+name: Epor
+synonym: "Epor" RELATED ADJECTIVE []
+synonym: "EPO-R" RELATED ADJECTIVE []
+synonym: "Erythropoietin receptor" RELATED ADJECTIVE []
+synonym: "erythropoietin" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 9762
+name: LZTS3
+synonym: "PROSAPIP1" RELATED ADJECTIVE []
+synonym: "KIAA0552" RELATED ADJECTIVE []
+synonym: "Leucine zipper putative tumor suppressor 3" RELATED ADJECTIVE []
+synonym: "ProSAPiP1" RELATED ADJECTIVE []
+synonym: "ProSAP-interacting protein 1" RELATED ADJECTIVE []
+synonym: "ProSAPiP" RELATED ADJECTIVE []
+synonym: "LZTS3" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 20742
+name: Sptbn1
+synonym: "Spnb2" RELATED ADJECTIVE []
+synonym: "Beta-II spectrin" RELATED ADJECTIVE []
+synonym: "mKIAA4049" RELATED ADJECTIVE []
+synonym: "Elf" RELATED ADJECTIVE []
+synonym: "Embryonic liver fodrin" RELATED ADJECTIVE []
+synonym: "Spnb-2" RELATED ADJECTIVE []
+synonym: "SPTB2" RELATED ADJECTIVE []
+synonym: "9930031C03Rik" RELATED ADJECTIVE []
+synonym: "elf3" RELATED ADJECTIVE []
+synonym: "Fodrin beta chain" RELATED ADJECTIVE []
+synonym: "AL033301" RELATED ADJECTIVE []
+synonym: "elf1" RELATED ADJECTIVE []
+synonym: "Sptb2" RELATED ADJECTIVE []
+synonym: "beta-spectrin" RELATED ADJECTIVE []
+synonym: "Spectrin beta chain, non-erythrocytic 1" RELATED ADJECTIVE []
+synonym: "Sptbn1" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 108071
+name: Grm5
+synonym: "Mglur5" RELATED ADJECTIVE []
+synonym: "Gprc1e" RELATED ADJECTIVE []
+synonym: "mGluR5b" RELATED ADJECTIVE []
+synonym: "Metabotropic glutamate receptor 5" RELATED ADJECTIVE []
+synonym: "6430542K11Rik" RELATED ADJECTIVE []
+synonym: "AI850523" RELATED ADJECTIVE []
+synonym: "mGluR5" RELATED ADJECTIVE []
+synonym: "Grm5" RELATED ADJECTIVE []
+synonym: "Glu5R" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 11819
+name: Nr2f2
+synonym: "COUPTFB" RELATED ADJECTIVE []
+synonym: "COUP-TFII" RELATED ADJECTIVE []
+synonym: "Tcfcoup2" RELATED ADJECTIVE []
+synonym: "COUP-TF II" RELATED ADJECTIVE []
+synonym: "Arp1" RELATED ADJECTIVE []
+synonym: "COUP-TF2" RELATED ADJECTIVE []
+synonym: "9430015G03Rik" RELATED ADJECTIVE []
+synonym: "Nr2f2" RELATED ADJECTIVE []
+synonym: "Tfcoup2" RELATED ADJECTIVE []
+synonym: "Arp-1" RELATED ADJECTIVE []
+synonym: "Aporp1" RELATED ADJECTIVE []
+synonym: "ARP-1" RELATED ADJECTIVE []
+synonym: "COUP transcription factor II" RELATED ADJECTIVE []
+synonym: "COUP transcription factor 2" RELATED ADJECTIVE []
+synonym: "SVP40" RELATED ADJECTIVE []
+synonym: "2700033K02Rik" RELATED ADJECTIVE []
+synonym: "Nuclear receptor subfamily 2 group F member 2" RELATED ADJECTIVE []
+synonym: "Apolipoprotein AI regulatory protein 1" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 17967
+name: Ncam1
+synonym: "NCAM-1" RELATED ADJECTIVE []
+synonym: "CD56" RELATED ADJECTIVE []
+synonym: "Ncam" RELATED ADJECTIVE []
+synonym: "NCAM-140" RELATED ADJECTIVE []
+synonym: "N-CAM-1" RELATED ADJECTIVE []
+synonym: "E-NCAM" RELATED ADJECTIVE []
+synonym: "Ncam1" RELATED ADJECTIVE []
+synonym: "Neural cell adhesion molecule 1" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 11826
+name: Aqp1
+synonym: "Aquaporin-1" RELATED ADJECTIVE []
+synonym: "Aqp1" RELATED ADJECTIVE []
+synonym: "AQP-1" RELATED ADJECTIVE []
+synonym: "DER2" RELATED ADJECTIVE []
+synonym: "Aquaporin-CHIP" RELATED ADJECTIVE []
+synonym: "CHIP28" RELATED ADJECTIVE []
+synonym: "Water channel protein for red blood cells and kidney proximal tubule" RELATED ADJECTIVE []
+synonym: "Delayed early response protein 2" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 11827
+name: Aqp2
+synonym: "cph" RELATED ADJECTIVE []
+synonym: "Aquaporin-2" RELATED ADJECTIVE []
+synonym: "jpk" RELATED ADJECTIVE []
+synonym: "Aqp2" RELATED ADJECTIVE []
+synonym: "Aquaporin-CD" RELATED ADJECTIVE []
+synonym: "AQP-2" RELATED ADJECTIVE []
+synonym: "AQP-CD" RELATED ADJECTIVE []
+synonym: "Collecting duct water channel protein" RELATED ADJECTIVE []
+synonym: "Water channel protein for renal collecting duct" RELATED ADJECTIVE []
+synonym: "ADH water channel" RELATED ADJECTIVE []
+synonym: "WCH-CD" RELATED ADJECTIVE []
+synonym: "aquaporin-2" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 103988
+name: Gck
+synonym: "HKIV" RELATED ADJECTIVE []
+synonym: "GLK" RELATED ADJECTIVE []
+synonym: "Gck" RELATED ADJECTIVE []
+synonym: "HK4" RELATED ADJECTIVE []
+synonym: "MODY2" RELATED ADJECTIVE []
+synonym: "Hexokinase type IV" RELATED ADJECTIVE []
+synonym: "Hlb62" RELATED ADJECTIVE []
+synonym: "Glucokinase" RELATED ADJECTIVE []
+synonym: "HXKP" RELATED ADJECTIVE []
+synonym: "Gls006" RELATED ADJECTIVE []
+synonym: "glucokinase" RELATED ADJECTIVE []
+synonym: "Hexokinase-D" RELATED ADJECTIVE []
+synonym: "Gk" RELATED ADJECTIVE []
+synonym: "Hexokinase-4" RELATED ADJECTIVE []
+synonym: "HK IV" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 11829
+name: Aqp4
+synonym: "Aqp4" RELATED ADJECTIVE []
+synonym: "aquaporin-4" RELATED ADJECTIVE []
+synonym: "Aquaporin-4" RELATED ADJECTIVE []
+synonym: "Mercurial-insensitive water channel" RELATED ADJECTIVE []
+synonym: "AQP-4" RELATED ADJECTIVE []
+synonym: "MIWC" RELATED ADJECTIVE []
+synonym: "WCH4" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 11839
+name: Areg
+synonym: "Areg" RELATED ADJECTIVE []
+synonym: "Amphiregulin" RELATED ADJECTIVE []
+synonym: "Schwannoma-derived growth factor" RELATED ADJECTIVE []
+synonym: "Mcub" RELATED ADJECTIVE []
+synonym: "SDGF" RELATED ADJECTIVE []
+synonym: "Sdgf" RELATED ADJECTIVE []
+synonym: "AR" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 11842
+name: Arf3
+synonym: "Arf3" RELATED ADJECTIVE []
+synonym: "5430400P17Rik" RELATED ADJECTIVE []
+synonym: "AI854770" RELATED ADJECTIVE []
+synonym: "ADP-ribosylation factor 3" RELATED ADJECTIVE []
+synonym: "ARF3" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 108100
+name: Baiap2
+synonym: "Brain-specific angiogenesis inhibitor 1-associated protein 2" RELATED ADJECTIVE []
+synonym: "Insulin receptor substrate p53" RELATED ADJECTIVE []
+synonym: "Insulin receptor tyrosine kinase 53 kDa substrate" RELATED ADJECTIVE []
+synonym: "Insulin receptor substrate protein of 53 kDa" RELATED ADJECTIVE []
+synonym: "BAI-associated protein 2" RELATED ADJECTIVE []
+synonym: "IRSp53" RELATED ADJECTIVE []
+synonym: "BAI1-associated protein 2" RELATED ADJECTIVE []
+synonym: "Baiap2" RELATED ADJECTIVE []
+synonym: "R75030" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 11853
+name: Rhoc
+synonym: "Arh9" RELATED ADJECTIVE []
+synonym: "Silica-induced gene 61 protein" RELATED ADJECTIVE []
+synonym: "AI324259" RELATED ADJECTIVE []
+synonym: "Arhc" RELATED ADJECTIVE []
+synonym: "Rho-related GTP-binding protein RhoC" RELATED ADJECTIVE []
+synonym: "Rhoc" RELATED ADJECTIVE []
+synonym: "rho c" RELATED ADJECTIVE []
+synonym: "SIG-61" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 81489
+name: Dnajb1
+synonym: "Hsp40" RELATED ADJECTIVE []
+synonym: "HSP40" RELATED ADJECTIVE []
+synonym: "HSPF1" RELATED ADJECTIVE []
+synonym: "DjB1" RELATED ADJECTIVE []
+synonym: "0610007I11Rik" RELATED ADJECTIVE []
+synonym: "Dnajb1" RELATED ADJECTIVE []
+synonym: "Hspf1" RELATED ADJECTIVE []
+synonym: "Hdj1" RELATED ADJECTIVE []
+synonym: "Heat shock 40 kDa protein 1" RELATED ADJECTIVE []
+synonym: "DnaJ homolog subfamily B member 1" RELATED ADJECTIVE []
+synonym: "Heat shock protein 40" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 71950
+name: Nanog
+synonym: "ecat4" RELATED ADJECTIVE []
+synonym: "Ecat4" RELATED ADJECTIVE []
+synonym: "ENK" RELATED ADJECTIVE []
+synonym: "Nanog" RELATED ADJECTIVE []
+synonym: "ES cell-associated protein 4" RELATED ADJECTIVE []
+synonym: "Early embryo specific expression NK-type homeobox protein" RELATED ADJECTIVE []
+synonym: "Enk" RELATED ADJECTIVE []
+synonym: "2410002E02Rik" RELATED ADJECTIVE []
+synonym: "Homeobox protein NANOG" RELATED ADJECTIVE []
+synonym: "Homeobox transcription factor Nanog" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 18008
+name: Nes
+synonym: "Nestin" RELATED ADJECTIVE []
+synonym: "AA166324" RELATED ADJECTIVE []
+synonym: "nestin" RELATED ADJECTIVE []
+synonym: "ESTM46" RELATED ADJECTIVE []
+synonym: "C78523" RELATED ADJECTIVE []
+synonym: "Nes" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 104027
+name: Synpo
+synonym: "Synaptopodin-2" RELATED ADJECTIVE []
+synonym: "Myopodin" RELATED ADJECTIVE []
+synonym: "Synpo" RELATED ADJECTIVE []
+synonym: "Synaptopodin 2-like protein" RELATED ADJECTIVE []
+synonym: "Synaptopodin" RELATED ADJECTIVE []
+synonym: "9030217H17Rik" RELATED ADJECTIVE []
+synonym: "Synpo2" RELATED ADJECTIVE []
+synonym: "9130229N11" RELATED ADJECTIVE []
+synonym: "AW046661" RELATED ADJECTIVE []
+synonym: "Synpo2l" RELATED ADJECTIVE []
+synonym: "9330140I15Rik" RELATED ADJECTIVE []
+synonym: "synaptopodin" RELATED ADJECTIVE []
+synonym: "Kiaa1029" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 18015
+name: Nf1
+synonym: "Neurofibromin" RELATED ADJECTIVE []
+synonym: "Neurofibromatosis-related protein NF-1" RELATED ADJECTIVE []
+synonym: "neurofibromin" RELATED ADJECTIVE []
+synonym: "Nf-1" RELATED ADJECTIVE []
+synonym: "AW494271" RELATED ADJECTIVE []
+synonym: "Nf1" RELATED ADJECTIVE []
+synonym: "E030030H24Rik" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 50791
+name: Magi2
+synonym: "mKIAA0705" RELATED ADJECTIVE []
+synonym: "AIP-1" RELATED ADJECTIVE []
+synonym: "Membrane-associated guanylate kinase, WW and PDZ domain-containing protein 2" RELATED ADJECTIVE []
+synonym: "Acvrinp1" RELATED ADJECTIVE []
+synonym: "Acvrip1" RELATED ADJECTIVE []
+synonym: "S-SCAM" RELATED ADJECTIVE []
+synonym: "Atrophin-1-interacting protein 1" RELATED ADJECTIVE []
+synonym: "Arip1" RELATED ADJECTIVE []
+synonym: "Magi-2" RELATED ADJECTIVE []
+synonym: "Magi2" RELATED ADJECTIVE []
+synonym: "Activin receptor-interacting protein 1" RELATED ADJECTIVE []
+synonym: "MAGI-2" RELATED ADJECTIVE []
+synonym: "Membrane-associated guanylate kinase inverted 2" RELATED ADJECTIVE []
+synonym: "Acvri1" RELATED ADJECTIVE []
+synonym: "Aip1" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 140919
+name: Slc17a6
+synonym: "Differentiation-associated BNPI" RELATED ADJECTIVE []
+synonym: "Vesicular glutamate transporter 2" RELATED ADJECTIVE []
+synonym: "Solute carrier family 17 member 6" RELATED ADJECTIVE []
+synonym: "Slc17a6" RELATED ADJECTIVE []
+synonym: "VGLUT2" RELATED ADJECTIVE []
+synonym: "DNPI" RELATED ADJECTIVE []
+synonym: "Differentiation-associated Na(+)-dependent inorganic phosphate cotransporter" RELATED ADJECTIVE []
+synonym: "VGluT2" RELATED ADJECTIVE []
+synonym: "2900073D12Rik" RELATED ADJECTIVE []
+synonym: "Vglut2" RELATED ADJECTIVE []
+synonym: "Dnpi" RELATED ADJECTIVE []
+synonym: "vGluT2" RELATED ADJECTIVE []
+synonym: "vesicular glutamate transporter 2" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 22139
+name: Ttr
+synonym: "Transthyretin" RELATED ADJECTIVE []
+synonym: "Ttr" RELATED ADJECTIVE []
+synonym: "D17860" RELATED ADJECTIVE []
+synonym: "AA408768" RELATED ADJECTIVE []
+synonym: "AI787086" RELATED ADJECTIVE []
+synonym: "transthyretin" RELATED ADJECTIVE []
+synonym: "Prealbumin" RELATED ADJECTIVE []
+synonym: "prealbumin" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 16000
+name: Igf1
+synonym: "insulin-like growth factor-1" RELATED ADJECTIVE []
+synonym: "Igf1" RELATED ADJECTIVE []
+synonym: "Igf-1" RELATED ADJECTIVE []
+synonym: "Igf-I" RELATED ADJECTIVE []
+synonym: "Insulin-like growth factor I" RELATED ADJECTIVE []
+synonym: "Somatomedin" RELATED ADJECTIVE []
+synonym: "C730016P09Rik" RELATED ADJECTIVE []
+synonym: "IGF-I" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 104069
+name: Sncb
+synonym: "Sncb" RELATED ADJECTIVE []
+synonym: "betaSYN" RELATED ADJECTIVE []
+synonym: "AI838531" RELATED ADJECTIVE []
+synonym: "beta-synuclein" RELATED ADJECTIVE []
+synonym: "Beta-synuclein" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 3730
+name: ANOS1
+synonym: "KALIG-1" RELATED ADJECTIVE []
+synonym: "WFDC19" RELATED ADJECTIVE []
+synonym: "ADMLX" RELATED ADJECTIVE []
+synonym: "HHA" RELATED ADJECTIVE []
+synonym: "ANOS1" RELATED ADJECTIVE []
+synonym: "KAL1" RELATED ADJECTIVE []
+synonym: "Anosmin-1" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 11924
+name: Neurog2
+synonym: "Protein atonal homolog 4" RELATED ADJECTIVE []
+synonym: "Neurogenin-2" RELATED ADJECTIVE []
+synonym: "mATH4A" RELATED ADJECTIVE []
+synonym: "Helix-loop-helix protein mATH-4A" RELATED ADJECTIVE []
+synonym: "ngn2" RELATED ADJECTIVE []
+synonym: "Ngn2" RELATED ADJECTIVE []
+synonym: "neurogenin-2" RELATED ADJECTIVE []
+synonym: "bHLHa8" RELATED ADJECTIVE []
+synonym: "Atoh4" RELATED ADJECTIVE []
+synonym: "ngn-2" RELATED ADJECTIVE []
+synonym: "Math4A" RELATED ADJECTIVE []
+synonym: "Neurog2" RELATED ADJECTIVE []
+synonym: "Ath4a" RELATED ADJECTIVE []
+synonym: "NGN-2" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 11925
+name: Neurog3
+synonym: "Protein atonal homolog 5" RELATED ADJECTIVE []
+synonym: "Neurogenin-3" RELATED ADJECTIVE []
+synonym: "Ngn3" RELATED ADJECTIVE []
+synonym: "Math4B" RELATED ADJECTIVE []
+synonym: "ngn3" RELATED ADJECTIVE []
+synonym: "Atoh5" RELATED ADJECTIVE []
+synonym: "Helix-loop-helix protein mATH-4B" RELATED ADJECTIVE []
+synonym: "Neurog3" RELATED ADJECTIVE []
+synonym: "NGN-3" RELATED ADJECTIVE []
+synonym: "bHLHa7" RELATED ADJECTIVE []
+synonym: "mATH4B" RELATED ADJECTIVE []
+synonym: "Ath4b" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 22166
+name: Txn1
+synonym: "ATL-derived factor" RELATED ADJECTIVE []
+synonym: "Txn" RELATED ADJECTIVE []
+synonym: "Trx1" RELATED ADJECTIVE []
+synonym: "ADF" RELATED ADJECTIVE []
+synonym: "Trx" RELATED ADJECTIVE []
+synonym: "Txn1" RELATED ADJECTIVE []
+synonym: "thioredoxin" RELATED ADJECTIVE []
+synonym: "AW550880" RELATED ADJECTIVE []
+synonym: "Thioredoxin" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 22173
+name: Tyr
+synonym: "c" RELATED ADJECTIVE []
+synonym: "tyrosinase" RELATED ADJECTIVE []
+synonym: "albino" RELATED ADJECTIVE []
+synonym: "Tyrosinase" RELATED ADJECTIVE []
+synonym: "Albino locus protein" RELATED ADJECTIVE []
+synonym: "skc35" RELATED ADJECTIVE []
+synonym: "Oca1" RELATED ADJECTIVE []
+synonym: "Monophenol monooxygenase" RELATED ADJECTIVE []
+synonym: "Tyr" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 52897
+name: Rbfox3
+synonym: "RNA binding protein fox-1 homolog 3" RELATED ADJECTIVE []
+synonym: "NeuN" RELATED ADJECTIVE []
+synonym: "Rbfox3" RELATED ADJECTIVE []
+synonym: "Fox-1 homolog C" RELATED ADJECTIVE []
+synonym: "Hrnbp3" RELATED ADJECTIVE []
+synonym: "Hexaribonucleotide-binding protein 3" RELATED ADJECTIVE []
+synonym: "Fox-3" RELATED ADJECTIVE []
+synonym: "Neuronal nuclei" RELATED ADJECTIVE []
+synonym: "Neuna60" RELATED ADJECTIVE []
+synonym: "D11Bwg0517e" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 11938
+name: Atp2a2
+synonym: "9530097L16Rik" RELATED ADJECTIVE []
+synonym: "SERCA2" RELATED ADJECTIVE []
+synonym: "Endoplasmic reticulum class 1/2 Ca(2+) ATPase" RELATED ADJECTIVE []
+synonym: "Sarcoplasmic endoplasmic reticulum calcium AT" RELATED ADJECTIVE []
+synonym: "Atp2a2" RELATED ADJECTIVE []
+synonym: "SERCA2B" RELATED ADJECTIVE []
+synonym: "D5Wsu150e" RELATED ADJECTIVE []
+synonym: "mKIAA4195" RELATED ADJECTIVE []
+synonym: "Sarcoplasmic/endoplasmic reticulum calcium ATPase 2" RELATED ADJECTIVE []
+synonym: "Calcium pump 2" RELATED ADJECTIVE []
+synonym: "SERCA" RELATED ADJECTIVE []
+synonym: "Calcium-transporting ATPase sarcoplasmic reticulum type, slow twitch skeletal muscle isoform" RELATED ADJECTIVE []
+synonym: "Serca2a" RELATED ADJECTIVE []
+synonym: "SR Ca(2+)-ATPase 2" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 11941
+name: Atp2b2
+synonym: "PMCA2" RELATED ADJECTIVE []
+synonym: "Pmca2" RELATED ADJECTIVE []
+synonym: "D6Abb2e" RELATED ADJECTIVE []
+synonym: "wms" RELATED ADJECTIVE []
+synonym: "Tmy" RELATED ADJECTIVE []
+synonym: "dfw" RELATED ADJECTIVE []
+synonym: "wri" RELATED ADJECTIVE []
+synonym: "Plasma membrane calcium ATPase isoform 2" RELATED ADJECTIVE []
+synonym: "Gena300" RELATED ADJECTIVE []
+synonym: "jog" RELATED ADJECTIVE []
+synonym: "Plasma membrane calcium pump isoform 2" RELATED ADJECTIVE []
+synonym: "Atp2b2" RELATED ADJECTIVE []
+synonym: "Plasma membrane calcium-transporting ATPase 2" RELATED ADJECTIVE []
+synonym: "Plasma membrane calcium transporting ATPase 2" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 192167
+name: Nlgn1
+synonym: "NL1" RELATED ADJECTIVE []
+synonym: "6330415N05Rik" RELATED ADJECTIVE []
+synonym: "Nlgn1" RELATED ADJECTIVE []
+synonym: "Nlg1" RELATED ADJECTIVE []
+synonym: "Neuroligin-1" RELATED ADJECTIVE []
+synonym: "mKIAA1070" RELATED ADJECTIVE []
+synonym: "Kiaa1070" RELATED ADJECTIVE []
+synonym: "neuroligin" RELATED ADJECTIVE []
+synonym: "BB179718" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 17242
+name: Mdk
+synonym: "Tyrosine kinase MYK-1" RELATED ADJECTIVE []
+synonym: "Sek4" RELATED ADJECTIVE []
+synonym: "Mdk2" RELATED ADJECTIVE []
+synonym: "Midkine" RELATED ADJECTIVE []
+synonym: "Mdk1" RELATED ADJECTIVE []
+synonym: "MEK" RELATED ADJECTIVE []
+synonym: "Mdk5" RELATED ADJECTIVE []
+synonym: "EBK" RELATED ADJECTIVE []
+synonym: "Developmental kinase 1" RELATED ADJECTIVE []
+synonym: "Myk1" RELATED ADJECTIVE []
+synonym: "Epha7" RELATED ADJECTIVE []
+synonym: "Mek" RELATED ADJECTIVE []
+synonym: "Ephrin type-B receptor 3" RELATED ADJECTIVE []
+synonym: "mDK-5" RELATED ADJECTIVE []
+synonym: "midkine" RELATED ADJECTIVE []
+synonym: "Developmental kinase 2" RELATED ADJECTIVE []
+synonym: "Developmental kinase 5" RELATED ADJECTIVE []
+synonym: "mDK-1" RELATED ADJECTIVE []
+synonym: "mDK-2" RELATED ADJECTIVE []
+synonym: "Ephrin type-B receptor 4" RELATED ADJECTIVE []
+synonym: "Etk2" RELATED ADJECTIVE []
+synonym: "Embryonic brain kinase" RELATED ADJECTIVE []
+synonym: "Retinoic acid-induced differentiation factor" RELATED ADJECTIVE []
+synonym: "Mdk" RELATED ADJECTIVE []
+synonym: "EPH homology kinase 3" RELATED ADJECTIVE []
+synonym: "Mk" RELATED ADJECTIVE []
+synonym: "EHK-3" RELATED ADJECTIVE []
+synonym: "Tyrosine-protein kinase receptor SEK-4" RELATED ADJECTIVE []
+synonym: "Ephb3" RELATED ADJECTIVE []
+synonym: "Ephb4" RELATED ADJECTIVE []
+synonym: "Htk" RELATED ADJECTIVE []
+synonym: "Ehk3" RELATED ADJECTIVE []
+synonym: "MK" RELATED ADJECTIVE []
+synonym: "Ebk" RELATED ADJECTIVE []
+synonym: "Ephrin type-A receptor 7" RELATED ADJECTIVE []
+synonym: "Hepatoma transmembrane kinase" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 192188
+name: Stab2
+synonym: "STAB-2" RELATED ADJECTIVE []
+synonym: "stabilin-2" RELATED ADJECTIVE []
+synonym: "Fasciclin, EGF-like, laminin-type EGF-like and link domain-containing scavenger receptor 2" RELATED ADJECTIVE []
+synonym: "Hare" RELATED ADJECTIVE []
+synonym: "Stab2" RELATED ADJECTIVE []
+synonym: "Short form stabilin-2" RELATED ADJECTIVE []
+synonym: "FEEL-2" RELATED ADJECTIVE []
+synonym: "Stabilin-2" RELATED ADJECTIVE []
+synonym: "FELL" RELATED ADJECTIVE []
+synonym: "MFEEL-2" RELATED ADJECTIVE []
+synonym: "Feel2" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 11966
+name: Atp6v1b2
+synonym: "V-ATPase V1-B SUBUNIT" RELATED ADJECTIVE []
+synonym: "Vat2" RELATED ADJECTIVE []
+synonym: "Atp6b2" RELATED ADJECTIVE []
+synonym: "HO57" RELATED ADJECTIVE []
+synonym: "AI194269" RELATED ADJECTIVE []
+synonym: "V-ATPase subunit B 2" RELATED ADJECTIVE []
+synonym: "V-type proton ATPase subunit B, brain isoform" RELATED ADJECTIVE []
+synonym: "Vacuolar proton pump subunit B 2" RELATED ADJECTIVE []
+synonym: "Atp6v1b2" RELATED ADJECTIVE []
+synonym: "Endomembrane proton pump 58 kDa subunit" RELATED ADJECTIVE []
+synonym: "R74844" RELATED ADJECTIVE []
+synonym: "AI790362" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 20166
+name: Rtkn
+synonym: "Rtkn2" RELATED ADJECTIVE []
+synonym: "Rtkn" RELATED ADJECTIVE []
+synonym: "Rhotekin-2" RELATED ADJECTIVE []
+synonym: "Rhotekin" RELATED ADJECTIVE []
+synonym: "Plekhk1" RELATED ADJECTIVE []
+synonym: "PH domain-containing family K member 1" RELATED ADJECTIVE []
+synonym: "Pleckstrin homology domain-containing family K member 1" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 18121
+name: Nog
+synonym: "Chronic renal failure gene protein" RELATED ADJECTIVE []
+synonym: "GTP-binding protein NGB" RELATED ADJECTIVE []
+synonym: "Crfg" RELATED ADJECTIVE []
+synonym: "Nucleolar GTP-binding protein 1" RELATED ADJECTIVE []
+synonym: "Nog" RELATED ADJECTIVE []
+synonym: "Nog1" RELATED ADJECTIVE []
+synonym: "Gtpbp4" RELATED ADJECTIVE []
+synonym: "Noggin" RELATED ADJECTIVE []
+synonym: "noggin" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 1741
+name: DLG3
+synonym: "Synapse-associated protein 102" RELATED ADJECTIVE []
+synonym: "DLG3" RELATED ADJECTIVE []
+synonym: "SAP102" RELATED ADJECTIVE []
+synonym: "NEDLG" RELATED ADJECTIVE []
+synonym: "MPP3" RELATED ADJECTIVE []
+synonym: "Neuroendocrine-DLG" RELATED ADJECTIVE []
+synonym: "Discs large homolog 3" RELATED ADJECTIVE []
+synonym: "SAP-102" RELATED ADJECTIVE []
+synonym: "Protein MPP3" RELATED ADJECTIVE []
+synonym: "KIAA1232" RELATED ADJECTIVE []
+synonym: "MRX90" RELATED ADJECTIVE []
+synonym: "Disks large homolog 3" RELATED ADJECTIVE []
+synonym: "PPP1R82" RELATED ADJECTIVE []
+synonym: "XLMR" RELATED ADJECTIVE []
+synonym: "MAGUK p55 subfamily member 3" RELATED ADJECTIVE []
+synonym: "SAP 102" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 18126
+name: Nos2
+synonym: "Inosl" RELATED ADJECTIVE []
+synonym: "Nos2" RELATED ADJECTIVE []
+synonym: "Nanos homolog 2" RELATED ADJECTIVE []
+synonym: "Nos2a" RELATED ADJECTIVE []
+synonym: "iNOS" RELATED ADJECTIVE []
+synonym: "Nitric oxide synthase, inducible" RELATED ADJECTIVE []
+synonym: "NOS-II" RELATED ADJECTIVE []
+synonym: "Nanos2" RELATED ADJECTIVE []
+synonym: "i-NOS" RELATED ADJECTIVE []
+synonym: "MAC-NOS" RELATED ADJECTIVE []
+synonym: "NOS type II" RELATED ADJECTIVE []
+synonym: "Inducible NO synthase" RELATED ADJECTIVE []
+synonym: "Peptidyl-cysteine S-nitrosylase NOS2" RELATED ADJECTIVE []
+synonym: "nitric oxide synthase" RELATED ADJECTIVE []
+synonym: "Inducible NOS" RELATED ADJECTIVE []
+synonym: "NOS-2" RELATED ADJECTIVE []
+synonym: "Nos-2" RELATED ADJECTIVE []
+synonym: "Macrophage NOS" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 224997
+name: Dlgap1
+synonym: "AI848168" RELATED ADJECTIVE []
+synonym: "D17Bwg0511e" RELATED ADJECTIVE []
+synonym: "GKAP/SAPAP" RELATED ADJECTIVE []
+synonym: "mKIAA4162" RELATED ADJECTIVE []
+synonym: "AI845682" RELATED ADJECTIVE []
+synonym: "BB075781" RELATED ADJECTIVE []
+synonym: "Kiaa4162" RELATED ADJECTIVE []
+synonym: "DAP-1" RELATED ADJECTIVE []
+synonym: "Sapap1" RELATED ADJECTIVE []
+synonym: "PSD-95/SAP90-binding protein 1" RELATED ADJECTIVE []
+synonym: "4933422O14Rik" RELATED ADJECTIVE []
+synonym: "Dlgap1" RELATED ADJECTIVE []
+synonym: "9630002F18" RELATED ADJECTIVE []
+synonym: "SAPAP1" RELATED ADJECTIVE []
+synonym: "GKPA/SAPAP" RELATED ADJECTIVE []
+synonym: "SAP90/PSD-95-associated protein 1" RELATED ADJECTIVE []
+synonym: "Disks large-associated protein 1" RELATED ADJECTIVE []
+synonym: "Guanylate kinase-associated protein" RELATED ADJECTIVE []
+synonym: "Gkap" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 14086
+name: Fscn1
+synonym: "Singed-like protein" RELATED ADJECTIVE []
+synonym: "Snl" RELATED ADJECTIVE []
+synonym: "fascin" RELATED ADJECTIVE []
+synonym: "Fan1" RELATED ADJECTIVE []
+synonym: "Fascin" RELATED ADJECTIVE []
+synonym: "AI663989" RELATED ADJECTIVE []
+synonym: "Fscn1" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 14089
+name: Fap
+synonym: "Fibroblast activation protein alpha" RELATED ADJECTIVE []
+synonym: "SIMP" RELATED ADJECTIVE []
+synonym: "Seprase" RELATED ADJECTIVE []
+synonym: "Glmn" RELATED ADJECTIVE []
+synonym: "Integral membrane serine protease" RELATED ADJECTIVE []
+synonym: "Surface-expressed protease" RELATED ADJECTIVE []
+synonym: "Fap" RELATED ADJECTIVE []
+synonym: "FAPalpha" RELATED ADJECTIVE []
+synonym: "FKBP-associated protein" RELATED ADJECTIVE []
+synonym: "Glomulin" RELATED ADJECTIVE []
+synonym: "Fap48" RELATED ADJECTIVE []
+synonym: "Serine integral membrane protease" RELATED ADJECTIVE []
+synonym: "FK506-binding protein-associated protein" RELATED ADJECTIVE []
+synonym: "Antiplasmin-cleaving enzyme FAP, soluble form" RELATED ADJECTIVE []
+synonym: "Gelatine degradation protease FAP" RELATED ADJECTIVE []
+synonym: "Post-proline cleaving enzyme" RELATED ADJECTIVE []
+synonym: "APCE" RELATED ADJECTIVE []
+synonym: "Prolyl endopeptidase FAP" RELATED ADJECTIVE []
+synonym: "Dipeptidyl peptidase FAP" RELATED ADJECTIVE []
+synonym: "FAP" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 18186
+name: Nrp1
+synonym: "Nrp" RELATED ADJECTIVE []
+synonym: "Nrp1" RELATED ADJECTIVE []
+synonym: "neuropilin-1" RELATED ADJECTIVE []
+synonym: "NPN-1" RELATED ADJECTIVE []
+synonym: "C530029I03" RELATED ADJECTIVE []
+synonym: "Neuropilin-1" RELATED ADJECTIVE []
+synonym: "NP-1" RELATED ADJECTIVE []
+synonym: "A5 protein" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 20239
+name: Atxn2
+synonym: "Ataxin-2" RELATED ADJECTIVE []
+synonym: "ATX2" RELATED ADJECTIVE []
+synonym: "ataxin-2" RELATED ADJECTIVE []
+synonym: "Atx2" RELATED ADJECTIVE []
+synonym: "9630045M23Rik" RELATED ADJECTIVE []
+synonym: "AW544490" RELATED ADJECTIVE []
+synonym: "Sca2" RELATED ADJECTIVE []
+synonym: "Atxn2" RELATED ADJECTIVE []
+synonym: "Spinocerebellar ataxia type 2 protein homolog" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 22288
+name: Utrn
+synonym: "DRP" RELATED ADJECTIVE []
+synonym: "Utrn" RELATED ADJECTIVE []
+synonym: "AA589569" RELATED ADJECTIVE []
+synonym: "Dmdl" RELATED ADJECTIVE []
+synonym: "utrophin" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 18195
+name: Nsf
+synonym: "SKD2" RELATED ADJECTIVE []
+synonym: "AI316878" RELATED ADJECTIVE []
+synonym: "Protein SKD2" RELATED ADJECTIVE []
+synonym: "AU020090" RELATED ADJECTIVE []
+synonym: "AU067812" RELATED ADJECTIVE []
+synonym: "Vesicular-fusion protein NSF" RELATED ADJECTIVE []
+synonym: "Skd2" RELATED ADJECTIVE []
+synonym: "N-ethylmaleimide-sensitive fusion protein" RELATED ADJECTIVE []
+synonym: "Nsf" RELATED ADJECTIVE []
+synonym: "Vesicle-fusing ATPase" RELATED ADJECTIVE []
+synonym: "Suppressor of K(+) transport growth defect 2" RELATED ADJECTIVE []
+synonym: "NEM-sensitive fusion protein" RELATED ADJECTIVE []
+synonym: "NSF" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 26395
+name: Map2k1
+synonym: "MEK 1" RELATED ADJECTIVE []
+synonym: "Prkmk1" RELATED ADJECTIVE []
+synonym: "MAPKK" RELATED ADJECTIVE []
+synonym: "Map2k1" RELATED ADJECTIVE []
+synonym: "MAPK/ERK kinase 1" RELATED ADJECTIVE []
+synonym: "Mek1" RELATED ADJECTIVE []
+synonym: "MAPKK1" RELATED ADJECTIVE []
+synonym: "Dual specificity mitogen-activated protein kinase kinase 1" RELATED ADJECTIVE []
+synonym: "MAP kinase kinase 1" RELATED ADJECTIVE []
+synonym: "MAPKK 1" RELATED ADJECTIVE []
+synonym: "ERK activator kinase 1" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 18053
+name: Ngfr
+synonym: "LNGFR" RELATED ADJECTIVE []
+synonym: "Low affinity neurotrophin receptor p75NTR" RELATED ADJECTIVE []
+synonym: "Tumor necrosis factor receptor superfamily member 16" RELATED ADJECTIVE []
+synonym: "p75NTR" RELATED ADJECTIVE []
+synonym: "NGF receptor" RELATED ADJECTIVE []
+synonym: "Tnfrsf16" RELATED ADJECTIVE []
+synonym: "Neurotrophin" RELATED ADJECTIVE []
+synonym: "Ngfr" RELATED ADJECTIVE []
+synonym: "p75NGFR" RELATED ADJECTIVE []
+synonym: "neurotrophin" RELATED ADJECTIVE []
+synonym: "Low-affinity nerve growth factor receptor" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 16163
+name: Il13
+synonym: "T-cell activation protein P600" RELATED ADJECTIVE []
+synonym: "interleukin-13" RELATED ADJECTIVE []
+synonym: "Il13" RELATED ADJECTIVE []
+synonym: "Il-13" RELATED ADJECTIVE []
+synonym: "IL-13" RELATED ADJECTIVE []
+synonym: "Interleukin-13" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 20264
+name: Scn10a
+synonym: "Nav1.8" RELATED ADJECTIVE []
+synonym: "PN3" RELATED ADJECTIVE []
+synonym: "Sodium channel protein type X subunit alpha" RELATED ADJECTIVE []
+synonym: "Sensory neuron sodium channel" RELATED ADJECTIVE []
+synonym: "Scn10a" RELATED ADJECTIVE []
+synonym: "Voltage-gated sodium channel subunit alpha Nav1.8" RELATED ADJECTIVE []
+synonym: "SNS" RELATED ADJECTIVE []
+synonym: "Sodium channel protein type 10 subunit alpha" RELATED ADJECTIVE []
+synonym: "Peripheral nerve sodium channel 3" RELATED ADJECTIVE []
+synonym: "Sns" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 16170
+name: Il16
+synonym: "mKIAA4048" RELATED ADJECTIVE []
+synonym: "Lymphocyte chemoattractant factor" RELATED ADJECTIVE []
+synonym: "IL-16" RELATED ADJECTIVE []
+synonym: "interleukin-16" RELATED ADJECTIVE []
+synonym: "Interleukin-16" RELATED ADJECTIVE []
+synonym: "Il16" RELATED ADJECTIVE []
+synonym: "LCF" RELATED ADJECTIVE []
+synonym: "Pro-interleukin-16" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 16172
+name: Il17ra
+synonym: "Interleukin-17 receptor A" RELATED ADJECTIVE []
+synonym: "VDw217" RELATED ADJECTIVE []
+synonym: "IL-17RA" RELATED ADJECTIVE []
+synonym: "IL-17 receptor A" RELATED ADJECTIVE []
+synonym: "Interleukin-17" RELATED ADJECTIVE []
+synonym: "interleukin-17" RELATED ADJECTIVE []
+synonym: "AW538159" RELATED ADJECTIVE []
+synonym: "Il17r" RELATED ADJECTIVE []
+synonym: "Il17ra" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 26413
+name: Mapk1
+synonym: "MAPK 2" RELATED ADJECTIVE []
+synonym: "MAPK 1" RELATED ADJECTIVE []
+synonym: "Mapk" RELATED ADJECTIVE []
+synonym: "Prkm1" RELATED ADJECTIVE []
+synonym: "p42mapk" RELATED ADJECTIVE []
+synonym: "ERK-2" RELATED ADJECTIVE []
+synonym: "ERK" RELATED ADJECTIVE []
+synonym: "Erk2" RELATED ADJECTIVE []
+synonym: "MAP kinase 1" RELATED ADJECTIVE []
+synonym: "PRKM2" RELATED ADJECTIVE []
+synonym: "MAP kinase 2" RELATED ADJECTIVE []
+synonym: "MAPK2" RELATED ADJECTIVE []
+synonym: "Extracellular signal-regulated kinase 2" RELATED ADJECTIVE []
+synonym: "Mapk1" RELATED ADJECTIVE []
+synonym: "Mitogen-activated protein kinase 2" RELATED ADJECTIVE []
+synonym: "Mitogen-activated protein kinase 1" RELATED ADJECTIVE []
+synonym: "9030612K14Rik" RELATED ADJECTIVE []
+synonym: "AA407128" RELATED ADJECTIVE []
+synonym: "MAPK" RELATED ADJECTIVE []
+synonym: "AU018647" RELATED ADJECTIVE []
+synonym: "MAP kinase isoform p42" RELATED ADJECTIVE []
+synonym: "p42-MAPK" RELATED ADJECTIVE []
+synonym: "C78273" RELATED ADJECTIVE []
+synonym: "p41mapk" RELATED ADJECTIVE []
+synonym: "ERT1" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 22318
+name: Vamp2
+synonym: "sybII" RELATED ADJECTIVE []
+synonym: "Vamp2" RELATED ADJECTIVE []
+synonym: "Synaptobrevin-2" RELATED ADJECTIVE []
+synonym: "Syb2" RELATED ADJECTIVE []
+synonym: "Vesicle-associated membrane protein 2" RELATED ADJECTIVE []
+synonym: "Syb-2" RELATED ADJECTIVE []
+synonym: "synaptobrevin 2" RELATED ADJECTIVE []
+synonym: "VAMP-2" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 16181
+name: Il1rn
+synonym: "Il1rn" RELATED ADJECTIVE []
+synonym: "F630041P17Rik" RELATED ADJECTIVE []
+synonym: "interleukin-1" RELATED ADJECTIVE []
+synonym: "Interleukin-1 receptor antagonist protein" RELATED ADJECTIVE []
+synonym: "IL-1ra" RELATED ADJECTIVE []
+synonym: "IL-1RN" RELATED ADJECTIVE []
+synonym: "Interleukin-1" RELATED ADJECTIVE []
+synonym: "IL1 inhibitor" RELATED ADJECTIVE []
+synonym: "IRAP" RELATED ADJECTIVE []
+synonym: "Il-1ra" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 16182
+name: Il18r1
+synonym: "IL1R-rp" RELATED ADJECTIVE []
+synonym: "IL1 receptor-related protein" RELATED ADJECTIVE []
+synonym: "IL-18R1" RELATED ADJECTIVE []
+synonym: "IL-1Rrp" RELATED ADJECTIVE []
+synonym: "IL-18R-1" RELATED ADJECTIVE []
+synonym: "interleukin-18" RELATED ADJECTIVE []
+synonym: "Il18r1" RELATED ADJECTIVE []
+synonym: "Interleukin-18" RELATED ADJECTIVE []
+synonym: "Interleukin-18 receptor 1" RELATED ADJECTIVE []
+synonym: "Il18ralpha" RELATED ADJECTIVE []
+synonym: "Il1rrp" RELATED ADJECTIVE []
+synonym: "CD218 antigen-like family member A" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 16184
+name: Il2ra
+synonym: "Il2ra" RELATED ADJECTIVE []
+synonym: "interleukin-2" RELATED ADJECTIVE []
+synonym: "IL-2-RA" RELATED ADJECTIVE []
+synonym: "IL-2 receptor subunit alpha" RELATED ADJECTIVE []
+synonym: "CD25" RELATED ADJECTIVE []
+synonym: "Interleukin-2" RELATED ADJECTIVE []
+synonym: "Il2r" RELATED ADJECTIVE []
+synonym: "Interleukin-2 receptor subunit alpha" RELATED ADJECTIVE []
+synonym: "IL-2R subunit alpha" RELATED ADJECTIVE []
+synonym: "Ly-43" RELATED ADJECTIVE []
+synonym: "p55" RELATED ADJECTIVE []
+synonym: "IL2-RA" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 22330
+name: Vcl
+synonym: "9430097D22" RELATED ADJECTIVE []
+synonym: "Metavinculin" RELATED ADJECTIVE []
+synonym: "AA571387" RELATED ADJECTIVE []
+synonym: "Vinculin" RELATED ADJECTIVE []
+synonym: "AW545629" RELATED ADJECTIVE []
+synonym: "AI462105" RELATED ADJECTIVE []
+synonym: "Vcl" RELATED ADJECTIVE []
+synonym: "vinculin" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 12091
+name: Glb1
+synonym: "Bgl-e" RELATED ADJECTIVE []
+synonym: "Lactase" RELATED ADJECTIVE []
+synonym: "Bge" RELATED ADJECTIVE []
+synonym: "Bgl" RELATED ADJECTIVE []
+synonym: "AW125515" RELATED ADJECTIVE []
+synonym: "Glb1" RELATED ADJECTIVE []
+synonym: "Bgl-t" RELATED ADJECTIVE []
+synonym: "Bgs" RELATED ADJECTIVE []
+synonym: "Bgt" RELATED ADJECTIVE []
+synonym: "C130097A14Rik" RELATED ADJECTIVE []
+synonym: "Glb-1" RELATED ADJECTIVE []
+synonym: "beta-galactosidase" RELATED ADJECTIVE []
+synonym: "Bgl-s" RELATED ADJECTIVE []
+synonym: "beta-Galactosidase" RELATED ADJECTIVE []
+synonym: "Acid beta-galactosidase" RELATED ADJECTIVE []
+synonym: "Beta-galactosidase" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 16189
+name: Il4
+synonym: "B-cell IgG differentiation factor" RELATED ADJECTIVE []
+synonym: "BSF-1" RELATED ADJECTIVE []
+synonym: "Il-4" RELATED ADJECTIVE []
+synonym: "B-cell stimulatory factor 1" RELATED ADJECTIVE []
+synonym: "B-cell growth factor 1" RELATED ADJECTIVE []
+synonym: "Lymphocyte stimulatory factor 1" RELATED ADJECTIVE []
+synonym: "IL-4" RELATED ADJECTIVE []
+synonym: "Il4" RELATED ADJECTIVE []
+synonym: "Interleukin-4" RELATED ADJECTIVE []
+synonym: "IGG1 induction factor" RELATED ADJECTIVE []
+synonym: "interleukin-4" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 16191
+name: Il5
+synonym: "Eosinophil differentiation factor" RELATED ADJECTIVE []
+synonym: "Cytotoxic T-lymphocyte inducer" RELATED ADJECTIVE []
+synonym: "Il-5" RELATED ADJECTIVE []
+synonym: "BCGF-II" RELATED ADJECTIVE []
+synonym: "B-cell growth factor II" RELATED ADJECTIVE []
+synonym: "TRF" RELATED ADJECTIVE []
+synonym: "T-cell replacing factor" RELATED ADJECTIVE []
+synonym: "Il5" RELATED ADJECTIVE []
+synonym: "Interleukin-5" RELATED ADJECTIVE []
+synonym: "IL-5" RELATED ADJECTIVE []
+synonym: "interleukin-5" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 16193
+name: Il6
+synonym: "interleukin-6" RELATED ADJECTIVE []
+synonym: "Interleukin HP-1" RELATED ADJECTIVE []
+synonym: "Il-6" RELATED ADJECTIVE []
+synonym: "Il6" RELATED ADJECTIVE []
+synonym: "Interleukin-6" RELATED ADJECTIVE []
+synonym: "B-cell hybridoma growth factor" RELATED ADJECTIVE []
+synonym: "IL-6" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 16196
+name: Il7
+synonym: "Il-7" RELATED ADJECTIVE []
+synonym: "A630026I06Rik" RELATED ADJECTIVE []
+synonym: "interleukin-7" RELATED ADJECTIVE []
+synonym: "IL-7" RELATED ADJECTIVE []
+synonym: "Il7" RELATED ADJECTIVE []
+synonym: "Interleukin-7" RELATED ADJECTIVE []
+synonym: "hlb368" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 22348
+name: Slc32a1
+synonym: "Slc32a1" RELATED ADJECTIVE []
+synonym: "mVGAT" RELATED ADJECTIVE []
+synonym: "Vesicular GABA transporter" RELATED ADJECTIVE []
+synonym: "R75019" RELATED ADJECTIVE []
+synonym: "GABA and glycine transporter" RELATED ADJECTIVE []
+synonym: "VIAAT" RELATED ADJECTIVE []
+synonym: "Vesicular inhibitory amino acid transporter" RELATED ADJECTIVE []
+synonym: "Viaat" RELATED ADJECTIVE []
+synonym: "vesicular inhibitory amino acid transporter" RELATED ADJECTIVE []
+synonym: "mVIAAT" RELATED ADJECTIVE []
+synonym: "VGAT" RELATED ADJECTIVE []
+synonym: "Vgat" RELATED ADJECTIVE []
+synonym: "Solute carrier family 32 member 1" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 22352
+name: Vim
+synonym: "Vimentin" RELATED ADJECTIVE []
+synonym: "vimentin" RELATED ADJECTIVE []
+synonym: "Vim" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 22353
+name: Vip
+synonym: "InsP6 and PP-IP5 kinase 2" RELATED ADJECTIVE []
+synonym: "InsP6 and PP-IP5 kinase 1" RELATED ADJECTIVE []
+synonym: "Vasoactive intestinal peptide" RELATED ADJECTIVE []
+synonym: "Diphosphoinositol pentakisphosphate kinase 2" RELATED ADJECTIVE []
+synonym: "Diphosphoinositol pentakisphosphate kinase 1" RELATED ADJECTIVE []
+synonym: "Histidine acid phosphatase domain-containing protein 1" RELATED ADJECTIVE []
+synonym: "VIP peptides" RELATED ADJECTIVE []
+synonym: "Peptide histidine isoleucinamide 27" RELATED ADJECTIVE []
+synonym: "VIP1 homolog 2" RELATED ADJECTIVE []
+synonym: "vasoactive intestinal polypeptide" RELATED ADJECTIVE []
+synonym: "Vip2" RELATED ADJECTIVE []
+synonym: "Vip1" RELATED ADJECTIVE []
+synonym: "Kiaa0377" RELATED ADJECTIVE []
+synonym: "Vip" RELATED ADJECTIVE []
+synonym: "Ppip5k2" RELATED ADJECTIVE []
+synonym: "Ppip5k1" RELATED ADJECTIVE []
+synonym: "mmVIP2" RELATED ADJECTIVE []
+synonym: "Vasoactive intestinal polypeptide" RELATED ADJECTIVE []
+synonym: "Intestinal peptide PHI-27" RELATED ADJECTIVE []
+synonym: "Histidine acid phosphatase domain-containing protein 2A" RELATED ADJECTIVE []
+synonym: "Inositol hexakisphosphate and diphosphoinositol-pentakisphosphate kinase 1" RELATED ADJECTIVE []
+synonym: "Inositol hexakisphosphate and diphosphoinositol-pentakisphosphate kinase 2" RELATED ADJECTIVE []
+synonym: "VIP1 homolog" RELATED ADJECTIVE []
+synonym: "Hisppd1" RELATED ADJECTIVE []
+synonym: "Kiaa0433" RELATED ADJECTIVE []
+synonym: "VIP" RELATED ADJECTIVE []
+synonym: "Hisppd2a" RELATED ADJECTIVE []
+synonym: "Intestinal peptide PHI-42" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 22355
+name: Vipr2
+synonym: "PACAP-R3" RELATED ADJECTIVE []
+synonym: "vasoactive intestinal peptide" RELATED ADJECTIVE []
+synonym: "VPAC2" RELATED ADJECTIVE []
+synonym: "Vasoactive intestinal polypeptide receptor 2" RELATED ADJECTIVE []
+synonym: "Pituitary adenylate cyclase-activating polypeptide type III receptor" RELATED ADJECTIVE []
+synonym: "VIP-R-2" RELATED ADJECTIVE []
+synonym: "PACAP type III receptor" RELATED ADJECTIVE []
+synonym: "VPAC2R" RELATED ADJECTIVE []
+synonym: "Vipr2" RELATED ADJECTIVE []
+synonym: "PACAP-R-3" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 18260
+name: Ocln
+synonym: "Ocln" RELATED ADJECTIVE []
+synonym: "Occludin" RELATED ADJECTIVE []
+synonym: "AI503564" RELATED ADJECTIVE []
+synonym: "Ocl" RELATED ADJECTIVE []
+synonym: "occludin" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 22370
+name: Vtn
+synonym: "Vitronectin" RELATED ADJECTIVE []
+synonym: "Vn" RELATED ADJECTIVE []
+synonym: "Serum-spreading factor" RELATED ADJECTIVE []
+synonym: "S-protein" RELATED ADJECTIVE []
+synonym: "VN" RELATED ADJECTIVE []
+synonym: "vitronectin" RELATED ADJECTIVE []
+synonym: "AI256434" RELATED ADJECTIVE []
+synonym: "Vtn" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 20343
+name: Sell
+synonym: "Sell" RELATED ADJECTIVE []
+synonym: "Leukocyte adhesion molecule 1" RELATED ADJECTIVE []
+synonym: "LECAM-1" RELATED ADJECTIVE []
+synonym: "Ly-m22" RELATED ADJECTIVE []
+synonym: "CD62L" RELATED ADJECTIVE []
+synonym: "LECAM1" RELATED ADJECTIVE []
+synonym: "Lymphocyte antigen 22" RELATED ADJECTIVE []
+synonym: "L-selectin" RELATED ADJECTIVE []
+synonym: "Ly-22" RELATED ADJECTIVE []
+synonym: "Lnhr" RELATED ADJECTIVE []
+synonym: "LAM-1" RELATED ADJECTIVE []
+synonym: "CD62 antigen-like family member L" RELATED ADJECTIVE []
+synonym: "Lyam-1" RELATED ADJECTIVE []
+synonym: "Lymph node homing receptor" RELATED ADJECTIVE []
+synonym: "Lyam1" RELATED ADJECTIVE []
+synonym: "Lymphocyte surface MEL-14 antigen" RELATED ADJECTIVE []
+synonym: "AI528707" RELATED ADJECTIVE []
+synonym: "Leukocyte-endothelial cell adhesion molecule 1" RELATED ADJECTIVE []
+synonym: "Ly22" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 216963
+name: Git1
+synonym: "G protein-coupled receptor kinase-interactor 1" RELATED ADJECTIVE []
+synonym: "ARF GTPase-activating protein GIT1" RELATED ADJECTIVE []
+synonym: "Cat-1" RELATED ADJECTIVE []
+synonym: "GRK-interacting protein 1" RELATED ADJECTIVE []
+synonym: "Git1" RELATED ADJECTIVE []
+synonym: "ARF GAP GIT1" RELATED ADJECTIVE []
+synonym: "p95Cat" RELATED ADJECTIVE []
+synonym: "GIT1" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 14246
+name: Flg
+synonym: "Flg2" RELATED ADJECTIVE []
+synonym: "Filaggrin" RELATED ADJECTIVE []
+synonym: "FLG-2" RELATED ADJECTIVE []
+synonym: "Basic fibroblast growth factor receptor 1" RELATED ADJECTIVE []
+synonym: "FGFR-1" RELATED ADJECTIVE []
+synonym: "bFGF-R-1" RELATED ADJECTIVE []
+synonym: "filaggrin" RELATED ADJECTIVE []
+synonym: "Fibroblast growth factor receptor 1" RELATED ADJECTIVE []
+synonym: "MFR" RELATED ADJECTIVE []
+synonym: "AW107830" RELATED ADJECTIVE []
+synonym: "Intermediate filament-associated protein" RELATED ADJECTIVE []
+synonym: "Proto-oncogene c-Fgr" RELATED ADJECTIVE []
+synonym: "ft" RELATED ADJECTIVE []
+synonym: "Filaggrin-2" RELATED ADJECTIVE []
+synonym: "Flg" RELATED ADJECTIVE []
+synonym: "Fgfr1" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 26556
+name: Homer1
+synonym: "homer-1" RELATED ADJECTIVE []
+synonym: "VASP/Ena-related gene up-regulated during seizure and LTP 1" RELATED ADJECTIVE []
+synonym: "PSD-Zip45" RELATED ADJECTIVE []
+synonym: "SYN47" RELATED ADJECTIVE []
+synonym: "Ves-1" RELATED ADJECTIVE []
+synonym: "vesl-1" RELATED ADJECTIVE []
+synonym: "Vesl1" RELATED ADJECTIVE []
+synonym: "Homer-1" RELATED ADJECTIVE []
+synonym: "Vesl-1" RELATED ADJECTIVE []
+synonym: "Homer1" RELATED ADJECTIVE []
+synonym: "Homer 1" RELATED ADJECTIVE []
+synonym: "Homer protein homolog 1" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 26557
+name: Homer2
+synonym: "VASP/Ena-related gene up-regulated during seizure and LTP 2" RELATED ADJECTIVE []
+synonym: "Cupidin" RELATED ADJECTIVE []
+synonym: "CPD" RELATED ADJECTIVE []
+synonym: "Vesl2" RELATED ADJECTIVE []
+synonym: "AW539445" RELATED ADJECTIVE []
+synonym: "Vesl-2" RELATED ADJECTIVE []
+synonym: "Homer-2" RELATED ADJECTIVE []
+synonym: "9330120H11Rik" RELATED ADJECTIVE []
+synonym: "Homer 2" RELATED ADJECTIVE []
+synonym: "Homer2" RELATED ADJECTIVE []
+synonym: "Homer protein homolog 2" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 26558
+name: Homer3
+synonym: "Homer 3" RELATED ADJECTIVE []
+synonym: "Homer3" RELATED ADJECTIVE []
+synonym: "AW146114" RELATED ADJECTIVE []
+synonym: "Homer-3" RELATED ADJECTIVE []
+synonym: "Homer protein homolog 3" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 20416
+name: Shc1
+synonym: "SH2 domain protein C1" RELATED ADJECTIVE []
+synonym: "Shc1" RELATED ADJECTIVE []
+synonym: "p66" RELATED ADJECTIVE []
+synonym: "SHC-transforming protein 1" RELATED ADJECTIVE []
+synonym: "Shc" RELATED ADJECTIVE []
+synonym: "shc" RELATED ADJECTIVE []
+synonym: "ShcA" RELATED ADJECTIVE []
+synonym: "p66shc" RELATED ADJECTIVE []
+synonym: "SHC-transforming protein A" RELATED ADJECTIVE []
+synonym: "Src homology 2 domain-containing-transforming protein C1" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 14281
+name: Fos
+synonym: "Proto-oncogene c-Fos" RELATED ADJECTIVE []
+synonym: "c-fos" RELATED ADJECTIVE []
+synonym: "Fos" RELATED ADJECTIVE []
+synonym: "cFos" RELATED ADJECTIVE []
+synonym: "Cellular oncogene fos" RELATED ADJECTIVE []
+synonym: "D12Rfj1" RELATED ADJECTIVE []
+synonym: "c-Fos" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 16333
+name: Ins1
+synonym: "Insulin-1" RELATED ADJECTIVE []
+synonym: "Ins-1" RELATED ADJECTIVE []
+synonym: "Ins1" RELATED ADJECTIVE []
+synonym: "Ins2-rs1" RELATED ADJECTIVE []
+synonym: "Insulin-1 B chain" RELATED ADJECTIVE []
+synonym: "insulin" RELATED ADJECTIVE []
+synonym: "Insulin-1 A chain" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 18390
+name: Oprm1
+synonym: "Oprm" RELATED ADJECTIVE []
+synonym: "MOP-R" RELATED ADJECTIVE []
+synonym: "mor" RELATED ADJECTIVE []
+synonym: "MOR-1" RELATED ADJECTIVE []
+synonym: "M-OR-1" RELATED ADJECTIVE []
+synonym: "MOR-1O" RELATED ADJECTIVE []
+synonym: "Oprm1" RELATED ADJECTIVE []
+synonym: "Mor" RELATED ADJECTIVE []
+synonym: "Mu-type opioid receptor" RELATED ADJECTIVE []
+synonym: "muOR" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 14308
+name: Fshb
+synonym: "FSH-B" RELATED ADJECTIVE []
+synonym: "follicle stimulating hormone" RELATED ADJECTIVE []
+synonym: "Follitropin subunit beta" RELATED ADJECTIVE []
+synonym: "Fshb" RELATED ADJECTIVE []
+synonym: "FSH" RELATED ADJECTIVE []
+synonym: "Fshbeta" RELATED ADJECTIVE []
+synonym: "follicle-stimulating hormone" RELATED ADJECTIVE []
+synonym: "FSH-beta" RELATED ADJECTIVE []
+synonym: "Follitropin beta chain" RELATED ADJECTIVE []
+synonym: "Follicle-stimulating hormone beta subunit" RELATED ADJECTIVE []
+
+[Term]
+id NCBI_GENE: 57321
+name: Terf2ip
+synonym: "" RELATED ADJECTIVE []
+synonym: "Telomeric repeat-binding factor 2-interacting protein 1" RELATED ADJECTIVE []
+synonym: "TRF2-interacting telomeric protein 1" RELATED ADJECTIVE []
+synonym: "Rap1" RELATED ADJECTIVE []
+synonym: "MNCb-0628" RELATED ADJECTIVE []
+synonym: "Repressor/activator protein 1 homolog" RELATED ADJECTIVE []
+synonym: "Terf2ip" RELATED ADJECTIVE []
+synonym: "MNCb-0448" RELATED ADJECTIVE []
+synonym: "TERF2-interacting telomeric protein 1" RELATED ADJECTIVE []
+synonym: "RAP1 homolog" RELATED ADJECTIVE []
+synonym: "rap1" RELATED ADJECTIVE []
+
