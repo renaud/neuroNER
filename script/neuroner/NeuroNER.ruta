@@ -68,12 +68,9 @@ DECLARE ProteinTrigger;
 "(?i)(contain|secret|releas|bind|synthesiz|express|contain)ing|principal|immuno(nega|posi|reac)tive|(reac|posi)tive|immunoreactivity|
 reactive|labeled|stained" -> ProteinTrigger;
 DECLARE NeuronProperty ProteinProp;
-(ProteinName "-"? ProteinTrigger){-> CREATE(ProteinProp, "ontologyId" = ProteinName)};
-//Line below should fix Issue SJT raised on Protein NeuronTrigger should also be identified
-//(ProteinName "-"? NeuronTrigger){-> CREATE(ProteinProp, "ontologyId" = ProteinName)};
+(ProteinName "-"? ProteinTrigger?){-> CREATE(ProteinProp, "ontologyId" = ProteinName)};
+(ProteinTrigger "-"? ProteinName ){-> CREATE(ProteinProp, "ontologyId" = ProteinName)};
 (ProteinTrigger ProteinName (COMMA ProteinName)?){-> MARK(ProteinProp)};
-// the line below should work as far as I can tell - SJT
-//TODO (ProteinTrigger){-> MARK(ProteinProp, 1, 2)} ("-"? ProteinName);
 // also apply to NT
 (NeurotransmitterProp "-"? ProteinTrigger){-> SHIFT(NeurotransmitterProp,1,3)};
 
