@@ -13,7 +13,7 @@ synonymtypedef: PLURAL "plural term" EXACT
 
 
 [Term]
-id NCBI_GENE: 12289
+id: NCBI_GENE:12289
 name: Cacna1d
 synonym: "8430418G19Rik" RELATED ADJECTIVE []
 synonym: "Cchl1a2" RELATED ADJECTIVE []
@@ -30,12 +30,12 @@ synonym: "D-LTCC" RELATED ADJECTIVE []
 synonym: "Voltage-gated calcium channel subunit alpha Cav1.3" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 110603
+id: NCBI_GENE:110603
 name: Myhn2
 synonym: "myosin IIb" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 12300
+id: NCBI_GENE:12300
 name: Cacng2
 synonym: "Voltage-dependent calcium channel gamma-2 subunit" RELATED ADJECTIVE []
 synonym: "Neuronal voltage-gated calcium channel gamma-2 subunit" RELATED ADJECTIVE []
@@ -54,7 +54,7 @@ synonym: "stargazer" RELATED ADJECTIVE []
 synonym: "Transmembrane AMPAR regulatory protein gamma-2" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 243725
+id: NCBI_GENE:243725
 name: Ppp1r9a
 synonym: "5330407E15" RELATED ADJECTIVE []
 synonym: "neurabin-I" RELATED ADJECTIVE []
@@ -68,7 +68,7 @@ synonym: "BB181831" RELATED ADJECTIVE []
 synonym: "mKIAA1222" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 233489
+id: NCBI_GENE:233489
 name: Picalm
 synonym: "mKIAA4114" RELATED ADJECTIVE []
 synonym: "PAP180" RELATED ADJECTIVE []
@@ -83,7 +83,7 @@ synonym: "Picalm" RELATED ADJECTIVE []
 synonym: "Calm" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 12307
+id: NCBI_GENE:12307
 name: Calb1
 synonym: "Vitamin D-dependent calcium-binding protein, avian-type" RELATED ADJECTIVE []
 synonym: "calbindin-D 28k" RELATED ADJECTIVE []
@@ -108,7 +108,7 @@ synonym: "Spot 35 protein" RELATED ADJECTIVE []
 synonym: "Calbindin D28" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 12308
+id: NCBI_GENE:12308
 name: Calb2
 synonym: "" RELATED ADJECTIVE []
 synonym: "CR" RELATED ADJECTIVE []
@@ -117,7 +117,7 @@ synonym: "Calb2" RELATED ADJECTIVE []
 synonym: "calretinin" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 12310
+id: NCBI_GENE:12310
 name: Calca
 synonym: "CGRP-I" RELATED ADJECTIVE []
 synonym: "calcitonin" RELATED ADJECTIVE []
@@ -137,7 +137,7 @@ synonym: "CGRP1" RELATED ADJECTIVE []
 synonym: "Ct" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 110616
+id: NCBI_GENE:110616
 name: Atxn3
 synonym: "ATX3" RELATED ADJECTIVE []
 synonym: "Mjd" RELATED ADJECTIVE []
@@ -152,7 +152,7 @@ synonym: "AI463012" RELATED ADJECTIVE []
 synonym: "Atxn3" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 16412
+id: NCBI_GENE:16412
 name: Itgb1
 synonym: "Itgb1" RELATED ADJECTIVE []
 synonym: "AA409975" RELATED ADJECTIVE []
@@ -170,7 +170,7 @@ synonym: "VLA-4 subunit beta" RELATED ADJECTIVE []
 synonym: "Integrin beta-1" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 12317
+id: NCBI_GENE:12317
 name: Calr
 synonym: "Calsperin" RELATED ADJECTIVE []
 synonym: "Calr3" RELATED ADJECTIVE []
@@ -187,7 +187,7 @@ synonym: "ERp60" RELATED ADJECTIVE []
 synonym: "calreticulin" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 20510
+id: NCBI_GENE:20510
 name: Slc1a1
 synonym: "Sodium-dependent glutamate/aspartate transporter 3" RELATED ADJECTIVE []
 synonym: "D130048G10Rik" RELATED ADJECTIVE []
@@ -203,7 +203,7 @@ synonym: "EAAC1" RELATED ADJECTIVE []
 synonym: "Slc1a1" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 12322
+id: NCBI_GENE:12322
 name: Camk2a
 synonym: "mKIAA0968" RELATED ADJECTIVE []
 synonym: "calmodulin" RELATED ADJECTIVE []
@@ -216,7 +216,7 @@ synonym: "Calcium/calmodulin-dependent protein kinase type II subunit alpha" REL
 synonym: "R74975" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 16424
+id: NCBI_GENE:16424
 name: Itih1
 synonym: "Inter-alpha-inhibitor heavy chain 1" RELATED ADJECTIVE []
 synonym: "Inter-alpha-trypsin inhibitor heavy chain H1" RELATED ADJECTIVE []
@@ -228,7 +228,7 @@ synonym: "ITI heavy chain H1" RELATED ADJECTIVE []
 synonym: "trypsin" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 12330
+id: NCBI_GENE:12330
 name: Canx
 synonym: "AI988026" RELATED ADJECTIVE []
 synonym: "1110069N15Rik" RELATED ADJECTIVE []
@@ -239,7 +239,7 @@ synonym: "Calnexin" RELATED ADJECTIVE []
 synonym: "Canx" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 18479
+id: NCBI_GENE:18479
 name: Pak1
 synonym: "Paka" RELATED ADJECTIVE []
 synonym: "PAK1" RELATED ADJECTIVE []
@@ -253,7 +253,7 @@ synonym: "Pak1" RELATED ADJECTIVE []
 synonym: "CDC42/RAC effector kinase PAK-A" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 243764
+id: NCBI_GENE:243764
 name: Chrm2
 synonym: "AChR-M2" RELATED ADJECTIVE []
 synonym: "Muscarinic acetylcholine receptor M2" RELATED ADJECTIVE []
@@ -261,7 +261,7 @@ synonym: "Chrm2" RELATED ADJECTIVE []
 synonym: "Chrm-2" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 14394
+id: NCBI_GENE:14394
 name: Gabra1
 synonym: "Gabra1" RELATED ADJECTIVE []
 synonym: "GABA(A) receptor subunit alpha-1" RELATED ADJECTIVE []
@@ -270,7 +270,7 @@ synonym: "GABRA1" RELATED ADJECTIVE []
 synonym: "Gamma-aminobutyric acid receptor subunit alpha-1" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 20541
+id: NCBI_GENE:20541
 name: Slc8a1
 synonym: "AI852629" RELATED ADJECTIVE []
 synonym: "Ncx" RELATED ADJECTIVE []
@@ -283,7 +283,7 @@ synonym: "Slc8a1" RELATED ADJECTIVE []
 synonym: "Sodium calcium exchanger 1" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 16447
+id: NCBI_GENE:16447
 name: Ivl
 synonym: "Ivl" RELATED ADJECTIVE []
 synonym: "1110019C06Rik" RELATED ADJECTIVE []
@@ -291,7 +291,7 @@ synonym: "Involucrin" RELATED ADJECTIVE []
 synonym: "involucrin" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 12359
+id: NCBI_GENE:12359
 name: Cat
 synonym: "Cat56" RELATED ADJECTIVE []
 synonym: "Cat53" RELATED ADJECTIVE []
@@ -324,7 +324,7 @@ synonym: "Ppp1r10" RELATED ADJECTIVE []
 synonym: "Cas1" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 14414
+id: NCBI_GENE:14414
 name: gad
 synonym: "Glutamate decarboxylase 65 kDa isoform" RELATED ADJECTIVE []
 synonym: "Glutamate decarboxylase 2" RELATED ADJECTIVE []
@@ -341,7 +341,7 @@ synonym: "Gad2" RELATED ADJECTIVE []
 synonym: "GAD-67" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 14415
+id: NCBI_GENE:14415
 name: Gad1
 synonym: "Glutamate decarboxylase 67 kDa isoform" RELATED ADJECTIVE []
 synonym: "GAD44" RELATED ADJECTIVE []
@@ -358,7 +358,7 @@ synonym: "GAD25" RELATED ADJECTIVE []
 synonym: "GAD-67" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 14417
+id: NCBI_GENE:14417
 name: Gad2
 synonym: "Glutamate decarboxylase 65 kDa isoform" RELATED ADJECTIVE []
 synonym: "6330404F12Rik" RELATED ADJECTIVE []
@@ -373,7 +373,7 @@ synonym: "Gad65" RELATED ADJECTIVE []
 synonym: "GAD2" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 14419
+id: NCBI_GENE:14419
 name: Gal
 synonym: "Galactose-3-O-sulfotransferase 3" RELATED ADJECTIVE []
 synonym: "Galactose-3-O-sulfotransferase 2" RELATED ADJECTIVE []
@@ -403,7 +403,7 @@ synonym: "Galn" RELATED ADJECTIVE []
 synonym: "3'-phosphoadenosine-5'-phosphosulfate:GalCer sulfotransferase" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 16476
+id: NCBI_GENE:16476
 name: Jun
 synonym: "Jun-d" RELATED ADJECTIVE []
 synonym: "Transcription factor AP-1" RELATED ADJECTIVE []
@@ -426,7 +426,7 @@ synonym: "c-jun" RELATED ADJECTIVE []
 synonym: "AH119" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 57441
+id: NCBI_GENE:57441
 name: Gmnn
 synonym: "Gmnn" RELATED ADJECTIVE []
 synonym: "AW546347" RELATED ADJECTIVE []
@@ -434,7 +434,7 @@ synonym: "geminin" RELATED ADJECTIVE []
 synonym: "Geminin" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 12387
+id: NCBI_GENE:12387
 name: Ctnnb1
 synonym: "Bfc" RELATED ADJECTIVE []
 synonym: "Catenin beta-1" RELATED ADJECTIVE []
@@ -446,7 +446,7 @@ synonym: "Catnb" RELATED ADJECTIVE []
 synonym: "beta-catenin" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 12388
+id: NCBI_GENE:12388
 name: Ctnnd1
 synonym: "p120 catenin" RELATED ADJECTIVE []
 synonym: "delta-catenin" RELATED ADJECTIVE []
@@ -465,7 +465,7 @@ synonym: "mKIAA0384" RELATED ADJECTIVE []
 synonym: "Kiaa0384" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 12389
+id: NCBI_GENE:12389
 name: Cav1
 synonym: "Cav-1" RELATED ADJECTIVE []
 synonym: "Caveolin-1" RELATED ADJECTIVE []
@@ -474,12 +474,12 @@ synonym: "Cav" RELATED ADJECTIVE []
 synonym: "caveolin-1" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 12392
+id: NCBI_GENE:12392
 name: cb
 synonym: "CB" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 14459
+id: NCBI_GENE:14459
 name: Gast
 synonym: "Gastrin-71" RELATED ADJECTIVE []
 synonym: "G34" RELATED ADJECTIVE []
@@ -493,7 +493,7 @@ synonym: "gastrin" RELATED ADJECTIVE []
 synonym: "Gast" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 20604
+id: NCBI_GENE:20604
 name: Sst
 synonym: "Antrin" RELATED ADJECTIVE []
 synonym: "Sst2" RELATED ADJECTIVE []
@@ -514,7 +514,7 @@ synonym: "Somatostatin" RELATED ADJECTIVE []
 synonym: "Smstr2" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 20614
+id: NCBI_GENE:20614
 name: Snap25
 synonym: "Snap25" RELATED ADJECTIVE []
 synonym: "GENA70" RELATED ADJECTIVE []
@@ -528,7 +528,7 @@ synonym: "SNAP-25" RELATED ADJECTIVE []
 synonym: "Synaptosomal-associated protein 25" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 12424
+id: NCBI_GENE:12424
 name: Cck
 synonym: "Cholecystokinin-12" RELATED ADJECTIVE []
 synonym: "CCK8" RELATED ADJECTIVE []
@@ -541,7 +541,7 @@ synonym: "Cholecystokinin-8" RELATED ADJECTIVE []
 synonym: "Cholecystokinin" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 20617
+id: NCBI_GENE:20617
 name: Snca
 synonym: "Non-A4 component of amyloid precursor" RELATED ADJECTIVE []
 synonym: "alphaSYN" RELATED ADJECTIVE []
@@ -554,7 +554,7 @@ synonym: "Non-A beta component of AD amyloid" RELATED ADJECTIVE []
 synonym: "alpha-synuclein" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 20618
+id: NCBI_GENE:20618
 name: Sncg
 synonym: "C79089" RELATED ADJECTIVE []
 synonym: "Persyn" RELATED ADJECTIVE []
@@ -564,7 +564,7 @@ synonym: "Sncg" RELATED ADJECTIVE []
 synonym: "gamma-synuclein" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 14360
+id: NCBI_GENE:14360
 name: Fyn
 synonym: "p59-Fyn" RELATED ADJECTIVE []
 synonym: "Tyrosine-protein kinase Fyn" RELATED ADJECTIVE []
@@ -575,7 +575,7 @@ synonym: "fyn" RELATED ADJECTIVE []
 synonym: "AW552119" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 30878
+id: NCBI_GENE:30878
 name: Apln
 synonym: "apelin" RELATED ADJECTIVE []
 synonym: "6030430G11Rik" RELATED ADJECTIVE []
@@ -589,7 +589,7 @@ synonym: "Apel" RELATED ADJECTIVE []
 synonym: "Apln" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 53414
+id: NCBI_GENE:53414
 name: Bysl
 synonym: "Bystin" RELATED ADJECTIVE []
 synonym: "Bysl" RELATED ADJECTIVE []
@@ -598,7 +598,7 @@ synonym: "Bys" RELATED ADJECTIVE []
 synonym: "bystin" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 20508
+id: NCBI_GENE:20508
 name: Slc18a3
 synonym: "vesicular acetylcholine transporter" RELATED ADJECTIVE []
 synonym: "vAChT" RELATED ADJECTIVE []
@@ -610,7 +610,7 @@ synonym: "VAChT" RELATED ADJECTIVE []
 synonym: "VAT" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 56349
+id: NCBI_GENE:56349
 name: Net1
 synonym: "Rho guanine nucleotide exchange factor 8" RELATED ADJECTIVE []
 synonym: "Arhgef8" RELATED ADJECTIVE []
@@ -621,7 +621,7 @@ synonym: "NET1" RELATED ADJECTIVE []
 synonym: "Neuroepithelial cell-transforming gene 1 protein" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 18610
+id: NCBI_GENE:18610
 name: Pdyn
 synonym: "Big Dyn" RELATED ADJECTIVE []
 synonym: "Dynorphin A(1-8)" RELATED ADJECTIVE []
@@ -648,7 +648,7 @@ synonym: "Dynorphin B" RELATED ADJECTIVE []
 synonym: "Dynorphin B(1-13)" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 20662
+id: NCBI_GENE:20662
 name: Sos1
 synonym: "4430401P03Rik" RELATED ADJECTIVE []
 synonym: "Sos1" RELATED ADJECTIVE []
@@ -660,7 +660,7 @@ synonym: "Son of sevenless homolog 1" RELATED ADJECTIVE []
 synonym: "9630010N06" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 225467
+id: NCBI_GENE:225467
 name: Pggt1b
 synonym: "AI451237" RELATED ADJECTIVE []
 synonym: "Geranylgeranyl transferase type-1 subunit beta" RELATED ADJECTIVE []
@@ -676,7 +676,7 @@ synonym: "2610100E13" RELATED ADJECTIVE []
 synonym: "GGTase-I-beta" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 211134
+id: NCBI_GENE:211134
 name: Lzts1
 synonym: "FEZ1" RELATED ADJECTIVE []
 synonym: "Leucine zipper putative tumor suppressor 1" RELATED ADJECTIVE []
@@ -687,7 +687,7 @@ synonym: "LZTS1" RELATED ADJECTIVE []
 synonym: "Lzts1" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 67784
+id: NCBI_GENE:67784
 name: Plxnd1
 synonym: "6230425C21Rik" RELATED ADJECTIVE []
 synonym: "b2b1863Clo" RELATED ADJECTIVE []
@@ -697,7 +697,7 @@ synonym: "Plexin-D1" RELATED ADJECTIVE []
 synonym: "Plxnd1" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 18125
+id: NCBI_GENE:18125
 name: Nos1
 synonym: "Nos1" RELATED ADJECTIVE []
 synonym: "Constitutive NOS" RELATED ADJECTIVE []
@@ -718,7 +718,7 @@ synonym: "nNOS" RELATED ADJECTIVE []
 synonym: "NOS" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 20692
+id: NCBI_GENE:20692
 name: Sparc
 synonym: "ON" RELATED ADJECTIVE []
 synonym: "BM-40" RELATED ADJECTIVE []
@@ -729,14 +729,14 @@ synonym: "Osteonectin" RELATED ADJECTIVE []
 synonym: "Secreted protein acidic and rich in cysteine" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 243961
+id: NCBI_GENE:243961
 name: Shank1
 synonym: "SH3 and multiple ankyrin repeat domains protein 1" RELATED ADJECTIVE []
 synonym: "Shank 1" RELATED ADJECTIVE []
 synonym: "Shank1" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 20739
+id: NCBI_GENE:20739
 name: Spta1
 synonym: "sph" RELATED ADJECTIVE []
 synonym: "Spectrin" RELATED ADJECTIVE []
@@ -754,7 +754,7 @@ synonym: "Spectrin alpha chain, erythrocytic 1" RELATED ADJECTIVE []
 synonym: "AI451697" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 20740
+id: NCBI_GENE:20740
 name: Sptan1
 synonym: "Spectrin alpha chain, non-erythrocytic 1" RELATED ADJECTIVE []
 synonym: "Sptan1" RELATED ADJECTIVE []
@@ -767,7 +767,7 @@ synonym: "Alpha-II spectrin" RELATED ADJECTIVE []
 synonym: "alpha-spectrin" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 18693
+id: NCBI_GENE:18693
 name: Pick1
 synonym: "Protein interacting with C kinase 1" RELATED ADJECTIVE []
 synonym: "Pick1" RELATED ADJECTIVE []
@@ -777,7 +777,7 @@ synonym: "Prkcabp" RELATED ADJECTIVE []
 synonym: "Protein kinase C-alpha-binding protein" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 14598
+id: NCBI_GENE:14598
 name: Ggt1
 synonym: "Gamma-glutamyltransferase 1" RELATED ADJECTIVE []
 synonym: "GGT" RELATED ADJECTIVE []
@@ -800,7 +800,7 @@ synonym: "GGT-1" RELATED ADJECTIVE []
 synonym: "Gamma-glutamyl Transpeptidase" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 14599
+id: NCBI_GENE:14599
 name: Gh
 synonym: "Somatotropin" RELATED ADJECTIVE []
 synonym: "somatotropin" RELATED ADJECTIVE []
@@ -809,7 +809,7 @@ synonym: "Gh1" RELATED ADJECTIVE []
 synonym: "Gh" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 319757
+id: NCBI_GENE:319757
 name: Smo
 synonym: "PAOh1" RELATED ADJECTIVE []
 synonym: "SMO" RELATED ADJECTIVE []
@@ -826,7 +826,7 @@ synonym: "PAO-1" RELATED ADJECTIVE []
 synonym: "Smoothened homolog" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 20750
+id: NCBI_GENE:20750
 name: Spp1
 synonym: "BSPI" RELATED ADJECTIVE []
 synonym: "Opnl" RELATED ADJECTIVE []
@@ -859,7 +859,7 @@ synonym: "Ric" RELATED ADJECTIVE []
 synonym: "OP" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 18708
+id: NCBI_GENE:18708
 name: Pik3r1
 synonym: "Phosphatidylinositol 3-kinase regulatory subunit alpha" RELATED ADJECTIVE []
 synonym: "PtdIns-3-kinase regulatory subunit alpha" RELATED ADJECTIVE []
@@ -875,7 +875,7 @@ synonym: "Phosphatidylinositol 3-kinase 85 kDa regulatory subunit alpha" RELATED
 synonym: "p55alpha" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 268566
+id: NCBI_GENE:268566
 name: Gphn
 synonym: "Molybdopterin molybdenumtransferase" RELATED ADJECTIVE []
 synonym: "GPH" RELATED ADJECTIVE []
@@ -895,7 +895,7 @@ synonym: "BC027112" RELATED ADJECTIVE []
 synonym: "Gphn" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 545156
+id: NCBI_GENE:545156
 name: Kalrn
 synonym: "E530005C20Rik" RELATED ADJECTIVE []
 synonym: "Kalirin" RELATED ADJECTIVE []
@@ -910,7 +910,7 @@ synonym: "DUET" RELATED ADJECTIVE []
 synonym: "Hapip" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 14313
+id: NCBI_GENE:14313
 name: Fst
 synonym: "FS" RELATED ADJECTIVE []
 synonym: "AL033346" RELATED ADJECTIVE []
@@ -920,7 +920,7 @@ synonym: "Follistatin" RELATED ADJECTIVE []
 synonym: "Activin-binding protein" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 20779
+id: NCBI_GENE:20779
 name: Src
 synonym: "Ncoa2" RELATED ADJECTIVE []
 synonym: "Ncoa1" RELATED ADJECTIVE []
@@ -950,7 +950,7 @@ synonym: "Glucocorticoid receptor-interacting protein 1" RELATED ADJECTIVE []
 synonym: "pp60c-src" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 12558
+id: NCBI_GENE:12558
 name: Cdh2
 synonym: "Neural cadherin" RELATED ADJECTIVE []
 synonym: "N-cadherin" RELATED ADJECTIVE []
@@ -961,7 +961,7 @@ synonym: "Cdh2" RELATED ADJECTIVE []
 synonym: "n-cadherin" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 18747
+id: NCBI_GENE:18747
 name: Prkaca
 synonym: "cAMP-dependent protein kinase catalytic subunit alpha" RELATED ADJECTIVE []
 synonym: "PKA C-alpha" RELATED ADJECTIVE []
@@ -971,7 +971,7 @@ synonym: "PKCD" RELATED ADJECTIVE []
 synonym: "Pkaca" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 18750
+id: NCBI_GENE:18750
 name: Prkca
 synonym: "AI875142" RELATED ADJECTIVE []
 synonym: "PKC-alpha" RELATED ADJECTIVE []
@@ -982,7 +982,7 @@ synonym: "PKC-A" RELATED ADJECTIVE []
 synonym: "Protein kinase C alpha type" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 72003
+id: NCBI_GENE:72003
 name: Synpr
 synonym: "Synaptoporin" RELATED ADJECTIVE []
 synonym: "Synpr" RELATED ADJECTIVE []
@@ -991,7 +991,7 @@ synonym: "synaptoporin" RELATED ADJECTIVE []
 synonym: "SPO" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 74053
+id: NCBI_GENE:74053
 name: Grip1
 synonym: "GRIP" RELATED ADJECTIVE []
 synonym: "Ncoa2" RELATED ADJECTIVE []
@@ -1010,7 +1010,7 @@ synonym: "Tif2" RELATED ADJECTIVE []
 synonym: "Steroid receptor coactivator 2" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 14665
+id: NCBI_GENE:14665
 name: Glyt2
 synonym: "Slc6a5" RELATED ADJECTIVE []
 synonym: "GlyT2" RELATED ADJECTIVE []
@@ -1022,14 +1022,14 @@ synonym: "GlyT-2" RELATED ADJECTIVE []
 synonym: "GLYT-2" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 76113
+id: NCBI_GENE:76113
 name: Lpo
 synonym: "Lpo" RELATED ADJECTIVE []
 synonym: "lactoperoxidase" RELATED ADJECTIVE []
 synonym: "5830499B15Rik" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 10578
+id: NCBI_GENE:10578
 name: GNLY
 synonym: "Lymphokine LAG-2" RELATED ADJECTIVE []
 synonym: "LAG-2" RELATED ADJECTIVE []
@@ -1045,7 +1045,7 @@ synonym: "D2S69E" RELATED ADJECTIVE []
 synonym: "NKG5" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 14682
+id: NCBI_GENE:14682
 name: Gnaq
 synonym: "Guanine nucleotide-binding protein G(q) subunit alpha" RELATED ADJECTIVE []
 synonym: "Guanine nucleotide-binding protein alpha-q" RELATED ADJECTIVE []
@@ -1061,7 +1061,7 @@ synonym: "Dsk1" RELATED ADJECTIVE []
 synonym: "Galphaq" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 18784
+id: NCBI_GENE:18784
 name: Pla2g5
 synonym: "PLA2" RELATED ADJECTIVE []
 synonym: "Group V phospholipase A2" RELATED ADJECTIVE []
@@ -1071,7 +1071,7 @@ synonym: "PLA2-10" RELATED ADJECTIVE []
 synonym: "Calcium-dependent phospholipase A2" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 14694
+id: NCBI_GENE:14694
 name: Gnb2l1
 synonym: "Gnb2l1" RELATED ADJECTIVE []
 synonym: "Guanine nucleotide-binding protein subunit beta-2-like 1, N-terminally processed" RELATED ADJECTIVE []
@@ -1087,7 +1087,7 @@ synonym: "GB-like" RELATED ADJECTIVE []
 synonym: "RACK1" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 12647
+id: NCBI_GENE:12647
 name: Chat
 synonym: "Chat" RELATED ADJECTIVE []
 synonym: "Choline acetylase" RELATED ADJECTIVE []
@@ -1105,14 +1105,14 @@ synonym: "SH2 domain-containing Eph receptor-binding protein 1" RELATED ADJECTIV
 synonym: "B230380D24Rik" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 381290
+id: NCBI_GENE:381290
 name: Atp2b4
 synonym: "PMCA" RELATED ADJECTIVE []
 synonym: "Atp2b4" RELATED ADJECTIVE []
 synonym: "Pmca4" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 18795
+id: NCBI_GENE:18795
 name: Plcb1
 synonym: "Plcb1" RELATED ADJECTIVE []
 synonym: "Plcb" RELATED ADJECTIVE []
@@ -1127,7 +1127,7 @@ synonym: "PLC-beta-1" RELATED ADJECTIVE []
 synonym: "PLC beta" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 12652
+id: NCBI_GENE:12652
 name: Chga
 synonym: "Serpinin" RELATED ADJECTIVE []
 synonym: "CgA" RELATED ADJECTIVE []
@@ -1145,7 +1145,7 @@ synonym: "Serpinin-RRG" RELATED ADJECTIVE []
 synonym: "GE-25" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 18803
+id: NCBI_GENE:18803
 name: Plcg1
 synonym: "PLC-gamma-1" RELATED ADJECTIVE []
 synonym: "Plc-gamma1" RELATED ADJECTIVE []
@@ -1160,14 +1160,14 @@ synonym: "PLC gamma" RELATED ADJECTIVE []
 synonym: "Plcg-1" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 53624
+id: NCBI_GENE:53624
 name: Cldn7
 synonym: "Claudin-7" RELATED ADJECTIVE []
 synonym: "claudin-7" RELATED ADJECTIVE []
 synonym: "Cldn7" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 14714
+id: NCBI_GENE:14714
 name: Gnrh1
 synonym: "Prolactin release-inhibiting factor 1" RELATED ADJECTIVE []
 synonym: "Gonadoliberin I" RELATED ADJECTIVE []
@@ -1193,7 +1193,7 @@ synonym: "Prolactin release-inhibiting factor I" RELATED ADJECTIVE []
 synonym: "Progonadoliberin I" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 12667
+id: NCBI_GENE:12667
 name: Chrd
 synonym: "Chordin" RELATED ADJECTIVE []
 synonym: "chordin" RELATED ADJECTIVE []
@@ -1201,7 +1201,7 @@ synonym: "Chrd" RELATED ADJECTIVE []
 synonym: "Chd" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 16765
+id: NCBI_GENE:16765
 name: Stmn1
 synonym: "pp17" RELATED ADJECTIVE []
 synonym: "pp19" RELATED ADJECTIVE []
@@ -1228,7 +1228,7 @@ synonym: "Pig" RELATED ADJECTIVE []
 synonym: "Metablastin" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 6532
+id: NCBI_GENE:6532
 name: SLC6A4
 synonym: "SERT" RELATED ADJECTIVE []
 synonym: "5HTT" RELATED ADJECTIVE []
@@ -1244,7 +1244,7 @@ synonym: "5HT transporter" RELATED ADJECTIVE []
 synonym: "OCD1" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 74117
+id: NCBI_GENE:74117
 name: Actr3
 synonym: "Actin-related protein 3" RELATED ADJECTIVE []
 synonym: "arp3" RELATED ADJECTIVE []
@@ -1254,7 +1254,7 @@ synonym: "Actr3" RELATED ADJECTIVE []
 synonym: "Arp3" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 14726
+id: NCBI_GENE:14726
 name: Pdpn
 synonym: "podoplanin" RELATED ADJECTIVE []
 synonym: "T1A" RELATED ADJECTIVE []
@@ -1273,7 +1273,7 @@ synonym: "Transmembrane glycoprotein E11" RELATED ADJECTIVE []
 synonym: "Glycoprotein 38" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 14734
+id: NCBI_GENE:14734
 name: Gpc3
 synonym: "Secreted glypican-3" RELATED ADJECTIVE []
 synonym: "Gpc3" RELATED ADJECTIVE []
@@ -1281,7 +1281,7 @@ synonym: "OCI-5" RELATED ADJECTIVE []
 synonym: "Glypican-3" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 227753
+id: NCBI_GENE:227753
 name: Gsn
 synonym: "" RELATED ADJECTIVE []
 synonym: "gelsolin" RELATED ADJECTIVE []
@@ -1294,7 +1294,7 @@ synonym: "Actin" RELATED ADJECTIVE []
 synonym: "Gsn" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 20907
+id: NCBI_GENE:20907
 name: Stx1a
 synonym: "Stx1a" RELATED ADJECTIVE []
 synonym: "HPC-1" RELATED ADJECTIVE []
@@ -1303,7 +1303,7 @@ synonym: "syntaxin 1" RELATED ADJECTIVE []
 synonym: "Neuron-specific antigen HPC-1" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 65969
+id: NCBI_GENE:65969
 name: Cubn
 synonym: "AA408369" RELATED ADJECTIVE []
 synonym: "Cubilin" RELATED ADJECTIVE []
@@ -1315,7 +1315,7 @@ synonym: "Intrinsic factor-cobalamin receptor" RELATED ADJECTIVE []
 synonym: "D2Wsu88e" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 240057
+id: NCBI_GENE:240057
 name: Syngap1
 synonym: "Synaptic Ras-GAP 1" RELATED ADJECTIVE []
 synonym: "Ras/Rap GTPase-activating protein SynGAP" RELATED ADJECTIVE []
@@ -1327,7 +1327,7 @@ synonym: "Gm1963" RELATED ADJECTIVE []
 synonym: "SynGAP" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 14784
+id: NCBI_GENE:14784
 name: Grb2
 synonym: "SH2/SH3 adapter GRB2" RELATED ADJECTIVE []
 synonym: "Adapter protein GRB2" RELATED ADJECTIVE []
@@ -1338,7 +1338,7 @@ synonym: "Ash" RELATED ADJECTIVE []
 synonym: "Growth factor receptor-bound protein 2" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 12737
+id: NCBI_GENE:12737
 name: Cldn1
 synonym: "Cldn1" RELATED ADJECTIVE []
 synonym: "claudin-1" RELATED ADJECTIVE []
@@ -1346,7 +1346,7 @@ synonym: "AI596271" RELATED ADJECTIVE []
 synonym: "Claudin-1" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 20938
+id: NCBI_GENE:20938
 name: Sv2
 synonym: "Calcium regulator SV2A" RELATED ADJECTIVE []
 synonym: "Synaptic vesicle glycoprotein 2A" RELATED ADJECTIVE []
@@ -1358,7 +1358,7 @@ synonym: "Synaptic vesicle protein 2" RELATED ADJECTIVE []
 synonym: "Sv2" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 16846
+id: NCBI_GENE:16846
 name: Lep
 synonym: "obese" RELATED ADJECTIVE []
 synonym: "Leptin" RELATED ADJECTIVE []
@@ -1372,7 +1372,7 @@ synonym: "leptin" RELATED ADJECTIVE []
 synonym: "Lens epithelial cell protein LEP503" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 14802
+id: NCBI_GENE:14802
 name: Gria4
 synonym: "GluA4" RELATED ADJECTIVE []
 synonym: "spkw1" RELATED ADJECTIVE []
@@ -1389,7 +1389,7 @@ synonym: "Glutamate Receptor 4" RELATED ADJECTIVE []
 synonym: "GluR-D" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 16852
+id: NCBI_GENE:16852
 name: Lgals1
 synonym: "Galbp" RELATED ADJECTIVE []
 synonym: "Gbp" RELATED ADJECTIVE []
@@ -1408,7 +1408,7 @@ synonym: "Galaptin" RELATED ADJECTIVE []
 synonym: "Lactose-binding lectin 1" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 14806
+id: NCBI_GENE:14806
 name: Grik2
 synonym: "Glurbeta2" RELATED ADJECTIVE []
 synonym: "Glur6" RELATED ADJECTIVE []
@@ -1425,7 +1425,7 @@ synonym: "Glutamate Receptor 6" RELATED ADJECTIVE []
 synonym: "GluR6" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 12759
+id: NCBI_GENE:12759
 name: Clu
 synonym: "Clusterin beta chain" RELATED ADJECTIVE []
 synonym: "Apo-J" RELATED ADJECTIVE []
@@ -1447,7 +1447,7 @@ synonym: "SGP-2" RELATED ADJECTIVE []
 synonym: "Clusterin alpha chain" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 14810
+id: NCBI_GENE:14810
 name: Grin1
 synonym: "Nmdar" RELATED ADJECTIVE []
 synonym: "Glurz1" RELATED ADJECTIVE []
@@ -1465,7 +1465,7 @@ synonym: "NMDAR1" RELATED ADJECTIVE []
 synonym: "Grin1" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 14811
+id: NCBI_GENE:14811
 name: Grin2a
 synonym: "Glutamate receptor ionotropic, NMDA 2A" RELATED ADJECTIVE []
 synonym: "NR2A" RELATED ADJECTIVE []
@@ -1476,7 +1476,7 @@ synonym: "Glutamate [NMDA] receptor subunit epsilon-1" RELATED ADJECTIVE []
 synonym: "NMDAR2A" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 14812
+id: NCBI_GENE:14812
 name: Grin2b
 synonym: "Glutamate receptor ionotropic, NMDA 2B" RELATED ADJECTIVE []
 synonym: "NR2B" RELATED ADJECTIVE []
@@ -1489,7 +1489,7 @@ synonym: "AW490526" RELATED ADJECTIVE []
 synonym: "NMDAR2B" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 12765
+id: NCBI_GENE:12765
 name: Cxcr2
 synonym: "interleukin-8" RELATED ADJECTIVE []
 synonym: "IL8RA" RELATED ADJECTIVE []
@@ -1511,7 +1511,7 @@ synonym: "Cmkar2" RELATED ADJECTIVE []
 synonym: "Interleukin-8" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 14816
+id: NCBI_GENE:14816
 name: Grm1
 synonym: "Gprc1a" RELATED ADJECTIVE []
 synonym: "Gm10828" RELATED ADJECTIVE []
@@ -1526,7 +1526,7 @@ synonym: "Grm1" RELATED ADJECTIVE []
 synonym: "4930455H15Rik" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 16866
+id: NCBI_GENE:16866
 name: Lhb
 synonym: "Lhb" RELATED ADJECTIVE []
 synonym: "Luteinizing hormone subunit beta" RELATED ADJECTIVE []
@@ -1538,7 +1538,7 @@ synonym: "LH-B" RELATED ADJECTIVE []
 synonym: "Lutropin subunit beta" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 16867
+id: NCBI_GENE:16867
 name: Lhcgr
 synonym: "Lhcgr" RELATED ADJECTIVE []
 synonym: "Luteinizing hormone receptor" RELATED ADJECTIVE []
@@ -1551,7 +1551,7 @@ synonym: "Gpcr19-rs1" RELATED ADJECTIVE []
 synonym: "LH/CG-R" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 20964
+id: NCBI_GENE:20964
 name: Syn1
 synonym: "Syn-1" RELATED ADJECTIVE []
 synonym: "Syn1-S" RELATED ADJECTIVE []
@@ -1561,7 +1561,7 @@ synonym: "Synapsin I" RELATED ADJECTIVE []
 synonym: "Syn1" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 20969
+id: NCBI_GENE:20969
 name: Sdc1
 synonym: "syn-1" RELATED ADJECTIVE []
 synonym: "Synd-1" RELATED ADJECTIVE []
@@ -1577,7 +1577,7 @@ synonym: "Syndecan-1" RELATED ADJECTIVE []
 synonym: "Synd1" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 20972
+id: NCBI_GENE:20972
 name: Syngr1
 synonym: "Syngr1" RELATED ADJECTIVE []
 synonym: "R75468" RELATED ADJECTIVE []
@@ -1586,7 +1586,7 @@ synonym: "synaptogyrin 1" RELATED ADJECTIVE []
 synonym: "Syngr1b" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 20977
+id: NCBI_GENE:20977
 name: Syp
 synonym: "BM89 antigen" RELATED ADJECTIVE []
 synonym: "Syp" RELATED ADJECTIVE []
@@ -1597,7 +1597,7 @@ synonym: "synaptophysin" RELATED ADJECTIVE []
 synonym: "Major synaptic vesicle protein p38" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 20979
+id: NCBI_GENE:20979
 name: Syt1
 synonym: "p65" RELATED ADJECTIVE []
 synonym: "AW124717" RELATED ADJECTIVE []
@@ -1609,7 +1609,7 @@ synonym: "Synaptotagmin I" RELATED ADJECTIVE []
 synonym: "Synaptotagmin-1" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 12801
+id: NCBI_GENE:12801
 name: Cnr1
 synonym: "Cnr1" RELATED ADJECTIVE []
 synonym: "CNR1" RELATED ADJECTIVE []
@@ -1623,7 +1623,7 @@ synonym: "CB1" RELATED ADJECTIVE []
 synonym: "Brain-type cannabinoid receptor" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 64011
+id: NCBI_GENE:64011
 name: Nrgn
 synonym: "NG/RC3" RELATED ADJECTIVE []
 synonym: "Pss1" RELATED ADJECTIVE []
@@ -1639,7 +1639,7 @@ synonym: "Ng" RELATED ADJECTIVE []
 synonym: "0710001B06Rik" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 387609
+id: NCBI_GENE:387609
 name: Zhx2
 synonym: "Raf" RELATED ADJECTIVE []
 synonym: "Zinc fingers and homeoboxes protein 2" RELATED ADJECTIVE []
@@ -1654,7 +1654,7 @@ synonym: "Afr-1" RELATED ADJECTIVE []
 synonym: "raf" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 18976
+id: NCBI_GENE:18976
 name: Pomc
 synonym: "BE" RELATED ADJECTIVE []
 synonym: "Alpha-MSH" RELATED ADJECTIVE []
@@ -1692,7 +1692,7 @@ synonym: "NPP" RELATED ADJECTIVE []
 synonym: "Corticotropin-like intermediary peptide" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 12854
+id: NCBI_GENE:12854
 name: Cort
 synonym: "Cortistatin" RELATED ADJECTIVE []
 synonym: "PCST" RELATED ADJECTIVE []
@@ -1702,7 +1702,7 @@ synonym: "Cortistatin-14" RELATED ADJECTIVE []
 synonym: "CST" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 14915
+id: NCBI_GENE:14915
 name: Guca2a
 synonym: "Guca2a" RELATED ADJECTIVE []
 synonym: "Guanylate cyclase activator 2A" RELATED ADJECTIVE []
@@ -1711,7 +1711,7 @@ synonym: "guanylin" RELATED ADJECTIVE []
 synonym: "Guca2" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 244310
+id: NCBI_GENE:244310
 name: Dlgap2
 synonym: "PSD-95/SAP90-binding protein 2" RELATED ADJECTIVE []
 synonym: "6430596N04Rik" RELATED ADJECTIVE []
@@ -1725,7 +1725,7 @@ synonym: "SAP90/PSD-95-associated protein 2" RELATED ADJECTIVE []
 synonym: "SAPAP2" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 27226
+id: NCBI_GENE:27226
 name: Pla2g7
 synonym: "R75400" RELATED ADJECTIVE []
 synonym: "Pla2g7" RELATED ADJECTIVE []
@@ -1740,7 +1740,7 @@ synonym: "Platelet-activating factor acetylhydrolase" RELATED ADJECTIVE []
 synonym: "1-alkyl-2-acetylglycerophosphocholine esterase" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 22287
+id: NCBI_GENE:22287
 name: Scgb1a1
 synonym: "Ugb" RELATED ADJECTIVE []
 synonym: "Secretoglobin family 1A member 1" RELATED ADJECTIVE []
@@ -1762,7 +1762,7 @@ synonym: "Cc10" RELATED ADJECTIVE []
 synonym: "CC16" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 217692
+id: NCBI_GENE:217692
 name: Sipa1l1
 synonym: "SIPA1-like protein 1" RELATED ADJECTIVE []
 synonym: "mKIAA0440" RELATED ADJECTIVE []
@@ -1775,7 +1775,7 @@ synonym: "Sipa1l1" RELATED ADJECTIVE []
 synonym: "Signal-induced proliferation-associated 1-like protein 1" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 242274
+id: NCBI_GENE:242274
 name: Lrrc7
 synonym: "Protein LAP1" RELATED ADJECTIVE []
 synonym: "Lap1" RELATED ADJECTIVE []
@@ -1790,7 +1790,7 @@ synonym: "Densin" RELATED ADJECTIVE []
 synonym: "mKIAA1365" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 19047
+id: NCBI_GENE:19047
 name: Ppp1cc
 synonym: "PP-1G" RELATED ADJECTIVE []
 synonym: "Ppp1cc" RELATED ADJECTIVE []
@@ -1801,7 +1801,7 @@ synonym: "PP1" RELATED ADJECTIVE []
 synonym: "Serine/threonine-protein phosphatase PP1-gamma catalytic subunit" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 17002
+id: NCBI_GENE:17002
 name: Ltf
 synonym: "Lf" RELATED ADJECTIVE []
 synonym: "MMS10R" RELATED ADJECTIVE []
@@ -1812,7 +1812,7 @@ synonym: "Ms10r" RELATED ADJECTIVE []
 synonym: "Ltf" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 19052
+id: NCBI_GENE:19052
 name: Ppp2ca
 synonym: "Serine/threonine-protein phosphatase 2A catalytic subunit alpha isoform" RELATED ADJECTIVE []
 synonym: "R75353" RELATED ADJECTIVE []
@@ -1822,7 +1822,7 @@ synonym: "PP2A" RELATED ADJECTIVE []
 synonym: "PP2A-alpha" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 19055
+id: NCBI_GENE:19055
 name: Ppp3ca
 synonym: "CAM-PRP catalytic subunit" RELATED ADJECTIVE []
 synonym: "protein phosphatase PP2B" RELATED ADJECTIVE []
@@ -1835,7 +1835,7 @@ synonym: "Calmodulin-dependent calcineurin A subunit alpha isoform" RELATED ADJE
 synonym: "Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 14960
+id: NCBI_GENE:14960
 name: H2-Aa
 synonym: "AA" RELATED ADJECTIVE []
 synonym: "Aalpha" RELATED ADJECTIVE []
@@ -1856,7 +1856,7 @@ synonym: "H-2 class II histocompatibility antigen, A-Q alpha chain" RELATED ADJE
 synonym: "H-2 class II histocompatibility antigen, A-D alpha chain" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 19060
+id: NCBI_GENE:19060
 name: Ppp5c
 synonym: "Serine/threonine-protein phosphatase 5" RELATED ADJECTIVE []
 synonym: "Ppp5c" RELATED ADJECTIVE []
@@ -1866,7 +1866,7 @@ synonym: "PP5" RELATED ADJECTIVE []
 synonym: "PPT" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 12918
+id: NCBI_GENE:12918
 name: Crh
 synonym: "Corticoliberin" RELATED ADJECTIVE []
 synonym: "Gm1347" RELATED ADJECTIVE []
@@ -1877,14 +1877,14 @@ synonym: "Crh" RELATED ADJECTIVE []
 synonym: "Corticotropin-releasing hormone" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 12937
+id: NCBI_GENE:12937
 name: Pcdha6
 synonym: "Pcdha6" RELATED ADJECTIVE []
 synonym: "Crnr2" RELATED ADJECTIVE []
 synonym: "CNR" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 17035
+id: NCBI_GENE:17035
 name: Lxn
 synonym: "latexin" RELATED ADJECTIVE []
 synonym: "Latexin" RELATED ADJECTIVE []
@@ -1895,7 +1895,7 @@ synonym: "Lxn" RELATED ADJECTIVE []
 synonym: "Endogenous carboxypeptidase inhibitor" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 19109
+id: NCBI_GENE:19109
 name: Prl
 synonym: "Prolactin-5A1" RELATED ADJECTIVE []
 synonym: "Prolactin" RELATED ADJECTIVE []
@@ -2060,7 +2060,7 @@ synonym: "Prolactin-2C4" RELATED ADJECTIVE []
 synonym: "Prl3b1" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 17062
+id: NCBI_GENE:17062
 name: Ly6
 synonym: "Ly6" RELATED ADJECTIVE []
 synonym: "DAG" RELATED ADJECTIVE []
@@ -2078,7 +2078,7 @@ synonym: "Stem cell antigen 1" RELATED ADJECTIVE []
 synonym: "Lymphocyte antigen 6A-2/6E-1" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 19133
+id: NCBI_GENE:19133
 name: Prph2
 synonym: "AOFMD" RELATED ADJECTIVE []
 synonym: "peripherin" RELATED ADJECTIVE []
@@ -2097,7 +2097,7 @@ synonym: "Peripherin-2" RELATED ADJECTIVE []
 synonym: "Retinal degeneration slow protein" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 238276
+id: NCBI_GENE:238276
 name: Akap5
 synonym: "Akap5" RELATED ADJECTIVE []
 synonym: "A-kinase anchor protein 150 kDa" RELATED ADJECTIVE []
@@ -2113,7 +2113,7 @@ synonym: "BB098886" RELATED ADJECTIVE []
 synonym: "AKAP 150" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 13002
+id: NCBI_GENE:13002
 name: Dnajc5
 synonym: "Csp" RELATED ADJECTIVE []
 synonym: "Cysteine string protein" RELATED ADJECTIVE []
@@ -2125,7 +2125,7 @@ synonym: "2610314I24Rik" RELATED ADJECTIVE []
 synonym: "CSP" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 6866
+id: NCBI_GENE:6866
 name: TAC3
 synonym: "NKNB" RELATED ADJECTIVE []
 synonym: "NKB" RELATED ADJECTIVE []
@@ -2139,7 +2139,7 @@ synonym: "Neurokinin-B" RELATED ADJECTIVE []
 synonym: "HH10" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 19164
+id: NCBI_GENE:19164
 name: Psen1
 synonym: "PS1-CTF12" RELATED ADJECTIVE []
 synonym: "presenilin-1" RELATED ADJECTIVE []
@@ -2156,7 +2156,7 @@ synonym: "Ad3h" RELATED ADJECTIVE []
 synonym: "Psnl1" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 56047
+id: NCBI_GENE:56047
 name: Msln
 synonym: "MPF" RELATED ADJECTIVE []
 synonym: "Mesothelin" RELATED ADJECTIVE []
@@ -2169,7 +2169,7 @@ synonym: "Msln" RELATED ADJECTIVE []
 synonym: "Pre-pro-megakaryocyte-potentiating factor" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 16168
+id: NCBI_GENE:16168
 name: Il15
 synonym: "AI503618" RELATED ADJECTIVE []
 synonym: "IL-15" RELATED ADJECTIVE []
@@ -2178,13 +2178,13 @@ synonym: "Il15" RELATED ADJECTIVE []
 synonym: "Interleukin-15" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 64242
+id: NCBI_GENE:64242
 name: Ngb
 synonym: "Neuroglobin" RELATED ADJECTIVE []
 synonym: "Ngb" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 13043
+id: NCBI_GENE:13043
 name: Cttn
 synonym: "1110020L01Rik" RELATED ADJECTIVE []
 synonym: "Ems1" RELATED ADJECTIVE []
@@ -2193,7 +2193,7 @@ synonym: "cortactin" RELATED ADJECTIVE []
 synonym: "Src substrate cortactin" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 13051
+id: NCBI_GENE:13051
 name: Cx3cr1
 synonym: "Cx3cr1" RELATED ADJECTIVE []
 synonym: "CX3CR1" RELATED ADJECTIVE []
@@ -2203,7 +2203,7 @@ synonym: "Fractalkine receptor" RELATED ADJECTIVE []
 synonym: "fractalkine" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 16854
+id: NCBI_GENE:16854
 name: Lgals3
 synonym: "Laminin-binding protein" RELATED ADJECTIVE []
 synonym: "Gal-3" RELATED ADJECTIVE []
@@ -2223,7 +2223,7 @@ synonym: "Carbohydrate-binding protein 35" RELATED ADJECTIVE []
 synonym: "Lectin L-29" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 17181
+id: NCBI_GENE:17181
 name: Matn2
 synonym: "Crtm2" RELATED ADJECTIVE []
 synonym: "Matn2" RELATED ADJECTIVE []
@@ -2231,7 +2231,7 @@ synonym: "Matrilin-2" RELATED ADJECTIVE []
 synonym: "matrilin-2" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 17189
+id: NCBI_GENE:17189
 name: Mb
 synonym: "B-cell antigen receptor complex-associated protein alpha chain" RELATED ADJECTIVE []
 synonym: "Mb21d2" RELATED ADJECTIVE []
@@ -2269,7 +2269,7 @@ synonym: "Brain-specific protein MB20" RELATED ADJECTIVE []
 synonym: "Myoglobin" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 19247
+id: NCBI_GENE:19247
 name: Ptpn11
 synonym: "SHP-2" RELATED ADJECTIVE []
 synonym: "AW536184" RELATED ADJECTIVE []
@@ -2285,7 +2285,7 @@ synonym: "SH-PTP3" RELATED ADJECTIVE []
 synonym: "Protein-tyrosine phosphatase SYP" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 12425
+id: NCBI_GENE:12425
 name: Cckar
 synonym: "Cholecystokinin receptor type A" RELATED ADJECTIVE []
 synonym: "CCK1-R" RELATED ADJECTIVE []
@@ -2297,7 +2297,7 @@ synonym: "CCK-A receptor" RELATED ADJECTIVE []
 synonym: "cholecystokinin" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 269116
+id: NCBI_GENE:269116
 name: Nfasc
 synonym: "Neurofascin" RELATED ADJECTIVE []
 synonym: "AA387016" RELATED ADJECTIVE []
@@ -2308,7 +2308,7 @@ synonym: "Nfasc" RELATED ADJECTIVE []
 synonym: "neurofascin" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 104245
+id: NCBI_GENE:104245
 name: Slc6a5
 synonym: "Slc6a5" RELATED ADJECTIVE []
 synonym: "Glyt2" RELATED ADJECTIVE []
@@ -2318,7 +2318,7 @@ synonym: "GlyT2" RELATED ADJECTIVE []
 synonym: "GlyT-2" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 15171
+id: NCBI_GENE:15171
 name: Hcrt
 synonym: "Hcrt2" RELATED ADJECTIVE []
 synonym: "Orexin" RELATED ADJECTIVE []
@@ -2335,7 +2335,7 @@ synonym: "Hypocretin-1" RELATED ADJECTIVE []
 synonym: "Hypocretin-2" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 17228
+id: NCBI_GENE:17228
 name: Cma1
 synonym: "Mcp-5" RELATED ADJECTIVE []
 synonym: "chymase" RELATED ADJECTIVE []
@@ -2351,7 +2351,7 @@ synonym: "MMCP-5" RELATED ADJECTIVE []
 synonym: "Mast cell chymase 1" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 17229
+id: NCBI_GENE:17229
 name: Tpsb2
 synonym: "Tpsb2" RELATED ADJECTIVE []
 synonym: "AV011504" RELATED ADJECTIVE []
@@ -2367,7 +2367,7 @@ synonym: "Mcp-6" RELATED ADJECTIVE []
 synonym: "Tryptase-2" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 13138
+id: NCBI_GENE:13138
 name: Dag1
 synonym: "Dystrophin-associated glycoprotein 1" RELATED ADJECTIVE []
 synonym: "Alpha-dystroglycan" RELATED ADJECTIVE []
@@ -2382,7 +2382,7 @@ synonym: "Beta-dystroglycan" RELATED ADJECTIVE []
 synonym: "Beta-DG" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 21333
+id: NCBI_GENE:21333
 name: Tac1
 synonym: "PPTA" RELATED ADJECTIVE []
 synonym: "Substance P" RELATED ADJECTIVE []
@@ -2406,7 +2406,7 @@ synonym: "Nka" RELATED ADJECTIVE []
 synonym: "NK-1" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 21334
+id: NCBI_GENE:21334
 name: Tac2
 synonym: "TAC3" RELATED ADJECTIVE []
 synonym: "PPT-B" RELATED ADJECTIVE []
@@ -2437,7 +2437,7 @@ synonym: "Nknb" RELATED ADJECTIVE []
 synonym: "Neurokinin-B" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 21336
+id: NCBI_GENE:21336
 name: Tacr1
 synonym: "Nk1r" RELATED ADJECTIVE []
 synonym: "NK1R" RELATED ADJECTIVE []
@@ -2453,7 +2453,7 @@ synonym: "Tacr1" RELATED ADJECTIVE []
 synonym: "Substance-P receptor" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 15194
+id: NCBI_GENE:15194
 name: Htt
 synonym: "Huntingtin" RELATED ADJECTIVE []
 synonym: "HD protein homolog" RELATED ADJECTIVE []
@@ -2474,7 +2474,7 @@ synonym: "Huntington disease protein homolog" RELATED ADJECTIVE []
 synonym: "Hdh" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 19293
+id: NCBI_GENE:19293
 name: Pvalb
 synonym: "PV" RELATED ADJECTIVE []
 synonym: "Pva" RELATED ADJECTIVE []
@@ -2485,7 +2485,7 @@ synonym: "Parvalbumin" RELATED ADJECTIVE []
 synonym: "Parvalbumin alpha" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 16187
+id: NCBI_GENE:16187
 name: Il3
 synonym: "BPA" RELATED ADJECTIVE []
 synonym: "HCGF" RELATED ADJECTIVE []
@@ -2502,7 +2502,7 @@ synonym: "IL-3" RELATED ADJECTIVE []
 synonym: "Csfmu" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 27494
+id: NCBI_GENE:27494
 name: Amot
 synonym: "angiomotin" RELATED ADJECTIVE []
 synonym: "CAG-2" RELATED ADJECTIVE []
@@ -2513,7 +2513,7 @@ synonym: "D0Kist1" RELATED ADJECTIVE []
 synonym: "Angiomotin" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 21351
+id: NCBI_GENE:21351
 name: Taldo1
 synonym: "Tal" RELATED ADJECTIVE []
 synonym: "transaldolase" RELATED ADJECTIVE []
@@ -2522,7 +2522,7 @@ synonym: "Transaldolase" RELATED ADJECTIVE []
 synonym: "Taldo1" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 21356
+id: NCBI_GENE:21356
 name: Tapbp
 synonym: "Tapa" RELATED ADJECTIVE []
 synonym: "D17Wsu91e" RELATED ADJECTIVE []
@@ -2535,12 +2535,12 @@ synonym: "TAP-binding protein" RELATED ADJECTIVE []
 synonym: "tapasin" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 949101
+id: NCBI_GENE:949101
 name: fliC
 synonym: "flagellin" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 21367
+id: NCBI_GENE:21367
 name: Cntn2
 synonym: "TAG-1" RELATED ADJECTIVE []
 synonym: "Tax" RELATED ADJECTIVE []
@@ -2554,7 +2554,7 @@ synonym: "Axonin-1" RELATED ADJECTIVE []
 synonym: "Axonal glycoprotein TAG-1" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 58234
+id: NCBI_GENE:58234
 name: Shank3
 synonym: "Proline-rich synapse-associated protein 2" RELATED ADJECTIVE []
 synonym: "SHANK3c-4" RELATED ADJECTIVE []
@@ -2570,14 +2570,14 @@ synonym: "Kiaa1650" RELATED ADJECTIVE []
 synonym: "Shank3" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 20287
+id: NCBI_GENE:20287
 name: Sct
 synonym: "Sct" RELATED ADJECTIVE []
 synonym: "secretin" RELATED ADJECTIVE []
 synonym: "Secretin" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 56191
+id: NCBI_GENE:56191
 name: Tro
 synonym: "trophinin" RELATED ADJECTIVE []
 synonym: "Tro" RELATED ADJECTIVE []
@@ -2588,7 +2588,7 @@ synonym: "magphinin" RELATED ADJECTIVE []
 synonym: "AA409408" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 17283
+id: NCBI_GENE:17283
 name: Men1
 synonym: "Menin" RELATED ADJECTIVE []
 synonym: "menin" RELATED ADJECTIVE []
@@ -2596,7 +2596,7 @@ synonym: "Men1" RELATED ADJECTIVE []
 synonym: "AW045611" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 226180
+id: NCBI_GENE:226180
 name: Ina
 synonym: "NF66" RELATED ADJECTIVE []
 synonym: "Neurofilament-66" RELATED ADJECTIVE []
@@ -2609,7 +2609,7 @@ synonym: "66 kDa neurofilament protein" RELATED ADJECTIVE []
 synonym: "Ina" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 13193
+id: NCBI_GENE:13193
 name: Dcx
 synonym: "Doublin" RELATED ADJECTIVE []
 synonym: "Dcn" RELATED ADJECTIVE []
@@ -2622,14 +2622,14 @@ synonym: "Lis-X" RELATED ADJECTIVE []
 synonym: "Dcx" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 19339
+id: NCBI_GENE:19339
 name: Rab3a
 synonym: "Ras-related protein Rab-3A" RELATED ADJECTIVE []
 synonym: "rab 3a" RELATED ADJECTIVE []
 synonym: "Rab3a" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 232333
+id: NCBI_GENE:232333
 name: Slc6a1
 synonym: "Slc6a1" RELATED ADJECTIVE []
 synonym: "GAT-1" RELATED ADJECTIVE []
@@ -2647,7 +2647,7 @@ synonym: "Gabt1" RELATED ADJECTIVE []
 synonym: "XT-1" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 56212
+id: NCBI_GENE:56212
 name: Rhog
 synonym: "Rhog" RELATED ADJECTIVE []
 synonym: "2810426G09Rik" RELATED ADJECTIVE []
@@ -2658,7 +2658,7 @@ synonym: "Sid 10750" RELATED ADJECTIVE []
 synonym: "rhoG" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 19353
+id: NCBI_GENE:19353
 name: Rac1
 synonym: "p21-Rac1" RELATED ADJECTIVE []
 synonym: "AL023026" RELATED ADJECTIVE []
@@ -2668,7 +2668,7 @@ synonym: "Rac1" RELATED ADJECTIVE []
 synonym: "Ras-related C3 botulinum toxin substrate 1" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 19354
+id: NCBI_GENE:19354
 name: Rac2
 synonym: "p21-Rac2" RELATED ADJECTIVE []
 synonym: "Rac2" RELATED ADJECTIVE []
@@ -2679,7 +2679,7 @@ synonym: "rac2" RELATED ADJECTIVE []
 synonym: "AI452260" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 56226
+id: NCBI_GENE:56226
 name: Espn
 synonym: "je" RELATED ADJECTIVE []
 synonym: "espin" RELATED ADJECTIVE []
@@ -2688,7 +2688,7 @@ synonym: "Ectoplasmic specialization protein" RELATED ADJECTIVE []
 synonym: "Espn" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 5047
+id: NCBI_GENE:5047
 name: PAEP
 synonym: "PAEG" RELATED ADJECTIVE []
 synonym: "GdS" RELATED ADJECTIVE []
@@ -2706,13 +2706,13 @@ synonym: "PEG" RELATED ADJECTIVE []
 synonym: "PP14" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 19412
+id: NCBI_GENE:19412
 name: ras
 synonym: "asr" RELATED ADJECTIVE []
 synonym: "ras" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 242667
+id: NCBI_GENE:242667
 name: Dlgap3
 synonym: "Disks large-associated protein 3" RELATED ADJECTIVE []
 synonym: "PSD-95/SAP90-binding protein 3" RELATED ADJECTIVE []
@@ -2727,7 +2727,7 @@ synonym: "SAPAP3" RELATED ADJECTIVE []
 synonym: "SAP90/PSD-95-associated protein 3" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 109552
+id: NCBI_GENE:109552
 name: Sri
 synonym: "2210417O06Rik" RELATED ADJECTIVE []
 synonym: "2900070H08Rik" RELATED ADJECTIVE []
@@ -2737,7 +2737,7 @@ synonym: "Sor" RELATED ADJECTIVE []
 synonym: "Sorcin" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 17393
+id: NCBI_GENE:17393
 name: Mmp7
 synonym: "" RELATED ADJECTIVE []
 synonym: "matrilysin" RELATED ADJECTIVE []
@@ -2750,12 +2750,12 @@ synonym: "Matrin" RELATED ADJECTIVE []
 synonym: "Mmp7" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 23196666
+id: NCBI_GENE:23196666
 name: AQ00_RS04750
 synonym: "coagulase" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 56320
+id: NCBI_GENE:56320
 name: Dbn1
 synonym: "Drebrin" RELATED ADJECTIVE []
 synonym: "Drba" RELATED ADJECTIVE []
@@ -2765,7 +2765,7 @@ synonym: "Dbn1" RELATED ADJECTIVE []
 synonym: "drebrin" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 80907
+id: NCBI_GENE:80907
 name: Lactb
 synonym: "LACT-1" RELATED ADJECTIVE []
 synonym: "Lactb2" RELATED ADJECTIVE []
@@ -2777,7 +2777,7 @@ synonym: "beta-lactamase" RELATED ADJECTIVE []
 synonym: "Serine beta-lactamase-like protein LACTB, mitochondrial" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 21338
+id: NCBI_GENE:21338
 name: Tacr3
 synonym: "Neurokinin B receptor" RELATED ADJECTIVE []
 synonym: "Nk3r" RELATED ADJECTIVE []
@@ -2792,7 +2792,7 @@ synonym: "Tacr3" RELATED ADJECTIVE []
 synonym: "Neuromedin-K receptor" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 13346
+id: NCBI_GENE:13346
 name: Des
 synonym: "Degs1" RELATED ADJECTIVE []
 synonym: "Degs" RELATED ADJECTIVE []
@@ -2805,13 +2805,13 @@ synonym: "Mdes" RELATED ADJECTIVE []
 synonym: "desmin" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 107561
+id: NCBI_GENE:107561
 name: Cgrp
 synonym: "CGRP" RELATED ADJECTIVE []
 synonym: "positive CGRP" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 56376
+id: NCBI_GENE:56376
 name: Pdlim5
 synonym: "Pdlim5" RELATED ADJECTIVE []
 synonym: "AI987914" RELATED ADJECTIVE []
@@ -2827,7 +2827,7 @@ synonym: "Enh2" RELATED ADJECTIVE []
 synonym: "C87059" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 13383
+id: NCBI_GENE:13383
 name: Dlg1
 synonym: "Dlg1" RELATED ADJECTIVE []
 synonym: "SAP97" RELATED ADJECTIVE []
@@ -2841,7 +2841,7 @@ synonym: "Dlgh1" RELATED ADJECTIVE []
 synonym: "mKIAA4187" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 13385
+id: NCBI_GENE:13385
 name: Dlg4
 synonym: "Postsynaptic density protein 95" RELATED ADJECTIVE []
 synonym: "PSD-95" RELATED ADJECTIVE []
@@ -2856,7 +2856,7 @@ synonym: "Psd95" RELATED ADJECTIVE []
 synonym: "Dlg4" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 80979
+id: NCBI_GENE:80979
 name: Slc26a5
 synonym: "prestin" RELATED ADJECTIVE []
 synonym: "Solute carrier family 26 member 5" RELATED ADJECTIVE []
@@ -2865,7 +2865,7 @@ synonym: "Pres" RELATED ADJECTIVE []
 synonym: "Slc26a5" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 56405
+id: NCBI_GENE:56405
 name: Dusp14
 synonym: "MKP-6" RELATED ADJECTIVE []
 synonym: "D11Ertd395e" RELATED ADJECTIVE []
@@ -2880,7 +2880,7 @@ synonym: "Dusp14" RELATED ADJECTIVE []
 synonym: "MKP-L" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 109658
+id: NCBI_GENE:109658
 name: Txlna
 synonym: "Alpha-taxilin" RELATED ADJECTIVE []
 synonym: "AW209241" RELATED ADJECTIVE []
@@ -2892,7 +2892,7 @@ synonym: "AI425952" RELATED ADJECTIVE []
 synonym: "Txln" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 13405
+id: NCBI_GENE:13405
 name: Dmd
 synonym: "dystrophin" RELATED ADJECTIVE []
 synonym: "Dmd" RELATED ADJECTIVE []
@@ -2904,7 +2904,7 @@ synonym: "mdx" RELATED ADJECTIVE []
 synonym: "pke" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 54366
+id: NCBI_GENE:54366
 name: Ctnnal1
 synonym: "AI616177" RELATED ADJECTIVE []
 synonym: "ACRP" RELATED ADJECTIVE []
@@ -2919,7 +2919,7 @@ synonym: "Alpha-catulin" RELATED ADJECTIVE []
 synonym: "AW545119" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 18619
+id: NCBI_GENE:18619
 name: Penk
 synonym: "PPA" RELATED ADJECTIVE []
 synonym: "Met-enkephalin-Arg-Phe" RELATED ADJECTIVE []
@@ -2939,7 +2939,7 @@ synonym: "Met-enkephalin" RELATED ADJECTIVE []
 synonym: "PENK" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 13424
+id: NCBI_GENE:13424
 name: Dync1h1
 synonym: "Dnch1" RELATED ADJECTIVE []
 synonym: "mKIAA0325" RELATED ADJECTIVE []
@@ -2964,7 +2964,7 @@ synonym: "Dynein heavy chain, cytosolic" RELATED ADJECTIVE []
 synonym: "Dync1h1" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 17523
+id: NCBI_GENE:17523
 name: Mpo
 synonym: "Myeloperoxidase light chain" RELATED ADJECTIVE []
 synonym: "Mpo" RELATED ADJECTIVE []
@@ -2975,7 +2975,7 @@ synonym: "MPO" RELATED ADJECTIVE []
 synonym: "mKIAA4033" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 14526
+id: NCBI_GENE:14526
 name: Gcg
 synonym: "GLP-1" RELATED ADJECTIVE []
 synonym: "Glucagon-like peptide 1(7-36)" RELATED ADJECTIVE []
@@ -2999,7 +2999,7 @@ synonym: "Glu" RELATED ADJECTIVE []
 synonym: "OXY" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 15212
+id: NCBI_GENE:15212
 name: Hexb
 synonym: "N-acetyl-beta-glucosaminidase subunit beta" RELATED ADJECTIVE []
 synonym: "Beta-N-acetylhexosaminidase subunit beta" RELATED ADJECTIVE []
@@ -3009,7 +3009,7 @@ synonym: "Hexosaminidase subunit B" RELATED ADJECTIVE []
 synonym: "Beta-hexosaminidase subunit beta" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 56461
+id: NCBI_GENE:56461
 name: Kcnip3
 synonym: "4933407H12Rik" RELATED ADJECTIVE []
 synonym: "A-type potassium channel modulatory protein 3" RELATED ADJECTIVE []
@@ -3028,7 +3028,7 @@ synonym: "DREAM" RELATED ADJECTIVE []
 synonym: "KChIP3" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 66713
+id: NCBI_GENE:66713
 name: Actr2
 synonym: "Actin-related protein 2" RELATED ADJECTIVE []
 synonym: "4921510D23Rik" RELATED ADJECTIVE []
@@ -3040,7 +3040,7 @@ synonym: "Actr2" RELATED ADJECTIVE []
 synonym: "arp2" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 11423
+id: NCBI_GENE:11423
 name: Ache
 synonym: "Ache" RELATED ADJECTIVE []
 synonym: "Acetylcholinesterase" RELATED ADJECTIVE []
@@ -3049,7 +3049,7 @@ synonym: "ACHE" RELATED ADJECTIVE []
 synonym: "AChE" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 29856
+id: NCBI_GENE:29856
 name: Smtn
 synonym: "Smsmo" RELATED ADJECTIVE []
 synonym: "Smoothelin" RELATED ADJECTIVE []
@@ -3058,7 +3058,7 @@ synonym: "Smtn" RELATED ADJECTIVE []
 synonym: "smoothelin" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 216227
+id: NCBI_GENE:216227
 name: Slc17a8
 synonym: "BC042593" RELATED ADJECTIVE []
 synonym: "Vesicular glutamate transporter 3" RELATED ADJECTIVE []
@@ -3072,7 +3072,7 @@ synonym: "vesicular glutamate transporter 3" RELATED ADJECTIVE []
 synonym: "VGluT3" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 214189
+id: NCBI_GENE:214189
 name: Scgn
 synonym: "Scg10" RELATED ADJECTIVE []
 synonym: "secretagogin" RELATED ADJECTIVE []
@@ -3086,7 +3086,7 @@ synonym: "Secretagogin" RELATED ADJECTIVE []
 synonym: "Scgn10" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 60595
+id: NCBI_GENE:60595
 name: Actn4
 synonym: "C77391" RELATED ADJECTIVE []
 synonym: "alpha-actinin" RELATED ADJECTIVE []
@@ -3095,7 +3095,7 @@ synonym: "Non-muscle alpha-actinin 4" RELATED ADJECTIVE []
 synonym: "Actn4" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 107705
+id: NCBI_GENE:107705
 name: Gkap
 synonym: "GKAP" RELATED ADJECTIVE []
 synonym: "cGMP-dependent protein kinase-anchoring protein of 42 kDa" RELATED ADJECTIVE []
@@ -3113,7 +3113,7 @@ synonym: "Guanylate kinase-associated protein" RELATED ADJECTIVE []
 synonym: "Gkap" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 56508
+id: NCBI_GENE:56508
 name: Rapgef4
 synonym: "cAMP-dependent Rap1 guanine-nucleotide exchange factor" RELATED ADJECTIVE []
 synonym: "cAMP-GEFII" RELATED ADJECTIVE []
@@ -3132,7 +3132,7 @@ synonym: "EPAC 2" RELATED ADJECTIVE []
 synonym: "cAMP-regulated guanine nucleotide exchange factor II" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 52428
+id: NCBI_GENE:52428
 name: Rhpn2
 synonym: "Rhophilin-2" RELATED ADJECTIVE []
 synonym: "1300002E07Rik" RELATED ADJECTIVE []
@@ -3143,7 +3143,7 @@ synonym: "D7Ertd784e" RELATED ADJECTIVE []
 synonym: "GTP-Rho-binding protein 2" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 15567
+id: NCBI_GENE:15567
 name: Slc6a4
 synonym: "Sert" RELATED ADJECTIVE []
 synonym: "5HTT" RELATED ADJECTIVE []
@@ -3159,7 +3159,7 @@ synonym: "5-HTT" RELATED ADJECTIVE []
 synonym: "5HT transporter" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 11472
+id: NCBI_GENE:11472
 name: Actn2
 synonym: "Actn2" RELATED ADJECTIVE []
 synonym: "1110008F24Rik" RELATED ADJECTIVE []
@@ -3169,7 +3169,7 @@ synonym: "alpha-actinin-2" RELATED ADJECTIVE []
 synonym: "Alpha-actinin skeletal muscle isoform 2" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 19674
+id: NCBI_GENE:19674
 name: Rcvrn
 synonym: "Protein CAR" RELATED ADJECTIVE []
 synonym: "recoverin" RELATED ADJECTIVE []
@@ -3181,7 +3181,7 @@ synonym: "23 kDa photoreceptor cell-specific protein" RELATED ADJECTIVE []
 synonym: "Cancer-associated retinopathy protein" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 16591
+id: NCBI_GENE:16591
 name: Kl
 synonym: "alpha-kl" RELATED ADJECTIVE []
 synonym: "Klotho" RELATED ADJECTIVE []
@@ -3189,7 +3189,7 @@ synonym: "Klotho peptide" RELATED ADJECTIVE []
 synonym: "Kl" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 19699
+id: NCBI_GENE:19699
 name: Reln
 synonym: "reelin" RELATED ADJECTIVE []
 synonym: "Reelin" RELATED ADJECTIVE []
@@ -3200,7 +3200,7 @@ synonym: "Reeler protein" RELATED ADJECTIVE []
 synonym: "Rl" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 1268
+id: NCBI_GENE:1268
 name: CNR1
 synonym: "CNR1" RELATED ADJECTIVE []
 synonym: "CB1K5" RELATED ADJECTIVE []
@@ -3213,7 +3213,7 @@ synonym: "CB1A" RELATED ADJECTIVE []
 synonym: "CANN6" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 19701
+id: NCBI_GENE:19701
 name: Ren1
 synonym: "Angiotensinogenase" RELATED ADJECTIVE []
 synonym: "Ren-1" RELATED ADJECTIVE []
@@ -3230,7 +3230,7 @@ synonym: "Kidney renin" RELATED ADJECTIVE []
 synonym: "Ren1d" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 11518
+id: NCBI_GENE:11518
 name: Add1
 synonym: "Erythrocyte adducin subunit alpha" RELATED ADJECTIVE []
 synonym: "Add1" RELATED ADJECTIVE []
@@ -3239,7 +3239,7 @@ synonym: "alpha-adducin" RELATED ADJECTIVE []
 synonym: "Alpha-adducin" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 72961
+id: NCBI_GENE:72961
 name: Slc17a7
 synonym: "Solute carrier family 17 member 7" RELATED ADJECTIVE []
 synonym: "Vesicular glutamate transporter 1" RELATED ADJECTIVE []
@@ -3253,7 +3253,7 @@ synonym: "2900052E22Rik" RELATED ADJECTIVE []
 synonym: "Brain-specific Na(+)-dependent inorganic phosphate cotransporter" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 11535
+id: NCBI_GENE:11535
 name: Adm
 synonym: "" RELATED ADJECTIVE []
 synonym: "Intermedin-long" RELATED ADJECTIVE []
@@ -3276,7 +3276,7 @@ synonym: "Adrenomedullin-2" RELATED ADJECTIVE []
 synonym: "ProAM-N20" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 17695
+id: NCBI_GENE:17695
 name: Msmb
 synonym: "beta-MSP" RELATED ADJECTIVE []
 synonym: "Beta-microseminoprotein" RELATED ADJECTIVE []
@@ -3290,7 +3290,7 @@ synonym: "PIP" RELATED ADJECTIVE []
 synonym: "beta-microseminoprotein" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 13614
+id: NCBI_GENE:13614
 name: Edn1
 synonym: "ET-1" RELATED ADJECTIVE []
 synonym: "PPET1" RELATED ADJECTIVE []
@@ -3301,7 +3301,7 @@ synonym: "Endothelin-1" RELATED ADJECTIVE []
 synonym: "Edn1" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 13615
+id: NCBI_GENE:13615
 name: Edn2
 synonym: "VIC" RELATED ADJECTIVE []
 synonym: "ET-2" RELATED ADJECTIVE []
@@ -3313,7 +3313,7 @@ synonym: "Endothelin-2" RELATED ADJECTIVE []
 synonym: "Edn2" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 13616
+id: NCBI_GENE:13616
 name: Edn3
 synonym: "endothelin-3" RELATED ADJECTIVE []
 synonym: "114CH19" RELATED ADJECTIVE []
@@ -3326,7 +3326,7 @@ synonym: "ls" RELATED ADJECTIVE []
 synonym: "Edn3" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 9522
+id: NCBI_GENE:9522
 name: SCAMP1
 synonym: "SCAMP37" RELATED ADJECTIVE []
 synonym: "SCAMP1" RELATED ADJECTIVE []
@@ -3335,7 +3335,7 @@ synonym: "SCAMP" RELATED ADJECTIVE []
 synonym: "Secretory carrier membrane protein 1" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 23859
+id: NCBI_GENE:23859
 name: Dlg2
 synonym: "Dlgh2" RELATED ADJECTIVE []
 synonym: "PSD-93" RELATED ADJECTIVE []
@@ -3351,7 +3351,7 @@ synonym: "B230218P12Rik" RELATED ADJECTIVE []
 synonym: "B330007M19Rik" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 11576
+id: NCBI_GENE:11576
 name: Afp
 synonym: "Alpha-fetoprotein" RELATED ADJECTIVE []
 synonym: "alpha-fetoprotein" RELATED ADJECTIVE []
@@ -3361,7 +3361,7 @@ synonym: "Afp" RELATED ADJECTIVE []
 synonym: "Alpha-1-fetoprotein" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 21819
+id: NCBI_GENE:21819
 name: Tg
 synonym: "thyroglobulin" RELATED ADJECTIVE []
 synonym: "Tg737" RELATED ADJECTIVE []
@@ -3380,7 +3380,7 @@ synonym: "Tetratricopeptide repeat protein 10" RELATED ADJECTIVE []
 synonym: "Thyroglobulin" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 13649
+id: NCBI_GENE:13649
 name: Egfr
 synonym: "EGFr" RELATED ADJECTIVE []
 synonym: "9030024J15Rik" RELATED ADJECTIVE []
@@ -3396,7 +3396,7 @@ synonym: "Errp" RELATED ADJECTIVE []
 synonym: "wa2" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 11603
+id: NCBI_GENE:11603
 name: Agrn
 synonym: "C22" RELATED ADJECTIVE []
 synonym: "Agrin C-terminal 22 kDa fragment" RELATED ADJECTIVE []
@@ -3410,7 +3410,7 @@ synonym: "Agrin" RELATED ADJECTIVE []
 synonym: "C90" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 17754
+id: NCBI_GENE:17754
 name: Map1a
 synonym: "Map1a" RELATED ADJECTIVE []
 synonym: "6330416M19Rik" RELATED ADJECTIVE []
@@ -3425,7 +3425,7 @@ synonym: "Mtap1" RELATED ADJECTIVE []
 synonym: "Microtubule-associated protein 1A" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 17755
+id: NCBI_GENE:17755
 name: Map1b
 synonym: "MAP1 light chain LC1" RELATED ADJECTIVE []
 synonym: "Map1b" RELATED ADJECTIVE []
@@ -3443,7 +3443,7 @@ synonym: "Mtap-5" RELATED ADJECTIVE []
 synonym: "Microtubule-associated protein 1B" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 17756
+id: NCBI_GENE:17756
 name: Map2
 synonym: "MAP2" RELATED ADJECTIVE []
 synonym: "G1-397-34" RELATED ADJECTIVE []
@@ -3455,7 +3455,7 @@ synonym: "Mtap-2" RELATED ADJECTIVE []
 synonym: "Mtap2" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 210274
+id: NCBI_GENE:210274
 name: Shank2
 synonym: "mKIAA1022" RELATED ADJECTIVE []
 synonym: "ProSAP1" RELATED ADJECTIVE []
@@ -3468,7 +3468,7 @@ synonym: "Shank2" RELATED ADJECTIVE []
 synonym: "Cortactin-binding protein 1" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 54631
+id: NCBI_GENE:54631
 name: Nphs1
 synonym: "Nephrin" RELATED ADJECTIVE []
 synonym: "NephrinB" RELATED ADJECTIVE []
@@ -3478,7 +3478,7 @@ synonym: "Nphn" RELATED ADJECTIVE []
 synonym: "Renal glomerulus-specific cell adhesion receptor" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 30060
+id: NCBI_GENE:30060
 name: Mfi2
 synonym: "Mfi2" RELATED ADJECTIVE []
 synonym: "MTf" RELATED ADJECTIVE []
@@ -3488,7 +3488,7 @@ synonym: "CD228" RELATED ADJECTIVE []
 synonym: "Mtf" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 214384
+id: NCBI_GENE:214384
 name: Myocd
 synonym: "Myocardin" RELATED ADJECTIVE []
 synonym: "Mycd" RELATED ADJECTIVE []
@@ -3500,7 +3500,7 @@ synonym: "SRF cofactor protein" RELATED ADJECTIVE []
 synonym: "Bsac2" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 216439
+id: NCBI_GENE:216439
 name: Agap2
 synonym: "PIKE" RELATED ADJECTIVE []
 synonym: "mKIAA0167" RELATED ADJECTIVE []
@@ -3515,7 +3515,7 @@ synonym: "cnt-g1" RELATED ADJECTIVE []
 synonym: "Centg1" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 109959
+id: NCBI_GENE:109959
 name: Amy2a5
 synonym: "Amy-2" RELATED ADJECTIVE []
 synonym: "Amy2" RELATED ADJECTIVE []
@@ -3525,7 +3525,7 @@ synonym: "alpha-amylase" RELATED ADJECTIVE []
 synonym: "1810008N23Rik" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 56724
+id: NCBI_GENE:56724
 name: Cript
 synonym: "AA589469" RELATED ADJECTIVE []
 synonym: "Cysteine-rich interactor of PDZ3" RELATED ADJECTIVE []
@@ -3536,7 +3536,7 @@ synonym: "1200020A08Rik" RELATED ADJECTIVE []
 synonym: "Cript" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 23959
+id: NCBI_GENE:23959
 name: Nt5e
 synonym: "5'-nucleotidase" RELATED ADJECTIVE []
 synonym: "CD73" RELATED ADJECTIVE []
@@ -3550,7 +3550,7 @@ synonym: "2210401F01Rik" RELATED ADJECTIVE []
 synonym: "Nte" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 21922
+id: NCBI_GENE:21922
 name: Clec3b
 synonym: "C-type lectin domain family 3 member B" RELATED ADJECTIVE []
 synonym: "Clec3b" RELATED ADJECTIVE []
@@ -3561,7 +3561,7 @@ synonym: "tetranectin" RELATED ADJECTIVE []
 synonym: "Tna" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 21923
+id: NCBI_GENE:21923
 name: Tnc
 synonym: "cytotactin" RELATED ADJECTIVE []
 synonym: "Hxb" RELATED ADJECTIVE []
@@ -3578,7 +3578,7 @@ synonym: "AI528729" RELATED ADJECTIVE []
 synonym: "tenascin" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 21926
+id: NCBI_GENE:21926
 name: Tnf
 synonym: "Gamma-glutamyl Transpeptidase" RELATED ADJECTIVE []
 synonym: "DIF" RELATED ADJECTIVE []
@@ -3605,7 +3605,7 @@ synonym: "Tnfsf2" RELATED ADJECTIVE []
 synonym: "NTF" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 23985
+id: NCBI_GENE:23985
 name: Slc26a4
 synonym: "Pds" RELATED ADJECTIVE []
 synonym: "Pendrin" RELATED ADJECTIVE []
@@ -3615,7 +3615,7 @@ synonym: "Sodium-independent chloride/iodide transporter" RELATED ADJECTIVE []
 synonym: "Slc26a4" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 110006
+id: NCBI_GENE:110006
 name: Gusb
 synonym: "beta-glucuronidase" RELATED ADJECTIVE []
 synonym: "g" RELATED ADJECTIVE []
@@ -3632,7 +3632,7 @@ synonym: "Gut" RELATED ADJECTIVE []
 synonym: "Gusb" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 11727
+id: NCBI_GENE:11727
 name: Ang
 synonym: "Angrp" RELATED ADJECTIVE []
 synonym: "Angiopoietin-3" RELATED ADJECTIVE []
@@ -3662,7 +3662,7 @@ synonym: "Angiogenin" RELATED ADJECTIVE []
 synonym: "Ang1" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 228836
+id: NCBI_GENE:228836
 name: Dlgap4
 synonym: "SAPAP4" RELATED ADJECTIVE []
 synonym: "DAP-4" RELATED ADJECTIVE []
@@ -3679,7 +3679,7 @@ synonym: "WBP16" RELATED ADJECTIVE []
 synonym: "PSD-95/SAP90-binding protein 4" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 13805
+id: NCBI_GENE:13805
 name: Eng
 synonym: "Endoglin" RELATED ADJECTIVE []
 synonym: "AI528660" RELATED ADJECTIVE []
@@ -3693,7 +3693,7 @@ synonym: "Endo" RELATED ADJECTIVE []
 synonym: "Edg" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 13806
+id: NCBI_GENE:13806
 name: Eno1
 synonym: "Alpha-enolase" RELATED ADJECTIVE []
 synonym: "MBP-1" RELATED ADJECTIVE []
@@ -3710,7 +3710,7 @@ synonym: "Enolase" RELATED ADJECTIVE []
 synonym: "enolase" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 13807
+id: NCBI_GENE:13807
 name: Eno2
 synonym: "Eno-2" RELATED ADJECTIVE []
 synonym: "NSE" RELATED ADJECTIVE []
@@ -3725,7 +3725,7 @@ synonym: "Neural enolase" RELATED ADJECTIVE []
 synonym: "D6Ertd375e" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 11770
+id: NCBI_GENE:11770
 name: Fabp4
 synonym: "Adipocyte lipid-binding protein" RELATED ADJECTIVE []
 synonym: "P2 adipocyte protein" RELATED ADJECTIVE []
@@ -3747,7 +3747,7 @@ synonym: "Adipocyte-type fatty acid-binding protein" RELATED ADJECTIVE []
 synonym: "3T3-L1 lipid-binding protein" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 103932
+id: NCBI_GENE:103932
 name: Pv
 synonym: "Plvap" RELATED ADJECTIVE []
 synonym: "MECA-32 antigen" RELATED ADJECTIVE []
@@ -3759,7 +3759,7 @@ synonym: "PV" RELATED ADJECTIVE []
 synonym: "Pv1" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 17918
+id: NCBI_GENE:17918
 name: Myo5a
 synonym: "flail" RELATED ADJECTIVE []
 synonym: "Dilute" RELATED ADJECTIVE []
@@ -3778,7 +3778,7 @@ synonym: "AI413174" RELATED ADJECTIVE []
 synonym: "MyoVA" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 17920
+id: NCBI_GENE:17920
 name: Myo6
 synonym: "BC029719" RELATED ADJECTIVE []
 synonym: "Unconventional myosin-VI" RELATED ADJECTIVE []
@@ -3790,7 +3790,7 @@ synonym: "myosin VI" RELATED ADJECTIVE []
 synonym: "Sv" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 17928
+id: NCBI_GENE:17928
 name: Myog
 synonym: "myogenin" RELATED ADJECTIVE []
 synonym: "MYOD1-related protein" RELATED ADJECTIVE []
@@ -3801,7 +3801,7 @@ synonym: "myo" RELATED ADJECTIVE []
 synonym: "Myog" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 171530
+id: NCBI_GENE:171530
 name: Ucn2
 synonym: "Uts2" RELATED ADJECTIVE []
 synonym: "Urocortin" RELATED ADJECTIVE []
@@ -3818,7 +3818,7 @@ synonym: "Urocortin-2" RELATED ADJECTIVE []
 synonym: "Ucn-2" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 13838
+id: NCBI_GENE:13838
 name: Epha4
 synonym: "2900005C20Rik" RELATED ADJECTIVE []
 synonym: "AI385584" RELATED ADJECTIVE []
@@ -3835,7 +3835,7 @@ synonym: "Tyrosine-protein kinase receptor SEK-1" RELATED ADJECTIVE []
 synonym: "Sek" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 50706
+id: NCBI_GENE:50706
 name: Postn
 synonym: "Osf2" RELATED ADJECTIVE []
 synonym: "PLF" RELATED ADJECTIVE []
@@ -3850,14 +3850,14 @@ synonym: "PN" RELATED ADJECTIVE []
 synonym: "periostin" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 13856
+id: NCBI_GENE:13856
 name: Epo
 synonym: "Epo" RELATED ADJECTIVE []
 synonym: "Erythropoietin" RELATED ADJECTIVE []
 synonym: "erythropoietin" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 13857
+id: NCBI_GENE:13857
 name: Epor
 synonym: "Epor" RELATED ADJECTIVE []
 synonym: "EPO-R" RELATED ADJECTIVE []
@@ -3865,7 +3865,7 @@ synonym: "Erythropoietin receptor" RELATED ADJECTIVE []
 synonym: "erythropoietin" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 9762
+id: NCBI_GENE:9762
 name: LZTS3
 synonym: "PROSAPIP1" RELATED ADJECTIVE []
 synonym: "KIAA0552" RELATED ADJECTIVE []
@@ -3876,7 +3876,7 @@ synonym: "ProSAPiP" RELATED ADJECTIVE []
 synonym: "LZTS3" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 20742
+id: NCBI_GENE:20742
 name: Sptbn1
 synonym: "Spnb2" RELATED ADJECTIVE []
 synonym: "Beta-II spectrin" RELATED ADJECTIVE []
@@ -3896,7 +3896,7 @@ synonym: "Spectrin beta chain, non-erythrocytic 1" RELATED ADJECTIVE []
 synonym: "Sptbn1" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 108071
+id: NCBI_GENE:108071
 name: Grm5
 synonym: "Mglur5" RELATED ADJECTIVE []
 synonym: "Gprc1e" RELATED ADJECTIVE []
@@ -3909,7 +3909,7 @@ synonym: "Grm5" RELATED ADJECTIVE []
 synonym: "Glu5R" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 11819
+id: NCBI_GENE:11819
 name: Nr2f2
 synonym: "COUPTFB" RELATED ADJECTIVE []
 synonym: "COUP-TFII" RELATED ADJECTIVE []
@@ -3931,7 +3931,7 @@ synonym: "Nuclear receptor subfamily 2 group F member 2" RELATED ADJECTIVE []
 synonym: "Apolipoprotein AI regulatory protein 1" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 17967
+id: NCBI_GENE:17967
 name: Ncam1
 synonym: "NCAM-1" RELATED ADJECTIVE []
 synonym: "CD56" RELATED ADJECTIVE []
@@ -3943,7 +3943,7 @@ synonym: "Ncam1" RELATED ADJECTIVE []
 synonym: "Neural cell adhesion molecule 1" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 11826
+id: NCBI_GENE:11826
 name: Aqp1
 synonym: "Aquaporin-1" RELATED ADJECTIVE []
 synonym: "Aqp1" RELATED ADJECTIVE []
@@ -3955,7 +3955,7 @@ synonym: "Water channel protein for red blood cells and kidney proximal tubule" 
 synonym: "Delayed early response protein 2" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 11827
+id: NCBI_GENE:11827
 name: Aqp2
 synonym: "cph" RELATED ADJECTIVE []
 synonym: "Aquaporin-2" RELATED ADJECTIVE []
@@ -3971,7 +3971,7 @@ synonym: "WCH-CD" RELATED ADJECTIVE []
 synonym: "aquaporin-2" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 103988
+id: NCBI_GENE:103988
 name: Gck
 synonym: "HKIV" RELATED ADJECTIVE []
 synonym: "GLK" RELATED ADJECTIVE []
@@ -3990,7 +3990,7 @@ synonym: "Hexokinase-4" RELATED ADJECTIVE []
 synonym: "HK IV" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 11829
+id: NCBI_GENE:11829
 name: Aqp4
 synonym: "Aqp4" RELATED ADJECTIVE []
 synonym: "aquaporin-4" RELATED ADJECTIVE []
@@ -4001,7 +4001,7 @@ synonym: "MIWC" RELATED ADJECTIVE []
 synonym: "WCH4" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 11839
+id: NCBI_GENE:11839
 name: Areg
 synonym: "Areg" RELATED ADJECTIVE []
 synonym: "Amphiregulin" RELATED ADJECTIVE []
@@ -4012,7 +4012,7 @@ synonym: "Sdgf" RELATED ADJECTIVE []
 synonym: "AR" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 11842
+id: NCBI_GENE:11842
 name: Arf3
 synonym: "Arf3" RELATED ADJECTIVE []
 synonym: "5430400P17Rik" RELATED ADJECTIVE []
@@ -4021,7 +4021,7 @@ synonym: "ADP-ribosylation factor 3" RELATED ADJECTIVE []
 synonym: "ARF3" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 108100
+id: NCBI_GENE:108100
 name: Baiap2
 synonym: "Brain-specific angiogenesis inhibitor 1-associated protein 2" RELATED ADJECTIVE []
 synonym: "Insulin receptor substrate p53" RELATED ADJECTIVE []
@@ -4034,7 +4034,7 @@ synonym: "Baiap2" RELATED ADJECTIVE []
 synonym: "R75030" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 11853
+id: NCBI_GENE:11853
 name: Rhoc
 synonym: "Arh9" RELATED ADJECTIVE []
 synonym: "Silica-induced gene 61 protein" RELATED ADJECTIVE []
@@ -4046,7 +4046,7 @@ synonym: "rho c" RELATED ADJECTIVE []
 synonym: "SIG-61" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 81489
+id: NCBI_GENE:81489
 name: Dnajb1
 synonym: "Hsp40" RELATED ADJECTIVE []
 synonym: "HSP40" RELATED ADJECTIVE []
@@ -4061,7 +4061,7 @@ synonym: "DnaJ homolog subfamily B member 1" RELATED ADJECTIVE []
 synonym: "Heat shock protein 40" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 71950
+id: NCBI_GENE:71950
 name: Nanog
 synonym: "ecat4" RELATED ADJECTIVE []
 synonym: "Ecat4" RELATED ADJECTIVE []
@@ -4075,7 +4075,7 @@ synonym: "Homeobox protein NANOG" RELATED ADJECTIVE []
 synonym: "Homeobox transcription factor Nanog" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 18008
+id: NCBI_GENE:18008
 name: Nes
 synonym: "Nestin" RELATED ADJECTIVE []
 synonym: "AA166324" RELATED ADJECTIVE []
@@ -4085,7 +4085,7 @@ synonym: "C78523" RELATED ADJECTIVE []
 synonym: "Nes" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 104027
+id: NCBI_GENE:104027
 name: Synpo
 synonym: "Synaptopodin-2" RELATED ADJECTIVE []
 synonym: "Myopodin" RELATED ADJECTIVE []
@@ -4102,7 +4102,7 @@ synonym: "synaptopodin" RELATED ADJECTIVE []
 synonym: "Kiaa1029" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 18015
+id: NCBI_GENE:18015
 name: Nf1
 synonym: "Neurofibromin" RELATED ADJECTIVE []
 synonym: "Neurofibromatosis-related protein NF-1" RELATED ADJECTIVE []
@@ -4113,7 +4113,7 @@ synonym: "Nf1" RELATED ADJECTIVE []
 synonym: "E030030H24Rik" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 50791
+id: NCBI_GENE:50791
 name: Magi2
 synonym: "mKIAA0705" RELATED ADJECTIVE []
 synonym: "AIP-1" RELATED ADJECTIVE []
@@ -4132,7 +4132,7 @@ synonym: "Acvri1" RELATED ADJECTIVE []
 synonym: "Aip1" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 140919
+id: NCBI_GENE:140919
 name: Slc17a6
 synonym: "Differentiation-associated BNPI" RELATED ADJECTIVE []
 synonym: "Vesicular glutamate transporter 2" RELATED ADJECTIVE []
@@ -4149,7 +4149,7 @@ synonym: "vGluT2" RELATED ADJECTIVE []
 synonym: "vesicular glutamate transporter 2" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 22139
+id: NCBI_GENE:22139
 name: Ttr
 synonym: "Transthyretin" RELATED ADJECTIVE []
 synonym: "Ttr" RELATED ADJECTIVE []
@@ -4161,7 +4161,7 @@ synonym: "Prealbumin" RELATED ADJECTIVE []
 synonym: "prealbumin" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 16000
+id: NCBI_GENE:16000
 name: Igf1
 synonym: "insulin-like growth factor-1" RELATED ADJECTIVE []
 synonym: "Igf1" RELATED ADJECTIVE []
@@ -4173,7 +4173,7 @@ synonym: "C730016P09Rik" RELATED ADJECTIVE []
 synonym: "IGF-I" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 104069
+id: NCBI_GENE:104069
 name: Sncb
 synonym: "Sncb" RELATED ADJECTIVE []
 synonym: "betaSYN" RELATED ADJECTIVE []
@@ -4182,7 +4182,7 @@ synonym: "beta-synuclein" RELATED ADJECTIVE []
 synonym: "Beta-synuclein" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 3730
+id: NCBI_GENE:3730
 name: ANOS1
 synonym: "KALIG-1" RELATED ADJECTIVE []
 synonym: "WFDC19" RELATED ADJECTIVE []
@@ -4193,7 +4193,7 @@ synonym: "KAL1" RELATED ADJECTIVE []
 synonym: "Anosmin-1" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 11924
+id: NCBI_GENE:11924
 name: Neurog2
 synonym: "Protein atonal homolog 4" RELATED ADJECTIVE []
 synonym: "Neurogenin-2" RELATED ADJECTIVE []
@@ -4211,7 +4211,7 @@ synonym: "Ath4a" RELATED ADJECTIVE []
 synonym: "NGN-2" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 11925
+id: NCBI_GENE:11925
 name: Neurog3
 synonym: "Protein atonal homolog 5" RELATED ADJECTIVE []
 synonym: "Neurogenin-3" RELATED ADJECTIVE []
@@ -4227,7 +4227,7 @@ synonym: "mATH4B" RELATED ADJECTIVE []
 synonym: "Ath4b" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 22166
+id: NCBI_GENE:22166
 name: Txn1
 synonym: "ATL-derived factor" RELATED ADJECTIVE []
 synonym: "Txn" RELATED ADJECTIVE []
@@ -4240,7 +4240,7 @@ synonym: "AW550880" RELATED ADJECTIVE []
 synonym: "Thioredoxin" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 22173
+id: NCBI_GENE:22173
 name: Tyr
 synonym: "c" RELATED ADJECTIVE []
 synonym: "tyrosinase" RELATED ADJECTIVE []
@@ -4253,7 +4253,7 @@ synonym: "Monophenol monooxygenase" RELATED ADJECTIVE []
 synonym: "Tyr" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 52897
+id: NCBI_GENE:52897
 name: Rbfox3
 synonym: "RNA binding protein fox-1 homolog 3" RELATED ADJECTIVE []
 synonym: "NeuN" RELATED ADJECTIVE []
@@ -4267,7 +4267,7 @@ synonym: "Neuna60" RELATED ADJECTIVE []
 synonym: "D11Bwg0517e" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 11938
+id: NCBI_GENE:11938
 name: Atp2a2
 synonym: "9530097L16Rik" RELATED ADJECTIVE []
 synonym: "SERCA2" RELATED ADJECTIVE []
@@ -4285,7 +4285,7 @@ synonym: "Serca2a" RELATED ADJECTIVE []
 synonym: "SR Ca(2+)-ATPase 2" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 11941
+id: NCBI_GENE:11941
 name: Atp2b2
 synonym: "PMCA2" RELATED ADJECTIVE []
 synonym: "Pmca2" RELATED ADJECTIVE []
@@ -4303,7 +4303,7 @@ synonym: "Plasma membrane calcium-transporting ATPase 2" RELATED ADJECTIVE []
 synonym: "Plasma membrane calcium transporting ATPase 2" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 192167
+id: NCBI_GENE:192167
 name: Nlgn1
 synonym: "NL1" RELATED ADJECTIVE []
 synonym: "6330415N05Rik" RELATED ADJECTIVE []
@@ -4316,7 +4316,7 @@ synonym: "neuroligin" RELATED ADJECTIVE []
 synonym: "BB179718" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 17242
+id: NCBI_GENE:17242
 name: Mdk
 synonym: "Tyrosine kinase MYK-1" RELATED ADJECTIVE []
 synonym: "Sek4" RELATED ADJECTIVE []
@@ -4356,7 +4356,7 @@ synonym: "Ephrin type-A receptor 7" RELATED ADJECTIVE []
 synonym: "Hepatoma transmembrane kinase" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 192188
+id: NCBI_GENE:192188
 name: Stab2
 synonym: "STAB-2" RELATED ADJECTIVE []
 synonym: "stabilin-2" RELATED ADJECTIVE []
@@ -4371,7 +4371,7 @@ synonym: "MFEEL-2" RELATED ADJECTIVE []
 synonym: "Feel2" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 11966
+id: NCBI_GENE:11966
 name: Atp6v1b2
 synonym: "V-ATPase V1-B SUBUNIT" RELATED ADJECTIVE []
 synonym: "Vat2" RELATED ADJECTIVE []
@@ -4387,7 +4387,7 @@ synonym: "R74844" RELATED ADJECTIVE []
 synonym: "AI790362" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 20166
+id: NCBI_GENE:20166
 name: Rtkn
 synonym: "Rtkn2" RELATED ADJECTIVE []
 synonym: "Rtkn" RELATED ADJECTIVE []
@@ -4398,7 +4398,7 @@ synonym: "PH domain-containing family K member 1" RELATED ADJECTIVE []
 synonym: "Pleckstrin homology domain-containing family K member 1" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 18121
+id: NCBI_GENE:18121
 name: Nog
 synonym: "Chronic renal failure gene protein" RELATED ADJECTIVE []
 synonym: "GTP-binding protein NGB" RELATED ADJECTIVE []
@@ -4411,7 +4411,7 @@ synonym: "Noggin" RELATED ADJECTIVE []
 synonym: "noggin" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 1741
+id: NCBI_GENE:1741
 name: DLG3
 synonym: "Synapse-associated protein 102" RELATED ADJECTIVE []
 synonym: "DLG3" RELATED ADJECTIVE []
@@ -4431,7 +4431,7 @@ synonym: "MAGUK p55 subfamily member 3" RELATED ADJECTIVE []
 synonym: "SAP 102" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 18126
+id: NCBI_GENE:18126
 name: Nos2
 synonym: "Inosl" RELATED ADJECTIVE []
 synonym: "Nos2" RELATED ADJECTIVE []
@@ -4453,7 +4453,7 @@ synonym: "Nos-2" RELATED ADJECTIVE []
 synonym: "Macrophage NOS" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 224997
+id: NCBI_GENE:224997
 name: Dlgap1
 synonym: "AI848168" RELATED ADJECTIVE []
 synonym: "D17Bwg0511e" RELATED ADJECTIVE []
@@ -4476,7 +4476,7 @@ synonym: "Guanylate kinase-associated protein" RELATED ADJECTIVE []
 synonym: "Gkap" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 14086
+id: NCBI_GENE:14086
 name: Fscn1
 synonym: "Singed-like protein" RELATED ADJECTIVE []
 synonym: "Snl" RELATED ADJECTIVE []
@@ -4487,7 +4487,7 @@ synonym: "AI663989" RELATED ADJECTIVE []
 synonym: "Fscn1" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 14089
+id: NCBI_GENE:14089
 name: Fap
 synonym: "Fibroblast activation protein alpha" RELATED ADJECTIVE []
 synonym: "SIMP" RELATED ADJECTIVE []
@@ -4511,7 +4511,7 @@ synonym: "Dipeptidyl peptidase FAP" RELATED ADJECTIVE []
 synonym: "FAP" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 18186
+id: NCBI_GENE:18186
 name: Nrp1
 synonym: "Nrp" RELATED ADJECTIVE []
 synonym: "Nrp1" RELATED ADJECTIVE []
@@ -4523,7 +4523,7 @@ synonym: "NP-1" RELATED ADJECTIVE []
 synonym: "A5 protein" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 20239
+id: NCBI_GENE:20239
 name: Atxn2
 synonym: "Ataxin-2" RELATED ADJECTIVE []
 synonym: "ATX2" RELATED ADJECTIVE []
@@ -4536,7 +4536,7 @@ synonym: "Atxn2" RELATED ADJECTIVE []
 synonym: "Spinocerebellar ataxia type 2 protein homolog" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 22288
+id: NCBI_GENE:22288
 name: Utrn
 synonym: "DRP" RELATED ADJECTIVE []
 synonym: "Utrn" RELATED ADJECTIVE []
@@ -4545,7 +4545,7 @@ synonym: "Dmdl" RELATED ADJECTIVE []
 synonym: "utrophin" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 18195
+id: NCBI_GENE:18195
 name: Nsf
 synonym: "SKD2" RELATED ADJECTIVE []
 synonym: "AI316878" RELATED ADJECTIVE []
@@ -4562,7 +4562,7 @@ synonym: "NEM-sensitive fusion protein" RELATED ADJECTIVE []
 synonym: "NSF" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 26395
+id: NCBI_GENE:26395
 name: Map2k1
 synonym: "MEK 1" RELATED ADJECTIVE []
 synonym: "Prkmk1" RELATED ADJECTIVE []
@@ -4577,7 +4577,7 @@ synonym: "MAPKK 1" RELATED ADJECTIVE []
 synonym: "ERK activator kinase 1" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 18053
+id: NCBI_GENE:18053
 name: Ngfr
 synonym: "LNGFR" RELATED ADJECTIVE []
 synonym: "Low affinity neurotrophin receptor p75NTR" RELATED ADJECTIVE []
@@ -4592,7 +4592,7 @@ synonym: "neurotrophin" RELATED ADJECTIVE []
 synonym: "Low-affinity nerve growth factor receptor" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 16163
+id: NCBI_GENE:16163
 name: Il13
 synonym: "T-cell activation protein P600" RELATED ADJECTIVE []
 synonym: "interleukin-13" RELATED ADJECTIVE []
@@ -4602,7 +4602,7 @@ synonym: "IL-13" RELATED ADJECTIVE []
 synonym: "Interleukin-13" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 20264
+id: NCBI_GENE:20264
 name: Scn10a
 synonym: "Nav1.8" RELATED ADJECTIVE []
 synonym: "PN3" RELATED ADJECTIVE []
@@ -4616,7 +4616,7 @@ synonym: "Peripheral nerve sodium channel 3" RELATED ADJECTIVE []
 synonym: "Sns" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 16170
+id: NCBI_GENE:16170
 name: Il16
 synonym: "mKIAA4048" RELATED ADJECTIVE []
 synonym: "Lymphocyte chemoattractant factor" RELATED ADJECTIVE []
@@ -4628,7 +4628,7 @@ synonym: "LCF" RELATED ADJECTIVE []
 synonym: "Pro-interleukin-16" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 16172
+id: NCBI_GENE:16172
 name: Il17ra
 synonym: "Interleukin-17 receptor A" RELATED ADJECTIVE []
 synonym: "VDw217" RELATED ADJECTIVE []
@@ -4641,7 +4641,7 @@ synonym: "Il17r" RELATED ADJECTIVE []
 synonym: "Il17ra" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 26413
+id: NCBI_GENE:26413
 name: Mapk1
 synonym: "MAPK 2" RELATED ADJECTIVE []
 synonym: "MAPK 1" RELATED ADJECTIVE []
@@ -4670,7 +4670,7 @@ synonym: "p41mapk" RELATED ADJECTIVE []
 synonym: "ERT1" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 22318
+id: NCBI_GENE:22318
 name: Vamp2
 synonym: "sybII" RELATED ADJECTIVE []
 synonym: "Vamp2" RELATED ADJECTIVE []
@@ -4682,7 +4682,7 @@ synonym: "synaptobrevin 2" RELATED ADJECTIVE []
 synonym: "VAMP-2" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 16181
+id: NCBI_GENE:16181
 name: Il1rn
 synonym: "Il1rn" RELATED ADJECTIVE []
 synonym: "F630041P17Rik" RELATED ADJECTIVE []
@@ -4696,7 +4696,7 @@ synonym: "IRAP" RELATED ADJECTIVE []
 synonym: "Il-1ra" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 16182
+id: NCBI_GENE:16182
 name: Il18r1
 synonym: "IL1R-rp" RELATED ADJECTIVE []
 synonym: "IL1 receptor-related protein" RELATED ADJECTIVE []
@@ -4712,7 +4712,7 @@ synonym: "Il1rrp" RELATED ADJECTIVE []
 synonym: "CD218 antigen-like family member A" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 16184
+id: NCBI_GENE:16184
 name: Il2ra
 synonym: "Il2ra" RELATED ADJECTIVE []
 synonym: "interleukin-2" RELATED ADJECTIVE []
@@ -4728,7 +4728,7 @@ synonym: "p55" RELATED ADJECTIVE []
 synonym: "IL2-RA" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 22330
+id: NCBI_GENE:22330
 name: Vcl
 synonym: "9430097D22" RELATED ADJECTIVE []
 synonym: "Metavinculin" RELATED ADJECTIVE []
@@ -4740,7 +4740,7 @@ synonym: "Vcl" RELATED ADJECTIVE []
 synonym: "vinculin" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 12091
+id: NCBI_GENE:12091
 name: Glb1
 synonym: "Bgl-e" RELATED ADJECTIVE []
 synonym: "Lactase" RELATED ADJECTIVE []
@@ -4760,7 +4760,7 @@ synonym: "Acid beta-galactosidase" RELATED ADJECTIVE []
 synonym: "Beta-galactosidase" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 16189
+id: NCBI_GENE:16189
 name: Il4
 synonym: "B-cell IgG differentiation factor" RELATED ADJECTIVE []
 synonym: "BSF-1" RELATED ADJECTIVE []
@@ -4775,7 +4775,7 @@ synonym: "IGG1 induction factor" RELATED ADJECTIVE []
 synonym: "interleukin-4" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 16191
+id: NCBI_GENE:16191
 name: Il5
 synonym: "Eosinophil differentiation factor" RELATED ADJECTIVE []
 synonym: "Cytotoxic T-lymphocyte inducer" RELATED ADJECTIVE []
@@ -4790,7 +4790,7 @@ synonym: "IL-5" RELATED ADJECTIVE []
 synonym: "interleukin-5" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 16193
+id: NCBI_GENE:16193
 name: Il6
 synonym: "interleukin-6" RELATED ADJECTIVE []
 synonym: "Interleukin HP-1" RELATED ADJECTIVE []
@@ -4801,7 +4801,7 @@ synonym: "B-cell hybridoma growth factor" RELATED ADJECTIVE []
 synonym: "IL-6" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 16196
+id: NCBI_GENE:16196
 name: Il7
 synonym: "Il-7" RELATED ADJECTIVE []
 synonym: "A630026I06Rik" RELATED ADJECTIVE []
@@ -4812,7 +4812,7 @@ synonym: "Interleukin-7" RELATED ADJECTIVE []
 synonym: "hlb368" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 22348
+id: NCBI_GENE:22348
 name: Slc32a1
 synonym: "Slc32a1" RELATED ADJECTIVE []
 synonym: "mVGAT" RELATED ADJECTIVE []
@@ -4829,14 +4829,14 @@ synonym: "Vgat" RELATED ADJECTIVE []
 synonym: "Solute carrier family 32 member 1" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 22352
+id: NCBI_GENE:22352
 name: Vim
 synonym: "Vimentin" RELATED ADJECTIVE []
 synonym: "vimentin" RELATED ADJECTIVE []
 synonym: "Vim" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 22353
+id: NCBI_GENE:22353
 name: Vip
 synonym: "InsP6 and PP-IP5 kinase 2" RELATED ADJECTIVE []
 synonym: "InsP6 and PP-IP5 kinase 1" RELATED ADJECTIVE []
@@ -4868,7 +4868,7 @@ synonym: "Hisppd2a" RELATED ADJECTIVE []
 synonym: "Intestinal peptide PHI-42" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 22355
+id: NCBI_GENE:22355
 name: Vipr2
 synonym: "PACAP-R3" RELATED ADJECTIVE []
 synonym: "vasoactive intestinal peptide" RELATED ADJECTIVE []
@@ -4882,7 +4882,7 @@ synonym: "Vipr2" RELATED ADJECTIVE []
 synonym: "PACAP-R-3" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 18260
+id: NCBI_GENE:18260
 name: Ocln
 synonym: "Ocln" RELATED ADJECTIVE []
 synonym: "Occludin" RELATED ADJECTIVE []
@@ -4891,7 +4891,7 @@ synonym: "Ocl" RELATED ADJECTIVE []
 synonym: "occludin" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 22370
+id: NCBI_GENE:22370
 name: Vtn
 synonym: "Vitronectin" RELATED ADJECTIVE []
 synonym: "Vn" RELATED ADJECTIVE []
@@ -4903,7 +4903,7 @@ synonym: "AI256434" RELATED ADJECTIVE []
 synonym: "Vtn" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 20343
+id: NCBI_GENE:20343
 name: Sell
 synonym: "Sell" RELATED ADJECTIVE []
 synonym: "Leukocyte adhesion molecule 1" RELATED ADJECTIVE []
@@ -4926,7 +4926,7 @@ synonym: "Leukocyte-endothelial cell adhesion molecule 1" RELATED ADJECTIVE []
 synonym: "Ly22" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 216963
+id: NCBI_GENE:216963
 name: Git1
 synonym: "G protein-coupled receptor kinase-interactor 1" RELATED ADJECTIVE []
 synonym: "ARF GTPase-activating protein GIT1" RELATED ADJECTIVE []
@@ -4938,7 +4938,7 @@ synonym: "p95Cat" RELATED ADJECTIVE []
 synonym: "GIT1" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 14246
+id: NCBI_GENE:14246
 name: Flg
 synonym: "Flg2" RELATED ADJECTIVE []
 synonym: "Filaggrin" RELATED ADJECTIVE []
@@ -4958,7 +4958,7 @@ synonym: "Flg" RELATED ADJECTIVE []
 synonym: "Fgfr1" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 26556
+id: NCBI_GENE:26556
 name: Homer1
 synonym: "homer-1" RELATED ADJECTIVE []
 synonym: "VASP/Ena-related gene up-regulated during seizure and LTP 1" RELATED ADJECTIVE []
@@ -4974,7 +4974,7 @@ synonym: "Homer 1" RELATED ADJECTIVE []
 synonym: "Homer protein homolog 1" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 26557
+id: NCBI_GENE:26557
 name: Homer2
 synonym: "VASP/Ena-related gene up-regulated during seizure and LTP 2" RELATED ADJECTIVE []
 synonym: "Cupidin" RELATED ADJECTIVE []
@@ -4989,7 +4989,7 @@ synonym: "Homer2" RELATED ADJECTIVE []
 synonym: "Homer protein homolog 2" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 26558
+id: NCBI_GENE:26558
 name: Homer3
 synonym: "Homer 3" RELATED ADJECTIVE []
 synonym: "Homer3" RELATED ADJECTIVE []
@@ -4998,7 +4998,7 @@ synonym: "Homer-3" RELATED ADJECTIVE []
 synonym: "Homer protein homolog 3" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 20416
+id: NCBI_GENE:20416
 name: Shc1
 synonym: "SH2 domain protein C1" RELATED ADJECTIVE []
 synonym: "Shc1" RELATED ADJECTIVE []
@@ -5012,7 +5012,7 @@ synonym: "SHC-transforming protein A" RELATED ADJECTIVE []
 synonym: "Src homology 2 domain-containing-transforming protein C1" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 14281
+id: NCBI_GENE:14281
 name: Fos
 synonym: "Proto-oncogene c-Fos" RELATED ADJECTIVE []
 synonym: "c-fos" RELATED ADJECTIVE []
@@ -5023,7 +5023,7 @@ synonym: "D12Rfj1" RELATED ADJECTIVE []
 synonym: "c-Fos" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 16333
+id: NCBI_GENE:16333
 name: Ins1
 synonym: "Insulin-1" RELATED ADJECTIVE []
 synonym: "Ins-1" RELATED ADJECTIVE []
@@ -5034,7 +5034,7 @@ synonym: "insulin" RELATED ADJECTIVE []
 synonym: "Insulin-1 A chain" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 18390
+id: NCBI_GENE:18390
 name: Oprm1
 synonym: "Oprm" RELATED ADJECTIVE []
 synonym: "MOP-R" RELATED ADJECTIVE []
@@ -5048,7 +5048,7 @@ synonym: "Mu-type opioid receptor" RELATED ADJECTIVE []
 synonym: "muOR" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 14308
+id: NCBI_GENE:14308
 name: Fshb
 synonym: "FSH-B" RELATED ADJECTIVE []
 synonym: "follicle stimulating hormone" RELATED ADJECTIVE []
@@ -5062,7 +5062,7 @@ synonym: "Follitropin beta chain" RELATED ADJECTIVE []
 synonym: "Follicle-stimulating hormone beta subunit" RELATED ADJECTIVE []
 
 [Term]
-id NCBI_GENE: 57321
+id: NCBI_GENE:57321
 name: Terf2ip
 synonym: "" RELATED ADJECTIVE []
 synonym: "Telomeric repeat-binding factor 2-interacting protein 1" RELATED ADJECTIVE []
