@@ -1,7 +1,7 @@
 somatostatin positive neuron
-parvalbumin expressing neuron
-parvalbumin-positive interneurons
-parvalbumin-containing neuron
+aa parvalbumin expressing neuron aa
+aa parvalbumin-positive interneurons  aa
+aa parvalbumin-containing neuron aa
 GABA-immunonegative cell
 glycine-immunopositive neurons
 aspartate-immunopositive neurons
@@ -11,5 +11,5 @@ cholecystokinin-positive cells
 GABAergic cell expressing cholecystokinin
 triangular heat shock protein - immunoreactive neuron
 insulin-like growth factor-1-immunoreactive neurons
-parvalbumin-positive interneurons
-parvalbumin-expressing neurons
+aa parvalbumin-positive interneurons aa
+aa parvalbumin-expressing neurons aa
