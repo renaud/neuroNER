@@ -13,6 +13,7 @@ synonymtypedef: ADVERB "adverb" RELATED
 synonymtypedef: PLURAL "plural term" EXACT
 synonymtypedef: CHEMICAL_FORMULA "chemical formula" EXACT
 
+!TODO thick (in thick L5 cells)
 
 [Term]
 id: HBP_MORPHOLOGY:0000001

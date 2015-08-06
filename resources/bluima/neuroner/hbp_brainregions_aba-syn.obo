@@ -9,6 +9,11 @@ synonymtypedef: ACRONYM "acronym" BROAD
 synonymtypedef: PLURAL "plural term" EXACT
 
 
+!TODO medial prefrontal cortex
+!TODO somatosensory cortex
+!TODO CA3 and CA1
+
+
 [Term]
 id: ABA_REGION:248
 name: Cortical amygdalar area, posterior part, medial zone, layer 2
@@ -225,7 +230,7 @@ synonym: "spinotectal pathway" []
 id: ABA_REGION:278
 name: Striatum-like amygdalar nuclei
 synonym: "Striatum-like amygdalar nuclei" []
-synonym: "amygdala" curator="RR"/> []
+synonym: "amygdala" [] ! curator=RR
 
 [Term]
 id: ABA_REGION:271
@@ -1464,7 +1469,7 @@ synonym: "nucleus z" []
 id: ABA_REGION:1080
 name: Hippocampal region
 synonym: "Hippocampal region" []
-synonym: "hippocampal" curator="RR"/> []
+synonym: "hippocampal" [] ! curator=RR
 
 [Term]
 id: ABA_REGION:788
@@ -2355,6 +2360,8 @@ synonym: "isocortex" []
 synonym: "Isocortex" []
 synonym: "homogenetic cortex" []
 synonym: "Neocortex" []
+synonym: "neocortical" [] ! curator=RR
+
 
 [Term]
 id: ABA_REGION:316
@@ -2654,7 +2661,7 @@ synonym: "parencephalon" []
 synonym: "Cerebellum" []
 synonym: "Corpus cerebelli" []
 synonym: "cerebellum" []
-synonym: "cerebellar" curator="RR"/> []
+synonym: "cerebellar" [] ! curator=RR
 
 [Term]
 id: ABA_REGION:513
@@ -3704,6 +3711,7 @@ synonym: "Field CA1" []
 synonym: "field CA1, Ammon's horn" []
 synonym: "CA1 field of the hippocampus" []
 synonym: "regio superior of the hippocampus" []
+synonym: "CA1" [] ! curator=RR
 
 [Term]
 id: ABA_REGION:383
@@ -5342,7 +5350,7 @@ name: corticopontine tract
 synonym: "Tractus corticopontinus" []
 synonym: "Fibrae corticopontinae" []
 synonym: "corticopontine fibers" []
-synonym: "corticopontine tract" []
+synonym: "corticopontine" []
 
 [Term]
 id: ABA_REGION:982
@@ -5483,7 +5491,7 @@ synonym: "Dorsal auditory area" []
 [Term]
 id: ABA_REGION:1012
 name: corticorubral tract
-synonym: "corticorubral tract" []
+synonym: "corticorubral" []
 synonym: "corticorubral fibers" []
 synonym: "Fibrae corticorubrales" []
 
@@ -5984,7 +5992,8 @@ synonym: "cortical plate" []
 synonym: "pallium" []
 synonym: "Cerebral cortex" []
 synonym: "Cortex cerebri" []
-synonym: "cortex" curator="RR"/> []
+synonym: "cortex" [] ! curator=RR
+synonym: "cortical" [] ! curator=RR
 
 [Term]
 id: ABA_REGION:689
@@ -6499,7 +6508,7 @@ synonym: "dorsal striatum" []
 synonym: "neostriatum" []
 synonym: "caudate putamen" []
 synonym: "striate nucleus" []
-synonym: "striatal" curator="RR"/> []
+synonym: "striatal" [] ! curator=RR
 
 [Term]
 id: ABA_REGION:671
@@ -8269,6 +8278,7 @@ synonym: "Region CA3" []
 synonym: "CA3 field of the hippocampus" []
 synonym: "CA3 field" []
 synonym: "field CA3 of hippocampus" []
+synonym: "CA3" [] ! curator=RR
 
 [Term]
 id: ABA_REGION:462

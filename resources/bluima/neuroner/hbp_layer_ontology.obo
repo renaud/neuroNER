@@ -92,6 +92,8 @@ synonym: "layer III a" EXACT ALTERNATE_SPELLING []  ! unlikely
 synonym: "layer 3 a"   EXACT ALTERNATE_SPELLING []
 synonym: "L3a" BROAD ACRONYM []
 synonym: "l3a" BROAD ACRONYM []
+synonym: "L3A" BROAD ACRONYM []
+synonym: "l3A" BROAD ACRONYM []
 is_a: HBP_LAYER:0000003
 
 [Term]
@@ -102,6 +104,8 @@ synonym: "layer III b" EXACT ALTERNATE_SPELLING []  ! unlikely
 synonym: "layer 3 b"   EXACT ALTERNATE_SPELLING []
 synonym: "L3b" BROAD ACRONYM []
 synonym: "l3b" BROAD ACRONYM []
+synonym: "L3B" BROAD ACRONYM []
+synonym: "l3B" BROAD ACRONYM []
 is_a: HBP_LAYER:0000003
 
 
@@ -113,6 +117,8 @@ synonym: "layer IV a" EXACT ALTERNATE_SPELLING []  ! unlikely
 synonym: "layer 4 a"  EXACT ALTERNATE_SPELLING []
 synonym: "L4a" BROAD ACRONYM []
 synonym: "l4a" BROAD ACRONYM []
+synonym: "L4A" BROAD ACRONYM []
+synonym: "l4A" BROAD ACRONYM []
 is_a: HBP_LAYER:0000004
 
 [Term]
@@ -123,6 +129,7 @@ synonym: "layer IV b" EXACT ALTERNATE_SPELLING []  ! unlikely
 synonym: "layer 4 b"  EXACT ALTERNATE_SPELLING []
 synonym: "L4b" BROAD ACRONYM []
 synonym: "l4b" BROAD ACRONYM []
+synonym: "L4B" BROAD ACRONYM []
 is_a: HBP_LAYER:0000004
 
 [Term]
@@ -133,6 +140,7 @@ synonym: "layer V a" EXACT ALTERNATE_SPELLING []  ! unlikely
 synonym: "layer 5 a" EXACT ALTERNATE_SPELLING []
 synonym: "L5a" BROAD ACRONYM []
 synonym: "l5a" BROAD ACRONYM []
+synonym: "L5A" BROAD ACRONYM []
 is_a: HBP_LAYER:0000005
 
 [Term]
@@ -143,6 +151,7 @@ synonym: "layer V b" EXACT ALTERNATE_SPELLING []  ! unlikely
 synonym: "layer 5 b" EXACT ALTERNATE_SPELLING []
 synonym: "L5b" BROAD ACRONYM []
 synonym: "l5b" BROAD ACRONYM []
+synonym: "L5B" BROAD ACRONYM []
 is_a: HBP_LAYER:0000005
 
 [Term]
@@ -153,6 +162,7 @@ synonym: "layer VI a" EXACT ALTERNATE_SPELLING []  ! unlikely
 synonym: "layer 6 a"  EXACT ALTERNATE_SPELLING []
 synonym: "L6a" BROAD ACRONYM []
 synonym: "l6a" BROAD ACRONYM []
+synonym: "L6A" BROAD ACRONYM []
 is_a: HBP_LAYER:0000006
 
 [Term]
@@ -163,6 +173,7 @@ synonym: "layer VI b" EXACT ALTERNATE_SPELLING []  ! unlikely
 synonym: "layer 6 b"  EXACT ALTERNATE_SPELLING []
 synonym: "L6b" BROAD ACRONYM []
 synonym: "l6b" BROAD ACRONYM []
+synonym: "L6B" BROAD ACRONYM []
 is_a: HBP_LAYER:0000006
 
 
