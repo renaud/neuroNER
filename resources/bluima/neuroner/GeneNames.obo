@@ -7667,21 +7667,6 @@ synonym: "CLAST6" RELATED ADJECTIVE []
 synonym: "Lysosomal-associated protein transmembrane 5" RELATED ADJECTIVE []
 
 [Term]
-id: NCBI_GENE:16795 
-name: Large 
-synonym: "Like-glycosyltransferase" RELATED ADJECTIVE []
-synonym: "Mbp-1" RELATED ADJECTIVE []
-synonym: "Mbp1" RELATED ADJECTIVE []
-synonym: "myd" RELATED ADJECTIVE []
-synonym: "Large" RELATED ADJECTIVE []
-synonym: "enr" RELATED ADJECTIVE []
-synonym: "froggy" RELATED ADJECTIVE []
-synonym: "mKIAA0609" RELATED ADJECTIVE []
-synonym: "mCG_141327" RELATED ADJECTIVE []
-synonym: "BPFD#36" RELATED ADJECTIVE []
-synonym: "Gyltl1a" RELATED ADJECTIVE []
-
-[Term]
 id: NCBI_GENE:16816 
 name: Lcat 
 synonym: "D8Wsu61e" RELATED ADJECTIVE []
