@@ -6485,6 +6485,9 @@ id: NCBI_GENE:15561
 name: Htr3a
 synonym: "5-hydroxytryptamine receptor 3A short splice variant" RELATED ADJECTIVE []
 synonym: "5-HT3" RELATED ADJECTIVE []
+synonym: "5HT3a" RELATED ADJECTIVE []
+synonym: "5HT3a receptor" RELATED ADJECTIVE []
+synonym: "5HT3aR" RELATED ADJECTIVE []
 synonym: "Htr3a protein" RELATED ADJECTIVE []
 synonym: "Htr3a" RELATED ADJECTIVE []
 
@@ -14143,6 +14146,7 @@ id: NCBI_GENE:20604
 name: Sst
 synonym: "Antrin" RELATED ADJECTIVE []
 synonym: "Sst" RELATED ADJECTIVE []
+synonym: "SST" RELATED ADJECTIVE []
 synonym: "SOM" RELATED ADJECTIVE []
 synonym: "somatostatin" RELATED ADJECTIVE []
 synonym: "Somatostatin-14" RELATED ADJECTIVE []
