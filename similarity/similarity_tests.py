@@ -59,22 +59,17 @@ class TestBrainRegionSimilarity(unittest.TestCase):
         sim = self.brs.similarity([self.hyp], ['ABA_REGION:1024']) # grooves
         self.assertEqual(sim, (0, [])), 'these two brain regions are not similar at all, therefore a score of 0'
 
-''' forSJ: I started to write some tests below... you'll need to adapt them, i guess...
     def test_exact_similiarity(self):
         sim = self.brs.similarity([self.hyp], [self.hyp])
         self.assertEqual(sim, (1.0, [[self.hyp, 'exact same brain region']]))
 
-    def test_parent_child_relationshipt(self):
+    def test_parent_child_relationship(self):
         sim = self.brs.similarity([self.hyp], [self.mez])
         self.assertEqual(sim, (1.0, [([self.hyp],  'sharing a common brain region')]))
 
     def test_sharing_direct_parents(self):
         sim = self.brs.similarity([self.pvz], [self.mez])
         self.assertEqual(sim, (0.5, [([self.hyp], 'parent-child brain region')]))
-
-
-
-'''
 
 
 

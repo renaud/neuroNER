@@ -7,6 +7,8 @@ import os.path
 import oboparser
 from config import cfg
 from itertools import chain
+from allensdk.core.mouse_connectivity_cache import MouseConnectivityCache
+# requires pip'ing: pip install https://github.com/AllenInstitute/AllenSDK/archive/v0.10.1.tar.gz
 
 onto_root = cfg['onto_root']
 assert os.path.exists(onto_root), 'could not find onto_root at ' + onto_root
@@ -63,8 +65,30 @@ class LayerSimilarity(object):
 class BrainRegionSimilarity(object):
     """BrainRegionSimilarity: similarity """
     def __init__(self):
-        # forSJ: the place to load ABA ontology
-        pass
+        self.onto_id2parent_regions = {}
+
+        # only find parents up to these major brain regions
+        big_reg_acros = ['Isocortex', 'OLF', 'STR', 'PAL', 'TH', 'HY', 'MB', 'PAL', 'MY', 'CB', 'HPF', 'CTXsp']
+
+        mcc = MouseConnectivityCache()
+        onto = mcc.get_ontology()
+        df = onto.df
+        struct_ids = df.id
+        for struct_id in struct_ids:
+            structure_path_str = onto[struct_id].structure_id_path.item()
+            region_path = structure_path_str.split('/')
+            parent_list = []
+            for r in reversed(region_path):
+                if r:
+                    parent_list.append(r)
+                    tdf = df[df.id == int(r)]
+                    acronym = tdf.acronym.item()
+                    if acronym in big_reg_acros:
+                        break
+            self.onto_id2parent_regions[struct_id] = parent_list
+
+    def onto_id2region_id(self, o):
+        return int(o[11:])
 
     # input: n1 and n2, each a list of ontology ids, e.g. ['HBP_EPHYS:0000080', 'HBP_LAYER:0000001', 'NCBI_GENE:19293']
     # returns a tuple with:
@@ -72,7 +96,26 @@ class BrainRegionSimilarity(object):
     #        2) an array of explanations, each a tuple of the form (['matching_ontology_ids'], 'human readable explanation')
     #        forSJ: just return [] for 2) if it's confusing...
     def similarity(self, n1, n2):
-        return (0, []) # forSJ: placeholder: no similarity
+        def neuron2region_ids(neuron):
+            region_ids = []
+            for n in neuron:
+                if n.startswith('ABA_REGION:'):
+                    region_id = self.onto_id2region_id(n)
+                    region_ids.append(self.onto_id2parent_regions[region_id])
+                    # region_ids.append(n[region_id])
+                    # for region_id in self.onto_id2layer_numbers[n]:
+                    #     layer_numbers.append(layer_number)
+            return list(chain(*region_ids))
+        n1_parent_regions = neuron2region_ids(n1)
+        n2_parent_regions = neuron2region_ids(n2)
+        print n1_parent_regions
+        print n2_parent_regions
+        # on same layer?
+        common_region = set(n1_parent_regions).intersection(set(n2_parent_regions))
+        if len(common_region) > 0:
+            return (1.0, (['ABA_REGION:{}'.format(common_region.pop())], 'located on same region') )
+        else:
+            return (0, []) # no layers in both neurons
 
 
 similarities = [LayerSimilarity(), BrainRegionSimilarity()]
