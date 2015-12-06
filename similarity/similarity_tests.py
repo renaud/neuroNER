@@ -48,7 +48,7 @@ class TestLayerSimilarity(unittest.TestCase):
 
 
 class TestBrainRegionSimilarity(unittest.TestCase):
-    brs = LayerSimilarity()
+    brs = BrainRegionSimilarity()
 
     # pvz and mez share hyp as a common parent
     hyp = 'ABA_REGION:1097' # Hypothalamus
@@ -61,15 +61,15 @@ class TestBrainRegionSimilarity(unittest.TestCase):
 
     def test_exact_similiarity(self):
         sim = self.brs.similarity([self.hyp], [self.hyp])
-        self.assertEqual(sim, (1.0, [[self.hyp, 'exact same brain region']]))
+        self.assertEqual(sim, (1.0, ([self.hyp], 'exact same brain region') ))
 
     def test_parent_child_relationship(self):
         sim = self.brs.similarity([self.hyp], [self.mez])
-        self.assertEqual(sim, (1.0, [([self.hyp],  'sharing a common brain region')]))
+        self.assertEqual(sim, (1.0, ([self.hyp],  'sharing a common brain region') ))
 
     def test_sharing_direct_parents(self):
         sim = self.brs.similarity([self.pvz], [self.mez])
-        self.assertEqual(sim, (0.5, [([self.hyp], 'parent-child brain region')]))
+        self.assertEqual(sim, (0.5, ([self.hyp], 'sibling regions') ))
 
 
 
