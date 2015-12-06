@@ -94,7 +94,6 @@ class BrainRegionSimilarity(object):
     # returns a tuple with:
     #        1) a score (float) reflecting how similar these neuron are regarding brain regions
     #        2) an array of explanations, each a tuple of the form (['matching_ontology_ids'], 'human readable explanation')
-    #        forSJ: just return [] for 2) if it's confusing...
     def similarity(self, n1, n2):
         def neuron2region_ids(neuron):
             region_ids = []
@@ -102,17 +101,16 @@ class BrainRegionSimilarity(object):
                 if n.startswith('ABA_REGION:'):
                     region_id = self.onto_id2region_id(n)
                     region_ids.append(self.onto_id2parent_regions[region_id])
-                    # region_ids.append(n[region_id])
-                    # for region_id in self.onto_id2layer_numbers[n]:
-                    #     layer_numbers.append(layer_number)
             return list(chain(*region_ids))
         n1_parent_regions = neuron2region_ids(n1)
         n2_parent_regions = neuron2region_ids(n2)
+        # print n1_parent_regions
+        # print n2_parent_regions
 
         common_regions = [item for item in n1_parent_regions if item in n2_parent_regions]
 
         if common_regions:
-            if n1_parent_regions[0] in common_regions and n2_parent_regions[0] in common_regions:
+            if n1_parent_regions[0] == n2_parent_regions[0]:
                 return 1.0, (['ABA_REGION:{}'.format(n1_parent_regions[0])], 'exact same brain region')
             elif n1_parent_regions[0] in n2_parent_regions:
                 return 1.0, (['ABA_REGION:{}'.format(n1_parent_regions[0])], 'sharing a common brain region')
@@ -121,19 +119,7 @@ class BrainRegionSimilarity(object):
             elif len(common_regions) > 0:
                 return .5, (['ABA_REGION:{}'.format(common_regions.pop())], 'sibling regions')
         else:
-            return (0, []) # no layers in both neurons
-        # print n1_parent_regions
-        # print n2_parent_regions
-
-        #indices = [n1_parent_regions.index(i) for i in n2_parent_regions]
-
-        #print matches
-        #print indices
-
-        # on same layer?
-        #common_region = set(n1_parent_regions).intersection(set(n2_parent_regions))
-        # print common_regions
-
+            return (0, []) # no regions in both neurons
 
 
 similarities = [LayerSimilarity(), BrainRegionSimilarity()]
