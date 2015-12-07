@@ -2,6 +2,10 @@
 output/*
 descriptor/neuroner/*
 
+# ABA files downloaded by the API
+similarity/manifest.json
+similarity/structures.csv
+
 *.class
 
 #########################################################

@@ -11,7 +11,7 @@ class TestParser(unittest.TestCase):
         self.assertTrue(len(obo) > 10)
         #for o in obo:
         #    print o
-        print obo[0]
+        print(obo[0])
         #import pdb; pdb.set_trace()
 
 
