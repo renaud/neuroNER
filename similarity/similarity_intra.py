@@ -7,6 +7,7 @@ import os.path
 import oboparser
 from config import cfg
 from itertools import chain
+
 from allensdk.core.mouse_connectivity_cache import MouseConnectivityCache
 # requires pip'ing: pip install https://github.com/AllenInstitute/AllenSDK/archive/v0.10.1.tar.gz
 
