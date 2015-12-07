@@ -18,6 +18,9 @@ _rules = [
 # FS <--> PV
 (['HBP_EPHYS:0000080', 'HBP_EPHYS_TRIGGER:0000003'], ['NCBI_GENE:19293'], True, 0.9, 'TODO', 'implicit correspondance'),
 
+# Chandelier are FS
+(['HBP_MORPHOLOGY:0000007'], ['HBP_EPHYS:0000080', 'HBP_EPHYS_TRIGGER:0000003'], False, 0.9, 'TODO', 'implicit correspondance'),
+
 ]
 
 
