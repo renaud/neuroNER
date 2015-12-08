@@ -7,6 +7,7 @@ Computation is delegated to similarity_inter and similarity_intra
 import similarity_inter, similarity_intra
 from operator import itemgetter
 from itertools import groupby
+import re
 
 from sherlok import Sherlok # pip install --upgrade sherlok
 s = Sherlok('neuroner')
@@ -44,14 +45,22 @@ def _cleanup(n, orig_neuron_str = None):
     clean = sorted(clean, key = lambda tup: tup[0])
 
     # remove unwanted UNKN_REGION ontology terms if a better ontology term available
+    # also defer to NCBI_GENE over HBP_NEUROTRANSMITTER
     pos_list = [c[0] for c in clean]
+    new_clean = clean
     for p in pos_list:
         indices = [i for i, x in enumerate(pos_list) if x == p]
         if len(indices) > 1:
-            conflicting_terms = [clean[i] for i in indices]
-            for c in conflicting_terms:
-                if 'UNKN' in c[2]:
-                    clean.remove(c)
+            try:
+                conflicting_terms = [clean[j] for j in indices]
+                for c in conflicting_terms:
+                    if 'UNKN' in c[2]:
+                        new_clean.remove(c)
+                    if 'HBP_NEUROTRANSMITTER' in c[2]:
+                        new_clean.remove(c)
+            except Exception:
+                continue
+    clean = new_clean
 
     # required because sherlok doesn't always return all missing terms
     if orig_neuron_str:
@@ -73,7 +82,7 @@ def _cleanup(n, orig_neuron_str = None):
             group = map(itemgetter(1), g)
             ranges.append((group[0], group[-1]))
         for r in ranges:
-            l = [r[0], r[1], 'Missing:' + orig_neuron_str[r[0]:(r[1]+1)].strip()]
+            l = [r[0], r[1], 'Missing:' + orig_neuron_str[(r[0]-1):(r[1]+1)].strip()]
             clean.append(l)
 
         clean = sorted(clean, key= lambda tup: tup[0])
@@ -84,7 +93,7 @@ def _cleanup(n, orig_neuron_str = None):
 
     return clean
 
-# load all ontologies
+# load all ontologies into one large dictionary
 big_onto = similarity_intra.load_ontologies()
 
 def _normalize(onto_list, shorten = False):
@@ -102,7 +111,7 @@ def _normalize(onto_list, shorten = False):
             else:
                 normalized_term.append(d['name'])
         else:
-            new_term = l.replace('Missing:', '')
+            new_term = re.sub('^\w+:', '', l)
             normalized_term.append(new_term)
     return ' '.join(normalized_term)
 

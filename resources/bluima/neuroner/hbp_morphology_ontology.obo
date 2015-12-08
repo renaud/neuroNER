@@ -40,7 +40,6 @@ name: bouquet
 [Term]
 id: HBP_MORPHOLOGY:0000005
 name: double bouquet
-acronym: DB
 synonym: "double-bouquet" RELATED ADJECTIVE []
 
 [Term]
@@ -110,7 +109,6 @@ acronym: nest
 [Term]
 id: HBP_MORPHOLOGY:0000019
 name: basket
-acronym: B
 
 [Term]
 id: HBP_MORPHOLOGY:0000020
@@ -120,7 +118,6 @@ acronym: NG
 [Term]
 id: HBP_MORPHOLOGY:0000021
 name: dwarf
-acronym: Dwarf
 
 [Term]
 id: HBP_MORPHOLOGY:0000022
@@ -143,7 +140,6 @@ name: octopus
 [Term]
 id: HBP_MORPHOLOGY:0000026
 name: granule
-acronym: G
 
 [Term]
 id: HBP_MORPHOLOGY:0000027
@@ -161,12 +157,10 @@ synonym: "polymorphic" RELATED ADJECTIVE []
 [Term]
 id: HBP_MORPHOLOGY:0000030
 name: mitral
-acronym: M
 
 [Term]
 id: HBP_MORPHOLOGY:0000031
 name: tufted
-acronym: T
 
 [Term]
 id: HBP_MORPHOLOGY:0000032
@@ -192,7 +186,6 @@ name: multipolar
 [Term]
 id: HBP_MORPHOLOGY:0000036
 name: Purkinje
-acronym: P
 synonym: "Purkyne" RELATED ADJECTIVE []
 
 [Term]
