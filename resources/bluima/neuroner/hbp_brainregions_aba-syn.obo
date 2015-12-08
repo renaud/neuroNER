@@ -9,8 +9,6 @@ synonymtypedef: ACRONYM "acronym" BROAD
 synonymtypedef: PLURAL "plural term" EXACT
 
 
-!TODO medial prefrontal cortex
-!TODO somatosensory cortex
 !TODO CA3 and CA1
 
 
@@ -1470,6 +1468,9 @@ id: ABA_REGION:1080
 name: Hippocampal region
 synonym: "Hippocampal region" []
 synonym: "hippocampal" [] ! curator=RR
+synonym: "Hippocampus" []
+synonym: "hippocampus" []
+
 
 [Term]
 id: ABA_REGION:788
@@ -2442,6 +2443,7 @@ synonym: "somatomotor areas" []
 synonym: "Somatomotor areas" []
 synonym: "motor area" []
 synonym: "motor cortex" []
+synonym: "sensorimotor cortex" []
 
 [Term]
 id: ABA_REGION:700
@@ -2887,6 +2889,8 @@ synonym: "orbital areas" []
 synonym: "orbitofrontal cortex" []
 synonym: "Gyrus orbitalis" []
 synonym: "Gyri orbitales" []
+synonym: "medial prefrontal cortex" [] ! best match I could find - SJT
+synonym: "prefrontal cortex" [] ! best match I could find - SJT
 
 [Term]
 id: ABA_REGION:717
@@ -4167,12 +4171,10 @@ name: Ammon's horn
 synonym: "Hippocampus proprius" []
 synonym: "ammon horn" []
 synonym: "hippocampus major" []
-synonym: "Hippocampus" []
 synonym: "CA fields" []
 synonym: "hippocampus proper" []
 synonym: "Ammon's horn" []
 synonym: "Cornu Ammonis" []
-synonym: "hippocampus" []
 synonym: "Cornu ammonis" []
 
 [Term]
@@ -8393,6 +8395,8 @@ name: Somatosensory areas
 synonym: "Somatosensory areas" []
 synonym: "somatosensory areas" []
 synonym: "somesthetic areas" []
+synonym: "somatosensory cortex" []
+synonym: "Somatosensory cortex" []
 
 [Term]
 id: ABA_REGION:456
