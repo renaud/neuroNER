@@ -29293,4 +29293,10 @@ acronym: CStr
 [Term]
 id: UNKN_REGION:7323
 name: corticocortical
+synonym: "corticocallosal" RELATED ADJECTIVE []
 acronym: CCo
+
+[Term]
+id: UNKN_REGION:7324
+name: corticotrigeminal
+acronym: CTrig
