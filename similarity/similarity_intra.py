@@ -158,7 +158,7 @@ def load_ontologies():
         if 'ABA' in k:
             new_o = big_onto[k]
             aba_id = int(k[11:])
-            new_o['acronym'] = aba_onto[aba_id]['acronym'].item()
+            new_o['acronym'] = [aba_onto[aba_id]['acronym'].item()]
             big_onto[k] = new_o
     return big_onto
 
