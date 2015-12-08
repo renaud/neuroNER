@@ -133,7 +133,7 @@ is_a: HBP_LAYER:0000006
 id: HBP_LAYER:0000061
 name: layer 6b
 acronym: L6b
-rsynonym: "[Ll]ayer[- ]?(6|vi|VI) ?[Aa]" EXACT ALTERNATE_SPELLING []
+rsynonym: "[Ll]ayer[- ]?(6|vi|VI) ?[Bb]" EXACT ALTERNATE_SPELLING []
 rsynonym: "[Ll]6[Bb]" BROAD ACRONYM []
 is_a: HBP_LAYER:0000006
 
