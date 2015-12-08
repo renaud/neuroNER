@@ -10,7 +10,7 @@ class TestSimilarity(unittest.TestCase):
         s = Sherlok('neuroner')
         an = s.annotate('layer 4 pyramidal long large neuron').annotations
         clean = _cleanup(an)
-        self.assertEqual(clean, ['HBP_LAYER:0000004', 'Missing:long', u'HBP_MORPHOLOGY:0000001', 'Size:large'])
+        self.assertEqual(clean, ['HBP_LAYER:0000004', u'HBP_MORPHOLOGY:0000001', 'Missing:long', 'Size:large'])
 
     def test_exact_similiarity(self):
         s = similarity('layer 4 neuron', 'layer 4 neuron')

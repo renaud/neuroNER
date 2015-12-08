@@ -5,6 +5,8 @@ Computation is delegated to similarity_inter and similarity_intra
 '''
 
 import similarity_inter, similarity_intra
+from operator import itemgetter
+from itertools import groupby
 
 from sherlok import Sherlok # pip install --upgrade sherlok
 s = Sherlok('neuroner')
@@ -31,15 +33,79 @@ Cleans up raw Sherlok annotations
 in: raw Sherlok output
 out: only keep ontologyIds and if none is present concatenate the type and text
 '''
-def _cleanup(n):
+def _cleanup(n, orig_neuron_str = None):
     clean = []
-    filt_attrib_list = ['Neuron', 'PreNeuron', 'PostNeuron', 'Electrophysiology', 'ProteinTrigger', 'NeuronTrigger']
+    filt_attrib_list = ['Neuron', 'PreNeuron', 'PostNeuron', 'Electrophysiology', 'ProteinTrigger']
     for (begin, end, txt, type_, props) in n:
         if 'ontologyId' in props:
-            clean.append(props[u'ontologyId'])
+            clean.append((begin, end, props[u'ontologyId']))
         elif type_ not in filt_attrib_list:
-            clean.append('{}:{}'.format(type_, txt))
+            clean.append((begin, end, '{}:{}'.format(type_, txt)))
+    clean = sorted(clean, key = lambda tup: tup[0])
+
+    # remove unwanted UNKN_REGION ontology terms if a better ontology term available
+    pos_list = [c[0] for c in clean]
+    for p in pos_list:
+        indices = [i for i, x in enumerate(pos_list) if x == p]
+        if len(indices) > 1:
+            conflicting_terms = [clean[i] for i in indices]
+            for c in conflicting_terms:
+                if 'UNKN' in c[2]:
+                    clean.remove(c)
+
+    # required because sherlok doesn't always return all missing terms
+    if orig_neuron_str:
+        # do some stuff to return missing terms - really crappy code
+        nl = []
+        for a in clean:
+            for i in range(a[0],a[1]):
+                nl.append(i)
+            nl.append(i+1)
+        unfound_inds = []
+        for i in range(1,len(orig_neuron_str)):
+            if i in nl:
+                continue
+            else:
+                unfound_inds.append(i)
+        data = unfound_inds
+        ranges = []
+        for k, g in groupby(enumerate(data), lambda (i,x):i-x):
+            group = map(itemgetter(1), g)
+            ranges.append((group[0], group[-1]))
+        for r in ranges:
+            l = [r[0], r[1], 'Missing:' + orig_neuron_str[r[0]:(r[1]+1)].strip()]
+            clean.append(l)
+
+        clean = sorted(clean, key= lambda tup: tup[0])
+
+    clean = [c[2] for c in clean]
+    # filter out neuron triggers because not meaningful
+    clean = [c for c in clean if 'NeuronTrigger' not in c]
+
     return clean
+
+# load all ontologies
+big_onto = similarity_intra.load_ontologies()
+
+def _normalize(onto_list, shorten = False):
+    """Convenience function for turning a neuroNER ontology list back into ontology names or acronyms
+    """
+    normalized_term = []
+    for l in onto_list:
+        if l in big_onto:
+            d = big_onto[l]
+            if shorten:
+                if 'acronym' in d:
+                    normalized_term.append(d['acronym'][0])
+                else:
+                    normalized_term.append(d['name'])
+            else:
+                normalized_term.append(d['name'])
+        else:
+            new_term = l.replace('Missing:', '')
+            normalized_term.append(new_term)
+    return ' '.join(normalized_term)
+
 
 
 '''
