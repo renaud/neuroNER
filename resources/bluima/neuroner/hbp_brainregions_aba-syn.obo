@@ -3700,6 +3700,8 @@ synonym: "pars reticulata" []
 synonym: "Pars reticulata, subnucleus medialis" []
 synonym: "Substantia nigra, reticular part" []
 synonym: "substantia nigra, reticular part" []
+synonym: "substantia nigra pars reticulata" []
+synonym: "substantia nigra, pars reticulata" []
 
 [Term]
 id: ABA_REGION:382
@@ -4164,6 +4166,7 @@ synonym: "Nucleus substantiae nigrae, Pars compacta" []
 synonym: "Substantia nigra, pars compacta" []
 synonym: "Substantia nigra, compact part" []
 synonym: "substantia nigra, compact part" []
+synonym: "Substantia nigra pars compacta" []
 
 [Term]
 id: ABA_REGION:375
@@ -4293,6 +4296,7 @@ synonym: "Locus ceruleus" []
 synonym: "Nucleus loci caerulei" []
 synonym: "Nucleus pigmentosus pontis" []
 synonym: "Substantia ferruginea" []
+synonym: "Locus Cereuleus" []
 
 [Term]
 id: ABA_REGION:148

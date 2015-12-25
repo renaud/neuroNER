@@ -5596,6 +5596,15 @@ synonym: "GLTP" RELATED ADJECTIVE []
 synonym: "C76925" RELATED ADJECTIVE []
 
 [Term]
+id: NCBI_GENE:269132
+name: Colgalt2
+synonym: "Colgalt2" RELATED ADJECTIVE []
+synonym: "collagen beta(1-O)galactosyltransferase 2" RELATED ADJECTIVE []
+synonym: "Glt25d2" RELATED ADJECTIVE []
+synonym: "AI427652" RELATED ADJECTIVE []
+synonym: "D730024P12" RELATED ADJECTIVE []
+
+[Term]
 id: NCBI_GENE:14661
 name: Glud1
 synonym: "AI118167" RELATED ADJECTIVE []
