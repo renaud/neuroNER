@@ -5994,12 +5994,13 @@ id: ABA_REGION:688
 name: Cerebral cortex
 synonym: "Cortex cerebralis" []
 synonym: "cerebral cortex" []
-synonym: "cortical plate" []
 synonym: "pallium" []
 synonym: "Cerebral cortex" []
 synonym: "Cortex cerebri" []
-synonym: "cortex" [] ! curator=RR
+synonym: "cortex" [] ! curator=RR 
 synonym: "cortical" [] ! curator=RR
+! in terms of text-mining, and what authors mean
+! these regions should go with Isocortex
 
 [Term]
 id: ABA_REGION:689
@@ -6109,11 +6110,8 @@ synonym: "Parabrachial nucleus, medial division, external medial part" []
 [Term]
 id: ABA_REGION:695
 name: Cortical plate
-synonym: "Cortex cerebralis" []
-synonym: "cerebral cortex" []
 synonym: "cortical plate" []
 synonym: "Cortical plate" []
-synonym: "Cortex cerebri" []
 
 [Term]
 id: ABA_REGION:696
