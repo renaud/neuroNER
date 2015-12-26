@@ -48,7 +48,7 @@ class LayerSimilarity(object):
         def neuron2layer_numbers(neuron):
             layer_numbers = []
             for n in neuron:
-                if n.startswith('HBP_LAYER:'):
+                if n.startswith(self.PREFIX):
                     for layer_number in self.onto_id2layer_numbers[n]:
                         layer_numbers.append(layer_number)
             return layer_numbers
@@ -57,7 +57,7 @@ class LayerSimilarity(object):
         # on same layer?
         common_layer = set(n1_layer_numbers).intersection(set(n2_layer_numbers))
         if len(common_layer) > 0:
-            return (1.0, (['HBP_LAYER:000000{}'.format(common_layer.pop())], 'located on same Layer') )
+            return (1.0, (['HBP_LAYER:000000{}'.format(common_layer.pop())], 'located on same layer') )
         else:
             return (0, []) # no layers in both neurons
 
@@ -124,7 +124,80 @@ class BrainRegionSimilarity(object):
             return (0, []) # no regions in both neurons
 
 
-similarities = [LayerSimilarity(), BrainRegionSimilarity()]
+class MorphologySimilarity(object):
+    """LayerSimilarity: similarity """
+    PREFIX = 'HBP_MORPHOLOGY'
+
+    '''
+    returns number of shared terms if both neurons share same morphology, e.g. 'Pyr' and 'pyramidal', else 0
+    '''
+    def similarity(self, n1, n2):
+        def neuron2morphology(neuron):
+            morphologies = []
+            for n in neuron:
+                if n.startswith(self.PREFIX):
+                    morphologies.append(n)
+            return morphologies
+
+        n1_morphologies = neuron2morphology(n1)
+        n2_morphologies = neuron2morphology(n2)
+
+        common_morphologies = list(set(n1_morphologies).intersection(set(n2_morphologies)))
+        if len(common_morphologies) > 0:
+            return (len(list(common_morphologies)), (common_morphologies, 'shares morphology') )
+        else:
+            return (0, []) # no morphologies common to both neurons
+
+class ProteinSimilarity(object):
+    """LayerSimilarity: similarity """
+    PREFIX = 'NCBI_GENE'
+
+    '''
+    returns number of shared terms, else 0
+    '''
+    def similarity(self, n1, n2):
+        def neuron2terms(neuron):
+            matching_terms = []
+            for n in neuron:
+                if n.startswith(self.PREFIX):
+                    matching_terms.append(n)
+            return matching_terms
+
+        n1_terms = neuron2terms(n1)
+        n2_terms = neuron2terms(n2)
+
+        common_terms = list(set(n1_terms).intersection(set(n2_terms)))
+        if len(common_terms) > 0:
+            return (len(common_terms), (common_terms, 'shares proteins') )
+        else:
+            return (0, []) # no morphologies common to both neurons
+
+class UnknRegionSimilarity(object):
+    """LayerSimilarity: similarity """
+    PREFIX = 'UNKN_REGION'
+
+    '''
+    returns number of shared terms, else 0
+    '''
+    def similarity(self, n1, n2):
+        def neuron2terms(neuron):
+            matching_terms = []
+            for n in neuron:
+                if n.startswith(self.PREFIX):
+                    matching_terms.append(n)
+            return matching_terms
+
+        n1_terms = neuron2terms(n1)
+        n2_terms = neuron2terms(n2)
+
+        common_terms = list(set(n1_terms).intersection(set(n2_terms)))
+        if len(common_terms) > 0:
+            return (len(common_terms), (common_terms, 'shares general regions') )
+        else:
+            return (0, []) # no regions common to both neurons
+
+similarities = [LayerSimilarity(), BrainRegionSimilarity(), UnknRegionSimilarity(),
+                MorphologySimilarity(), ProteinSimilarity()]
 
 
 def _similarity_intra(n1, n2, weights):
