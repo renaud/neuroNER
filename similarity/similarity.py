@@ -125,6 +125,6 @@ out: (score:float, [([matching_properties, explanation@str])])
 def similarity2(n1, n2, weights=WEIGHTS):
     s_intra = similarity_intra._similarity_intra(n1, n2, weights)
     s_inter = similarity_inter._similarity_inter(n1, n2)
-    print('s_intra', s_intra, 's_inter', s_inter)
+    #print('s_intra', s_intra, 's_inter', s_inter)
     return (s_intra[0] + s_inter[0], s_intra[1] + s_inter[1])
 

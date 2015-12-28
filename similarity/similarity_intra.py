@@ -36,6 +36,7 @@ class LayerSimilarity(object):
                     self.onto_id2layer_numbers[onto_id] = [onto_id2layer_number(u) for u in o['union_of']]
                 elif 'is_a' in o: # e.g. L5a is_a L5
                     # to simplify, resolve to L5
+                    # not happy with this - SJT
                     self.onto_id2layer_numbers[onto_id] = [onto_id2layer_number(o['is_a'][0])]
                 else:
                     raise Exception('invalid layer entry: {}'.format(o))
@@ -97,6 +98,7 @@ class BrainRegionSimilarity(object):
     #        1) a score (float) reflecting how similar these neuron are regarding brain regions
     #        2) an array of explanations, each a tuple of the form (['matching_ontology_ids'], 'human readable explanation')
     def similarity(self, n1, n2):
+        BASE_MULTIPLIER = 1.5
         def neuron2region_ids(neuron):
             region_ids = []
             for n in neuron:
@@ -113,13 +115,13 @@ class BrainRegionSimilarity(object):
 
         if common_regions:
             if n1_parent_regions[0] == n2_parent_regions[0]:
-                return 1.0, (['ABA_REGION:{}'.format(n1_parent_regions[0])], 'exact same brain region')
+                return 1.0 * BASE_MULTIPLIER, (['ABA_REGION:{}'.format(n1_parent_regions[0])], 'exact same brain region')
             elif n1_parent_regions[0] in n2_parent_regions:
-                return 1.0, (['ABA_REGION:{}'.format(n1_parent_regions[0])], 'sharing a common brain region')
+                return .75 * BASE_MULTIPLIER, (['ABA_REGION:{}'.format(n1_parent_regions[0])], 'sharing a common brain region')
             elif n2_parent_regions[0] in n1_parent_regions:
-                return 1.0, (['ABA_REGION:{}'.format(n2_parent_regions[0])], 'sharing a common brain region')
+                return .75 * BASE_MULTIPLIER, (['ABA_REGION:{}'.format(n2_parent_regions[0])], 'sharing a common brain region')
             elif len(common_regions) > 0:
-                return .5, (['ABA_REGION:{}'.format(common_regions.pop())], 'sibling regions')
+                return .5 * BASE_MULTIPLIER, (['ABA_REGION:{}'.format(common_regions.pop())], 'sibling regions')
         else:
             return (0, []) # no regions in both neurons
 
@@ -180,6 +182,7 @@ class UnknRegionSimilarity(object):
     returns number of shared terms, else 0
     '''
     def similarity(self, n1, n2):
+        BASE_MULTIPLIER = 2
         def neuron2terms(neuron):
             matching_terms = []
             for n in neuron:
@@ -192,7 +195,7 @@ class UnknRegionSimilarity(object):
 
         common_terms = list(set(n1_terms).intersection(set(n2_terms)))
         if len(common_terms) > 0:
-            return (len(common_terms), (common_terms, 'shares general regions') )
+            return (len(common_terms) * BASE_MULTIPLIER, (common_terms, 'shares general regions') )
         else:
             return (0, []) # no regions common to both neurons
 
