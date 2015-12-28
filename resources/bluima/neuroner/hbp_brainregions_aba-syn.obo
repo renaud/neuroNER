@@ -7131,7 +7131,6 @@ synonym: "Raphe pontis" []
 synonym: "Nucleus raphes pontis" []
 synonym: "raphe of pons" []
 synonym: "pontine raphe nucleus" []
-synonym: "Raphe" []
 synonym: "raphe pontis nucleus" []
 synonym: "Nucleus raphe pontis" []
 
@@ -8380,6 +8379,8 @@ synonym: "Nucleus raphes dorsalis" []
 synonym: "Nucleus dorsalis raphes" []
 synonym: "dorsal raphe nucleus" []
 synonym: "dorsal nucleus of the raphe" []
+synonym: "dorsal Raphe" []
+synonym: "dorsal raphe" []
 
 [Term]
 id: ABA_REGION:870
