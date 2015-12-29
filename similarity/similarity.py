@@ -13,6 +13,7 @@ from sherlok import Sherlok # pip install --upgrade sherlok
 s = Sherlok('neuroner')
 
 WEIGHTS = { #TODO: implement weights
+            #TODO: merge with BASE_MULTIPLIER implemented in similarity_intra
     'Layer': 1.0,
     'ProteinProp': 1.0
 }

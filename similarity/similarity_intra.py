@@ -174,6 +174,30 @@ class ProteinSimilarity(object):
         else:
             return (0, []) # no morphologies common to both neurons
 
+class NeurotransmitterSimilarity(object):
+    """LayerSimilarity: similarity """
+    PREFIX = 'HBP_NEUROTRANSMITTER'
+
+    '''
+    returns number of shared terms, else 0
+    '''
+    def similarity(self, n1, n2):
+        def neuron2terms(neuron):
+            matching_terms = []
+            for n in neuron:
+                if n.startswith(self.PREFIX):
+                    matching_terms.append(n)
+            return matching_terms
+
+        n1_terms = neuron2terms(n1)
+        n2_terms = neuron2terms(n2)
+
+        common_terms = list(set(n1_terms).intersection(set(n2_terms)))
+        if len(common_terms) > 0:
+            return (len(common_terms), (common_terms, 'shares neurotransmitters') )
+        else:
+            return (0, []) # no morphologies common to both neurons
+
 class UnknRegionSimilarity(object):
     """LayerSimilarity: similarity """
     PREFIX = 'UNKN_REGION'
@@ -200,13 +224,13 @@ class UnknRegionSimilarity(object):
             return (0, []) # no regions common to both neurons
 
 similarities = [LayerSimilarity(), BrainRegionSimilarity(), UnknRegionSimilarity(),
-                MorphologySimilarity(), ProteinSimilarity()]
+                MorphologySimilarity(), NeurotransmitterSimilarity(), ProteinSimilarity()]
 
 
 def _similarity_intra(n1, n2, weights):
     # perfect similarity/equality
     if n1 == n2:
-        return (1,[])
+        return (100,[])
     else:
         # dispatch to each similarities; aggregate score & explanations
         (sim_intra, explanations) = (0, [])
