@@ -29300,3 +29300,8 @@ acronym: CCo
 id: UNKN_REGION:7324
 name: corticotrigeminal
 acronym: CTrig
+
+[Term]
+id: UNKN_REGION:7325
+name: corticotectal
+acronym: CTect

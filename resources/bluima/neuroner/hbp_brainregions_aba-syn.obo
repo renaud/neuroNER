@@ -9,9 +9,6 @@ synonymtypedef: ACRONYM "acronym" BROAD
 synonymtypedef: PLURAL "plural term" EXACT
 
 
-!TODO CA3 and CA1
-
-
 [Term]
 id: ABA_REGION:248
 name: Cortical amygdalar area, posterior part, medial zone, layer 2
@@ -416,6 +413,7 @@ synonym: "basal nucleus of the amygdala" []
 synonym: "Basolateral amygdalar nucleus" []
 synonym: "Nucleus basalis amygdalae" []
 synonym: "basal amygdaloid nucleus" []
+synonym: "basolateral amygdala" []
 
 [Term]
 id: ABA_REGION:294
@@ -3718,6 +3716,7 @@ synonym: "field CA1, Ammon's horn" []
 synonym: "CA1 field of the hippocampus" []
 synonym: "regio superior of the hippocampus" []
 synonym: "CA1" [] ! curator=RR
+synonym: "hippocampus CA1" [] ! curator=SJT
 
 [Term]
 id: ABA_REGION:383
@@ -4524,6 +4523,7 @@ synonym: "Nucleus lateralis amygdalae" []
 synonym: "lateral nucleus of amygdala" []
 synonym: "lateral nucleus of the amygdala" []
 synonym: "lateral amygdalar nucleus" []
+synonym: "lateral amygdala" []
 
 [Term]
 id: ABA_REGION:138
@@ -7430,6 +7430,7 @@ synonym: "Cornu Ammonis 2" []
 synonym: "Region CA2" []
 synonym: "field CA2, Ammon's horn" []
 synonym: "field CA2 of hippocampus" []
+synonym: "hippocampus CA2" [] ! curator=SJT
 
 [Term]
 id: ABA_REGION:420
@@ -8284,6 +8285,8 @@ synonym: "CA3 field of the hippocampus" []
 synonym: "CA3 field" []
 synonym: "field CA3 of hippocampus" []
 synonym: "CA3" [] ! curator=RR
+synonym: "hippocampus CA3" [] ! curator=SJT
+
 
 [Term]
 id: ABA_REGION:462
