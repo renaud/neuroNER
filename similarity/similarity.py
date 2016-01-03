@@ -89,6 +89,18 @@ def _cleanup(n, orig_neuron_str = None):
         clean = sorted(clean, key= lambda tup: tup[0])
 
     clean = [c[2] for c in clean]
+
+    # convert projection annotations to new ontology
+    proj_annots = [22,113,7322,7323,7324,7325]
+    proj_annot_strs = ['HBP_PROJECTION:%s' % p for p in proj_annots]
+    region_annot_strs = ['UNKN_REGION:%s' % p for p in proj_annots]
+    new_clean = clean
+    for i,c in enumerate(clean):
+        for j,p in enumerate(region_annot_strs):
+            if c == p:
+                new_clean[i] = proj_annot_strs[j]
+    clean = new_clean
+
     # filter out neuron triggers because not meaningful
     clean = [c for c in clean if 'NeuronTrigger' not in c]
 
