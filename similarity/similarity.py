@@ -13,6 +13,7 @@ from sherlok import Sherlok # pip install --upgrade sherlok
 s = Sherlok('neuroner')
 
 WEIGHTS = { #TODO: implement weights
+            #TODO: merge with BASE_MULTIPLIER implemented in similarity_intra
     'Layer': 1.0,
     'ProteinProp': 1.0
 }
@@ -88,6 +89,18 @@ def _cleanup(n, orig_neuron_str = None):
         clean = sorted(clean, key= lambda tup: tup[0])
 
     clean = [c[2] for c in clean]
+
+    # convert projection annotations to new ontology
+    proj_annots = [22,113,7322,7323,7324,7325]
+    proj_annot_strs = ['HBP_PROJECTION:%s' % p for p in proj_annots]
+    region_annot_strs = ['UNKN_REGION:%s' % p for p in proj_annots]
+    new_clean = clean
+    for i,c in enumerate(clean):
+        for j,p in enumerate(region_annot_strs):
+            if c == p:
+                new_clean[i] = proj_annot_strs[j]
+    clean = new_clean
+
     # filter out neuron triggers because not meaningful
     clean = [c for c in clean if 'NeuronTrigger' not in c]
 
@@ -125,6 +138,6 @@ out: (score:float, [([matching_properties, explanation@str])])
 def similarity2(n1, n2, weights=WEIGHTS):
     s_intra = similarity_intra._similarity_intra(n1, n2, weights)
     s_inter = similarity_inter._similarity_inter(n1, n2)
-    print('s_intra', s_intra, 's_inter', s_inter)
+    #print('s_intra', s_intra, 's_inter', s_inter)
     return (s_intra[0] + s_inter[0], s_intra[1] + s_inter[1])
 

@@ -8,6 +8,7 @@ import oboparser
 from config import cfg
 from itertools import chain
 import glob
+import numpy as np
 
 from allensdk.core.mouse_connectivity_cache import MouseConnectivityCache
 # requires pip'ing: pip install https://github.com/AllenInstitute/AllenSDK/archive/v0.10.1.tar.gz
@@ -36,28 +37,36 @@ class LayerSimilarity(object):
                     self.onto_id2layer_numbers[onto_id] = [onto_id2layer_number(u) for u in o['union_of']]
                 elif 'is_a' in o: # e.g. L5a is_a L5
                     # to simplify, resolve to L5
-                    self.onto_id2layer_numbers[onto_id] = [onto_id2layer_number(o['is_a'][0])]
+                    # not happy with this - SJT
+                    self.onto_id2layer_numbers[onto_id] = [onto_id2layer_number(onto_id), onto_id2layer_number(o['is_a'][0])]
                 else:
                     raise Exception('invalid layer entry: {}'.format(o))
 
     '''
-    returns 1 if both neuron share a similar layer, e.g. 'layer2/3' and 'layer 2A', else 0
+    returns .5 if both neurons share a similar layer, e.g. 'layer2/3' and 'layer 2A', else 0
     '''
     def similarity(self, n1, n2):
+        BASE_MULTIPLIER = 2
         # HBP_LAYER:0000101 (layer 1-2) --> [1,2]
         def neuron2layer_numbers(neuron):
             layer_numbers = []
             for n in neuron:
-                if n.startswith('HBP_LAYER:'):
+                if n.startswith(self.PREFIX):
                     for layer_number in self.onto_id2layer_numbers[n]:
                         layer_numbers.append(layer_number)
             return layer_numbers
         n1_layer_numbers = neuron2layer_numbers(n1)
         n2_layer_numbers = neuron2layer_numbers(n2)
+        sum_layer_count = len(n1_layer_numbers) + len(n2_layer_numbers) + 1
+
         # on same layer?
-        common_layer = set(n1_layer_numbers).intersection(set(n2_layer_numbers))
-        if len(common_layer) > 0:
-            return (1.0, (['HBP_LAYER:000000{}'.format(common_layer.pop())], 'located on same Layer') )
+        common_layers = list(set(n1_layer_numbers).intersection(set(n2_layer_numbers)))
+        match_percent = float(len(common_layers) + 1)/sum_layer_count * 2
+        for i,c in enumerate(common_layers):
+            common_layers[i] = 'HBP_LAYER:000000%d' % c
+        if len(common_layers) > 0:
+            #return (1.0, (['HBP_LAYER:000000{}'.format(common_layer.pop())], 'located on same layer') )
+            return (match_percent * BASE_MULTIPLIER, (common_layers, 'shares layers') )
         else:
             return (0, []) # no layers in both neurons
 
@@ -97,13 +106,19 @@ class BrainRegionSimilarity(object):
     #        1) a score (float) reflecting how similar these neuron are regarding brain regions
     #        2) an array of explanations, each a tuple of the form (['matching_ontology_ids'], 'human readable explanation')
     def similarity(self, n1, n2):
+        BASE_MULTIPLIER = 1.5
         def neuron2region_ids(neuron):
             region_ids = []
+            parent_region_ids = []
             for n in neuron:
                 if n.startswith('ABA_REGION:'):
                     region_id = self.onto_id2region_id(n)
-                    region_ids.append(self.onto_id2parent_regions[region_id])
-            return list(chain(*region_ids))
+                    region_ids.append(region_id)
+            for region_id in region_ids:
+                parent_region_ids.append(self.onto_id2parent_regions[region_id])
+            return list(chain(*parent_region_ids))
+
+        #def assess_sub_region(r1, r2):
         n1_parent_regions = neuron2region_ids(n1)
         n2_parent_regions = neuron2region_ids(n2)
         # print n1_parent_regions
@@ -113,31 +128,187 @@ class BrainRegionSimilarity(object):
 
         if common_regions:
             if n1_parent_regions[0] == n2_parent_regions[0]:
-                return 1.0, (['ABA_REGION:{}'.format(n1_parent_regions[0])], 'exact same brain region')
+                return 1.0 * BASE_MULTIPLIER, (['ABA_REGION:{}'.format(n1_parent_regions[0])], 'exact same brain region')
             elif n1_parent_regions[0] in n2_parent_regions:
-                return 1.0, (['ABA_REGION:{}'.format(n1_parent_regions[0])], 'sharing a common brain region')
+                return .75 * BASE_MULTIPLIER, (['ABA_REGION:{}'.format(n1_parent_regions[0])], 'sharing a common brain region')
             elif n2_parent_regions[0] in n1_parent_regions:
-                return 1.0, (['ABA_REGION:{}'.format(n2_parent_regions[0])], 'sharing a common brain region')
+                return .75 * BASE_MULTIPLIER, (['ABA_REGION:{}'.format(n2_parent_regions[0])], 'sharing a common brain region')
             elif len(common_regions) > 0:
-                return .5, (['ABA_REGION:{}'.format(common_regions.pop())], 'sibling regions')
+                return .5 * BASE_MULTIPLIER, (['ABA_REGION:{}'.format(common_regions.pop())], 'sibling regions')
         else:
             return (0, []) # no regions in both neurons
 
 
-similarities = [LayerSimilarity(), BrainRegionSimilarity()]
+class MorphologySimilarity(object):
+    """LayerSimilarity: similarity """
+    PREFIX = 'HBP_MORPHOLOGY'
+
+    '''
+    returns number of shared terms if both neurons share same morphology, e.g. 'Pyr' and 'pyramidal', else 0
+    '''
+    def similarity(self, n1, n2):
+        def neuron2morphology(neuron):
+            morphologies = []
+            for n in neuron:
+                if n.startswith(self.PREFIX):
+                    morphologies.append(n)
+            return morphologies
+
+        n1_morphologies = neuron2morphology(n1)
+        n2_morphologies = neuron2morphology(n2)
+
+        common_morphologies = list(set(n1_morphologies).intersection(set(n2_morphologies)))
+        if len(common_morphologies) > 0:
+            return (len(list(common_morphologies)), (common_morphologies, 'shares morphology') )
+        else:
+            return (0, []) # no morphologies common to both neurons
+
+class MouseLineSimilarity(object):
+    """LayerSimilarity: similarity """
+    PREFIX = 'MOUSE_LINE'
+
+    '''
+    returns number of shared terms if both neurons share same morphology, e.g. 'Pyr' and 'pyramidal', else 0
+    '''
+    def similarity(self, n1, n2):
+        BASE_MULTIPLIER = 2
+        def neuron2line(neuron):
+            morphologies = []
+            for n in neuron:
+                if n.startswith(self.PREFIX):
+                    morphologies.append(n)
+            return morphologies
+
+        n1_lines = neuron2line(n1)
+        n2_lines = neuron2line(n2)
+
+        common_lines = list(set(n1_lines).intersection(set(n2_lines)))
+        if len(common_lines) > 0:
+            return (BASE_MULTIPLIER * len(list(common_lines)), (common_lines, 'shares mouse_line') )
+        else:
+            return (0, []) # no morphologies common to both neurons
+
+class ProteinSimilarity(object):
+    """LayerSimilarity: similarity """
+    PREFIX = 'NCBI_GENE'
+
+    '''
+    returns number of shared terms, else 0
+    '''
+    def similarity(self, n1, n2):
+        def neuron2terms(neuron):
+            matching_terms = []
+            for n in neuron:
+                if n.startswith(self.PREFIX):
+                    matching_terms.append(n)
+            return matching_terms
+
+        n1_terms = neuron2terms(n1)
+        n2_terms = neuron2terms(n2)
+
+        common_terms = list(set(n1_terms).intersection(set(n2_terms)))
+        if len(common_terms) > 0:
+            return (len(common_terms), (common_terms, 'shares proteins') )
+        else:
+            return (0, []) # no morphologies common to both neurons
+
+class NeurotransmitterSimilarity(object):
+    """LayerSimilarity: similarity """
+    PREFIX = 'HBP_NEUROTRANSMITTER'
+
+    '''
+    returns number of shared terms, else 0
+    '''
+    def similarity(self, n1, n2):
+        def neuron2terms(neuron):
+            matching_terms = []
+            for n in neuron:
+                if n.startswith(self.PREFIX):
+                    matching_terms.append(n)
+            return matching_terms
+
+        n1_terms = neuron2terms(n1)
+        n2_terms = neuron2terms(n2)
+
+        common_terms = list(set(n1_terms).intersection(set(n2_terms)))
+        if len(common_terms) > 0:
+            return (len(common_terms), (common_terms, 'shares neurotransmitters') )
+        else:
+            return (0, []) # no morphologies common to both neurons
+
+class ProjectionSimilarity(object):
+    """LayerSimilarity: similarity """
+    PREFIX = 'HBP_PROJECTION'
+
+    '''
+    returns number of shared terms, else 0
+    '''
+    def similarity(self, n1, n2):
+        BASE_MULTIPLIER = 4
+        def neuron2terms(neuron):
+            matching_terms = []
+            for n in neuron:
+                if n.startswith(self.PREFIX):
+                    matching_terms.append(n)
+            return matching_terms
+
+        n1_terms = neuron2terms(n1)
+        n2_terms = neuron2terms(n2)
+
+        common_terms = list(set(n1_terms).intersection(set(n2_terms)))
+        if len(common_terms) > 0:
+            return (len(common_terms) * BASE_MULTIPLIER, (common_terms, 'shares projection patterns') )
+        else:
+            return (0, []) # no regions common to both neurons
+
+class UnknRegionSimilarity(object):
+    """LayerSimilarity: similarity """
+    PREFIX = 'UNKN_REGION'
+
+    '''
+    returns number of shared terms, else 0
+    '''
+    def similarity(self, n1, n2):
+        BASE_MULTIPLIER = .5
+        def neuron2terms(neuron):
+            matching_terms = []
+            for n in neuron:
+                if n.startswith(self.PREFIX):
+                    matching_terms.append(n)
+            return matching_terms
+
+        n1_terms = neuron2terms(n1)
+        n2_terms = neuron2terms(n2)
+
+        common_terms = list(set(n1_terms).intersection(set(n2_terms)))
+        if len(common_terms) > 0:
+            return (len(common_terms) * BASE_MULTIPLIER, (common_terms, 'shares general regions') )
+        else:
+            return (0, []) # no regions common to both neurons
+
+similarities = [LayerSimilarity(), BrainRegionSimilarity(), ProjectionSimilarity(), UnknRegionSimilarity(),
+                MorphologySimilarity(), NeurotransmitterSimilarity(), ProteinSimilarity(), MouseLineSimilarity()]
 
 
 def _similarity_intra(n1, n2, weights):
     # perfect similarity/equality
+    (sim_intra_base, exp) = _calc_base_similarity_intra(n1, n1, weights)
+    if sim_intra_base == 0.0:
+        sim_intra_base = 1.0
     if n1 == n2:
-        return (1,[])
+        return (1, [])
     else:
         # dispatch to each similarities; aggregate score & explanations
-        (sim_intra, explanations) = (0, [])
-        for s in similarities:
-            (s_sim, s_expl) = s.similarity(n1, n2) #TODO weights
-            sim_intra += s_sim; explanations.append(s_expl)
+        (sim_intra, explanations) = _calc_base_similarity_intra(n1, n2, weights)
+        sim_intra = sim_intra / sim_intra_base
         return (sim_intra, explanations)
+
+def _calc_base_similarity_intra(n1, n2, weights):
+    (sim_intra, explanations) = (0.0, [])
+    for s in similarities:
+        (s_sim, s_expl) = s.similarity(n1, n2) #TODO weights
+        sim_intra += s_sim; explanations.append(s_expl)
+    return (sim_intra, explanations)
 
 
 def load_ontologies():

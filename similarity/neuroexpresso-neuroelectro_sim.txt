@@ -1,0 +1,1183 @@
+
+
+target name -> Neocortex layer 5a Etv1-expressing slender-tufted pyramidal cells
+match value: 0.66, match: barrel cortex pyramidal neurons layer 5a
+match value: 0.66, match: Layer 5a somatosensory cortex barrel column small tuft pyramidal neurons
+match value: 0.66, match: Layer 5a somatosensory barrel cortex pyramidal neurons
+match value: 0.66, match: Layer 5a somatosensory barrel cortex pyramidal neurons
+match value: 0.66, match: Layer 5a somatosensory barrel cortex pyramidal neurons
+match value: 0.66, match: somatosensory barrel cortex layer 5a pyramidal cell
+match value: 0.65, match: Neocortex Layer V Pyramidal Cell
+match value: 0.65, match: neocortex layer 5 large pyramidal cell
+match value: 0.65, match: Layer 5 neocortex pyramidal neuron
+match value: 0.65, match: Neocortex layer 5 pyramidal neuron
+
+
+target name -> Neocortex layer 5b Glt25d2-expressing thick-tufted pyramidal cells
+match value: 0.80, match: Secondary somatosensory cortex layer 5b corticospinal thick-tufted large pyramidal neuron
+match value: 0.80, match: Primary motor cortex layer 5b corticospinal thick-tufted large pyramidal neuron
+match value: 0.80, match: Primary motor cortex layer 5b corticospinal thick-tufted large pyramidal neuron
+match value: 0.80, match: Primary motor cortex layer 5b corticospinal thick-tufted large pyramidal neuron
+match value: 0.74, match: Layer 5 Visual Cortex large thick-tufted Pyramidal Neurons
+match value: 0.74, match: somatosensory cortex layer V thick tufted pyramidal cell
+match value: 0.66, match: somatosensory cortex layer 5b pyramidal cell
+match value: 0.66, match: barrel cortex pyramidal neurons layer 5b
+match value: 0.66, match: Layer 5b somatosensory cortex barrel column extensive tuft pyramidal neurons
+match value: 0.66, match: somatosensory barrel cortex layer 5b pyramidal cell
+
+
+target name -> Neocortex layer 6 Ntsr1-expressing pyramidal cells
+match value: 0.78, match: barrel cortex corticothalamic pyramidal neurons layer 6 with fast AHP
+match value: 0.78, match: barrel cortex non-corticothalamic pyramidal neurons layer 6 with medium AHP
+match value: 0.78, match: Layer 6 somatosensory cortex pyramidal neurons
+match value: 0.78, match: Layer 6 somatosensory cortex barrel column short pyramidal neurons
+match value: 0.78, match: Anterior Cingulate Cortex Layer VI Pyramidal Neuron
+match value: 0.73, match: Neocortex pyramidal cell layer 5-6
+match value: 0.73, match: Neocortex pyramidal cell layer 5-6
+match value: 0.73, match: Neocortex pyramidal cell layer 5-6
+match value: 0.67, match: Medial Prefrontal Cortex Layer V/VI Pyramidal Cell
+match value: 0.67, match: barrel cortex layer 6a corticocortical pyramidal neuron with infragranular arborization axons
+
+
+target name -> Neocortex Cck-expressing cell
+match value: 0.60, match: Neocortex basket cell
+match value: 0.60, match: Neocortex layer 4 stellate cell
+match value: 0.60, match: neocortex layer 2/3 low-threshold spiking cell
+match value: 0.60, match: Neocortex Layer V Pyramidal Cell
+match value: 0.60, match: Neocortex basket cell
+match value: 0.60, match: Neocortex basket cell
+match value: 0.60, match: Neocortex layer 4 stellate cell
+match value: 0.60, match: Neocortex layer 4 stellate cell
+match value: 0.60, match: neocortex layer 5 large pyramidal cell
+match value: 0.60, match: Neocortex basket cell
+
+
+target name -> Brainstem Chat-expressing cholinergic motor neurons
+match value: 0.32, match: Locus coeruleus NA neuron
+match value: 0.32, match: Locus coeruleus NA neuron
+match value: 0.32, match: Locus coeruleus
+match value: 0.32, match: Locus coeruleus NA neuron
+match value: 0.32, match: silent nucleus pontis caudalis neurons
+match value: 0.32, match: Spontaneuous firing nucleus pontis caudalis neurons
+match value: 0.32, match: Locus coeruleus NA neuron
+match value: 0.32, match: Supratrigeminal nucleus interneuron
+match value: 0.29, match: Basalis nucleus cholinergic neuron
+match value: 0.29, match: Basal forebrain ChAT-expressing early-firing neurons
+
+
+target name -> Basal forebrain Chat-expressing cholinergic cells
+match value: 0.67, match: Basal forebrain ChAT-expressing early-firing neurons
+match value: 0.67, match: Basal forebrain ChAT-expressing late-firing neurons
+match value: 0.67, match: Basal Forebrain cholinergic neurons
+match value: 0.33, match: Basalis nucleus cholinergic neuron
+match value: 0.33, match: Neostriatum cholinergic cell
+match value: 0.33, match: Neostriatum cholinergic cell
+match value: 0.33, match: Neostriatum cholinergic cell
+match value: 0.33, match: Neostriatum cholinergic cell
+match value: 0.33, match: Basalis nucleus cholinergic neuron
+match value: 0.33, match: Basalis nucleus cholinergic neuron
+
+
+target name -> Spinal cord Chat-expressing cholinergic cells
+match value: 0.40, match: Basalis nucleus cholinergic neuron
+match value: 0.40, match: Basal forebrain ChAT-expressing early-firing neurons
+match value: 0.40, match: Basal forebrain ChAT-expressing late-firing neurons
+match value: 0.40, match: Neostriatum cholinergic cell
+match value: 0.40, match: Neostriatum cholinergic cell
+match value: 0.40, match: Neostriatum cholinergic cell
+match value: 0.40, match: Neostriatum cholinergic cell
+match value: 0.40, match: Basalis nucleus cholinergic neuron
+match value: 0.40, match: Basalis nucleus cholinergic neuron
+match value: 0.40, match: Dorsolateral pontine cholinergic rostral subcoeruleus neurons
+
+
+target name -> Striatum Chat-expressing cholinergic giant interneuron
+match value: 0.71, match: Neostriatum cholinergic cell
+match value: 0.71, match: Neostriatum cholinergic cell
+match value: 0.71, match: Neostriatum cholinergic cell
+match value: 0.71, match: Neostriatum cholinergic cell
+match value: 0.71, match: Dorsal striatum aspiny cholinergic interneuron
+match value: 0.71, match: Neostriatum cholinergic interneuron
+match value: 0.43, match: Neostriatum somatostatin/neuropeptide-Y/neuronal nitric oxide synthase-negative Htr3a-expressing low-threshold spiking gabaergic interneurons
+match value: 0.43, match: Neostriatum neuropeptide-Y-negative Htr3a-expressing late-spiking neurogliaform gabaergic interneuron
+match value: 0.43, match: Neostriatum parvalbumin-expressing Htr3a-expressing fast-spiking gabaergic interneurons
+match value: 0.43, match: Neostriatum medium spiny neuron
+
+
+target name -> Neocortex Cort-expressing cells
+match value: 0.60, match: Neocortex basket cell
+match value: 0.60, match: Neocortex layer 4 stellate cell
+match value: 0.60, match: neocortex layer 2/3 low-threshold spiking cell
+match value: 0.60, match: Neocortex Layer V Pyramidal Cell
+match value: 0.60, match: Neocortex basket cell
+match value: 0.60, match: Neocortex basket cell
+match value: 0.60, match: Neocortex layer 4 stellate cell
+match value: 0.60, match: Neocortex layer 4 stellate cell
+match value: 0.60, match: neocortex layer 5 large pyramidal cell
+match value: 0.60, match: Neocortex basket cell
+
+
+target name -> Striatum Drd1-expressing medium spiny neuron
+match value: 0.71, match: Neostriatum medium spiny neuron
+match value: 0.71, match: Neostriatum medium spiny neuron
+match value: 0.71, match: Neostriatum medium spiny neuron
+match value: 0.71, match: Neostriatum medium spiny neuron
+match value: 0.71, match: Neostriatum medium spiny neuron
+match value: 0.71, match: Neostriatum medium spiny neuron
+match value: 0.71, match: Neostriatum medium spiny neuron
+match value: 0.71, match: Neostriatum medium spiny neuron
+match value: 0.71, match: Neostriatum medium spiny neuron
+match value: 0.71, match: Neostriatum medium spiny neuron
+
+
+target name -> Striatum Drd2-expressing medium spiny neuron
+match value: 0.71, match: Neostriatum medium spiny neuron
+match value: 0.71, match: Neostriatum medium spiny neuron
+match value: 0.71, match: Neostriatum medium spiny neuron
+match value: 0.71, match: Neostriatum medium spiny neuron
+match value: 0.71, match: Neostriatum medium spiny neuron
+match value: 0.71, match: Neostriatum medium spiny neuron
+match value: 0.71, match: Neostriatum medium spiny neuron
+match value: 0.71, match: Neostriatum medium spiny neuron
+match value: 0.71, match: Neostriatum medium spiny neuron
+match value: 0.71, match: Neostriatum medium spiny neuron
+
+
+target name -> Cerebellum Grm2-expresing Golgi cell
+match value: 0.71, match: Cerebellum Golgi cell
+match value: 0.71, match: Cerebellum Golgi cell
+match value: 0.43, match: Cerebellum Purkinje cell
+match value: 0.43, match: Cerebellum Purkinje cell
+match value: 0.43, match: Cerebellum Purkinje cell
+match value: 0.43, match: Cerebellum Purkinje cell
+match value: 0.43, match: Cerebellum Purkinje cell
+match value: 0.43, match: Cerebellum granule cell
+match value: 0.43, match: Cerebellum Purkinje cell
+match value: 0.43, match: Cerebellum Purkinje cell
+
+
+target name -> Cerebellum Grp-expressing unipolar brush cell
+match value: 0.43, match: Cerebellum Purkinje cell
+match value: 0.43, match: Cerebellum Purkinje cell
+match value: 0.43, match: Cerebellum Purkinje cell
+match value: 0.43, match: Cerebellum Purkinje cell
+match value: 0.43, match: Cerebellum Purkinje cell
+match value: 0.43, match: Cerebellum granule cell
+match value: 0.43, match: Cerebellum Golgi cell
+match value: 0.43, match: Cerebellum Purkinje cell
+match value: 0.43, match: Cerebellum Purkinje cell
+match value: 0.43, match: Cerebellum Purkinje cell
+
+
+target name -> Cerebellum Lypd6-expressing basket and stellate cell
+match value: 0.33, match: Cerebellum Purkinje cell
+match value: 0.33, match: Cerebellum Purkinje cell
+match value: 0.33, match: Cerebellum Purkinje cell
+match value: 0.33, match: Cerebellum Purkinje cell
+match value: 0.33, match: Cerebellum Purkinje cell
+match value: 0.33, match: Cerebellum granule cell
+match value: 0.33, match: Cerebellum Golgi cell
+match value: 0.33, match: Cerebellum Purkinje cell
+match value: 0.33, match: Cerebellum Purkinje cell
+match value: 0.33, match: Cerebellum Purkinje cell
+
+
+target name -> Cerebellum Neurod1-expressing granule cell
+match value: 0.71, match: Cerebellum granule cell
+match value: 0.71, match: Cerebellum granule cell
+match value: 0.71, match: Cerebellum granule cell
+match value: 0.71, match: Somatosensory Cerebellum C3 granule cells
+match value: 0.71, match: Cerebellum granule cell
+match value: 0.71, match: Cerebellum granule cell
+match value: 0.71, match: Cerebellum granule cell
+match value: 0.43, match: Cerebellum Purkinje cell
+match value: 0.43, match: Cerebellum Purkinje cell
+match value: 0.43, match: Cerebellum Purkinje cell
+
+
+target name -> Cerebellum Pcp2-expressing Purkinje cell
+match value: 0.71, match: Cerebellum Purkinje cell
+match value: 0.71, match: Cerebellum Purkinje cell
+match value: 0.71, match: Cerebellum Purkinje cell
+match value: 0.71, match: Cerebellum Purkinje cell
+match value: 0.71, match: Cerebellum Purkinje cell
+match value: 0.71, match: Cerebellum Purkinje cell
+match value: 0.71, match: Cerebellum Purkinje cell
+match value: 0.71, match: Cerebellum Purkinje cell
+match value: 0.71, match: Cerebellum vermis II-VIII lobules Purkinje cell
+match value: 0.71, match: Cerebellum Purkinje cell
+
+
+target name -> Neocortex Pnoc-expressing cells
+match value: 0.60, match: Neocortex basket cell
+match value: 0.60, match: Neocortex layer 4 stellate cell
+match value: 0.60, match: neocortex layer 2/3 low-threshold spiking cell
+match value: 0.60, match: Neocortex Layer V Pyramidal Cell
+match value: 0.60, match: Neocortex basket cell
+match value: 0.60, match: Neocortex basket cell
+match value: 0.60, match: Neocortex layer 4 stellate cell
+match value: 0.60, match: Neocortex layer 4 stellate cell
+match value: 0.60, match: neocortex layer 5 large pyramidal cell
+match value: 0.60, match: Neocortex basket cell
+
+
+target name -> Cerebellum Sept4-expressing Bergmann glia
+match value: 0.43, match: Cerebellum Purkinje cell
+match value: 0.43, match: Cerebellum Purkinje cell
+match value: 0.43, match: Cerebellum Purkinje cell
+match value: 0.43, match: Cerebellum Purkinje cell
+match value: 0.43, match: Cerebellum Purkinje cell
+match value: 0.43, match: Cerebellum granule cell
+match value: 0.43, match: Cerebellum Golgi cell
+match value: 0.43, match: Cerebellum Purkinje cell
+match value: 0.43, match: Cerebellum Purkinje cell
+match value: 0.43, match: Cerebellum Purkinje cell
+
+
+target name -> Cerebellum astrocyte
+match value: 1.00, match: Cerebellum Purkinje cell
+match value: 1.00, match: Cerebellum Purkinje cell
+match value: 1.00, match: Cerebellum Purkinje cell
+match value: 1.00, match: Cerebellum Purkinje cell
+match value: 1.00, match: Cerebellum Purkinje cell
+match value: 1.00, match: Cerebellum granule cell
+match value: 1.00, match: Cerebellum Golgi cell
+match value: 1.00, match: Cerebellum Purkinje cell
+match value: 1.00, match: Cerebellum Purkinje cell
+match value: 1.00, match: Cerebellum Purkinje cell
+
+
+target name -> Neocortex astrocyte
+match value: 1.00, match: Neocortex basket cell
+match value: 1.00, match: Neocortex layer 4 stellate cell
+match value: 1.00, match: neocortex layer 2/3 low-threshold spiking cell
+match value: 1.00, match: Neocortex Layer V Pyramidal Cell
+match value: 1.00, match: Neocortex basket cell
+match value: 1.00, match: Neocortex basket cell
+match value: 1.00, match: Neocortex layer 4 stellate cell
+match value: 1.00, match: Neocortex layer 4 stellate cell
+match value: 1.00, match: neocortex layer 5 large pyramidal cell
+match value: 1.00, match: Neocortex basket cell
+
+
+target name -> Motor cortex layer 5 corticocallosal pyramidal cell
+match value: 0.96, match: Primary motor cortex layer 5 corticocortical pyramidal neuron
+match value: 0.92, match: primary somatosensory cortex layer 5 corticocallosal projecting pyramidal neurons
+match value: 0.63, match: barrel cortex layer 6a corticocortical pyramidal neuron with infragranular arborization axons
+match value: 0.56, match: Layer 5 sensorimotor cortex pyramidal neurons
+match value: 0.52, match: Primary motor cortex layer 5 corticothalamic pyramidal neuron
+match value: 0.52, match: Primary motor cortex layer 5 corticospinal pyramidal neuron
+match value: 0.52, match: Primary motor cortex layer 5 corticostriatal pyramidal neuron
+match value: 0.52, match: Neocortex Layer V Pyramidal Cell
+match value: 0.52, match: neocortex layer 5 large pyramidal cell
+match value: 0.52, match: Layer 5 neocortex pyramidal neuron
+
+
+target name -> Motor cortex layer 5 corticocallosal pyramidal cell
+match value: 0.96, match: Primary motor cortex layer 5 corticocortical pyramidal neuron
+match value: 0.92, match: primary somatosensory cortex layer 5 corticocallosal projecting pyramidal neurons
+match value: 0.63, match: barrel cortex layer 6a corticocortical pyramidal neuron with infragranular arborization axons
+match value: 0.56, match: Layer 5 sensorimotor cortex pyramidal neurons
+match value: 0.52, match: Primary motor cortex layer 5 corticothalamic pyramidal neuron
+match value: 0.52, match: Primary motor cortex layer 5 corticospinal pyramidal neuron
+match value: 0.52, match: Primary motor cortex layer 5 corticostriatal pyramidal neuron
+match value: 0.52, match: Neocortex Layer V Pyramidal Cell
+match value: 0.52, match: neocortex layer 5 large pyramidal cell
+match value: 0.52, match: Layer 5 neocortex pyramidal neuron
+
+
+target name -> Motor cortex layer 5 corticocallosal pyramidal cell
+match value: 0.96, match: Primary motor cortex layer 5 corticocortical pyramidal neuron
+match value: 0.92, match: primary somatosensory cortex layer 5 corticocallosal projecting pyramidal neurons
+match value: 0.63, match: barrel cortex layer 6a corticocortical pyramidal neuron with infragranular arborization axons
+match value: 0.56, match: Layer 5 sensorimotor cortex pyramidal neurons
+match value: 0.52, match: Primary motor cortex layer 5 corticothalamic pyramidal neuron
+match value: 0.52, match: Primary motor cortex layer 5 corticospinal pyramidal neuron
+match value: 0.52, match: Primary motor cortex layer 5 corticostriatal pyramidal neuron
+match value: 0.52, match: Neocortex Layer V Pyramidal Cell
+match value: 0.52, match: neocortex layer 5 large pyramidal cell
+match value: 0.52, match: Layer 5 neocortex pyramidal neuron
+
+
+target name -> Motor cortex layer 5 corticospinal pyramidal cell
+match value: 0.96, match: Primary motor cortex layer 5 corticospinal pyramidal neuron
+match value: 0.89, match: Primary motor cortex layer 5b corticospinal thick-tufted large pyramidal neuron
+match value: 0.89, match: Primary motor cortex layer 5b corticospinal thick-tufted large pyramidal neuron
+match value: 0.89, match: Primary motor cortex layer 5b corticospinal thick-tufted large pyramidal neuron
+match value: 0.85, match: Secondary somatosensory cortex layer 5b corticospinal thick-tufted large pyramidal neuron
+match value: 0.56, match: Layer 5 sensorimotor cortex pyramidal neurons
+match value: 0.52, match: Primary motor cortex layer 5 corticothalamic pyramidal neuron
+match value: 0.52, match: Primary motor cortex layer 5 corticocortical pyramidal neuron
+match value: 0.52, match: Primary motor cortex layer 5 corticostriatal pyramidal neuron
+match value: 0.52, match: Neocortex Layer V Pyramidal Cell
+
+
+target name -> Motor cortex layer 5 corticospinal pyramidal cell
+match value: 0.96, match: Primary motor cortex layer 5 corticospinal pyramidal neuron
+match value: 0.89, match: Primary motor cortex layer 5b corticospinal thick-tufted large pyramidal neuron
+match value: 0.89, match: Primary motor cortex layer 5b corticospinal thick-tufted large pyramidal neuron
+match value: 0.89, match: Primary motor cortex layer 5b corticospinal thick-tufted large pyramidal neuron
+match value: 0.85, match: Secondary somatosensory cortex layer 5b corticospinal thick-tufted large pyramidal neuron
+match value: 0.56, match: Layer 5 sensorimotor cortex pyramidal neurons
+match value: 0.52, match: Primary motor cortex layer 5 corticothalamic pyramidal neuron
+match value: 0.52, match: Primary motor cortex layer 5 corticocortical pyramidal neuron
+match value: 0.52, match: Primary motor cortex layer 5 corticostriatal pyramidal neuron
+match value: 0.52, match: Neocortex Layer V Pyramidal Cell
+
+
+target name -> Motor cortex layer 5 corticospinal pyramidal cell
+match value: 0.96, match: Primary motor cortex layer 5 corticospinal pyramidal neuron
+match value: 0.89, match: Primary motor cortex layer 5b corticospinal thick-tufted large pyramidal neuron
+match value: 0.89, match: Primary motor cortex layer 5b corticospinal thick-tufted large pyramidal neuron
+match value: 0.89, match: Primary motor cortex layer 5b corticospinal thick-tufted large pyramidal neuron
+match value: 0.85, match: Secondary somatosensory cortex layer 5b corticospinal thick-tufted large pyramidal neuron
+match value: 0.56, match: Layer 5 sensorimotor cortex pyramidal neurons
+match value: 0.52, match: Primary motor cortex layer 5 corticothalamic pyramidal neuron
+match value: 0.52, match: Primary motor cortex layer 5 corticocortical pyramidal neuron
+match value: 0.52, match: Primary motor cortex layer 5 corticostriatal pyramidal neuron
+match value: 0.52, match: Neocortex Layer V Pyramidal Cell
+
+
+target name -> Visual cortex layer 5 corticotectal pyramidal cell
+match value: 0.56, match: visual cortex layer 5 regular spiking tall pyramidal neuron
+match value: 0.56, match: visual cortex layer 5 bursting tall pyramidal neuron
+match value: 0.56, match: visual cortex layer 5 regular spiking short pyramidal neuron
+match value: 0.56, match: Layer 5 Visual Cortex large thick-tufted Pyramidal Neurons
+match value: 0.56, match: Visual cortex layer 5 regular spiking pyramidal cell
+match value: 0.56, match: Visual cortex layer 5 bursting pyramidal cell
+match value: 0.56, match: associative parietal and visual cortex layer 5 pyramidal cell projecting to superior colliculus
+match value: 0.56, match: associative parietal and visual cortex layer 5 pyramidal cell projecting to contralateral cortex
+match value: 0.56, match: associative parietal and visual cortex layer 5 pyramidal cell projecting to contralateral cortex
+match value: 0.56, match: associative parietal and visual cortex layer 5 pyramidal cell projecting to superior colliculus
+
+
+target name -> Cingulate cortex layer 6 corticothalamic adapting cell
+match value: 0.91, match: barrel cortex corticothalamic pyramidal neurons layer 6 with fast AHP
+match value: 0.91, match: barrel cortex non-corticothalamic pyramidal neurons layer 6 with medium AHP
+match value: 0.83, match: Layer 6a barrel cortex pyramidal corticothalamic neuron with large terminal arbors
+match value: 0.58, match: Primary motor cortex layer 5 corticothalamic pyramidal neuron
+match value: 0.58, match: primary somatosensory cortex layer 5 corticothalamic projecting pyramidal neurons
+match value: 0.51, match: Anterior Cingulate Cortex Layer VI Pyramidal Neuron
+match value: 0.49, match: Layer 5 frontal pyramidal corticothalamic projecting cell
+match value: 0.42, match: Layer 6 somatosensory cortex pyramidal neurons
+match value: 0.42, match: Layer 6 sensorimotor cortex nonpyramidal VGluT1 expressing neurons
+match value: 0.42, match: Layer 6 somatosensory cortex barrel column short pyramidal neurons
+
+
+target name -> Primary somatosensory cortex layer 5-6 Thy1-expressing pyramidal cell from Thy1-YFP mouse line
+match value: 0.87, match: Regular spiking, Thy1-expressing layer V pyramidal neurons of somatosensory cortex
+match value: 0.77, match: Neocortex pyramidal cell layer 5-6
+match value: 0.77, match: Neocortex pyramidal cell layer 5-6
+match value: 0.77, match: Neocortex pyramidal cell layer 5-6
+match value: 0.76, match: primary somatosensory cortex layer 5 corticothalamic projecting pyramidal neurons
+match value: 0.76, match: primary somatosensory cortex layer 5 corticotrigeminal projecting pyramidal neurons
+match value: 0.76, match: primary somatosensory cortex layer 5 corticostriatal projecting pyramidal neurons
+match value: 0.76, match: primary somatosensory cortex layer 5 corticocallosal projecting pyramidal neurons
+match value: 0.70, match: Medial Prefrontal Cortex Layer V/VI Pyramidal Cell
+match value: 0.70, match: Prefrontal Cortex Layer 5-6 Pyramidal Neurons
+
+
+target name -> Cingulate cortex layer 5 Thy1-expressing thick-tufted pyramidal cell from Thy1-YFP mouse line
+match value: 0.76, match: Regular spiking, Thy1-expressing layer V pyramidal neurons of somatosensory cortex
+match value: 0.76, match: Layer 5 Visual Cortex large thick-tufted Pyramidal Neurons
+match value: 0.76, match: somatosensory cortex layer V thick tufted pyramidal cell
+match value: 0.72, match: Anterior Cingulate Cortex Layer V Pyramidal Neuron
+match value: 0.67, match: Neocortex Layer V Pyramidal Cell
+match value: 0.67, match: neocortex layer 5 large pyramidal cell
+match value: 0.67, match: Layer 5 neocortex pyramidal neuron
+match value: 0.67, match: Neocortex layer 5 pyramidal neuron
+match value: 0.66, match: Secondary somatosensory cortex layer 5b corticospinal thick-tufted large pyramidal neuron
+match value: 0.66, match: Primary motor cortex layer 5b corticospinal thick-tufted large pyramidal neuron
+
+
+target name -> Basolateral amygdala Thy1-expressing pyramidal cell from Thy1-YFP mouse line
+match value: 0.61, match: Amygdala basolateral nucleus pyramidal neuron
+match value: 0.61, match: Amygdala basolateral nucleus pyramidal neuron
+match value: 0.61, match: Amygdala basolateral nucleus pyramidal neuron
+match value: 0.61, match: Amygdala basolateral nucleus pyramidal neuron
+match value: 0.61, match: Amygdala basolateral nucleus pyramidal neuron
+match value: 0.61, match: Amygdala basolateral nucleus pyramidal neuron
+match value: 0.61, match: Amygdala basolateral nucleus pyramidal neuron
+match value: 0.61, match: Amygdala basolateral nucleus pyramidal neuron
+match value: 0.61, match: Amygdala basolateral nucleus pyramidal neuron
+match value: 0.61, match: Amygdala basolateral nucleus pyramidal GABAergic neuron
+
+
+target name -> Hippocampus CA1 Thy1-expressing pyramidal cell from Thy1-YFP mouse line
+match value: 0.71, match: Hippocampus CA1 pyramidal cell
+match value: 0.71, match: Hippocampus CA1 pyramidal cell
+match value: 0.71, match: Dorsal hippocampus CA1 pyramidal cell
+match value: 0.71, match: Ventral hippocampus CA1 pyramidal cell
+match value: 0.71, match: Hippocampus CA1 and subiculum regular spiking pyramidal neurons
+match value: 0.71, match: Hippocampus CA1 and subiculum bursting pyramidal neurons
+match value: 0.71, match: Hippocampus CA1 pyramidal cell
+match value: 0.71, match: Hippocampus CA1 pyramidal cell
+match value: 0.71, match: Hippocampus CA1 pyramidal cell
+match value: 0.71, match: Hippocampus CA1 non-fast spiking stratum oriens pyramidal-like cell
+
+
+target name -> Lateral amygdala glutamatergic neuron from GAD65-GFP mouse line
+match value: 0.55, match: Lateral hypothalamus GAD65-GFP late spiking neurons from GAD65-GFP mouse line
+match value: 0.55, match: Lateral hypothalamus GAD65-GFP regular spiking neurons from GAD65-GFP mouse line
+match value: 0.55, match: Lateral hypothalamus GAD65-GFP low-threshold spiking neurons from GAD65-GFP mouse line
+match value: 0.55, match: Lateral hypothalamus GAD65-GFP fast spiking neurons from GAD65-GFP mouse line
+match value: 0.55, match: Dentate gyrus basket cell from GAD65-GFP mouse line
+match value: 0.55, match: Dentate gyrus cholecystokinin-expressing basket cell from GAD65-GFP mouse line
+match value: 0.55, match: Hippocampus CA1 basket cell from GAD65-GFP mouse line
+match value: 0.55, match: Hippocampus CA1 basket cell from GAD65-GFP mouse line
+match value: 0.55, match: Hippocampus CA1 oriens lacunosum moleculare Cholecystokinin-containing Schaffer collateral-associated interneuron from GAD65-GFP mouse line
+match value: 0.55, match: Olfactory bulb (main) periglomerular cell from GAD65-GFP mouse line
+
+
+target name -> Cingulate cortex Cck-expressing Vip-expressing irregular spiking interneuron from GAD65-GFP mouse line
+match value: 0.62, match: Dentate gyrus cholecystokinin-expressing basket cell from GAD65-GFP mouse line
+match value: 0.62, match: Hippocampus CA1 oriens lacunosum moleculare Cholecystokinin-containing Schaffer collateral-associated interneuron from GAD65-GFP mouse line
+match value: 0.46, match: Lateral hypothalamus GAD65-GFP late spiking neurons from GAD65-GFP mouse line
+match value: 0.46, match: Lateral hypothalamus GAD65-GFP regular spiking neurons from GAD65-GFP mouse line
+match value: 0.46, match: Lateral hypothalamus GAD65-GFP low-threshold spiking neurons from GAD65-GFP mouse line
+match value: 0.46, match: Lateral hypothalamus GAD65-GFP fast spiking neurons from GAD65-GFP mouse line
+match value: 0.46, match: Dentate gyrus basket cell from GAD65-GFP mouse line
+match value: 0.46, match: Hippocampus CA1 basket cell from GAD65-GFP mouse line
+match value: 0.46, match: Hippocampus CA1 basket cell from GAD65-GFP mouse line
+match value: 0.46, match: Olfactory bulb (main) periglomerular cell from GAD65-GFP mouse line
+
+
+target name -> somatosensory cortex Cck-expressing Vip-expressing irregular spiking interneuron from GAD65-GFP mouse line
+match value: 0.62, match: Dentate gyrus cholecystokinin-expressing basket cell from GAD65-GFP mouse line
+match value: 0.62, match: Hippocampus CA1 oriens lacunosum moleculare Cholecystokinin-containing Schaffer collateral-associated interneuron from GAD65-GFP mouse line
+match value: 0.46, match: Lateral hypothalamus GAD65-GFP late spiking neurons from GAD65-GFP mouse line
+match value: 0.46, match: Lateral hypothalamus GAD65-GFP regular spiking neurons from GAD65-GFP mouse line
+match value: 0.46, match: Lateral hypothalamus GAD65-GFP low-threshold spiking neurons from GAD65-GFP mouse line
+match value: 0.46, match: Lateral hypothalamus GAD65-GFP fast spiking neurons from GAD65-GFP mouse line
+match value: 0.46, match: Dentate gyrus basket cell from GAD65-GFP mouse line
+match value: 0.46, match: Hippocampus CA1 basket cell from GAD65-GFP mouse line
+match value: 0.46, match: Hippocampus CA1 basket cell from GAD65-GFP mouse line
+match value: 0.46, match: Olfactory bulb (main) periglomerular cell from GAD65-GFP mouse line
+
+
+target name -> Cingulate cortex Sst-expressing adapting interneuron from GIN mouse line
+match value: 0.83, match: Somatosensory cortex layer 2-3 somatostatin-expressing inhibitory neuron from GIN mouse line
+match value: 0.83, match: Somatosensory cortex layer 2-3 somatostatin-expressing inhibitory neuron from GIN mouse line
+match value: 0.83, match: somatosensory cortex layer 2/3 somatostatin-expressing cell from GIN mouse line
+match value: 0.83, match: sensorimotor cortex layer 2/3 somatostatin-expressing group 1 cell from GIN mouse line
+match value: 0.83, match: sensorimotor cortex layer 2/3 somatostatin-expressing group 2 cell from GIN mouse line
+match value: 0.83, match: sensorimotor cortex layer 2/3 somatostatin-expressing group 4 cell from GIN mouse line
+match value: 0.83, match: sensorimotor cortex layer 2/3 somatostatin-expressing group 3 cell from GIN mouse line
+match value: 0.67, match: dentate gyrus somatostatin-expressing cell from GIN mouse line
+match value: 0.67, match: frontal cortex layer 2/3 somatostatin-expressing cell from GIN mouse line
+match value: 0.61, match: Somatosensory cortex layer 2-3 regular-spiking pyramidal cell  from GIN mouse line
+
+
+target name -> Cingulate cortex Sst-expressing adapting interneuron from GIN mouse line
+match value: 0.83, match: Somatosensory cortex layer 2-3 somatostatin-expressing inhibitory neuron from GIN mouse line
+match value: 0.83, match: Somatosensory cortex layer 2-3 somatostatin-expressing inhibitory neuron from GIN mouse line
+match value: 0.83, match: somatosensory cortex layer 2/3 somatostatin-expressing cell from GIN mouse line
+match value: 0.83, match: sensorimotor cortex layer 2/3 somatostatin-expressing group 1 cell from GIN mouse line
+match value: 0.83, match: sensorimotor cortex layer 2/3 somatostatin-expressing group 2 cell from GIN mouse line
+match value: 0.83, match: sensorimotor cortex layer 2/3 somatostatin-expressing group 4 cell from GIN mouse line
+match value: 0.83, match: sensorimotor cortex layer 2/3 somatostatin-expressing group 3 cell from GIN mouse line
+match value: 0.67, match: dentate gyrus somatostatin-expressing cell from GIN mouse line
+match value: 0.67, match: frontal cortex layer 2/3 somatostatin-expressing cell from GIN mouse line
+match value: 0.61, match: Somatosensory cortex layer 2-3 regular-spiking pyramidal cell  from GIN mouse line
+
+
+target name -> Cingulate cortex Pvalb-expressing fast-spiking basket cell from G42 mouse line
+match value: 1.68, match: medial prefrontal cortex layer 5 fast-spiking parvalbumin positive GFP-expressing interneuron from G42 mouse line
+match value: 1.45, match: Layer 5 Fast Spiking interneurons expressing parvalbumin positive from G42 mouse line
+match value: 1.40, match: Auditory cortex layer 2-3 fast-spiking interneuron from G42 mouse line
+match value: 1.40, match: Auditory cortex layer 2-3 fast-spiking interneuron from G42 mouse line
+match value: 1.40, match: Auditory cortex layer 2-3 fast-spiking interneuron from G42 mouse line
+match value: 1.40, match: visual cortex layer 5-6 fast-spiking cell from G42 mouse line
+match value: 1.40, match: visual cortex layer 5-6 fast-spiking cell from G42 mouse line
+match value: 1.40, match: visual cortex layer 5-6 fast-spiking cell from G42 mouse line
+match value: 1.40, match: visual cortex layer 5-6 fast-spiking cell from G42 mouse line
+match value: 1.39, match:  neocortex layer 2-3  large oval or round fast spiking parvalbumin-positive GABAergic interneuron
+
+
+target name -> Thalamus dorsal lateral geniculate nucleus GABAergic neuron from G42 mouse line
+match value: 0.47, match: Dorsal thalamic reticular nucleus atypical burst GABA containing inhibitory cell
+match value: 0.47, match: Ventral thalamic reticular nucleus typical burst GABA containing inhibitory cell
+match value: 0.47, match: Dorsal thalamic reticular nucleus non-burst GABA containing inhibitory cell
+match value: 0.44, match: medial prefrontal cortex layer 5 fast-spiking parvalbumin positive GFP-expressing interneuron from G42 mouse line
+match value: 0.44, match: Auditory cortex layer 2-3 fast-spiking interneuron from G42 mouse line
+match value: 0.44, match: Auditory cortex layer 2-3 fast-spiking interneuron from G42 mouse line
+match value: 0.44, match: Auditory cortex layer 2-3 fast-spiking interneuron from G42 mouse line
+match value: 0.44, match: Barrel Cortex Layer IV Fast-Spiking Interneuron from G42 mouse line
+match value: 0.44, match: visual cortex layer 5-6 fast-spiking cell from G42 mouse line
+match value: 0.44, match: visual cortex layer 5-6 fast-spiking cell from G42 mouse line
+
+
+target name -> Somatosensory cortex Pvalb-expressing fast-spiking basket cell from G42 mouse line
+match value: 1.68, match: medial prefrontal cortex layer 5 fast-spiking parvalbumin positive GFP-expressing interneuron from G42 mouse line
+match value: 1.45, match: Somatosensory cortex layer 5 multipolar fast-spiking parvalbumin positive interneuron
+match value: 1.45, match: Somatosensory cortex layer 5 multipolar fast-spiking parvalbumin positive interneuron
+match value: 1.45, match: Somatosensory cortex layer 4-5 multipolar fast-spiking parvalbumin positive GABAergic interneuron
+match value: 1.45, match: Layer 5 Fast Spiking interneurons expressing parvalbumin positive from G42 mouse line
+match value: 1.40, match: Auditory cortex layer 2-3 fast-spiking interneuron from G42 mouse line
+match value: 1.40, match: Auditory cortex layer 2-3 fast-spiking interneuron from G42 mouse line
+match value: 1.40, match: Auditory cortex layer 2-3 fast-spiking interneuron from G42 mouse line
+match value: 1.40, match: visual cortex layer 5-6 fast-spiking cell from G42 mouse line
+match value: 1.40, match: visual cortex layer 5-6 fast-spiking cell from G42 mouse line
+
+
+target name -> Somatosensory cortex Pvalb-expressing fast-spiking basket cell from G42 mouse line
+match value: 1.68, match: medial prefrontal cortex layer 5 fast-spiking parvalbumin positive GFP-expressing interneuron from G42 mouse line
+match value: 1.45, match: Somatosensory cortex layer 5 multipolar fast-spiking parvalbumin positive interneuron
+match value: 1.45, match: Somatosensory cortex layer 5 multipolar fast-spiking parvalbumin positive interneuron
+match value: 1.45, match: Somatosensory cortex layer 4-5 multipolar fast-spiking parvalbumin positive GABAergic interneuron
+match value: 1.45, match: Layer 5 Fast Spiking interneurons expressing parvalbumin positive from G42 mouse line
+match value: 1.40, match: Auditory cortex layer 2-3 fast-spiking interneuron from G42 mouse line
+match value: 1.40, match: Auditory cortex layer 2-3 fast-spiking interneuron from G42 mouse line
+match value: 1.40, match: Auditory cortex layer 2-3 fast-spiking interneuron from G42 mouse line
+match value: 1.40, match: visual cortex layer 5-6 fast-spiking cell from G42 mouse line
+match value: 1.40, match: visual cortex layer 5-6 fast-spiking cell from G42 mouse line
+
+
+target name -> Somatosensory cortex Pvalb-expressing fast-spiking basket cell from G42 mouse line
+match value: 1.68, match: medial prefrontal cortex layer 5 fast-spiking parvalbumin positive GFP-expressing interneuron from G42 mouse line
+match value: 1.45, match: Somatosensory cortex layer 5 multipolar fast-spiking parvalbumin positive interneuron
+match value: 1.45, match: Somatosensory cortex layer 5 multipolar fast-spiking parvalbumin positive interneuron
+match value: 1.45, match: Somatosensory cortex layer 4-5 multipolar fast-spiking parvalbumin positive GABAergic interneuron
+match value: 1.45, match: Layer 5 Fast Spiking interneurons expressing parvalbumin positive from G42 mouse line
+match value: 1.40, match: Auditory cortex layer 2-3 fast-spiking interneuron from G42 mouse line
+match value: 1.40, match: Auditory cortex layer 2-3 fast-spiking interneuron from G42 mouse line
+match value: 1.40, match: Auditory cortex layer 2-3 fast-spiking interneuron from G42 mouse line
+match value: 1.40, match: visual cortex layer 5-6 fast-spiking cell from G42 mouse line
+match value: 1.40, match: visual cortex layer 5-6 fast-spiking cell from G42 mouse line
+
+
+target name -> Somatosensory cortex Pvalb-expressing fast-spiking basket cell from G42 mouse line
+match value: 1.68, match: medial prefrontal cortex layer 5 fast-spiking parvalbumin positive GFP-expressing interneuron from G42 mouse line
+match value: 1.45, match: Somatosensory cortex layer 5 multipolar fast-spiking parvalbumin positive interneuron
+match value: 1.45, match: Somatosensory cortex layer 5 multipolar fast-spiking parvalbumin positive interneuron
+match value: 1.45, match: Somatosensory cortex layer 4-5 multipolar fast-spiking parvalbumin positive GABAergic interneuron
+match value: 1.45, match: Layer 5 Fast Spiking interneurons expressing parvalbumin positive from G42 mouse line
+match value: 1.40, match: Auditory cortex layer 2-3 fast-spiking interneuron from G42 mouse line
+match value: 1.40, match: Auditory cortex layer 2-3 fast-spiking interneuron from G42 mouse line
+match value: 1.40, match: Auditory cortex layer 2-3 fast-spiking interneuron from G42 mouse line
+match value: 1.40, match: visual cortex layer 5-6 fast-spiking cell from G42 mouse line
+match value: 1.40, match: visual cortex layer 5-6 fast-spiking cell from G42 mouse line
+
+
+target name -> Motor cortex Pvalb-expressing fast-spiking basket cell from G42 mouse line
+match value: 1.68, match: medial prefrontal cortex layer 5 fast-spiking parvalbumin positive GFP-expressing interneuron from G42 mouse line
+match value: 1.45, match: Layer 5 Fast Spiking interneurons expressing parvalbumin positive from G42 mouse line
+match value: 1.40, match: Auditory cortex layer 2-3 fast-spiking interneuron from G42 mouse line
+match value: 1.40, match: Auditory cortex layer 2-3 fast-spiking interneuron from G42 mouse line
+match value: 1.40, match: Auditory cortex layer 2-3 fast-spiking interneuron from G42 mouse line
+match value: 1.40, match: visual cortex layer 5-6 fast-spiking cell from G42 mouse line
+match value: 1.40, match: visual cortex layer 5-6 fast-spiking cell from G42 mouse line
+match value: 1.40, match: visual cortex layer 5-6 fast-spiking cell from G42 mouse line
+match value: 1.40, match: visual cortex layer 5-6 fast-spiking cell from G42 mouse line
+match value: 1.39, match:  neocortex layer 2-3  large oval or round fast spiking parvalbumin-positive GABAergic interneuron
+
+
+target name -> Cerebellum Purkinje cell
+match value: 1.00, match: Cerebellum Purkinje cell
+match value: 1.00, match: Cerebellum Purkinje cell
+match value: 1.00, match: Cerebellum Purkinje cell
+match value: 1.00, match: Cerebellum Purkinje cell
+match value: 1.00, match: Cerebellum Purkinje cell
+match value: 1.00, match: Cerebellum Purkinje cell
+match value: 1.00, match: Cerebellum Purkinje cell
+match value: 1.00, match: Cerebellum Purkinje cell
+match value: 1.00, match: Cerebellum vermis II-VIII lobules Purkinje cell
+match value: 1.00, match: Cerebellum Purkinje cell
+
+
+target name -> Motor cortex layer 5 pyramidal cell
+match value: 1.00, match: Layer 5 sensorimotor cortex pyramidal neurons
+match value: 0.93, match: Primary motor cortex layer 5 corticothalamic pyramidal neuron
+match value: 0.93, match: Primary motor cortex layer 5 corticospinal pyramidal neuron
+match value: 0.93, match: Primary motor cortex layer 5 corticocortical pyramidal neuron
+match value: 0.93, match: Primary motor cortex layer 5 corticostriatal pyramidal neuron
+match value: 0.93, match: Neocortex Layer V Pyramidal Cell
+match value: 0.93, match: neocortex layer 5 large pyramidal cell
+match value: 0.93, match: Layer 5 neocortex pyramidal neuron
+match value: 0.93, match: Neocortex layer 5 pyramidal neuron
+match value: 0.85, match: Prefrontal cortex layer 5 large pyramidal neuron
+
+
+target name -> Primary somatosensory cortex layer 5 pyramidal cell
+match value: 1.00, match: primary somatosensory cortex layer 5 corticothalamic projecting pyramidal neurons
+match value: 1.00, match: primary somatosensory cortex layer 5 corticotrigeminal projecting pyramidal neurons
+match value: 1.00, match: primary somatosensory cortex layer 5 corticostriatal projecting pyramidal neurons
+match value: 1.00, match: primary somatosensory cortex layer 5 corticocallosal projecting pyramidal neurons
+match value: 0.93, match: Regular spiking, Thy1-expressing layer V pyramidal neurons of somatosensory cortex
+match value: 0.93, match: Somatosensory cortex layer 5 apical pyramidal cell
+match value: 0.93, match: Somatosensory cortex layer 5 apical pyramidal cell
+match value: 0.93, match: Neocortex Layer V Pyramidal Cell
+match value: 0.93, match: Somatosensory cortex layer 5 pyramidal neurons
+match value: 0.93, match: neocortex layer 5 large pyramidal cell
+
+
+target name -> Substantia nigra pars compacta dopaminergic cell
+match value: 1.00, match: Substantia nigra pars compacta dopaminergic cell
+match value: 1.00, match: Substantia nigra pars compacta dopaminergic cell
+match value: 1.00, match: Substantia nigra pars compacta dopaminergic cell
+match value: 1.00, match: Substantia nigra pars compacta dopaminergic cell
+match value: 1.00, match: Substantia nigra pars compacta dopaminergic cell
+match value: 1.00, match: Substantia nigra pars compacta dopaminergic cell
+match value: 1.00, match: Substantia nigra pars compacta dopaminergic cell calbindin expressing
+match value: 1.00, match: Substantia nigra pars compacta dopaminergic cell
+match value: 1.00, match: Substantia nigra pars compacta dopaminergic cell
+match value: 1.00, match: Substantia nigra pars compacta dopaminergic cell
+
+
+target name -> Ventral tegmental area dopaminergic cell
+match value: 1.00, match: Ventral tegmental area dopamine neuron
+match value: 1.00, match: Ventral tegmental area dopamine neuron
+match value: 1.00, match: Ventral tegmental area dopamine neuron
+match value: 1.00, match: Ventral tegmental area dopamine neuron
+match value: 1.00, match: Ventral tegmental area dopamine neuron
+match value: 1.00, match: Ventral tegmental area dopamine neuron
+match value: 1.00, match: Ventral tegmental area dopamine neuron
+match value: 1.00, match: Ventral tegmental area dopamine neuron
+match value: 1.00, match: Ventral tegmental area dopamine neuron calbindin expressing
+match value: 1.00, match: Ventral tegmental area dopamine neuron
+
+
+target name -> Motor cortex layer 5 Thy1-expressing thick-tufted pyramidal cell from Thy1-YFP mouse line
+match value: 0.76, match: Regular spiking, Thy1-expressing layer V pyramidal neurons of somatosensory cortex
+match value: 0.76, match: Layer 5 Visual Cortex large thick-tufted Pyramidal Neurons
+match value: 0.76, match: somatosensory cortex layer V thick tufted pyramidal cell
+match value: 0.72, match: Layer 5 sensorimotor cortex pyramidal neurons
+match value: 0.72, match: Primary motor cortex layer 5b corticospinal thick-tufted large pyramidal neuron
+match value: 0.72, match: Primary motor cortex layer 5b corticospinal thick-tufted large pyramidal neuron
+match value: 0.72, match: Primary motor cortex layer 5b corticospinal thick-tufted large pyramidal neuron
+match value: 0.67, match: Primary motor cortex layer 5 corticothalamic pyramidal neuron
+match value: 0.67, match: Primary motor cortex layer 5 corticospinal pyramidal neuron
+match value: 0.67, match: Primary motor cortex layer 5 corticocortical pyramidal neuron
+
+
+target name -> Locus Cereuleus Th-expressing noradrenergic cell
+match value: 0.43, match: Locus coeruleus NA neuron
+match value: 0.43, match: Locus coeruleus NA neuron
+match value: 0.43, match: Locus coeruleus
+match value: 0.43, match: Locus coeruleus NA neuron
+match value: 0.43, match: Locus coeruleus NA neuron
+match value: 0.29, match: Neostriatum TH+ cell
+match value: 0.29, match: Neostriatum TH+ cell
+match value: 0.21, match: Basolateral amygdala principal neuron with input from medial prefrontal cortex
+match value: 0.21, match: subiculum pyramidal neuron projecting to retrosplenial cortex
+match value: 0.21, match: subiculum pyramidal neuron projecting to lateral entorhinal cortex
+
+
+target name -> Cerebellum Purkinje cell from G42 mouse line
+match value: 0.56, match: Cerebellum Purkinje cell
+match value: 0.56, match: Cerebellum Purkinje cell
+match value: 0.56, match: Cerebellum Purkinje cell
+match value: 0.56, match: Cerebellum Purkinje cell
+match value: 0.56, match: Cerebellum Purkinje cell
+match value: 0.56, match: Cerebellum Purkinje cell
+match value: 0.56, match: Cerebellum Purkinje cell
+match value: 0.56, match: Cerebellum Purkinje cell
+match value: 0.56, match: Cerebellum vermis II-VIII lobules Purkinje cell
+match value: 0.56, match: Cerebellum Purkinje cell
+
+
+target name -> Dentate gyrus granule cell
+match value: 1.00, match: Dentate gyrus granule cell
+match value: 1.00, match: Dentate gyrus granule cell
+match value: 1.00, match: Dentate gyrus granule cell
+match value: 1.00, match: Dentate gyrus granule cell
+match value: 1.00, match: Dentate gyrus granule cell
+match value: 1.00, match: Dentate gyrus granule cell
+match value: 1.00, match: Dentate gyrus granule cell
+match value: 1.00, match: Dentate gyrus granule cell
+match value: 1.00, match: Dentate gyrus granule cell
+match value: 1.00, match: Dentate gyrus granule cell
+
+
+target name -> Striatum Drd1-expressing medium spiny neuron
+match value: 0.71, match: Neostriatum medium spiny neuron
+match value: 0.71, match: Neostriatum medium spiny neuron
+match value: 0.71, match: Neostriatum medium spiny neuron
+match value: 0.71, match: Neostriatum medium spiny neuron
+match value: 0.71, match: Neostriatum medium spiny neuron
+match value: 0.71, match: Neostriatum medium spiny neuron
+match value: 0.71, match: Neostriatum medium spiny neuron
+match value: 0.71, match: Neostriatum medium spiny neuron
+match value: 0.71, match: Neostriatum medium spiny neuron
+match value: 0.71, match: Neostriatum medium spiny neuron
+
+
+target name -> Striatum Drd1-expressing medium spiny neuron
+match value: 0.71, match: Neostriatum medium spiny neuron
+match value: 0.71, match: Neostriatum medium spiny neuron
+match value: 0.71, match: Neostriatum medium spiny neuron
+match value: 0.71, match: Neostriatum medium spiny neuron
+match value: 0.71, match: Neostriatum medium spiny neuron
+match value: 0.71, match: Neostriatum medium spiny neuron
+match value: 0.71, match: Neostriatum medium spiny neuron
+match value: 0.71, match: Neostriatum medium spiny neuron
+match value: 0.71, match: Neostriatum medium spiny neuron
+match value: 0.71, match: Neostriatum medium spiny neuron
+
+
+target name -> Striatum Drd1-expressing medium spiny neuron
+match value: 0.71, match: Neostriatum medium spiny neuron
+match value: 0.71, match: Neostriatum medium spiny neuron
+match value: 0.71, match: Neostriatum medium spiny neuron
+match value: 0.71, match: Neostriatum medium spiny neuron
+match value: 0.71, match: Neostriatum medium spiny neuron
+match value: 0.71, match: Neostriatum medium spiny neuron
+match value: 0.71, match: Neostriatum medium spiny neuron
+match value: 0.71, match: Neostriatum medium spiny neuron
+match value: 0.71, match: Neostriatum medium spiny neuron
+match value: 0.71, match: Neostriatum medium spiny neuron
+
+
+target name -> Striatum Drd2-expressing medium spiny neuron
+match value: 0.71, match: Neostriatum medium spiny neuron
+match value: 0.71, match: Neostriatum medium spiny neuron
+match value: 0.71, match: Neostriatum medium spiny neuron
+match value: 0.71, match: Neostriatum medium spiny neuron
+match value: 0.71, match: Neostriatum medium spiny neuron
+match value: 0.71, match: Neostriatum medium spiny neuron
+match value: 0.71, match: Neostriatum medium spiny neuron
+match value: 0.71, match: Neostriatum medium spiny neuron
+match value: 0.71, match: Neostriatum medium spiny neuron
+match value: 0.71, match: Neostriatum medium spiny neuron
+
+
+target name -> Striatum Drd2-expressing medium spiny neuron
+match value: 0.71, match: Neostriatum medium spiny neuron
+match value: 0.71, match: Neostriatum medium spiny neuron
+match value: 0.71, match: Neostriatum medium spiny neuron
+match value: 0.71, match: Neostriatum medium spiny neuron
+match value: 0.71, match: Neostriatum medium spiny neuron
+match value: 0.71, match: Neostriatum medium spiny neuron
+match value: 0.71, match: Neostriatum medium spiny neuron
+match value: 0.71, match: Neostriatum medium spiny neuron
+match value: 0.71, match: Neostriatum medium spiny neuron
+match value: 0.71, match: Neostriatum medium spiny neuron
+
+
+target name -> Neocortex layer 5b Glt25d2-expressing thick-tufted pyramidal cells
+match value: 0.80, match: Secondary somatosensory cortex layer 5b corticospinal thick-tufted large pyramidal neuron
+match value: 0.80, match: Primary motor cortex layer 5b corticospinal thick-tufted large pyramidal neuron
+match value: 0.80, match: Primary motor cortex layer 5b corticospinal thick-tufted large pyramidal neuron
+match value: 0.80, match: Primary motor cortex layer 5b corticospinal thick-tufted large pyramidal neuron
+match value: 0.74, match: Layer 5 Visual Cortex large thick-tufted Pyramidal Neurons
+match value: 0.74, match: somatosensory cortex layer V thick tufted pyramidal cell
+match value: 0.66, match: somatosensory cortex layer 5b pyramidal cell
+match value: 0.66, match: barrel cortex pyramidal neurons layer 5b
+match value: 0.66, match: Layer 5b somatosensory cortex barrel column extensive tuft pyramidal neurons
+match value: 0.66, match: somatosensory barrel cortex layer 5b pyramidal cell
+
+
+target name -> Hypothalamus Hcrt-expressing neuron
+match value: 1.00, match: Hypothalamus orexin-expressing cell with hyperpolarizing post-inhibitory rebound
+match value: 1.00, match: Hypothalamus orexin-expressing cell with depolarizing post-inhibitory rebound
+match value: 0.60, match: Lateral hypothalamus GAD65-GFP late spiking neurons from GAD65-GFP mouse line
+match value: 0.60, match: Lateral hypothalamus GAD65-GFP regular spiking neurons from GAD65-GFP mouse line
+match value: 0.60, match: Lateral hypothalamus GAD65-GFP low-threshold spiking neurons from GAD65-GFP mouse line
+match value: 0.60, match: Lateral hypothalamus GAD65-GFP fast spiking neurons from GAD65-GFP mouse line
+match value: 0.60, match: hypothalamus gonadotropin-releasing hormone neurons
+match value: 0.60, match: Hypothalamus oxytocin neuroendocrine magnocellular cell
+match value: 0.45, match: subiculum pyramidal neuron projecting to ventromedial hypothalamus
+match value: 0.45, match: Subthalamic nucleus neuron
+
+
+target name -> Cerebellum Purkinje cell from G42 mouse line
+match value: 0.56, match: Cerebellum Purkinje cell
+match value: 0.56, match: Cerebellum Purkinje cell
+match value: 0.56, match: Cerebellum Purkinje cell
+match value: 0.56, match: Cerebellum Purkinje cell
+match value: 0.56, match: Cerebellum Purkinje cell
+match value: 0.56, match: Cerebellum Purkinje cell
+match value: 0.56, match: Cerebellum Purkinje cell
+match value: 0.56, match: Cerebellum Purkinje cell
+match value: 0.56, match: Cerebellum vermis II-VIII lobules Purkinje cell
+match value: 0.56, match: Cerebellum Purkinje cell
+
+
+target name -> Cerebellum Purkinje cell from G42 mouse line
+match value: 0.56, match: Cerebellum Purkinje cell
+match value: 0.56, match: Cerebellum Purkinje cell
+match value: 0.56, match: Cerebellum Purkinje cell
+match value: 0.56, match: Cerebellum Purkinje cell
+match value: 0.56, match: Cerebellum Purkinje cell
+match value: 0.56, match: Cerebellum Purkinje cell
+match value: 0.56, match: Cerebellum Purkinje cell
+match value: 0.56, match: Cerebellum Purkinje cell
+match value: 0.56, match: Cerebellum vermis II-VIII lobules Purkinje cell
+match value: 0.56, match: Cerebellum Purkinje cell
+
+
+target name -> Cerebellum Purkinje cell from G42 mouse line
+match value: 0.56, match: Cerebellum Purkinje cell
+match value: 0.56, match: Cerebellum Purkinje cell
+match value: 0.56, match: Cerebellum Purkinje cell
+match value: 0.56, match: Cerebellum Purkinje cell
+match value: 0.56, match: Cerebellum Purkinje cell
+match value: 0.56, match: Cerebellum Purkinje cell
+match value: 0.56, match: Cerebellum Purkinje cell
+match value: 0.56, match: Cerebellum Purkinje cell
+match value: 0.56, match: Cerebellum vermis II-VIII lobules Purkinje cell
+match value: 0.56, match: Cerebellum Purkinje cell
+
+
+target name -> Cerebellum Purkinje cell from G42 mouse line
+match value: 0.56, match: Cerebellum Purkinje cell
+match value: 0.56, match: Cerebellum Purkinje cell
+match value: 0.56, match: Cerebellum Purkinje cell
+match value: 0.56, match: Cerebellum Purkinje cell
+match value: 0.56, match: Cerebellum Purkinje cell
+match value: 0.56, match: Cerebellum Purkinje cell
+match value: 0.56, match: Cerebellum Purkinje cell
+match value: 0.56, match: Cerebellum Purkinje cell
+match value: 0.56, match: Cerebellum vermis II-VIII lobules Purkinje cell
+match value: 0.56, match: Cerebellum Purkinje cell
+
+
+target name -> Cerebellum Purkinje cell from G42 mouse line
+match value: 0.56, match: Cerebellum Purkinje cell
+match value: 0.56, match: Cerebellum Purkinje cell
+match value: 0.56, match: Cerebellum Purkinje cell
+match value: 0.56, match: Cerebellum Purkinje cell
+match value: 0.56, match: Cerebellum Purkinje cell
+match value: 0.56, match: Cerebellum Purkinje cell
+match value: 0.56, match: Cerebellum Purkinje cell
+match value: 0.56, match: Cerebellum Purkinje cell
+match value: 0.56, match: Cerebellum vermis II-VIII lobules Purkinje cell
+match value: 0.56, match: Cerebellum Purkinje cell
+
+
+target name -> Cerebellum Purkinje cell from G42 mouse line
+match value: 0.56, match: Cerebellum Purkinje cell
+match value: 0.56, match: Cerebellum Purkinje cell
+match value: 0.56, match: Cerebellum Purkinje cell
+match value: 0.56, match: Cerebellum Purkinje cell
+match value: 0.56, match: Cerebellum Purkinje cell
+match value: 0.56, match: Cerebellum Purkinje cell
+match value: 0.56, match: Cerebellum Purkinje cell
+match value: 0.56, match: Cerebellum Purkinje cell
+match value: 0.56, match: Cerebellum vermis II-VIII lobules Purkinje cell
+match value: 0.56, match: Cerebellum Purkinje cell
+
+
+target name -> Cerebellum Purkinje cell from G42 mouse line
+match value: 0.56, match: Cerebellum Purkinje cell
+match value: 0.56, match: Cerebellum Purkinje cell
+match value: 0.56, match: Cerebellum Purkinje cell
+match value: 0.56, match: Cerebellum Purkinje cell
+match value: 0.56, match: Cerebellum Purkinje cell
+match value: 0.56, match: Cerebellum Purkinje cell
+match value: 0.56, match: Cerebellum Purkinje cell
+match value: 0.56, match: Cerebellum Purkinje cell
+match value: 0.56, match: Cerebellum vermis II-VIII lobules Purkinje cell
+match value: 0.56, match: Cerebellum Purkinje cell
+
+
+target name -> Cerebellum Pcp2-expressing Purkinje cell
+match value: 0.71, match: Cerebellum Purkinje cell
+match value: 0.71, match: Cerebellum Purkinje cell
+match value: 0.71, match: Cerebellum Purkinje cell
+match value: 0.71, match: Cerebellum Purkinje cell
+match value: 0.71, match: Cerebellum Purkinje cell
+match value: 0.71, match: Cerebellum Purkinje cell
+match value: 0.71, match: Cerebellum Purkinje cell
+match value: 0.71, match: Cerebellum Purkinje cell
+match value: 0.71, match: Cerebellum vermis II-VIII lobules Purkinje cell
+match value: 0.71, match: Cerebellum Purkinje cell
+
+
+target name -> Cerebellum Pcp2-expressing Purkinje cell
+match value: 0.71, match: Cerebellum Purkinje cell
+match value: 0.71, match: Cerebellum Purkinje cell
+match value: 0.71, match: Cerebellum Purkinje cell
+match value: 0.71, match: Cerebellum Purkinje cell
+match value: 0.71, match: Cerebellum Purkinje cell
+match value: 0.71, match: Cerebellum Purkinje cell
+match value: 0.71, match: Cerebellum Purkinje cell
+match value: 0.71, match: Cerebellum Purkinje cell
+match value: 0.71, match: Cerebellum vermis II-VIII lobules Purkinje cell
+match value: 0.71, match: Cerebellum Purkinje cell
+
+
+target name -> Cerebellum Pcp2-expressing Purkinje cell
+match value: 0.71, match: Cerebellum Purkinje cell
+match value: 0.71, match: Cerebellum Purkinje cell
+match value: 0.71, match: Cerebellum Purkinje cell
+match value: 0.71, match: Cerebellum Purkinje cell
+match value: 0.71, match: Cerebellum Purkinje cell
+match value: 0.71, match: Cerebellum Purkinje cell
+match value: 0.71, match: Cerebellum Purkinje cell
+match value: 0.71, match: Cerebellum Purkinje cell
+match value: 0.71, match: Cerebellum vermis II-VIII lobules Purkinje cell
+match value: 0.71, match: Cerebellum Purkinje cell
+
+
+target name -> Neocortex layer 5a S100a10-expressing corticostriatal slender-tufted cells
+match value: 0.72, match: Primary motor cortex layer 5 corticostriatal pyramidal neuron
+match value: 0.72, match: primary somatosensory cortex layer 5 corticostriatal projecting pyramidal neurons
+match value: 0.52, match: Primary motor cortex corticostriatal pyramidal neuron
+match value: 0.36, match: barrel cortex pyramidal neurons layer 5a
+match value: 0.36, match: Layer 5a somatosensory cortex barrel column small tuft pyramidal neurons
+match value: 0.36, match: Layer 5a somatosensory barrel cortex pyramidal neurons
+match value: 0.36, match: Layer 5a somatosensory barrel cortex pyramidal neurons
+match value: 0.36, match: Layer 5a somatosensory barrel cortex pyramidal neurons
+match value: 0.36, match: somatosensory barrel cortex layer 5a pyramidal cell
+match value: 0.35, match: Neocortex Layer V Pyramidal Cell
+
+
+target name -> Midbrain Slc6a4-expressing serotonergic cells
+match value: 0.61, match: Ventral wing serotonin releasing neurons of dorsal raphe
+match value: 0.61, match: Lateral wing of serotonin releasing dorsal raphe neurons
+match value: 0.61, match: Ventromedial dorsal raphe serotonergic neuron
+match value: 0.61, match: Dorsal Raphe Nucleus Serotonergic neuron
+match value: 0.61, match: Dorsal raphe nucleus serotonergic neuron
+match value: 0.61, match: Dorsal Raphe Nucleus serotonergic projection neuron
+match value: 0.32, match: Substantia nigra pars compacta dopaminergic cell
+match value: 0.32, match: Substantia nigra pars reticulata interneuron GABA
+match value: 0.32, match: Ventral tegmental area dopamine neuron
+match value: 0.32, match: Substantia nigra pars compacta dopaminergic cell
+
+
+target name -> Cerebellum stellate and basket cells from G42 mouse line
+match value: 0.36, match: medial prefrontal cortex layer 5 fast-spiking parvalbumin positive GFP-expressing interneuron from G42 mouse line
+match value: 0.36, match: Auditory cortex layer 2-3 fast-spiking interneuron from G42 mouse line
+match value: 0.36, match: Auditory cortex layer 2-3 fast-spiking interneuron from G42 mouse line
+match value: 0.36, match: Auditory cortex layer 2-3 fast-spiking interneuron from G42 mouse line
+match value: 0.36, match: Barrel Cortex Layer IV Fast-Spiking Interneuron from G42 mouse line
+match value: 0.36, match: visual cortex layer 5-6 fast-spiking cell from G42 mouse line
+match value: 0.36, match: visual cortex layer 5-6 fast-spiking cell from G42 mouse line
+match value: 0.36, match: visual cortex layer 5-6 fast-spiking cell from G42 mouse line
+match value: 0.36, match: visual cortex layer 5-6 fast-spiking cell from G42 mouse line
+match value: 0.36, match: Layer 5 Fast Spiking interneurons expressing parvalbumin positive from G42 mouse line
+
+
+target name -> Cerebellum stellate and basket cells from G42 mouse line
+match value: 0.36, match: medial prefrontal cortex layer 5 fast-spiking parvalbumin positive GFP-expressing interneuron from G42 mouse line
+match value: 0.36, match: Auditory cortex layer 2-3 fast-spiking interneuron from G42 mouse line
+match value: 0.36, match: Auditory cortex layer 2-3 fast-spiking interneuron from G42 mouse line
+match value: 0.36, match: Auditory cortex layer 2-3 fast-spiking interneuron from G42 mouse line
+match value: 0.36, match: Barrel Cortex Layer IV Fast-Spiking Interneuron from G42 mouse line
+match value: 0.36, match: visual cortex layer 5-6 fast-spiking cell from G42 mouse line
+match value: 0.36, match: visual cortex layer 5-6 fast-spiking cell from G42 mouse line
+match value: 0.36, match: visual cortex layer 5-6 fast-spiking cell from G42 mouse line
+match value: 0.36, match: visual cortex layer 5-6 fast-spiking cell from G42 mouse line
+match value: 0.36, match: Layer 5 Fast Spiking interneurons expressing parvalbumin positive from G42 mouse line
+
+
+target name -> Cerebellum stellate and basket cells from G42 mouse line
+match value: 0.36, match: medial prefrontal cortex layer 5 fast-spiking parvalbumin positive GFP-expressing interneuron from G42 mouse line
+match value: 0.36, match: Auditory cortex layer 2-3 fast-spiking interneuron from G42 mouse line
+match value: 0.36, match: Auditory cortex layer 2-3 fast-spiking interneuron from G42 mouse line
+match value: 0.36, match: Auditory cortex layer 2-3 fast-spiking interneuron from G42 mouse line
+match value: 0.36, match: Barrel Cortex Layer IV Fast-Spiking Interneuron from G42 mouse line
+match value: 0.36, match: visual cortex layer 5-6 fast-spiking cell from G42 mouse line
+match value: 0.36, match: visual cortex layer 5-6 fast-spiking cell from G42 mouse line
+match value: 0.36, match: visual cortex layer 5-6 fast-spiking cell from G42 mouse line
+match value: 0.36, match: visual cortex layer 5-6 fast-spiking cell from G42 mouse line
+match value: 0.36, match: Layer 5 Fast Spiking interneurons expressing parvalbumin positive from G42 mouse line
+
+
+target name -> Cerebellum stellate and basket cells from G42 mouse line
+match value: 0.36, match: medial prefrontal cortex layer 5 fast-spiking parvalbumin positive GFP-expressing interneuron from G42 mouse line
+match value: 0.36, match: Auditory cortex layer 2-3 fast-spiking interneuron from G42 mouse line
+match value: 0.36, match: Auditory cortex layer 2-3 fast-spiking interneuron from G42 mouse line
+match value: 0.36, match: Auditory cortex layer 2-3 fast-spiking interneuron from G42 mouse line
+match value: 0.36, match: Barrel Cortex Layer IV Fast-Spiking Interneuron from G42 mouse line
+match value: 0.36, match: visual cortex layer 5-6 fast-spiking cell from G42 mouse line
+match value: 0.36, match: visual cortex layer 5-6 fast-spiking cell from G42 mouse line
+match value: 0.36, match: visual cortex layer 5-6 fast-spiking cell from G42 mouse line
+match value: 0.36, match: visual cortex layer 5-6 fast-spiking cell from G42 mouse line
+match value: 0.36, match: Layer 5 Fast Spiking interneurons expressing parvalbumin positive from G42 mouse line
+
+
+target name -> Cerebellum stellate and basket cells from G42 mouse line
+match value: 0.36, match: medial prefrontal cortex layer 5 fast-spiking parvalbumin positive GFP-expressing interneuron from G42 mouse line
+match value: 0.36, match: Auditory cortex layer 2-3 fast-spiking interneuron from G42 mouse line
+match value: 0.36, match: Auditory cortex layer 2-3 fast-spiking interneuron from G42 mouse line
+match value: 0.36, match: Auditory cortex layer 2-3 fast-spiking interneuron from G42 mouse line
+match value: 0.36, match: Barrel Cortex Layer IV Fast-Spiking Interneuron from G42 mouse line
+match value: 0.36, match: visual cortex layer 5-6 fast-spiking cell from G42 mouse line
+match value: 0.36, match: visual cortex layer 5-6 fast-spiking cell from G42 mouse line
+match value: 0.36, match: visual cortex layer 5-6 fast-spiking cell from G42 mouse line
+match value: 0.36, match: visual cortex layer 5-6 fast-spiking cell from G42 mouse line
+match value: 0.36, match: Layer 5 Fast Spiking interneurons expressing parvalbumin positive from G42 mouse line
+
+
+target name -> Medial habenula Chat-expressing cell
+match value: 0.45, match: Thalamus relay cell
+match value: 0.45, match: Thalamus parafascicular nucleus neuron
+match value: 0.45, match: Thalamus relay cell
+match value: 0.45, match: thalamus lateral parafascicular nucleus bushy neurons
+match value: 0.45, match: thalamus lateral parafascicular nucleus  diffuse neurons
+match value: 0.45, match: Thalamus parafascicular nucleus neuron
+match value: 0.45, match: Thalamus relay cell
+match value: 0.45, match: Thalamus Nucleus Ventralis Basalis relay Neuron
+match value: 0.45, match: Thalamus relay cell
+match value: 0.45, match: Thalamus relay cell
+
+
+target name -> Neocortex Oxtr-expressing cell
+match value: 0.60, match: Neocortex basket cell
+match value: 0.60, match: Neocortex layer 4 stellate cell
+match value: 0.60, match: neocortex layer 2/3 low-threshold spiking cell
+match value: 0.60, match: Neocortex Layer V Pyramidal Cell
+match value: 0.60, match: Neocortex basket cell
+match value: 0.60, match: Neocortex basket cell
+match value: 0.60, match: Neocortex layer 4 stellate cell
+match value: 0.60, match: Neocortex layer 4 stellate cell
+match value: 0.60, match: neocortex layer 5 large pyramidal cell
+match value: 0.60, match: Neocortex basket cell
+
+
+target name -> Neocortex Htr3a-expressing cell
+match value: 1.00, match: neocortex layer 2/3 GABAergic late-spiking subtype 1 Htr3a-expressing interneuron
+match value: 1.00, match: neocortex layer 2/3 GABAergic delayed non-fast-spiking Htr3a-expressing interneuron
+match value: 1.00, match: neocortex layer 2/3 GABAergic late-spiking subtype 2 Htr3a-expressing interneuron
+match value: 1.00, match: neocortex layer 2/3 GABAergic burst non-adapting subtype 2 Htr3a-expressing interneuron
+match value: 1.00, match: neocortex layer 2/3 GABAergic fast-adapting Htr3a-expressing interneuron
+match value: 1.00, match: neocortex layer 2/3 GABAergic burst non-adapting subtype 1 Htr3a-expressing interneuron
+match value: 1.00, match: neocortex layer 2/3 GABAergic irregular spiking Htr3a-expressing interneuron
+match value: 0.60, match: Neocortex basket cell
+match value: 0.60, match: Neocortex layer 4 stellate cell
+match value: 0.60, match: neocortex layer 2/3 low-threshold spiking cell
+
+
+target name -> Motor cortex layer 5 corticospinal pyramidal cell
+match value: 0.96, match: Primary motor cortex layer 5 corticospinal pyramidal neuron
+match value: 0.89, match: Primary motor cortex layer 5b corticospinal thick-tufted large pyramidal neuron
+match value: 0.89, match: Primary motor cortex layer 5b corticospinal thick-tufted large pyramidal neuron
+match value: 0.89, match: Primary motor cortex layer 5b corticospinal thick-tufted large pyramidal neuron
+match value: 0.85, match: Secondary somatosensory cortex layer 5b corticospinal thick-tufted large pyramidal neuron
+match value: 0.56, match: Layer 5 sensorimotor cortex pyramidal neurons
+match value: 0.52, match: Primary motor cortex layer 5 corticothalamic pyramidal neuron
+match value: 0.52, match: Primary motor cortex layer 5 corticocortical pyramidal neuron
+match value: 0.52, match: Primary motor cortex layer 5 corticostriatal pyramidal neuron
+match value: 0.52, match: Neocortex Layer V Pyramidal Cell
+
+
+target name -> Motor cortex layer 5 corticospinal pyramidal cell
+match value: 0.96, match: Primary motor cortex layer 5 corticospinal pyramidal neuron
+match value: 0.89, match: Primary motor cortex layer 5b corticospinal thick-tufted large pyramidal neuron
+match value: 0.89, match: Primary motor cortex layer 5b corticospinal thick-tufted large pyramidal neuron
+match value: 0.89, match: Primary motor cortex layer 5b corticospinal thick-tufted large pyramidal neuron
+match value: 0.85, match: Secondary somatosensory cortex layer 5b corticospinal thick-tufted large pyramidal neuron
+match value: 0.56, match: Layer 5 sensorimotor cortex pyramidal neurons
+match value: 0.52, match: Primary motor cortex layer 5 corticothalamic pyramidal neuron
+match value: 0.52, match: Primary motor cortex layer 5 corticocortical pyramidal neuron
+match value: 0.52, match: Primary motor cortex layer 5 corticostriatal pyramidal neuron
+match value: 0.52, match: Neocortex Layer V Pyramidal Cell
+
+
+target name -> Motor cortex layer 5 corticospinal pyramidal cell
+match value: 0.96, match: Primary motor cortex layer 5 corticospinal pyramidal neuron
+match value: 0.89, match: Primary motor cortex layer 5b corticospinal thick-tufted large pyramidal neuron
+match value: 0.89, match: Primary motor cortex layer 5b corticospinal thick-tufted large pyramidal neuron
+match value: 0.89, match: Primary motor cortex layer 5b corticospinal thick-tufted large pyramidal neuron
+match value: 0.85, match: Secondary somatosensory cortex layer 5b corticospinal thick-tufted large pyramidal neuron
+match value: 0.56, match: Layer 5 sensorimotor cortex pyramidal neurons
+match value: 0.52, match: Primary motor cortex layer 5 corticothalamic pyramidal neuron
+match value: 0.52, match: Primary motor cortex layer 5 corticocortical pyramidal neuron
+match value: 0.52, match: Primary motor cortex layer 5 corticostriatal pyramidal neuron
+match value: 0.52, match: Neocortex Layer V Pyramidal Cell
+
+
+target name -> Visual cortex layer 5 corticotectal pyramidal cell
+match value: 0.56, match: visual cortex layer 5 regular spiking tall pyramidal neuron
+match value: 0.56, match: visual cortex layer 5 bursting tall pyramidal neuron
+match value: 0.56, match: visual cortex layer 5 regular spiking short pyramidal neuron
+match value: 0.56, match: Layer 5 Visual Cortex large thick-tufted Pyramidal Neurons
+match value: 0.56, match: Visual cortex layer 5 regular spiking pyramidal cell
+match value: 0.56, match: Visual cortex layer 5 bursting pyramidal cell
+match value: 0.56, match: associative parietal and visual cortex layer 5 pyramidal cell projecting to superior colliculus
+match value: 0.56, match: associative parietal and visual cortex layer 5 pyramidal cell projecting to contralateral cortex
+match value: 0.56, match: associative parietal and visual cortex layer 5 pyramidal cell projecting to contralateral cortex
+match value: 0.56, match: associative parietal and visual cortex layer 5 pyramidal cell projecting to superior colliculus
+
+
+target name -> Motor cortex layer 5 Thy1-expressing thick-tufted pyramidal cell from Thy1-YFP mouse line
+match value: 0.76, match: Regular spiking, Thy1-expressing layer V pyramidal neurons of somatosensory cortex
+match value: 0.76, match: Layer 5 Visual Cortex large thick-tufted Pyramidal Neurons
+match value: 0.76, match: somatosensory cortex layer V thick tufted pyramidal cell
+match value: 0.72, match: Layer 5 sensorimotor cortex pyramidal neurons
+match value: 0.72, match: Primary motor cortex layer 5b corticospinal thick-tufted large pyramidal neuron
+match value: 0.72, match: Primary motor cortex layer 5b corticospinal thick-tufted large pyramidal neuron
+match value: 0.72, match: Primary motor cortex layer 5b corticospinal thick-tufted large pyramidal neuron
+match value: 0.67, match: Primary motor cortex layer 5 corticothalamic pyramidal neuron
+match value: 0.67, match: Primary motor cortex layer 5 corticospinal pyramidal neuron
+match value: 0.67, match: Primary motor cortex layer 5 corticocortical pyramidal neuron
+
+
+target name -> Motor cortex Pvalb-expressing fast-spiking basket cell from G42 mouse line
+match value: 1.68, match: medial prefrontal cortex layer 5 fast-spiking parvalbumin positive GFP-expressing interneuron from G42 mouse line
+match value: 1.45, match: Layer 5 Fast Spiking interneurons expressing parvalbumin positive from G42 mouse line
+match value: 1.40, match: Auditory cortex layer 2-3 fast-spiking interneuron from G42 mouse line
+match value: 1.40, match: Auditory cortex layer 2-3 fast-spiking interneuron from G42 mouse line
+match value: 1.40, match: Auditory cortex layer 2-3 fast-spiking interneuron from G42 mouse line
+match value: 1.40, match: visual cortex layer 5-6 fast-spiking cell from G42 mouse line
+match value: 1.40, match: visual cortex layer 5-6 fast-spiking cell from G42 mouse line
+match value: 1.40, match: visual cortex layer 5-6 fast-spiking cell from G42 mouse line
+match value: 1.40, match: visual cortex layer 5-6 fast-spiking cell from G42 mouse line
+match value: 1.39, match:  neocortex layer 2-3  large oval or round fast spiking parvalbumin-positive GABAergic interneuron
+
+
+target name -> Locus Cereuleus Th-expressing noradrenergic cell
+match value: 0.43, match: Locus coeruleus NA neuron
+match value: 0.43, match: Locus coeruleus NA neuron
+match value: 0.43, match: Locus coeruleus
+match value: 0.43, match: Locus coeruleus NA neuron
+match value: 0.43, match: Locus coeruleus NA neuron
+match value: 0.29, match: Neostriatum TH+ cell
+match value: 0.29, match: Neostriatum TH+ cell
+match value: 0.21, match: Basolateral amygdala principal neuron with input from medial prefrontal cortex
+match value: 0.21, match: subiculum pyramidal neuron projecting to retrosplenial cortex
+match value: 0.21, match: subiculum pyramidal neuron projecting to lateral entorhinal cortex
+
+
+target name -> Cerebellum Purkinje cell from G42 mouse line
+match value: 0.56, match: Cerebellum Purkinje cell
+match value: 0.56, match: Cerebellum Purkinje cell
+match value: 0.56, match: Cerebellum Purkinje cell
+match value: 0.56, match: Cerebellum Purkinje cell
+match value: 0.56, match: Cerebellum Purkinje cell
+match value: 0.56, match: Cerebellum Purkinje cell
+match value: 0.56, match: Cerebellum Purkinje cell
+match value: 0.56, match: Cerebellum Purkinje cell
+match value: 0.56, match: Cerebellum vermis II-VIII lobules Purkinje cell
+match value: 0.56, match: Cerebellum Purkinje cell
+
+
+target name -> Locus Cereuleus Th-expressing noradrenergic cell
+match value: 0.43, match: Locus coeruleus NA neuron
+match value: 0.43, match: Locus coeruleus NA neuron
+match value: 0.43, match: Locus coeruleus
+match value: 0.43, match: Locus coeruleus NA neuron
+match value: 0.43, match: Locus coeruleus NA neuron
+match value: 0.29, match: Neostriatum TH+ cell
+match value: 0.29, match: Neostriatum TH+ cell
+match value: 0.21, match: Basolateral amygdala principal neuron with input from medial prefrontal cortex
+match value: 0.21, match: subiculum pyramidal neuron projecting to retrosplenial cortex
+match value: 0.21, match: subiculum pyramidal neuron projecting to lateral entorhinal cortex
+
+
+target name -> Substantia nigra pars compacta Th-expressing dopaminergic cell
+match value: 0.71, match: Substantia nigra pars compacta dopaminergic cell
+match value: 0.71, match: Substantia nigra pars compacta dopaminergic cell
+match value: 0.71, match: Substantia nigra pars compacta dopaminergic cell
+match value: 0.71, match: Substantia nigra pars compacta dopaminergic cell
+match value: 0.71, match: Substantia nigra pars compacta dopaminergic cell
+match value: 0.71, match: Substantia nigra pars compacta dopaminergic cell
+match value: 0.71, match: Substantia nigra pars compacta dopaminergic cell calbindin expressing
+match value: 0.71, match: Substantia nigra pars compacta dopaminergic cell
+match value: 0.71, match: Substantia nigra pars compacta dopaminergic cell
+match value: 0.71, match: Substantia nigra pars compacta dopaminergic cell
+
+
+target name -> Ventral tegmental area Th-expressing dopaminergic cell
+match value: 0.71, match: Ventral tegmental area dopamine neuron
+match value: 0.71, match: Ventral tegmental area dopamine neuron
+match value: 0.71, match: Ventral tegmental area dopamine neuron
+match value: 0.71, match: Ventral tegmental area dopamine neuron
+match value: 0.71, match: Ventral tegmental area dopamine neuron
+match value: 0.71, match: Ventral tegmental area dopamine neuron
+match value: 0.71, match: Ventral tegmental area dopamine neuron
+match value: 0.71, match: Ventral tegmental area dopamine neuron
+match value: 0.71, match: Ventral tegmental area dopamine neuron calbindin expressing
+match value: 0.71, match: Ventral tegmental area dopamine neuron
