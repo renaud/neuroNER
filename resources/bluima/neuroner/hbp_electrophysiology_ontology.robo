@@ -26,7 +26,7 @@ id: HBP_EPHYS:0000010
 name: irregular
 acronym: I
 rsynonym: "ir?regular(ly)?"
-! TODO acronym?
+synonym: "IS" BROAD ACRONYM []
 
 [Term]
 id: HBP_EPHYS:0000020
@@ -67,6 +67,7 @@ id: HBP_EPHYS:0000080
 name: fast
 acronym: F
 rsynonym: "(fast|rapid)(ly)?"
+rsynonym: "(Fast|Rapid)(ly)?"
 synonym: "FS" BROAD ACRONYM []
 
 [Term]

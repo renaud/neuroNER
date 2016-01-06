@@ -3884,6 +3884,15 @@ synonym: "mCG_128578" RELATED ADJECTIVE []
 synonym: "Drd3" RELATED ADJECTIVE []
 
 [Term]
+id: NCBI_GENE:13491
+name: Drd4
+synonym: "Dopamine receptor 4" RELATED ADJECTIVE []
+synonym: "D4R" RELATED ADJECTIVE []
+synonym: "Drd-4" RELATED ADJECTIVE []
+synonym: "AW125663" RELATED ADJECTIVE []
+synonym: "Drd4" RELATED ADJECTIVE []
+
+[Term]
 id: NCBI_GENE:76843
 name: Dtl
 synonym: "Dtl" RELATED ADJECTIVE []
