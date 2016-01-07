@@ -2889,6 +2889,7 @@ synonym: "Gyrus orbitalis" []
 synonym: "Gyri orbitales" []
 synonym: "medial prefrontal cortex" [] ! best match I could find - SJT
 synonym: "prefrontal cortex" [] ! best match I could find - SJT
+synonym: "frontal cortex" [] ! best match I could find - SJT
 
 [Term]
 id: ABA_REGION:717

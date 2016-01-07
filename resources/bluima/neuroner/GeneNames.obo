@@ -1814,7 +1814,7 @@ id: NCBI_GENE:12425
 name: Cckar
 synonym: "AW106902" RELATED ADJECTIVE []
 synonym: "Cckar" RELATED ADJECTIVE []
-synonym: "cholecystokinin" RELATED ADJECTIVE []
+synonym: "cholecystokinin A receptor" RELATED ADJECTIVE []
 
 [Term]
 id: NCBI_GENE:20293
