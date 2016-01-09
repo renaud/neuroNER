@@ -130,11 +130,11 @@ class BrainRegionSimilarity(object):
             if n1_parent_regions[0] == n2_parent_regions[0]:
                 return 1.0 * BASE_MULTIPLIER, (['ABA_REGION:{}'.format(n1_parent_regions[0])], 'exact same brain region')
             elif n1_parent_regions[0] in n2_parent_regions:
-                return .75 * BASE_MULTIPLIER, (['ABA_REGION:{}'.format(n1_parent_regions[0])], 'sharing a common brain region')
+                return .875 * BASE_MULTIPLIER, (['ABA_REGION:{}'.format(n1_parent_regions[0])], 'sharing a common brain region')
             elif n2_parent_regions[0] in n1_parent_regions:
-                return .75 * BASE_MULTIPLIER, (['ABA_REGION:{}'.format(n2_parent_regions[0])], 'sharing a common brain region')
+                return .875 * BASE_MULTIPLIER, (['ABA_REGION:{}'.format(n2_parent_regions[0])], 'sharing a common brain region')
             elif len(common_regions) > 0:
-                return .5 * BASE_MULTIPLIER, (['ABA_REGION:{}'.format(common_regions.pop())], 'sibling regions')
+                return .75 * BASE_MULTIPLIER, (['ABA_REGION:{}'.format(common_regions.pop())], 'sibling regions')
         else:
             return (0, []) # no regions in both neurons
 
@@ -168,10 +168,10 @@ class MouseLineSimilarity(object):
     PREFIX = 'MOUSE_LINE'
 
     '''
-    returns number of shared terms if both neurons share same morphology, e.g. 'Pyr' and 'pyramidal', else 0
+    returns number of shared terms if both neurons share same mouse line, else 0
     '''
     def similarity(self, n1, n2):
-        BASE_MULTIPLIER = 2
+        BASE_MULTIPLIER = 3
         def neuron2line(neuron):
             morphologies = []
             for n in neuron:
@@ -290,18 +290,30 @@ similarities = [LayerSimilarity(), BrainRegionSimilarity(), ProjectionSimilarity
                 MorphologySimilarity(), NeurotransmitterSimilarity(), ProteinSimilarity(), MouseLineSimilarity()]
 
 
-def _similarity_intra(n1, n2, weights):
+def _similarity_intra(n1, n2, weights, symmetric):
+    # assumes that the first entered neuron is the target neuron, and normalizes score based on highest possible
+    #   for first entered neuron
+
+    # calculate base similarity
+    (sim_intra_base_first, exp) = _calc_base_similarity_intra(n1, n1, weights)
+    (sim_intra_base_second, exp) = _calc_base_similarity_intra(n2, n2, weights)
+    if sim_intra_base_first == 0.0:
+        sim_intra_base_first = 1.0
+
     # perfect similarity/equality
-    (sim_intra_base, exp) = _calc_base_similarity_intra(n1, n1, weights)
-    if sim_intra_base == 0.0:
-        sim_intra_base = 1.0
     if n1 == n2:
         return (1, [])
     else:
         # dispatch to each similarities; aggregate score & explanations
         (sim_intra, explanations) = _calc_base_similarity_intra(n1, n2, weights)
-        sim_intra = sim_intra / sim_intra_base
-        return (sim_intra, explanations)
+
+        # normalize score based highest possible score
+        sim_intra_norm = sim_intra / sim_intra_base_first
+
+        if symmetric:
+            sim_intra_norm = sim_intra / ((sim_intra_base_first + sim_intra_base_second) / 2)
+
+        return (sim_intra_norm, explanations)
 
 def _calc_base_similarity_intra(n1, n2, weights):
     (sim_intra, explanations) = (0.0, [])

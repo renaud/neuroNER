@@ -23,12 +23,12 @@ Computes the intra and inter semantic similarity between two neurons
 in: n1@str, n2@str: the two neurons to measure similarity
 out: (score:float, [([matching_properties], explanation@str)])
 '''
-def similarity(n1, n2, weights=WEIGHTS):
+def similarity(n1, n2, weights=WEIGHTS, symmetric = True):
     assert type(n1) is str and len(n1) > 0, 'n1 cannot be empty'
     assert type(n2) is str and len(n2) > 0, 'n2 cannot be empty'
     n1c = _cleanup(s.annotate(n1).annotations)
     n2c = _cleanup(s.annotate(n2).annotations)
-    return similarity2(n1c, n2c)
+    return similarity2(n1c, n2c, weights, symmetric)
 
 '''
 Cleans up raw Sherlok annotations
@@ -135,9 +135,11 @@ Computes the intra and inter semantic similarity between two neurons
 in:  n1@[], n2@[]: the two neurons to measure similarity
 out: (score:float, [([matching_properties, explanation@str])])
 '''
-def similarity2(n1, n2, weights=WEIGHTS):
-    s_intra = similarity_intra._similarity_intra(n1, n2, weights)
-    s_inter = similarity_inter._similarity_inter(n1, n2)
+def similarity2(n1, n2, weights=WEIGHTS, symmetric = True):
+    s_intra = similarity_intra._similarity_intra(n1, n2, weights, symmetric)
+    # TODO: fix this hack that zero's out inter similarity
+    #s_inter = similarity_inter._similarity_inter(n1, n2)
+    s_inter = (0.0, [])
     #print('s_intra', s_intra, 's_inter', s_inter)
     return (s_intra[0] + s_inter[0], s_intra[1] + s_inter[1])
 
