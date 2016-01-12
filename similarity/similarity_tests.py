@@ -13,15 +13,14 @@ class TestSimilarity(unittest.TestCase):
         self.assertEqual(clean, ['HBP_LAYER:0000004', u'HBP_MORPHOLOGY:0000001', 'Missing:long', 'Size:large'])
 
     def test_exact_similiarity(self):
-        s = similarity('layer 4 neuron', 'layer 4 neuron')
+        s = similarity('layer 4 neuron', 'layer 4 neuron', use_inter_similarity=False)
         self.assertEqual(s[0], 1.0)
 
-    # TODO: I (SJT) commented this out for now, I'd like a switch to not use inter_similarity if possible
-    # def test_inter_similiarity_PV(self):
-    #     s = similarity('PV neuron', 'fast-spiking neuron')
-    #     self.assertEqual(s[0], 0.9, 'inter similarity works for PV and fast-spiking')
-    #     s_reverse = similarity('fast-spiking neuron', 'PV neuron')
-    #     self.assertEqual(s_reverse[0], 0.9, 'inter similarity works in both directions')
+    def test_inter_similiarity_PV(self):
+        s = similarity('PV neuron', 'fast-spiking neuron', use_inter_similarity=True)
+        self.assertEqual(s[0], 0.9, 'inter similarity works for PV and fast-spiking')
+        s_reverse = similarity('fast-spiking neuron', 'PV neuron')
+        self.assertEqual(s_reverse[0], 0.9, 'inter similarity works in both directions')
 
 from similarity_intra import *
 
