@@ -1,0 +1,1488 @@
+format-version: 1.2
+date: 06:08:2014 15:31
+saved-by: telefont
+auto-generated-by: OBO-Edit 2.3.1
+default-namespace: hbp_cell
+ontology: HBP Cell
+
+
+[TypeDef]
+id: is_species 
+name: is_species 
+def: "references a species specified with the NCBI taxonomy" []
+
+[TypeDef]
+id: is_function
+name: is_function
+def: "" []
+
+[TypeDef]
+id: is_morphology
+name: is_morphology
+def: "" []
+
+[TypeDef]
+id: is_brainregion
+name: is_brainregion
+def: "" []
+
+[TypeDef]
+id: is_developmental
+name: is_developmental
+def: "" []
+
+[TypeDef]
+id: is_neurotransmitter
+name: is_neurotransmitter
+def: "" []
+
+[TypeDef]
+id: is_layer
+name: is_layer
+def: "" []
+
+[TypeDef]
+id: is_orientation
+name: is_orientation
+def: "" []
+
+[TypeDef]
+id: is_size
+name: is_size
+def: "" []
+
+[TypeDef]
+id: is_protein
+name: is_protein
+def: "" []
+
+[TypeDef]
+id: is_electrophysiology
+name: is_electrophysiology
+def: "" []
+
+
+[Term]
+id: HBP_CELL:0000000
+name: cell
+created_by: telefont
+creation_date: 2014-08-06T11:22:56Z
+
+[Term]
+id: HBP_CELL:0000001
+name: neuron
+is_a: HBP_CELL:0000000
+created_by: telefont
+creation_date: 2014-08-06T11:24:04Z
+
+[Term]
+id: HBP_CELL:0000002
+name: glial cell
+is_a: HBP_CELL:0000000
+created_by: telefont
+creation_date: 2014-08-06T11:27:33Z
+is_morphology: "HBP_MORPHOLOGY:0000060" ! glial
+
+[Term]
+id: HBP_CELL:0000003
+name: neuron classified base morphological properties
+is_a: HBP_CELL:0000001
+created_by: telefont
+creation_date: 2014-08-06T11:32:43Z
+
+[Term]
+id: HBP_CELL:0000004
+name: neuron classified base electrical properties
+is_a: HBP_CELL:0000001
+created_by: telefont
+creation_date: 2014-08-06T11:35:54Z
+
+[Term]
+id: HBP_CELL:0000005
+name: neuron classified based on molecular expression
+is_a: HBP_CELL:0000001
+created_by: telefont
+creation_date: 2014-08-06T11:36:48Z
+
+[Term]
+id: HBP_CELL:0000006
+name: neuron classified based on connection properties
+is_a: HBP_CELL:0000001
+created_by: telefont
+creation_date: 2014-08-06T11:37:09Z
+
+[Term]
+id: HBP_CELL:0000007
+name: neuron classified based on neurotransmitter release
+is_a: HBP_CELL:0000005
+is_a: HBP_CELL:0000008
+created_by: telefont
+creation_date: 2014-08-06T11:37:49Z
+
+[Term]
+id: HBP_CELL:0000008
+name: neuron classified based on synaptic properties
+is_a: HBP_CELL:0000006
+created_by: telefont
+creation_date: 2014-08-06T11:38:41Z
+is_function: "HBP_FUNCTION:synaptic" ! TODO
+
+[Term]
+id: HBP_CELL:0000009
+name: neuron classified based on protein expression
+is_a: HBP_CELL:0000005
+created_by: telefont
+creation_date: 2014-08-06T11:40:12Z
+
+[Term]
+id: HBP_CELL:0000010
+name: neuron classified based on gene expression
+is_a: HBP_CELL:0000005
+created_by: telefont
+creation_date: 2014-08-06T11:40:42Z
+
+[Term]
+id: HBP_CELL:0000011
+name: neuron expressing Neuropeptide Y
+synonym: "NPY+ cell" RELATED []
+is_a: HBP_CELL:0000010
+created_by: telefont
+creation_date: 2014-08-06T11:41:50Z
+is_neurotransmitter: "HBP_NEUROTRANSMITTER:0000010" ! Neuropeptide Y
+is_protein: "NCBI_GENE:109648 " ! Neuropeptide Y
+
+[Term]
+id: HBP_CELL:0000012
+name: neuron expressing Vasoactive Intestinal Peptide
+synonym: "VIP+ cell" RELATED []
+is_a: HBP_CELL:0000010
+created_by: telefont
+creation_date: 2014-08-06T11:42:08Z
+is_protein: "NCBI_GENE:22355 " ! Vasoactive Intestinal Peptide
+
+[Term]
+id: HBP_CELL:0000013
+name: neuron expressing Cholecystokinin
+synonym: "CCK+ cell" RELATED []
+is_a: HBP_CELL:0000010
+created_by: telefont
+creation_date: 2014-08-06T11:43:07Z
+is_protein: "NCBI_GENE:12424 " ! Cholecystokinin
+
+[Term]
+id: HBP_CELL:0000014
+name: neuron expressing Calbindin
+synonym: "calbindin 1 expressing cell" RELATED []
+synonym: "CB+ cell" RELATED []
+is_a: HBP_CELL:0000010
+created_by: telefont
+creation_date: 2014-08-06T11:44:27Z
+is_protein: "NCBI_GENE:12307 " ! Calbindin
+
+[Term]
+id: HBP_CELL:0000015
+name: neuron expressing Somatostatin
+synonym: "SOM+ cell" RELATED []
+synonym: "Sst+ cell" RELATED []
+is_a: HBP_CELL:0000010
+created_by: telefont
+creation_date: 2014-08-06T11:45:15Z
+is_protein: "NCBI_GENE:20604 " ! Somatostatin
+
+[Term]
+id: HBP_CELL:0000016
+name: neuron expressing Parvalbumin
+synonym: "PV+ cell" RELATED []
+synonym: "Pvalb+ cell" RELATED []
+is_a: HBP_CELL:0000010
+created_by: telefont
+creation_date: 2014-08-06T11:46:05Z
+is_protein: "NCBI_GENE:19293 " ! Parvalbumin
+
+[Term]
+id: HBP_CELL:0000017
+name: neuron expressing Calretinin
+synonym: "Calb2+ cell" RELATED []
+synonym: "CR+ cell" RELATED []
+is_a: HBP_CELL:0000010
+created_by: telefont
+creation_date: 2014-08-06T11:47:17Z
+is_protein: "NCBI_GENE:12308 " ! Calretinin
+
+[Term]
+id: HBP_CELL:0000018
+name: pyramidal cell
+is_a: HBP_CELL:0000003
+is_a: HBP_CELL:0000021
+synonym: "PC" RELATED []
+created_by: telefont
+creation_date: 2014-08-06T11:49:45Z
+is_morphology: "HBP_MORPHOLOGY:0000001" ! pyramidal
+
+[Term]
+id: HBP_CELL:0000019
+name: Inhibitory neuron
+is_a: HBP_CELL:0000007
+created_by: telefont
+creation_date: 2014-08-06T12:11:23Z
+is_function: "HBP_FUNCTION:inhibitory" ! TODO
+
+[Term]
+id: HBP_CELL:0000020
+name: Excitatory neuron
+is_a: HBP_CELL:0000007
+created_by: telefont
+creation_date: 2014-08-06T12:11:42Z
+is_function: "HBP_FUNCTION:excitatory" ! TODO
+
+[Term]
+id: HBP_CELL:0000021
+name: Glutamatergic neuron
+is_a: HBP_CELL:0000020
+created_by: telefont
+creation_date: 2014-08-06T12:12:28Z
+is_neurotransmitter: "HBP_NEUROTRANSMITTER:0000004" ! Glutamatergic
+
+[Term]
+id: HBP_CELL:0000022
+name: GABAergic neuron
+is_a: HBP_CELL:0000019
+created_by: telefont
+creation_date: 2014-08-06T12:12:30Z
+is_neurotransmitter: "HBP_NEUROTRANSMITTER:0000003" ! GABAergic
+
+[Term]
+id: HBP_CELL:0000023
+name: tufted pyramidal cell
+synonym: "TPC" RELATED []
+is_a: HBP_CELL:0000018
+created_by: telefont
+creation_date: 2014-08-06T12:14:01Z
+is_morphology: "HBP_MORPHOLOGY:0000031" ! tufted
+is_morphology: "HBP_MORPHOLOGY:0000001" ! pyramidal
+
+[Term]
+id: HBP_CELL:0000024
+name: Untufted Pyramidal Cell
+def: "These cells have a thin apical dendrite without a tuft. The two types of Thick Tufted pyramidal Cells have bigger and more typical pyramidal-shaped somata compared with Untufted (slender) Pyramidal Cells and the Untufted Pyramidal Cells. The Untufted (slender) Pyramidal Cells and the Untufted Pyramidal Cells are smaller neurons which have similar smaller basal dendritic clusters." []
+synonym: "UTPC" RELATED []
+is_a: HBP_CELL:0000018
+created_by: telefont
+creation_date: 2014-08-06T12:14:35Z
+is_morphology: "HBP_MORPHOLOGY:0000074" ! Untufted
+is_morphology: "HBP_MORPHOLOGY:0000001" ! Pyramidal
+
+[Term]
+id: HBP_CELL:0000025
+name: Spiny Stellate Cell
+synonym: "SS" RELATED []
+synonym: "SSC" RELATED []
+is_a: HBP_CELL:0000003
+is_a: HBP_CELL:0000021
+created_by: telefont
+creation_date: 2014-08-06T12:17:00Z
+is_morphology: "HBP_MORPHOLOGY:0000011" ! Spiny
+is_morphology: "HBP_MORPHOLOGY:0000013" ! Stellate
+
+[Term]
+id: HBP_CELL:0000026
+name: Layer 4 Spiny Stellate Cell
+synonym: "L4_SS" RELATED []
+is_a: HBP_CELL:0000025
+is_a: HBP_CELL:0000033
+created_by: telefont
+creation_date: 2014-08-06T12:17:57Z
+is_layer: "HBP_LAYER:0000004" ! Layer 4
+is_morphology: "HBP_MORPHOLOGY:0000011" ! Spiny
+is_morphology: "HBP_MORPHOLOGY:0000013" ! Stellate
+
+[Term]
+id: HBP_CELL:0000027
+name: Star Pyramidal Cell
+def: "Star Pyramidal Cells have a slender apical dendrite without a tuft." []
+synonym: "SPC" RELATED []
+synonym: "SP" RELATED []
+is_a: HBP_CELL:0000018
+created_by: telefont
+creation_date: 2014-08-06T12:19:46Z
+is_morphology: "HBP_MORPHOLOGY:0000001" ! Pyramidal
+
+[Term]
+id: HBP_CELL:0000028
+name: Layer II/III Pyramidal Cell
+synonym: "L23_PC" RELATED []
+synonym: "L2/3_PC" RELATED []
+is_a: HBP_CELL:0000018
+is_a: HBP_CELL:0000033
+created_by: telefont
+creation_date: 2014-08-06T12:24:43Z
+is_layer: "HBP_LAYER:0000111" ! Layer II/III
+is_morphology: "HBP_MORPHOLOGY:0000001" ! Pyramidal
+
+[Term]
+id: HBP_CELL:0000029
+name: Layer VI Pyramidal Cell
+synonym: "L4_PC" RELATED []
+is_a: HBP_CELL:0000018
+is_a: HBP_CELL:0000033
+created_by: telefont
+creation_date: 2014-08-06T12:25:34Z
+is_layer: "HBP_LAYER:0000006" ! Layer VI
+is_morphology: "HBP_MORPHOLOGY:0000001" ! Pyramidal
+
+[Term]
+id: HBP_CELL:0000030
+name: Horizontal Pyramidal Cell
+def: "Horizontal tufted Pyramidal Cells have a horizontally extended dendrite with more branches than a typical basal dendrite." []
+synonym: "HPC" RELATED []
+is_a: HBP_CELL:0000018
+created_by: telefont
+creation_date: 2014-08-06T12:26:15Z
+is_morphology: "HBP_MORPHOLOGY:0000027" ! Horizontal
+is_morphology: "HBP_MORPHOLOGY:0000001" ! Pyramidal
+is_orientation: "HBP_ORIENTATION:horizontal" ! TODO
+
+[Term]
+id: HBP_CELL:0000031
+name: Bipolar Pyramidal Cell
+def: "Bipolar Pyramidal Cells have a typical apical dendrite towards pial with or without a small tuft and a big inverted (towards white matter) dendrite with more branches than other basal dendrites." []
+synonym: "BPC" RELATED []
+is_a: HBP_CELL:0000018
+created_by: telefont
+creation_date: 2014-08-06T12:27:24Z
+is_morphology: "HBP_MORPHOLOGY:0000006" ! Bipolar
+is_morphology: "HBP_MORPHOLOGY:0000001" ! Pyramidal
+
+[Term]
+id: HBP_CELL:0000032
+name: Narrow Pyramidal Cell projecting to thalamus
+def: "Narrow Pyramidal Cells have a narrow-looking appearance with short basal and oblique dendrites and a small tuft." []
+synonym: "NPC" RELATED []
+is_a: HBP_CELL:0000018
+is_a: HBP_CELL:0000034
+created_by: telefont
+creation_date: 2014-08-06T12:27:56Z
+is_size: "HBP_SIZE:narrow" ! TODO
+is_brainregion: "ABA_REGION:549" ! thalamus
+is_morphology: "HBP_MORPHOLOGY:0000001" ! Pyramidal
+
+[Term]
+id: HBP_CELL:0000033
+name: neuron classified based on location
+is_a: HBP_CELL:0000001
+created_by: telefont
+creation_date: 2014-08-06T12:28:41Z
+
+[Term]
+id: HBP_CELL:0000034
+name: neuron classified base on regional projection
+is_a: HBP_CELL:0000006
+created_by: telefont
+creation_date: 2014-08-06T12:30:32Z
+is_function: "HBP_FUNCTION:projection" ! TODO
+
+[Term]
+id: HBP_CELL:0000035
+name: Tufted Pyramidal Cell towards Layer IV
+synonym: "TPC_L4" RELATED []
+is_a: HBP_CELL:0000023
+is_a: HBP_CELL:0000034
+created_by: telefont
+creation_date: 2014-08-06T13:44:07Z
+is_layer: "HBP_LAYER:0000004" ! Layer IV
+is_morphology: "HBP_MORPHOLOGY:0000031" ! Tufted
+is_morphology: "HBP_MORPHOLOGY:0000001" ! Pyramidal
+
+[Term]
+id: HBP_CELL:0000036
+name: Tufted Pyramidal Cell towards Layer I
+synonym: "TPC_L1" RELATED []
+is_a: HBP_CELL:0000023
+is_a: HBP_CELL:0000033
+is_a: HBP_CELL:0000034
+created_by: telefont
+creation_date: 2014-08-06T13:44:57Z
+is_layer: "HBP_LAYER:0000001" ! Layer I
+is_morphology: "HBP_MORPHOLOGY:0000031" ! Tufted
+is_morphology: "HBP_MORPHOLOGY:0000001" ! Pyramidal
+
+[Term]
+id: HBP_CELL:0000037
+name: Thick Tufted Pyramidal Cell
+synonym: "TTPC" RELATED []
+is_a: HBP_CELL:0000023
+created_by: telefont
+creation_date: 2014-08-06T13:45:37Z
+is_morphology: "HBP_MORPHOLOGY:0000014" ! Thick Tufted
+is_morphology: "HBP_MORPHOLOGY:0000031" ! Tufted
+is_morphology: "HBP_MORPHOLOGY:0000001" ! Pyramidal
+
+[Term]
+id: HBP_CELL:0000038
+name: Slender Tufted Pyramidal Cell
+def: "These cells have a thin apical dendrite with a small tuft." []
+synonym: "STPC" RELATED []
+is_a: HBP_CELL:0000023
+created_by: telefont
+creation_date: 2014-08-06T13:46:22Z
+is_morphology: "HBP_MORPHOLOGY:0000015" ! Slender Tufted
+is_morphology: "HBP_MORPHOLOGY:0000031" ! Tufted
+is_morphology: "HBP_MORPHOLOGY:0000001" ! Pyramidal
+
+[Term]
+id: HBP_CELL:0000039
+name: Early bifurcating Thick Tufted Pyramidal Cell
+def: "These cells have a thick apical trunk with the tuft occurring more proximally." []
+synonym: "TTPC2" RELATED []
+is_a: HBP_CELL:0000037
+created_by: telefont
+creation_date: 2014-08-06T13:47:15Z
+is_morphology: "HBP_MORPHOLOGY:0000009" ! Early bifurcating
+is_morphology: "HBP_MORPHOLOGY:0000014" ! Thick Tufted
+is_morphology: "HBP_MORPHOLOGY:0000031" ! Tufted
+is_morphology: "HBP_MORPHOLOGY:0000001" ! Pyramidal
+
+[Term]
+id: HBP_CELL:0000040
+name: Late bifurcating Thick Tufted Pyramidal Cell
+def: "These cells had a thick apical dendrite with a late big tuft." []
+synonym: "TTPC1" RELATED []
+is_a: HBP_CELL:0000037
+created_by: telefont
+creation_date: 2014-08-06T13:47:56Z
+is_morphology: "HBP_MORPHOLOGY:0000014" ! Thick Tufted
+is_morphology: "HBP_MORPHOLOGY:0000031" ! Tufted
+is_morphology: "HBP_MORPHOLOGY:0000001" ! Pyramidal
+
+[Term]
+id: HBP_CELL:0000041
+name: Untufted Slender Pyramidal Cell
+synonym: "USPC" RELATED []
+is_a: HBP_CELL:0000024
+created_by: telefont
+creation_date: 2014-08-06T13:48:26Z
+is_morphology: "HBP_MORPHOLOGY:0000074" ! Untufted
+is_morphology: "HBP_MORPHOLOGY:0000016" ! Slender
+is_morphology: "HBP_MORPHOLOGY:0000001" ! Pyramidal
+
+[Term]
+id: HBP_CELL:0000042
+name: Inverted Pyramidal Cell
+def: "Inverted Tufted Pyramidal Cell have a big dendrite inverted towards white matter with more branches than other basal dendrites." []
+synonym: "ITPC" RELATED []
+synonym: "IPC" RELATED []
+is_a: HBP_CELL:0000023
+created_by: telefont
+creation_date: 2014-08-06T13:52:59Z
+is_morphology: "HBP_MORPHOLOGY:0000001" ! Pyramidal
+is_orientation: "HBP_ORIENTATION:inverted" ! TODO
+
+[Term]
+id: HBP_CELL:0000043
+name: Layer VI Tufted Pyramidal Cell towards Layer IV
+is_a: HBP_CELL:0000033
+is_a: HBP_CELL:0000035
+synonym: "L6_TTPC_L4" RELATED []
+created_by: telefont
+creation_date: 2014-08-06T13:54:45Z
+is_layer: "HBP_LAYER:0000006" ! Layer VI
+is_layer: "HBP_LAYER:0000004" ! Layer IV
+is_morphology: "HBP_MORPHOLOGY:0000031" ! Tufted
+is_morphology: "HBP_MORPHOLOGY:0000001" ! Pyramidal
+
+[Term]
+id: HBP_CELL:0000044
+name: Layer V Late bifurcating Thick Tufted Pyramidal Cell
+synonym: "L5_TTPC1" RELATED []
+is_a: HBP_CELL:0000033
+is_a: HBP_CELL:0000040
+created_by: telefont
+creation_date: 2014-08-06T13:56:06Z
+is_layer: "HBP_LAYER:0000005" ! Layer V
+is_morphology: "HBP_MORPHOLOGY:0000014" ! Thick Tufted
+is_morphology: "HBP_MORPHOLOGY:0000031" ! Tufted
+is_morphology: "HBP_MORPHOLOGY:0000001" ! Pyramidal
+
+[Term]
+id: HBP_CELL:0000045
+name: Layer VI Untufted Pyramidal Cell
+is_a: HBP_CELL:0000024
+is_a: HBP_CELL:0000033
+synonym: "L6_UTPC" RELATED []
+created_by: telefont
+creation_date: 2014-08-06T13:56:54Z
+is_layer: "HBP_LAYER:0000006" ! Layer VI
+is_morphology: "HBP_MORPHOLOGY:0000074" ! Untufted
+is_morphology: "HBP_MORPHOLOGY:0000001" ! Pyramidal
+
+[Term]
+id: HBP_CELL:0000046
+name: Layer VI Inverted Pyramidal Cell
+is_a: HBP_CELL:0000033
+is_a: HBP_CELL:0000042
+synonym: "L6_IPC" RELATED []
+created_by: telefont
+creation_date: 2014-08-06T13:57:21Z
+is_layer: "HBP_LAYER:0000006" ! Layer VI
+is_morphology: "HBP_MORPHOLOGY:0000001" ! Pyramidal
+is_orientation: "HBP_ORIENTATION:inverted" ! TODO
+
+[Term]
+id: HBP_CELL:0000047
+name: Layer VI Bipolar Pyramidal Cell
+is_a: HBP_CELL:0000031
+is_a: HBP_CELL:0000033
+synonym: "L6_BPC" RELATED []
+created_by: telefont
+creation_date: 2014-08-06T13:58:07Z
+is_layer: "HBP_LAYER:0000006" ! Layer VI
+is_morphology: "HBP_MORPHOLOGY:0000006" ! Bipolar
+is_morphology: "HBP_MORPHOLOGY:0000001" ! Pyramidal
+
+[Term]
+id: HBP_CELL:0000048
+name: Layer V Early bifurcating Thick Tufted Pyramidal Cell
+is_a: HBP_CELL:0000033
+is_a: HBP_CELL:0000039
+synonym: "L5_TTPC2" RELATED []
+created_by: telefont
+creation_date: 2014-08-06T13:58:26Z
+is_layer: "HBP_LAYER:0000005" ! Layer V
+is_morphology: "HBP_MORPHOLOGY:0000009" ! Early bifurcating
+is_morphology: "HBP_MORPHOLOGY:0000014" ! Thick Tufted
+is_morphology: "HBP_MORPHOLOGY:0000031" ! Tufted
+is_morphology: "HBP_MORPHOLOGY:0000001" ! Pyramidal
+
+[Term]
+id: HBP_CELL:0000049
+name: Layer V Untufted Pyramidal Cell
+is_a: HBP_CELL:0000024
+is_a: HBP_CELL:0000033
+synonym: "L5_UTPC" RELATED []
+created_by: telefont
+creation_date: 2014-08-06T14:00:55Z
+is_layer: "HBP_LAYER:0000005" ! Layer V
+is_morphology: "HBP_MORPHOLOGY:0000074" ! Untufted
+is_morphology: "HBP_MORPHOLOGY:0000001" ! Pyramidal
+
+[Term]
+id: HBP_CELL:0000050
+name: Layer V Slender Tufted Pyramidal Cell
+is_a: HBP_CELL:0000033
+is_a: HBP_CELL:0000038
+synonym: "L5_STPC" RELATED []
+created_by: telefont
+creation_date: 2014-08-06T14:01:33Z
+is_layer: "HBP_LAYER:0000005" ! Layer V
+is_morphology: "HBP_MORPHOLOGY:0000015" ! Slender Tufted
+is_morphology: "HBP_MORPHOLOGY:0000031" ! Tufted
+is_morphology: "HBP_MORPHOLOGY:0000001" ! Pyramidal
+
+[Term]
+id: HBP_CELL:0000051
+name: Layer VI Tufted Pyramidal Cell towards Layer I
+synonym: "L6_TPC_L1" RELATED []
+is_a: HBP_CELL:0000036
+created_by: telefont
+creation_date: 2014-08-06T14:02:51Z
+is_layer: "HBP_LAYER:0000006" ! Layer VI
+is_layer: "HBP_LAYER:0000001" ! Layer I
+is_morphology: "HBP_MORPHOLOGY:0000031" ! Tufted
+is_morphology: "HBP_MORPHOLOGY:0000001" ! Pyramidal
+
+[Term]
+id: HBP_CELL:0000052
+name: Basket Cell
+synonym: "BC" RELATED []
+is_a: HBP_CELL:0000003
+is_a: HBP_CELL:0000022
+created_by: telefont
+creation_date: 2014-08-06T14:07:29Z
+is_morphology: "HBP_MORPHOLOGY:0000019" ! Basket
+
+[Term]
+id: HBP_CELL:0000053
+name: Bipolar Cell
+def: "Bipolar cells have bi-polar dendrites that emerged out from the two poles of a small vertical spindle soma. Some BP cells can have a third dendrite emerged out from the middle part of the soma. Their axonal clusters are narrow and vertically oriented." []
+synonym: "BP" RELATED []
+is_a: HBP_CELL:0000003
+is_a: HBP_CELL:0000022
+created_by: telefont
+creation_date: 2014-08-06T14:07:46Z
+is_morphology: "HBP_MORPHOLOGY:0000006" ! Bipolar
+
+[Term]
+id: HBP_CELL:0000054
+name: Bitufted Cell
+def: "Bitufted cells have bitufted dendrites, and are characterized by long axonal segments typically forming a big transcolumnar and/or translaminar axonal cluster." []
+synonym: "BTC" RELATED []
+is_a: HBP_CELL:0000003
+is_a: HBP_CELL:0000022
+created_by: telefont
+creation_date: 2014-08-06T14:08:02Z
+is_morphology: "HBP_MORPHOLOGY:0000003" ! Bitufted
+
+[Term]
+id: HBP_CELL:0000055
+name: Martinotti Cell
+def: "Martinotti Cells have multipolar, bitufted, or bipolar dendrites, and are distinguished by their ascending axons that commonly give rise to two axonal arborizations, one near the cell body and the other in Layer I except of those in Layer VI. The Martinotti Cells in Layer VI have a second axonal cluster formed under Layer I. The second axonal plexus of Martinotti Cells can be very dense (axonal tuft) or more diffuse. Axonal collaterals of Martinotti Cells are characterized by spiny boutons while dendrites are bearing sparsely distributed spines that are uncommon for other interneuron types." []
+synonym: "MC" RELATED []
+is_a: HBP_CELL:0000003
+is_a: HBP_CELL:0000022
+created_by: telefont
+creation_date: 2014-08-06T14:09:39Z
+is_morphology: "HBP_MORPHOLOGY:0000017" ! Martinotti
+
+[Term]
+id: HBP_CELL:0000056
+name: Neurogliaform Cell
+def: "Neurogliaform cell have multipolar dendritic arbors, and are characterized by very small and dense local axonal arborization around the parent cell body and short axonal segments bearing high density of small boutons." []
+synonym: "NGC" RELATED []
+is_a: HBP_CELL:0000003
+is_a: HBP_CELL:0000022
+created_by: telefont
+creation_date: 2014-08-06T14:10:35Z
+is_morphology: "HBP_MORPHOLOGY:0000020" ! Neurogliaform
+
+[Term]
+id: HBP_CELL:0000057
+name: Neurogliaform Cell with Sparse Axonal Arbours
+def: "Visually, the Neurogliaform Cell with Sparse Axonal Arbours, appeared as a sparser variation of Neurogliaform Cell with Dense Axonal Arbours. They displayed similar axonal branching patterns in terms of segment length, tortuosity, and branch angles. However, Neurogliaform Cell with Sparse Axonal Arbours differ from Neurogliaform Cell with Dense Axonal Arbours in that they displayed significantly smaller vertical arborizations with fewer and shorter axon collaterals. On the other hand, the dendritic arborization can extend further horizontally with longer dendritic segments and smaller branching angles." []
+synonym: "NGC-SA" RELATED []
+is_a: HBP_CELL:0000056
+created_by: telefont
+creation_date: 2014-08-06T14:10:50Z
+is_morphology: "HBP_MORPHOLOGY:0000020" ! Neurogliaform
+
+[Term]
+id: HBP_CELL:0000058
+name: Neurogliaform Cell with Dense Axonal Arbours
+def: "Neurogliaform Cell with Dense Axonal Arbours cells are very similar to the Neurogliaform Cells reported in other cortical layers showing compact axonal arborization. These neurons also typically display the shortest dendritic segments among Layer I neurons." []
+synonym: "NGC-DA" RELATED []
+is_a: HBP_CELL:0000056
+created_by: telefont
+creation_date: 2014-08-06T14:12:57Z
+is_morphology: "HBP_MORPHOLOGY:0000020" ! Neurogliaform
+
+[Term]
+id: HBP_CELL:0000059
+name: Double Bouquet Cell
+def: "Double Bouquet Cells have multipolar or bitufted dendrites, and are distinguished by a horse-tail like axon bundle that are typically formed by one to a few long descending/ascending vertical axonal collaterals from which many short branches emerge out, or by tightly intertwined bundles of long descending vertical collaterals (corresponding to the horse-tail cells). Layer II/III Double Bouquet Cells commonly have descending axonal collaterals. Layer V and VI Double Bouquet Cells often have ascending axonal collaterals reaching LII/III even LI." []
+synonym: "DBC" RELATED []
+is_a: HBP_CELL:0000003
+is_a: HBP_CELL:0000022
+created_by: telefont
+creation_date: 2014-08-06T14:15:04Z
+is_morphology: "HBP_MORPHOLOGY:0000005" ! Double Bouquet
+is_morphology: "HBP_MORPHOLOGY:0000004" ! Bouquet
+
+[Term]
+id: HBP_CELL:0000060
+name: Chandelier Cell
+def: "Chandelier Cells have multipolar or bitufted dendritic arbors, and are distinguished by pre-terminal axon branches that form short vertical rows of boutons resembling candlesticks. These interneurons are also referred to as axo-axonic cells as they synapse on the axonal initial segment of their pyramidal targets." []
+synonym: "Axo-axonic cell" RELATED []
+synonym: "ChC" RELATED []
+is_a: HBP_CELL:0000003
+is_a: HBP_CELL:0000022
+created_by: telefont
+creation_date: 2014-08-06T14:16:08Z
+is_morphology: "HBP_MORPHOLOGY:0000007" ! Chandelier
+
+[Term]
+id: HBP_CELL:0000061
+name: Cajal-Retzius cell like cell
+synonym: "CrC" RELATED []
+is_a: HBP_CELL:0000003
+is_a: HBP_CELL:0000022
+created_by: telefont
+creation_date: 2014-08-06T14:18:25Z
+is_morphology: "HBP_MORPHOLOGY:0000008" ! Cajal-Retzius
+
+[Term]
+id: HBP_CELL:0000062
+name: Small Basket Cell
+def: "Small Basket Cells have multipolar or bitufted dendritic arbor, and axon collaterals with numerous curved or straight short axonal segments bearing high density of boutons and often forming a dense local axonal cluster around the soma." []
+synonym: "SBC" RELATED []
+is_a: HBP_CELL:0000052
+created_by: telefont
+creation_date: 2014-08-06T14:18:54Z
+is_size: "HBP_SIZE:small" ! TODO
+is_morphology: "HBP_MORPHOLOGY:0000019" ! Basket
+
+[Term]
+id: HBP_CELL:0000063
+name: Large Basket Cell
+def: "Large Basket cells have multipolar or bitufted dendrites, an axonal cluster characterized by straight and long axonal segments with low density of boutons, and long collaterals giving branches from both sides. Layer II /III Large Basket Cells commonly have descending axonal collaterals while those in deep Layer V and Layer VI often had ascending axonal collaterals reaching Layer II/III even Layer I." []
+synonym: "LBC" RELATED []
+is_a: HBP_CELL:0000052
+created_by: telefont
+creation_date: 2014-08-06T14:19:28Z
+is_size: "HBP_SIZE:large" ! TODO
+is_protein: "NCBI_GENE:16795 " ! Large
+is_morphology: "HBP_MORPHOLOGY:0000019" ! Basket
+
+[Term]
+id: HBP_CELL:0000064
+name: Nest Basket Cell
+def: "Nest Basket Cells (corresponding to arcade or willow cells) had multipolar or bitufted dendrites without long collaterals. Nest Basket Cells in superagranular layers are in general smaller in size than those in infragranular layers." []
+synonym: "arcade cell" RELATED []
+synonym: "willow cell" RELATED []
+synonym: "NBC" RELATED []
+is_a: HBP_CELL:0000052
+created_by: telefont
+creation_date: 2014-08-06T14:20:27Z
+is_morphology: "HBP_MORPHOLOGY:0000019" ! Basket
+
+[Term]
+id: HBP_CELL:0000065
+name: Axonal Cell
+is_a: HBP_CELL:0000003
+is_a: HBP_CELL:0000022
+created_by: telefont
+creation_date: 2014-08-06T14:21:46Z
+
+[Term]
+id: HBP_CELL:0000066
+name: Descending Axon Cell
+def: "Descending Axon Cells are easily distinguished due to the presence of one to a few descending axon collaterals that reaches Layer IV, and Layer V, occasionally even Layer VI. Their other striking distinguishing feature are the large horizontal (often > 1 mm) and vertical (often > 0.5 mm) extents of their axonal arborization, which was the largest as compared to any cell type in Layer I." []
+synonym: "DAC" RELATED []
+is_a: HBP_CELL:0000065
+created_by: telefont
+creation_date: 2014-08-06T14:22:06Z
+is_orientation: "HBP_ORIENTATION:descending" ! TODO
+
+[Term]
+id: HBP_CELL:0000067
+name: Large Axon Cell
+def: "Large Axon Cells appear visually similar to the Horizontal Axon Cells. On closer inspection, however, the axonal segments are shorter and projected more radially compared with Horizontal Axon Cells. Particularly many short branches emerged from long axonal collaterals. They display the longest total length of axon, the highest number of segments, and the highest maximum branch order among Layer I neuronal classes. The axonal collaterals of more than 50% of Large Axon Cells were often seen to project vertically into Layer II and Layer III. Their dendrites also displayed the highest segment number indicating frequently branching." []
+synonym: "LAC" RELATED []
+is_a: HBP_CELL:0000065
+created_by: telefont
+creation_date: 2014-08-06T14:22:54Z
+is_size: "HBP_SIZE:large" ! TODO
+is_protein: "NCBI_GENE:16795 " ! Large
+
+[Term]
+id: HBP_CELL:0000068
+name: Horizontal Axon Cell
+def: "Horizontal Axon Cell are characterized by extensive horizontal axonal arborizations as compared to vertical extents, with long axonal segment lengths. Their Horizontal/Vertical extent ratio (often > 4 fold) are higher when compared to other neuron types in Layer I." []
+synonym: "HAC" RELATED []
+is_a: HBP_CELL:0000065
+created_by: telefont
+creation_date: 2014-08-06T14:23:31Z
+is_morphology: "HBP_MORPHOLOGY:0000027" ! Horizontal
+is_orientation: "HBP_ORIENTATION:horizontal" ! TODO
+
+[Term]
+id: HBP_CELL:0000069
+name: Small Axon Cell
+def: "Small Axon Cells have the smallest axonal arborization reflected in the lowest total axonal lengths among Layer I cells. The axonal arbor also displayed the lowest number of axonal segments and the lowest maximum axonal branch order. The axons have however the largest axonal branch angles with the straightest axonal segments. About 1/3 of all Small Axon Cells project one or two axonal collaterals into Layer II and Layer III." []
+synonym: "SAC" RELATED []
+synonym: "SLAC" RELATED []
+is_a: HBP_CELL:0000065
+created_by: telefont
+creation_date: 2014-08-06T14:24:14Z
+is_size: "HBP_SIZE:small" ! TODO
+
+[Term]
+id: HBP_CELL:0000070
+name: neuron classified based on firing behavior
+is_a: HBP_CELL:0000004
+created_by: telefont
+creation_date: 2014-08-06T14:25:23Z
+is_electrophysiology: "HBP_EPHYS_TRIGGER:0000004" ! firing
+
+[Term]
+id: HBP_CELL:0000071
+name: neuron classified based on spike behavior
+is_a: HBP_CELL:0000004
+created_by: telefont
+creation_date: 2014-08-06T14:25:45Z
+is_electrophysiology: "HBP_EPHYS_TRIGGER:0000003" ! spike
+
+[Term]
+id: HBP_CELL:0000072
+name: Stuttering Cell
+def: "APWaveform Spiking Response: The stuttering itself can typically not be detected from APWaveform traces. However, the characteristics should be the same as the nonaccommodating case. IDRest Spiking Response: During the different levels of IDRest stimuli, the spike firing is continuous, but is regularly interrupted by short pauses. During these pauses the voltage is around or above the resting membrane potential and shows some lower amplitude noise/oscillations." []
+synonym: "STUT" RELATED []
+is_a: HBP_CELL:0000071
+created_by: telefont
+creation_date: 2014-08-06T14:28:28Z
+is_electrophysiology: "HBP_EPHYS_TRIGGER:0000006" ! Stuttering
+
+[Term]
+id: HBP_CELL:0000073
+name: Non-Accomodating Cell
+def: "Spiking Behavior Description: This type is characterized by an absence of accommodation in the spike characteristics during the IDRest stimuli. APWaveform Spiking Response:\nAccommodation is mostly clearly visible in the APWaveform spike. When it is a non-bursting cell, the height and width of the first and second spike should be very similar. When it's a bursting cell, it's important not to confuse the burst spikes with spikes in the more stationary regime. IDRest Spiking Response: After the transitory behavior after the onset of the stimulus (a burst or a delay), there should be almost no change in the spike width/height, nor should be any change in interspike interval." []
+synonym: "NAC" RELATED []
+is_a: HBP_CELL:0000071
+created_by: telefont
+creation_date: 2014-08-06T14:29:36Z
+is_electrophysiology: "HBP_EPHYS_TRIGGER:0000001" ! Accomodating
+
+[Term]
+id: HBP_CELL:0000074
+name: Accomodating Cell
+def: "Spiking Behavior Description: This type is characterized an accommodation in the spike characteristics during the IDRest stimuli. APWaveform Spiking Response: Accommodation is mostly clearly visible in the APWaveform spike. When it is a non-bursting cell, the second spike should be wider and less high than the first spike. When it's a bursting cell, it's important not to confuse the burst spikes with spikes in the more stationary regime, and the first and second spike of the stationary regime should be compared (if these are present during the short APWaveform stimulus) IDRest Spiking Response: After the transitory behavior after the onset of the stimulus (a burst or a delay), there should be an increase in the interspike interval, and possibly some accommodation in spike width/height." []
+synonym: "AC" RELATED []
+is_a: HBP_CELL:0000071
+created_by: telefont
+creation_date: 2014-08-06T14:30:40Z
+is_electrophysiology: "HBP_EPHYS_TRIGGER:0000001" ! Accomodating
+
+[Term]
+id: HBP_CELL:0000075
+name: Irregular Spiking Cell
+def: "APWaveform Spiking Response: The irregular spiking itself can typically not be detected from APWaveform traces. However, the characteristics should be the same as the accommodating case. IDRest Spiking Response: After the transitory behavior after the onset of the stimulus (a burst), the interspike intervals should become very irregular." []
+synonym: "IR" RELATED []
+is_a: HBP_CELL:0000071
+created_by: telefont
+creation_date: 2014-08-06T14:32:15Z
+is_electrophysiology: "HBP_EPHYS_TRIGGER:0000003" ! Spiking
+is_electrophysiology: "HBP_EPHYS:0000010" ! Irregular
+
+[Term]
+id: HBP_CELL:0000076
+name: Classical Firing Cell
+def: "Firing Behavior Description: This type is characterized by a classical/continuous/regular firing behavior of the first spikes in the IDRest protocol. IDRest Firing Response: The first few spikes (spike height, spike width, interspike interval) are very similar to the other spikes in the trace. The is virtually no delay in firing at all levels above threshold in IDRest. APWaveform Firing Response: In case of a non-accommodating cell, the first two spikes should look very identical, in accommodating cells there can be and increase in spike width." []
+is_a: HBP_CELL:0000070
+created_by: telefont
+creation_date: 2014-08-06T14:33:34Z
+is_electrophysiology: "HBP_EPHYS_TRIGGER:0000004" ! Firing
+is_electrophysiology: "HBP_EPHYS:0000050" ! Classical
+
+[Term]
+id: HBP_CELL:0000077
+name: Burst Firing Cell
+def: "Firing Behavior Description: This type is characterized by a short burst of spikes at the onset of the IDRest protocol. IDRest Firing Response: The first interspike interval is very important. If this is significantly different from the other intervals in the trace, a burst is present. More than two spikes can be involved in the burst. There should be virtually no delay in spiking at the onset of the stimulus. APWaveform Firing Response: The first two spikes can look very different, the real confirmation of the burst should come from IDRest though." []
+is_a: HBP_CELL:0000070
+created_by: telefont
+creation_date: 2014-08-06T14:35:17Z
+is_electrophysiology: "HBP_EPHYS_TRIGGER:0000005" ! Burst
+is_electrophysiology: "HBP_EPHYS_TRIGGER:0000004" ! Firing
+
+[Term]
+id: HBP_CELL:0000078
+name: Delayed Firing Cell
+def: "Firing Behavior Description: This type is characterized by a delay in spiking at the onset of the IDRest protocol. IDRest Firing Response: The main characteristic of this type can be seen at the lower levels of current injection of the IDRest stimuli (100-150% of threshold). At these levels a clear delay in firing should be present (50ms+). When there is long delay, it is allowed to have one spike immediately at stimulus onset (followed by a long pause). APWaveform Firing Response: The delay is not always present in the APWaveform stimuli (since the current injection can be too high)." []
+is_a: HBP_CELL:0000070
+created_by: telefont
+creation_date: 2014-08-06T14:37:42Z
+is_electrophysiology: "HBP_EPHYS_TRIGGER:0000004" ! Firing
+is_electrophysiology: "HBP_EPHYS:0000020" ! Delayed
+
+[Term]
+id: HBP_CELL:0000079
+name: Classical Stuttering Cell
+synonym: "cSTUT" RELATED []
+is_a: HBP_CELL:0000072
+is_a: HBP_CELL:0000076
+created_by: telefont
+creation_date: 2014-08-06T14:39:26Z
+is_electrophysiology: "HBP_EPHYS_TRIGGER:0000006" ! Stuttering
+is_electrophysiology: "HBP_EPHYS:0000050" ! Classical
+
+[Term]
+id: HBP_CELL:0000080
+name: Classical Irregular Cell
+synonym: "cIR" RELATED []
+is_a: HBP_CELL:0000075
+is_a: HBP_CELL:0000076
+created_by: telefont
+creation_date: 2014-08-06T14:40:04Z
+is_electrophysiology: "HBP_EPHYS:0000050" ! Classical
+is_electrophysiology: "HBP_EPHYS:0000010" ! Irregular
+
+[Term]
+id: HBP_CELL:0000081
+name: Classical Non-Accomodating Cell
+synonym: "cNAC" RELATED []
+is_a: HBP_CELL:0000073
+is_a: HBP_CELL:0000076
+created_by: telefont
+creation_date: 2014-08-06T14:40:30Z
+is_electrophysiology: "HBP_EPHYS_TRIGGER:0000001" ! Accomodating
+is_electrophysiology: "HBP_EPHYS:0000050" ! Classical
+
+[Term]
+id: HBP_CELL:0000082
+name: Classical Accomodating Cell
+synonym: "cAC" RELATED []
+is_a: HBP_CELL:0000074
+is_a: HBP_CELL:0000076
+created_by: telefont
+creation_date: 2014-08-06T14:40:59Z
+is_electrophysiology: "HBP_EPHYS_TRIGGER:0000001" ! Accomodating
+is_electrophysiology: "HBP_EPHYS:0000050" ! Classical
+
+[Term]
+id: HBP_CELL:0000083
+name: Burst Stuttering Cell
+synonym: "bSTUT" RELATED []
+is_a: HBP_CELL:0000072
+is_a: HBP_CELL:0000077
+created_by: telefont
+creation_date: 2014-08-06T14:41:29Z
+is_electrophysiology: "HBP_EPHYS_TRIGGER:0000005" ! Burst
+is_electrophysiology: "HBP_EPHYS_TRIGGER:0000006" ! Stuttering
+
+[Term]
+id: HBP_CELL:0000084
+name: Burst Non-Accomodating Cell
+synonym: "bNAC" RELATED []
+is_a: HBP_CELL:0000073
+is_a: HBP_CELL:0000077
+created_by: telefont
+creation_date: 2014-08-06T14:42:12Z
+is_electrophysiology: "HBP_EPHYS_TRIGGER:0000005" ! Burst
+is_electrophysiology: "HBP_EPHYS_TRIGGER:0000001" ! Accomodating
+
+[Term]
+id: HBP_CELL:0000085
+name: Burst Irregular Cell
+synonym: "bIR" RELATED []
+is_a: HBP_CELL:0000075
+is_a: HBP_CELL:0000077
+created_by: telefont
+creation_date: 2014-08-06T14:42:39Z
+is_electrophysiology: "HBP_EPHYS_TRIGGER:0000005" ! Burst
+is_electrophysiology: "HBP_EPHYS:0000010" ! Irregular
+
+[Term]
+id: HBP_CELL:0000086
+name: Burst Accomodating Cell
+synonym: "bAC" RELATED []
+is_a: HBP_CELL:0000074
+is_a: HBP_CELL:0000077
+created_by: telefont
+creation_date: 2014-08-06T14:43:54Z
+is_electrophysiology: "HBP_EPHYS_TRIGGER:0000005" ! Burst
+is_electrophysiology: "HBP_EPHYS_TRIGGER:0000001" ! Accomodating
+
+[Term]
+id: HBP_CELL:0000087
+name: Delayed Stuttering Cell
+synonym: "dSTUT" RELATED []
+is_a: HBP_CELL:0000072
+is_a: HBP_CELL:0000078
+created_by: telefont
+creation_date: 2014-08-06T14:44:21Z
+is_electrophysiology: "HBP_EPHYS_TRIGGER:0000006" ! Stuttering
+is_electrophysiology: "HBP_EPHYS:0000020" ! Delayed
+
+[Term]
+id: HBP_CELL:0000088
+name: Delayed Non-Accomodating Cell
+synonym: "dNAC" RELATED []
+is_a: HBP_CELL:0000073
+is_a: HBP_CELL:0000078
+created_by: telefont
+creation_date: 2014-08-06T14:44:40Z
+is_electrophysiology: "HBP_EPHYS_TRIGGER:0000001" ! Accomodating
+is_electrophysiology: "HBP_EPHYS:0000020" ! Delayed
+
+[Term]
+id: HBP_CELL:0000089
+name: Delayed Accomodating Cell
+synonym: "dAC" RELATED []
+is_a: HBP_CELL:0000074
+is_a: HBP_CELL:0000078
+created_by: telefont
+creation_date: 2014-08-06T14:46:20Z
+is_electrophysiology: "HBP_EPHYS_TRIGGER:0000001" ! Accomodating
+is_electrophysiology: "HBP_EPHYS:0000020" ! Delayed
+
+[Term]
+id: HBP_CELL:0000091
+name: Layer I Neurogliaform Cell with Dense Axonal Arbour
+synonym: "L1_NGC-DA" RELATED []
+is_a: HBP_CELL:0000033
+is_a: HBP_CELL:0000058
+created_by: telefont
+creation_date: 2014-08-06T14:54:04Z
+is_layer: "HBP_LAYER:0000001" ! Layer I
+is_morphology: "HBP_MORPHOLOGY:0000020" ! Neurogliaform
+
+[Term]
+id: HBP_CELL:0000092
+name: Layer I Neurogliaform Cell with Sparse Axon Arbour
+synonym: "L1_NGC-SA" RELATED []
+is_a: HBP_CELL:0000033
+is_a: HBP_CELL:0000057
+created_by: telefont
+creation_date: 2014-08-06T14:54:19Z
+is_layer: "HBP_LAYER:0000001" ! Layer I
+is_morphology: "HBP_MORPHOLOGY:0000020" ! Neurogliaform
+
+[Term]
+id: HBP_CELL:0000093
+name: Layer I Descending Axon Cell
+synonym: "L1_DAC" RELATED []
+is_a: HBP_CELL:0000033
+is_a: HBP_CELL:0000066
+created_by: telefont
+creation_date: 2014-08-06T14:54:38Z
+is_layer: "HBP_LAYER:0000001" ! Layer I
+is_orientation: "HBP_ORIENTATION:descending" ! TODO
+
+[Term]
+id: HBP_CELL:0000094
+name: Layer I Horizontal Axon Cell
+synonym: "L1_HAC" RELATED []
+is_a: HBP_CELL:0000033
+is_a: HBP_CELL:0000068
+created_by: telefont
+creation_date: 2014-08-06T14:54:47Z
+is_layer: "HBP_LAYER:0000001" ! Layer I
+is_morphology: "HBP_MORPHOLOGY:0000027" ! Horizontal
+is_orientation: "HBP_ORIENTATION:horizontal" ! TODO
+
+[Term]
+id: HBP_CELL:0000095
+name: Layer I Large Axon Cell
+synonym: "L1_LAC" RELATED []
+is_a: HBP_CELL:0000033
+is_a: HBP_CELL:0000067
+created_by: telefont
+creation_date: 2014-08-06T14:54:54Z
+is_layer: "HBP_LAYER:0000001" ! Layer I
+is_size: "HBP_SIZE:large" ! TODO
+is_protein: "NCBI_GENE:16795 " ! Large
+
+[Term]
+id: HBP_CELL:0000096
+name: Layer I Small Axon Cell
+synonym: "L1_SAC" RELATED []
+is_a: HBP_CELL:0000033
+is_a: HBP_CELL:0000069
+created_by: telefont
+creation_date: 2014-08-06T14:55:00Z
+is_layer: "HBP_LAYER:0000001" ! Layer I
+is_size: "HBP_SIZE:small" ! TODO
+
+[Term]
+id: HBP_CELL:0000097
+name: Layer II/III Bipolar Cell
+synonym: "L23_BP" RELATED []
+synonym: "L2/3_BP" RELATED []
+is_a: HBP_CELL:0000033
+is_a: HBP_CELL:0000053
+created_by: telefont
+creation_date: 2014-08-06T14:58:02Z
+is_layer: "HBP_LAYER:0000111" ! Layer II/III
+is_morphology: "HBP_MORPHOLOGY:0000006" ! Bipolar
+
+[Term]
+id: HBP_CELL:0000098
+name: Layer IV Bipolar Cell
+synonym: "L4_BP" RELATED []
+is_a: HBP_CELL:0000033
+is_a: HBP_CELL:0000053
+created_by: telefont
+creation_date: 2014-08-06T14:58:20Z
+is_layer: "HBP_LAYER:0000004" ! Layer IV
+is_morphology: "HBP_MORPHOLOGY:0000006" ! Bipolar
+
+[Term]
+id: HBP_CELL:0000099
+name: Layer V Bipolar Cell
+synonym: "L5_BP" RELATED []
+is_a: HBP_CELL:0000033
+is_a: HBP_CELL:0000053
+created_by: telefont
+creation_date: 2014-08-06T14:58:34Z
+is_layer: "HBP_LAYER:0000005" ! Layer V
+is_morphology: "HBP_MORPHOLOGY:0000006" ! Bipolar
+
+[Term]
+id: HBP_CELL:0000100
+name: Layer VI Bipolar Cell
+synonym: "L6_BP" RELATED []
+is_a: HBP_CELL:0000033
+is_a: HBP_CELL:0000053
+created_by: telefont
+creation_date: 2014-08-06T14:58:46Z
+is_layer: "HBP_LAYER:0000006" ! Layer VI
+is_morphology: "HBP_MORPHOLOGY:0000006" ! Bipolar
+
+[Term]
+id: HBP_CELL:0000101
+name: Layer II/III Bitufted Cell
+synonym: "L23_BTC" RELATED []
+synonym: "L2/3_BTC" RELATED []
+is_a: HBP_CELL:0000033
+is_a: HBP_CELL:0000054
+created_by: telefont
+creation_date: 2014-08-06T14:59:10Z
+is_layer: "HBP_LAYER:0000111" ! Layer II/III
+is_morphology: "HBP_MORPHOLOGY:0000003" ! Bitufted
+
+[Term]
+id: HBP_CELL:0000102
+name: Layer IV Bitufted Cell
+synonym: "L4_BTC" RELATED []
+is_a: HBP_CELL:0000033
+is_a: HBP_CELL:0000054
+created_by: telefont
+creation_date: 2014-08-06T14:59:23Z
+is_layer: "HBP_LAYER:0000004" ! Layer IV
+is_morphology: "HBP_MORPHOLOGY:0000003" ! Bitufted
+
+[Term]
+id: HBP_CELL:0000103
+name: Layer V Bitufted Cell
+synonym: "L5_BTC" RELATED []
+is_a: HBP_CELL:0000033
+is_a: HBP_CELL:0000054
+created_by: telefont
+creation_date: 2014-08-06T14:59:31Z
+is_layer: "HBP_LAYER:0000005" ! Layer V
+is_morphology: "HBP_MORPHOLOGY:0000003" ! Bitufted
+
+[Term]
+id: HBP_CELL:0000104
+name: Layer VI Bitufted Cell
+synonym: "L6_BTC" RELATED []
+is_a: HBP_CELL:0000033
+is_a: HBP_CELL:0000054
+created_by: telefont
+creation_date: 2014-08-06T14:59:37Z
+is_layer: "HBP_LAYER:0000006" ! Layer VI
+is_morphology: "HBP_MORPHOLOGY:0000003" ! Bitufted
+
+[Term]
+id: HBP_CELL:0000105
+name: Layer II/III Chandelier Cell
+synonym: "L23_ChC" RELATED []
+synonym: "L2/3_ChC" RELATED []
+is_a: HBP_CELL:0000033
+is_a: HBP_CELL:0000060
+created_by: telefont
+creation_date: 2014-08-06T14:59:48Z
+is_layer: "HBP_LAYER:0000111" ! Layer II/III
+is_morphology: "HBP_MORPHOLOGY:0000007" ! Chandelier
+
+[Term]
+id: HBP_CELL:0000106
+name: Layer IV Chandelier Cell
+synonym: "L4_ChC" RELATED []
+is_a: HBP_CELL:0000033
+is_a: HBP_CELL:0000060
+created_by: telefont
+creation_date: 2014-08-06T15:00:08Z
+is_layer: "HBP_LAYER:0000004" ! Layer IV
+is_morphology: "HBP_MORPHOLOGY:0000007" ! Chandelier
+
+[Term]
+id: HBP_CELL:0000107
+name: Layer V Chandelier Cell
+synonym: "L5_ChC" RELATED []
+is_a: HBP_CELL:0000033
+is_a: HBP_CELL:0000060
+created_by: telefont
+creation_date: 2014-08-06T15:00:20Z
+is_layer: "HBP_LAYER:0000005" ! Layer V
+is_morphology: "HBP_MORPHOLOGY:0000007" ! Chandelier
+
+[Term]
+id: HBP_CELL:0000108
+name: Layer VI Chandelier Cell
+synonym: "L6_ChC" RELATED []
+is_a: HBP_CELL:0000033
+is_a: HBP_CELL:0000060
+created_by: telefont
+creation_date: 2014-08-06T15:00:27Z
+is_layer: "HBP_LAYER:0000006" ! Layer VI
+is_morphology: "HBP_MORPHOLOGY:0000007" ! Chandelier
+
+[Term]
+id: HBP_CELL:0000109
+name: Layer II/III Double Bouquet Cell
+synonym: "L23_DBC" RELATED []
+synonym: "L2/3_DBC" RELATED []
+is_a: HBP_CELL:0000033
+is_a: HBP_CELL:0000059
+created_by: telefont
+creation_date: 2014-08-06T15:00:34Z
+is_layer: "HBP_LAYER:0000111" ! Layer II/III
+is_morphology: "HBP_MORPHOLOGY:0000005" ! Double Bouquet
+is_morphology: "HBP_MORPHOLOGY:0000004" ! Bouquet
+
+[Term]
+id: HBP_CELL:0000110
+name: Layer IV Double Bouquet Cell
+synonym: "L4_DBC" RELATED []
+is_a: HBP_CELL:0000033
+is_a: HBP_CELL:0000059
+created_by: telefont
+creation_date: 2014-08-06T15:00:46Z
+is_layer: "HBP_LAYER:0000004" ! Layer IV
+is_morphology: "HBP_MORPHOLOGY:0000005" ! Double Bouquet
+is_morphology: "HBP_MORPHOLOGY:0000004" ! Bouquet
+
+[Term]
+id: HBP_CELL:0000111
+name: Layer V Double Bouquet Cell
+synonym: "L5_DBC" RELATED []
+is_a: HBP_CELL:0000033
+is_a: HBP_CELL:0000059
+created_by: telefont
+creation_date: 2014-08-06T15:00:54Z
+is_layer: "HBP_LAYER:0000005" ! Layer V
+is_morphology: "HBP_MORPHOLOGY:0000005" ! Double Bouquet
+is_morphology: "HBP_MORPHOLOGY:0000004" ! Bouquet
+
+[Term]
+id: HBP_CELL:0000112
+name: Layer VI Double Bouquet Cell
+synonym: "L6_DBC" RELATED []
+is_a: HBP_CELL:0000033
+is_a: HBP_CELL:0000059
+created_by: telefont
+creation_date: 2014-08-06T15:01:00Z
+is_layer: "HBP_LAYER:0000006" ! Layer VI
+is_morphology: "HBP_MORPHOLOGY:0000005" ! Double Bouquet
+is_morphology: "HBP_MORPHOLOGY:0000004" ! Bouquet
+
+[Term]
+id: HBP_CELL:0000113
+name: Layer II/III Neurogliaform Cell
+synonym: "L23_NGC" RELATED []
+synonym: "L2/3_NGC" RELATED []
+is_a: HBP_CELL:0000033
+is_a: HBP_CELL:0000056
+created_by: telefont
+creation_date: 2014-08-06T15:01:12Z
+is_layer: "HBP_LAYER:0000111" ! Layer II/III
+is_morphology: "HBP_MORPHOLOGY:0000020" ! Neurogliaform
+
+[Term]
+id: HBP_CELL:0000114
+name: Layer IV Neurogliaform Cell
+synonym: "L4_NGC" RELATED []
+is_a: HBP_CELL:0000033
+is_a: HBP_CELL:0000056
+created_by: telefont
+creation_date: 2014-08-06T15:01:23Z
+is_layer: "HBP_LAYER:0000004" ! Layer IV
+is_morphology: "HBP_MORPHOLOGY:0000020" ! Neurogliaform
+
+[Term]
+id: HBP_CELL:0000115
+name: Layer V Neurogliaform Cell
+synonym: "L5_NGC" RELATED []
+is_a: HBP_CELL:0000033
+is_a: HBP_CELL:0000056
+created_by: telefont
+creation_date: 2014-08-06T15:01:29Z
+is_layer: "HBP_LAYER:0000005" ! Layer V
+is_morphology: "HBP_MORPHOLOGY:0000020" ! Neurogliaform
+
+[Term]
+id: HBP_CELL:0000116
+name: Layer VI Neurogliaform Cell
+synonym: "L6_NGC" RELATED []
+is_a: HBP_CELL:0000033
+is_a: HBP_CELL:0000056
+created_by: telefont
+creation_date: 2014-08-06T15:01:37Z
+is_layer: "HBP_LAYER:0000006" ! Layer VI
+is_morphology: "HBP_MORPHOLOGY:0000020" ! Neurogliaform
+
+[Term]
+id: HBP_CELL:0000117
+name: Layer II/III Martinotti Cell
+synonym: "L23_MC" RELATED []
+synonym: "L2/3_MC" RELATED []
+is_a: HBP_CELL:0000033
+is_a: HBP_CELL:0000055
+created_by: telefont
+creation_date: 2014-08-06T15:02:14Z
+is_layer: "HBP_LAYER:0000111" ! Layer II/III
+is_morphology: "HBP_MORPHOLOGY:0000017" ! Martinotti
+
+[Term]
+id: HBP_CELL:0000118
+name: Layer IV Martinotti Cell
+synonym: "L4_MC" RELATED []
+is_a: HBP_CELL:0000033
+is_a: HBP_CELL:0000055
+created_by: telefont
+creation_date: 2014-08-06T15:02:24Z
+is_layer: "HBP_LAYER:0000004" ! Layer IV
+is_morphology: "HBP_MORPHOLOGY:0000017" ! Martinotti
+
+[Term]
+id: HBP_CELL:0000119
+name: Layer V Martinotti Cell
+synonym: "L5_MC" RELATED []
+is_a: HBP_CELL:0000033
+is_a: HBP_CELL:0000055
+created_by: telefont
+creation_date: 2014-08-06T15:02:34Z
+is_layer: "HBP_LAYER:0000005" ! Layer V
+is_morphology: "HBP_MORPHOLOGY:0000017" ! Martinotti
+
+[Term]
+id: HBP_CELL:0000120
+name: Layer VI Martinotti Cell
+synonym: "L6_MC" RELATED []
+is_a: HBP_CELL:0000033
+is_a: HBP_CELL:0000055
+created_by: telefont
+creation_date: 2014-08-06T15:02:42Z
+is_layer: "HBP_LAYER:0000006" ! Layer VI
+is_morphology: "HBP_MORPHOLOGY:0000017" ! Martinotti
+
+[Term]
+id: HBP_CELL:0000121
+name: Layer II/III Large Basket Cell
+synonym: "L23_LBC" RELATED []
+synonym: "L2/3_LBC" RELATED []
+is_a: HBP_CELL:0000033
+is_a: HBP_CELL:0000063
+created_by: telefont
+creation_date: 2014-08-06T15:03:18Z
+is_layer: "HBP_LAYER:0000111" ! Layer II/III
+is_size: "HBP_SIZE:large" ! TODO
+is_protein: "NCBI_GENE:16795 " ! Large
+is_morphology: "HBP_MORPHOLOGY:0000019" ! Basket
+
+[Term]
+id: HBP_CELL:0000122
+name: Layer IV Large Basket Cell
+synonym: "L4_LBC" RELATED []
+is_a: HBP_CELL:0000033
+is_a: HBP_CELL:0000063
+created_by: telefont
+creation_date: 2014-08-06T15:03:29Z
+is_layer: "HBP_LAYER:0000004" ! Layer IV
+is_size: "HBP_SIZE:large" ! TODO
+is_protein: "NCBI_GENE:16795 " ! Large
+is_morphology: "HBP_MORPHOLOGY:0000019" ! Basket
+
+[Term]
+id: HBP_CELL:0000123
+name: Layer V Large Basket Cell
+synonym: "L5_LBC" RELATED []
+is_a: HBP_CELL:0000033
+is_a: HBP_CELL:0000063
+created_by: telefont
+creation_date: 2014-08-06T15:03:37Z
+is_layer: "HBP_LAYER:0000005" ! Layer V
+is_size: "HBP_SIZE:large" ! TODO
+is_protein: "NCBI_GENE:16795 " ! Large
+is_morphology: "HBP_MORPHOLOGY:0000019" ! Basket
+
+[Term]
+id: HBP_CELL:0000124
+name: Layer VI Large Basket Cell
+synonym: "L6_LBC" RELATED []
+is_a: HBP_CELL:0000033
+is_a: HBP_CELL:0000063
+created_by: telefont
+creation_date: 2014-08-06T15:03:43Z
+is_layer: "HBP_LAYER:0000006" ! Layer VI
+is_size: "HBP_SIZE:large" ! TODO
+is_protein: "NCBI_GENE:16795 " ! Large
+is_morphology: "HBP_MORPHOLOGY:0000019" ! Basket
+
+[Term]
+id: HBP_CELL:0000125
+name: Layer II/III Nest Basket Cell
+synonym: "L23_NBC" RELATED []
+synonym: "L2/3_NBC" RELATED []
+is_a: HBP_CELL:0000033
+is_a: HBP_CELL:0000064
+created_by: telefont
+creation_date: 2014-08-06T15:04:01Z
+is_layer: "HBP_LAYER:0000111" ! Layer II/III
+is_morphology: "HBP_MORPHOLOGY:0000019" ! Basket
+
+[Term]
+id: HBP_CELL:0000126
+name: Layer II/III Small Basket Cell
+synonym: "L23_SBC" RELATED []
+synonym: "L2/3_SBC" RELATED []
+is_a: HBP_CELL:0000033
+is_a: HBP_CELL:0000062
+created_by: telefont
+creation_date: 2014-08-06T15:04:13Z
+is_layer: "HBP_LAYER:0000111" ! Layer II/III
+is_size: "HBP_SIZE:small" ! TODO
+is_morphology: "HBP_MORPHOLOGY:0000019" ! Basket
+
+[Term]
+id: HBP_CELL:0000127
+name: Layer IV Small Basket Cell
+synonym: "L4_SBC" RELATED []
+is_a: HBP_CELL:0000033
+is_a: HBP_CELL:0000062
+created_by: telefont
+creation_date: 2014-08-06T15:04:20Z
+is_layer: "HBP_LAYER:0000004" ! Layer IV
+is_size: "HBP_SIZE:small" ! TODO
+is_morphology: "HBP_MORPHOLOGY:0000019" ! Basket
+
+[Term]
+id: HBP_CELL:0000128
+name: Layer V Small Basket Cell
+synonym: "L5_SBC" RELATED []
+is_a: HBP_CELL:0000033
+is_a: HBP_CELL:0000062
+created_by: telefont
+creation_date: 2014-08-06T15:04:35Z
+is_layer: "HBP_LAYER:0000005" ! Layer V
+is_size: "HBP_SIZE:small" ! TODO
+is_morphology: "HBP_MORPHOLOGY:0000019" ! Basket
+
+[Term]
+id: HBP_CELL:0000129
+name: Layer VI Small Basket Cell
+synonym: "L6_SBC" RELATED []
+is_a: HBP_CELL:0000033
+is_a: HBP_CELL:0000062
+created_by: telefont
+creation_date: 2014-08-06T15:04:43Z
+is_layer: "HBP_LAYER:0000006" ! Layer VI
+is_size: "HBP_SIZE:small" ! TODO
+is_morphology: "HBP_MORPHOLOGY:0000019" ! Basket
+
+[Term]
+id: HBP_CELL:0000130
+name: Layer IV Nest Basket Cell
+synonym: "L4_NBC" RELATED []
+is_a: HBP_CELL:0000033
+is_a: HBP_CELL:0000064
+created_by: telefont
+creation_date: 2014-08-06T15:04:55Z
+is_layer: "HBP_LAYER:0000004" ! Layer IV
+is_morphology: "HBP_MORPHOLOGY:0000019" ! Basket
+
+[Term]
+id: HBP_CELL:0000131
+name: Layer V Nest Basket Cell
+synonym: "L5_NBC" RELATED []
+is_a: HBP_CELL:0000033
+is_a: HBP_CELL:0000064
+created_by: telefont
+creation_date: 2014-08-06T15:05:04Z
+is_layer: "HBP_LAYER:0000005" ! Layer V
+is_morphology: "HBP_MORPHOLOGY:0000019" ! Basket
+
+[Term]
+id: HBP_CELL:0000132
+name: Layer VI Nest Basket Cell
+synonym: "L6_NBC" RELATED []
+is_a: HBP_CELL:0000033
+is_a: HBP_CELL:0000064
+created_by: telefont
+creation_date: 2014-08-06T15:05:28Z
+is_layer: "HBP_LAYER:0000006" ! Layer VI
+is_morphology: "HBP_MORPHOLOGY:0000019" ! Basket
+
+[Term]
+id: HBP_CELL:0000133
+name: GABAergic interneuron
+created_by: clark
+is_neurotransmitter: "HBP_NEUROTRANSMITTER:0000003" ! GABAergic
