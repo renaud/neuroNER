@@ -1,0 +1,381 @@
+Nest Basket Cell (HBP_CELL:0000064)
+* Bed nucleus of the stria terminalis basket neuron (0.57, BAMSC988)
+* Neocortex basket cell (0.57, nifext_56)
+
+Cajal-Retzius cell like cell (HBP_CELL:0000061)
+* Neocortex Cajal-Retzius cell (0.57, nlx_cell_20081206)
+
+Chandelier Cell (HBP_CELL:0000060)
+* Bed nucleus of the stria terminalis spiny neuron with chandelier-like axon (0.44, BAMSC992)
+* Neocortex chandelier cell (0.57, nifext_57)
+
+Large Basket Cell (HBP_CELL:0000063)
+* Bed nucleus of the stria terminalis basket neuron (0.57, BAMSC988)
+* Neocortex basket cell (0.57, nifext_56)
+
+Small Basket Cell (HBP_CELL:0000062)
+* Bed nucleus of the stria terminalis basket neuron (0.57, BAMSC988)
+* Neocortex basket cell (0.57, nifext_56)
+
+Layer V Neurogliaform Cell (HBP_CELL:0000115)
+* Neocortex pyramidal cell layer 5-6 (0.47, nifext_50)
+
+Layer IV Neurogliaform Cell (HBP_CELL:0000114)
+* Neocortex stellate layer 4 cell (0.6, nifext_53)
+* Neocortex Dorsolateral prefrontal area layer 4 Calbindin cell (0.54, nlx_156750)
+
+Layer II/III Martinotti Cell (HBP_CELL:0000117)
+* Neocortex pyramidal layer 2-3 cell (0.58, nifext_49)
+
+Layer VI Neurogliaform Cell (HBP_CELL:0000116)
+* Neocortex pyramidal cell layer 5-6 (0.47, nifext_50)
+
+Horizontal Axon Cell (HBP_CELL:0000068)
+* Olfactory cortex horizontal cell (0.8, nifext_118)
+* Retina horizontal cell (0.8, nifext_40)
+* Horizontal fiber system neuron (1.0, nlx_147369)
+* Retina thick dendrite horizontal cell (0.8, nlx_152141)
+
+Layer II/III Neurogliaform Cell (HBP_CELL:0000113)
+* Neocortex pyramidal layer 2-3 cell (0.58, nifext_49)
+
+Layer VI Double Bouquet Cell (HBP_CELL:0000112)
+* Neocortex pyramidal cell layer 5-6 (0.47, nifext_50)
+
+Layer V Martinotti Cell (HBP_CELL:0000119)
+* Neocortex pyramidal cell layer 5-6 (0.47, nifext_50)
+
+Layer IV Martinotti Cell (HBP_CELL:0000118)
+* Neocortex stellate layer 4 cell (0.6, nifext_53)
+* Neocortex Martinotti cell (0.32, nifext_55)
+* Neocortex Dorsolateral prefrontal area layer 4 Calbindin cell (0.54, nlx_156750)
+
+Layer IV Bipolar Cell (HBP_CELL:0000098)
+* Retina type 2 cone bipolar cell (0.32, BAMSC1016)
+* Retina type 3 cone bipolar cell (0.32, BAMSC1017)
+* Retina type 4 cone bipolar cell (0.32, BAMSC1018)
+* Retina type 5 cone bipolar cell (0.32, BAMSC1019)
+* Retina type 6 cone bipolar cell (0.32, BAMSC1020)
+
+Layer V Bipolar Cell (HBP_CELL:0000099)
+* Retina type 2 cone bipolar cell (0.32, BAMSC1016)
+* Retina type 3 cone bipolar cell (0.32, BAMSC1017)
+* Retina type 4 cone bipolar cell (0.32, BAMSC1018)
+* Retina type 5 cone bipolar cell (0.32, BAMSC1019)
+* Retina type 6 cone bipolar cell (0.32, BAMSC1020)
+
+Layer I Neurogliaform Cell with Dense Axonal Arbour (HBP_CELL:0000091)
+* Neocortex Dorsolateral Prefrontal Area layer 1 parvalbumin cell (0.54, nlx_157255)
+* Hippocampus CA1 neurogliaform neuron (0.32, nlx_cell_1006031)
+
+Layer I Neurogliaform Cell with Sparse Axon Arbour (HBP_CELL:0000092)
+* Neocortex Dorsolateral Prefrontal Area layer 1 parvalbumin cell (0.54, nlx_157255)
+* Hippocampus CA1 neurogliaform neuron (0.32, nlx_cell_1006031)
+
+Layer I Descending Axon Cell (HBP_CELL:0000093)
+* Neocortex Dorsolateral Prefrontal Area layer 1 parvalbumin cell (0.6, nlx_157255)
+
+Layer I Horizontal Axon Cell (HBP_CELL:0000094)
+* Olfactory cortex horizontal cell (0.39, nifext_118)
+* Retina horizontal cell (0.39, nifext_40)
+* Horizontal fiber system neuron (0.43, nlx_147369)
+* Retina thick dendrite horizontal cell (0.39, nlx_152141)
+
+Layer I Large Axon Cell (HBP_CELL:0000095)
+* Neocortex Dorsolateral Prefrontal Area layer 1 parvalbumin cell (0.6, nlx_157255)
+
+Layer I Small Axon Cell (HBP_CELL:0000096)
+* Neocortex Dorsolateral Prefrontal Area layer 1 parvalbumin cell (0.6, nlx_157255)
+
+Layer II/III Bipolar Cell (HBP_CELL:0000097)
+* Retina type 2 cone bipolar cell (0.34, BAMSC1016)
+* Retina type 3 cone bipolar cell (0.34, BAMSC1017)
+* Retina type 4 cone bipolar cell (0.34, BAMSC1018)
+* Retina type 5 cone bipolar cell (0.34, BAMSC1019)
+* Retina type 6 cone bipolar cell (0.34, BAMSC1020)
+
+neuron expressing Calbindin (HBP_CELL:0000014)
+* Neocortex Dorsolateral prefrontal area layer 2 Calbindin cell (0.28, nlx_156739)
+* Neocortex Dorsolateral prefrontal area layer 3 Calbindin cell (0.28, nlx_156749)
+
+neuron expressing Somatostatin (HBP_CELL:0000015)
+* Neostriatum SOM/NOS cell (0.44, nifext_144)
+
+neuron expressing Parvalbumin (HBP_CELL:0000016)
+* Neostriatum gaba/parvalbumin interneuron (0.44, nifext_143)
+* Amygdala basolateral nuclear complex nonpyramidal PV chandelier cell (0.33, nlx_149091)
+* Neocortex Dorsolateral Prefrontal Area layer 1 parvalbumin cell (0.28, nlx_157255)
+
+pyramidal cell (HBP_CELL:0000018)
+* Colliculus superior pyramidal cell (0.8, BAMSC1123)
+* Colliculus superior inverted pyramidal cell (0.8, BAMSC1124)
+* Bed nucleus of the stria terminalis small pyramidal neuron (0.57, BAMSC987)
+
+Layer II/III Double Bouquet Cell (HBP_CELL:0000109)
+* Neocortex pyramidal layer 2-3 cell (0.58, nifext_49)
+
+Layer VI Bipolar Cell (HBP_CELL:0000100)
+* Retina type 2 cone bipolar cell (0.32, BAMSC1016)
+* Retina type 3 cone bipolar cell (0.32, BAMSC1017)
+* Retina type 4 cone bipolar cell (0.32, BAMSC1018)
+* Retina type 5 cone bipolar cell (0.32, BAMSC1019)
+* Retina type 6 cone bipolar cell (0.32, BAMSC1020)
+
+Layer II/III Bitufted Cell (HBP_CELL:0000101)
+* Neocortex pyramidal layer 2-3 cell (0.58, nifext_49)
+
+Tufted Pyramidal Cell towards Layer I (HBP_CELL:0000036)
+* Colliculus superior pyramidal cell (0.32, BAMSC1123)
+* Colliculus superior inverted pyramidal cell (0.32, BAMSC1124)
+* Bed nucleus of the stria terminalis small pyramidal neuron (0.28, BAMSC987)
+
+Thick Tufted Pyramidal Cell (HBP_CELL:0000037)
+* Colliculus superior pyramidal cell (0.57, BAMSC1123)
+* Colliculus superior inverted pyramidal cell (0.57, BAMSC1124)
+* Bed nucleus of the stria terminalis small pyramidal neuron (0.44, BAMSC987)
+
+Tufted Pyramidal Cell towards Layer IV (HBP_CELL:0000035)
+* Colliculus superior pyramidal cell (0.32, BAMSC1123)
+* Colliculus superior inverted pyramidal cell (0.32, BAMSC1124)
+* Bed nucleus of the stria terminalis small pyramidal neuron (0.28, BAMSC987)
+
+Narrow Pyramidal Cell projecting to thalamus (HBP_CELL:0000032)
+* Colliculus superior pyramidal cell (0.5, BAMSC1123)
+* Colliculus superior inverted pyramidal cell (0.5, BAMSC1124)
+* Bed nucleus of the stria terminalis small pyramidal neuron (0.4, BAMSC987)
+
+Horizontal Pyramidal Cell (HBP_CELL:0000030)
+* Colliculus superior pyramidal cell (0.57, BAMSC1123)
+* Colliculus superior inverted pyramidal cell (0.57, BAMSC1124)
+* Bed nucleus of the stria terminalis small pyramidal neuron (0.44, BAMSC987)
+
+Bipolar Pyramidal Cell (HBP_CELL:0000031)
+* Retina type 2 cone bipolar cell (0.44, BAMSC1016)
+* Retina type 3 cone bipolar cell (0.44, BAMSC1017)
+* Retina type 4 cone bipolar cell (0.44, BAMSC1018)
+* Retina type 5 cone bipolar cell (0.44, BAMSC1019)
+* Retina type 6 cone bipolar cell (0.44, BAMSC1020)
+
+Slender Tufted Pyramidal Cell (HBP_CELL:0000038)
+* Colliculus superior pyramidal cell (0.57, BAMSC1123)
+* Colliculus superior inverted pyramidal cell (0.57, BAMSC1124)
+* Bed nucleus of the stria terminalis small pyramidal neuron (0.44, BAMSC987)
+
+Early bifurcating Thick Tufted Pyramidal Cell (HBP_CELL:0000039)
+* Colliculus superior pyramidal cell (0.44, BAMSC1123)
+* Colliculus superior inverted pyramidal cell (0.44, BAMSC1124)
+* Bed nucleus of the stria terminalis small pyramidal neuron (0.36, BAMSC987)
+
+Layer VI Pyramidal Cell (HBP_CELL:0000029)
+* Colliculus superior pyramidal cell (0.39, BAMSC1123)
+* Colliculus superior inverted pyramidal cell (0.39, BAMSC1124)
+* Bed nucleus of the stria terminalis small pyramidal neuron (0.32, BAMSC987)
+
+Layer II/III Pyramidal Cell (HBP_CELL:0000028)
+* Colliculus superior pyramidal cell (0.41, BAMSC1123)
+* Colliculus superior inverted pyramidal cell (0.41, BAMSC1124)
+* Bed nucleus of the stria terminalis small pyramidal neuron (0.34, BAMSC987)
+
+tufted pyramidal cell (HBP_CELL:0000023)
+* Colliculus superior pyramidal cell (0.57, BAMSC1123)
+* Colliculus superior inverted pyramidal cell (0.57, BAMSC1124)
+* Bed nucleus of the stria terminalis small pyramidal neuron (0.44, BAMSC987)
+
+GABAergic neuron (HBP_CELL:0000022)
+* Neostriatum gaba/parvalbumin interneuron (0.44, nifext_143)
+* Substantia nigra pars reticulata interneuron GABA (0.5, nifext_147)
+
+Spiny Stellate Cell (HBP_CELL:0000025)
+* Colliculus superior stellate neuron (0.57, BAMSC1129)
+* Superior colliculus stellate cell of the zone of vertical cells (0.44, BAMSC1131)
+* Superior colliculus stellate cell of the zone of optic fibers (0.5, BAMSC1132)
+* Bed nucleus of the stria terminalis spiny bipolar neuron (0.36, BAMSC986)
+
+Untufted Pyramidal Cell (HBP_CELL:0000024)
+* Colliculus superior pyramidal cell (0.57, BAMSC1123)
+* Colliculus superior inverted pyramidal cell (0.57, BAMSC1124)
+* Bed nucleus of the stria terminalis small pyramidal neuron (0.44, BAMSC987)
+
+Star Pyramidal Cell (HBP_CELL:0000027)
+* Colliculus superior pyramidal cell (0.8, BAMSC1123)
+* Colliculus superior inverted pyramidal cell (0.8, BAMSC1124)
+* Bed nucleus of the stria terminalis small pyramidal neuron (0.57, BAMSC987)
+
+Layer 4 Spiny Stellate Cell (HBP_CELL:0000026)
+* Colliculus superior stellate neuron (0.32, BAMSC1129)
+* Superior colliculus stellate cell of the zone of vertical cells (0.28, BAMSC1131)
+* Superior colliculus stellate cell of the zone of optic fibers (0.3, BAMSC1132)
+* Bed nucleus of the stria terminalis spiny bipolar neuron (0.24, BAMSC986)
+
+Layer VI Large Basket Cell (HBP_CELL:0000124)
+* Bed nucleus of the stria terminalis basket neuron (0.32, BAMSC988)
+* Neocortex pyramidal cell layer 5-6 (0.47, nifext_50)
+
+Layer II/III Nest Basket Cell (HBP_CELL:0000125)
+* Bed nucleus of the stria terminalis basket neuron (0.34, BAMSC988)
+* Neocortex pyramidal layer 2-3 cell (0.58, nifext_49)
+
+Layer II/III Small Basket Cell (HBP_CELL:0000126)
+* Bed nucleus of the stria terminalis basket neuron (0.34, BAMSC988)
+* Neocortex pyramidal layer 2-3 cell (0.58, nifext_49)
+
+Layer IV Small Basket Cell (HBP_CELL:0000127)
+* Bed nucleus of the stria terminalis basket neuron (0.32, BAMSC988)
+* Neocortex stellate layer 4 cell (0.6, nifext_53)
+
+Layer VI Martinotti Cell (HBP_CELL:0000120)
+* Neocortex pyramidal cell layer 5-6 (0.47, nifext_50)
+
+Layer II/III Large Basket Cell (HBP_CELL:0000121)
+* Bed nucleus of the stria terminalis basket neuron (0.34, BAMSC988)
+* Neocortex pyramidal layer 2-3 cell (0.58, nifext_49)
+
+Layer IV Large Basket Cell (HBP_CELL:0000122)
+* Bed nucleus of the stria terminalis basket neuron (0.32, BAMSC988)
+* Neocortex stellate layer 4 cell (0.6, nifext_53)
+
+Layer V Large Basket Cell (HBP_CELL:0000123)
+* Bed nucleus of the stria terminalis basket neuron (0.32, BAMSC988)
+* Neocortex pyramidal cell layer 5-6 (0.47, nifext_50)
+
+Layer V Small Basket Cell (HBP_CELL:0000128)
+* Bed nucleus of the stria terminalis basket neuron (0.32, BAMSC988)
+* Neocortex pyramidal cell layer 5-6 (0.47, nifext_50)
+
+Layer VI Small Basket Cell (HBP_CELL:0000129)
+* Bed nucleus of the stria terminalis basket neuron (0.32, BAMSC988)
+* Neocortex pyramidal cell layer 5-6 (0.47, nifext_50)
+
+Neurogliaform Cell with Dense Axonal Arbours (HBP_CELL:0000058)
+* Hippocampus CA1 neurogliaform neuron (0.57, nlx_cell_1006031)
+
+Martinotti Cell (HBP_CELL:0000055)
+* Neocortex Martinotti cell (0.57, nifext_55)
+
+Neurogliaform Cell (HBP_CELL:0000056)
+* Hippocampus CA1 neurogliaform neuron (0.57, nlx_cell_1006031)
+
+Neurogliaform Cell with Sparse Axonal Arbours (HBP_CELL:0000057)
+* Hippocampus CA1 neurogliaform neuron (0.57, nlx_cell_1006031)
+
+Layer V Slender Tufted Pyramidal Cell (HBP_CELL:0000050)
+* Colliculus superior pyramidal cell (0.32, BAMSC1123)
+* Colliculus superior inverted pyramidal cell (0.32, BAMSC1124)
+* Bed nucleus of the stria terminalis small pyramidal neuron (0.28, BAMSC987)
+
+Layer VI Tufted Pyramidal Cell towards Layer I (HBP_CELL:0000051)
+* Colliculus superior pyramidal cell (0.31, BAMSC1123)
+* Colliculus superior inverted pyramidal cell (0.31, BAMSC1124)
+* Bed nucleus of the stria terminalis small pyramidal neuron (0.27, BAMSC987)
+
+Basket Cell (HBP_CELL:0000052)
+* Bed nucleus of the stria terminalis basket neuron (0.57, BAMSC988)
+* Neocortex basket cell (0.57, nifext_56)
+
+Bipolar Cell (HBP_CELL:0000053)
+* Retina type 2 cone bipolar cell (0.57, BAMSC1016)
+* Retina type 3 cone bipolar cell (0.57, BAMSC1017)
+* Retina type 4 cone bipolar cell (0.57, BAMSC1018)
+* Retina type 5 cone bipolar cell (0.57, BAMSC1019)
+* Retina type 6 cone bipolar cell (0.57, BAMSC1020)
+
+GABAergic interneuron (HBP_CELL:0000133)
+* Neostriatum gaba/parvalbumin interneuron (0.44, nifext_143)
+* Substantia nigra pars reticulata interneuron GABA (0.5, nifext_147)
+
+Layer VI Nest Basket Cell (HBP_CELL:0000132)
+* Bed nucleus of the stria terminalis basket neuron (0.32, BAMSC988)
+* Neocortex pyramidal cell layer 5-6 (0.47, nifext_50)
+
+Layer V Nest Basket Cell (HBP_CELL:0000131)
+* Bed nucleus of the stria terminalis basket neuron (0.32, BAMSC988)
+* Neocortex pyramidal cell layer 5-6 (0.47, nifext_50)
+
+Layer IV Nest Basket Cell (HBP_CELL:0000130)
+* Bed nucleus of the stria terminalis basket neuron (0.32, BAMSC988)
+* Neocortex stellate layer 4 cell (0.6, nifext_53)
+
+Layer VI Chandelier Cell (HBP_CELL:0000108)
+* Bed nucleus of the stria terminalis spiny neuron with chandelier-like axon (0.28, BAMSC992)
+* Neocortex pyramidal cell layer 5-6 (0.47, nifext_50)
+
+Layer V Double Bouquet Cell (HBP_CELL:0000111)
+* Neocortex pyramidal cell layer 5-6 (0.47, nifext_50)
+
+Layer V Untufted Pyramidal Cell (HBP_CELL:0000049)
+* Colliculus superior pyramidal cell (0.32, BAMSC1123)
+* Colliculus superior inverted pyramidal cell (0.32, BAMSC1124)
+* Bed nucleus of the stria terminalis small pyramidal neuron (0.28, BAMSC987)
+
+Layer V Early bifurcating Thick Tufted Pyramidal Cell (HBP_CELL:0000048)
+* Colliculus superior pyramidal cell (0.28, BAMSC1123)
+* Colliculus superior inverted pyramidal cell (0.28, BAMSC1124)
+* Bed nucleus of the stria terminalis small pyramidal neuron (0.24, BAMSC987)
+
+Layer VI Bipolar Pyramidal Cell (HBP_CELL:0000047)
+* Retina type 2 cone bipolar cell (0.28, BAMSC1016)
+* Retina type 3 cone bipolar cell (0.28, BAMSC1017)
+* Retina type 4 cone bipolar cell (0.28, BAMSC1018)
+* Retina type 5 cone bipolar cell (0.28, BAMSC1019)
+* Retina type 6 cone bipolar cell (0.28, BAMSC1020)
+
+Layer VI Inverted Pyramidal Cell (HBP_CELL:0000046)
+* Colliculus superior pyramidal cell (0.39, BAMSC1123)
+* Colliculus superior inverted pyramidal cell (0.39, BAMSC1124)
+* Bed nucleus of the stria terminalis small pyramidal neuron (0.32, BAMSC987)
+
+Layer VI Untufted Pyramidal Cell (HBP_CELL:0000045)
+* Colliculus superior pyramidal cell (0.32, BAMSC1123)
+* Colliculus superior inverted pyramidal cell (0.32, BAMSC1124)
+* Bed nucleus of the stria terminalis small pyramidal neuron (0.28, BAMSC987)
+
+Layer V Late bifurcating Thick Tufted Pyramidal Cell (HBP_CELL:0000044)
+* Colliculus superior pyramidal cell (0.32, BAMSC1123)
+* Colliculus superior inverted pyramidal cell (0.32, BAMSC1124)
+* Bed nucleus of the stria terminalis small pyramidal neuron (0.28, BAMSC987)
+
+Layer VI Tufted Pyramidal Cell towards Layer IV (HBP_CELL:0000043)
+* Colliculus superior pyramidal cell (0.31, BAMSC1123)
+* Colliculus superior inverted pyramidal cell (0.31, BAMSC1124)
+* Bed nucleus of the stria terminalis small pyramidal neuron (0.27, BAMSC987)
+
+Inverted Pyramidal Cell (HBP_CELL:0000042)
+* Colliculus superior pyramidal cell (0.8, BAMSC1123)
+* Colliculus superior inverted pyramidal cell (0.8, BAMSC1124)
+* Bed nucleus of the stria terminalis small pyramidal neuron (0.57, BAMSC987)
+
+Untufted Slender Pyramidal Cell (HBP_CELL:0000041)
+* Colliculus superior pyramidal cell (0.44, BAMSC1123)
+* Colliculus superior inverted pyramidal cell (0.44, BAMSC1124)
+* Bed nucleus of the stria terminalis small pyramidal neuron (0.36, BAMSC987)
+
+Late bifurcating Thick Tufted Pyramidal Cell (HBP_CELL:0000040)
+* Colliculus superior pyramidal cell (0.57, BAMSC1123)
+* Colliculus superior inverted pyramidal cell (0.57, BAMSC1124)
+* Bed nucleus of the stria terminalis small pyramidal neuron (0.44, BAMSC987)
+
+Layer IV Bitufted Cell (HBP_CELL:0000102)
+* Neocortex stellate layer 4 cell (0.6, nifext_53)
+* Neocortex Dorsolateral prefrontal area layer 4 Calbindin cell (0.54, nlx_156750)
+
+Layer V Bitufted Cell (HBP_CELL:0000103)
+* Neocortex pyramidal cell layer 5-6 (0.47, nifext_50)
+
+Layer IV Chandelier Cell (HBP_CELL:0000106)
+* Bed nucleus of the stria terminalis spiny neuron with chandelier-like axon (0.28, BAMSC992)
+* Neocortex stellate layer 4 cell (0.6, nifext_53)
+
+Layer V Chandelier Cell (HBP_CELL:0000107)
+* Bed nucleus of the stria terminalis spiny neuron with chandelier-like axon (0.28, BAMSC992)
+* Neocortex pyramidal cell layer 5-6 (0.47, nifext_50)
+
+Layer VI Bitufted Cell (HBP_CELL:0000104)
+* Neocortex pyramidal cell layer 5-6 (0.47, nifext_50)
+
+Layer II/III Chandelier Cell (HBP_CELL:0000105)
+* Bed nucleus of the stria terminalis spiny neuron with chandelier-like axon (0.29, BAMSC992)
+* Neocortex pyramidal layer 2-3 cell (0.58, nifext_49)
+
+Layer IV Double Bouquet Cell (HBP_CELL:0000110)
+* Neocortex stellate layer 4 cell (0.6, nifext_53)
+* Neocortex Dorsolateral prefrontal area layer 4 Calbindin cell (0.54, nlx_156750)
