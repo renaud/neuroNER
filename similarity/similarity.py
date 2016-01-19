@@ -136,6 +136,7 @@ in:  n1@[], n2@[]: the two neurons to measure similarity
 out: (score:float, [([matching_properties, explanation@str])])
 '''
 def similarity2(n1, n2, weights=WEIGHTS, symmetric=True, use_inter_similarity=True):
+    # TODO assert type(n1) is array
     s_intra = similarity_intra._similarity_intra(n1, n2, weights, symmetric)
     if not use_inter_similarity:
         return s_intra

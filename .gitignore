@@ -53,3 +53,5 @@ docs/_build/
 # PyBuilder
 target/
 #########################################################
+similarity/.ipynb_checkpoints
+similarity/hbp_neurolex/.ipynb_checkpoints
