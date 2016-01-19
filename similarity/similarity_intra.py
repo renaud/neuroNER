@@ -296,7 +296,11 @@ def _similarity_intra(n1, n2, weights, symmetric):
     #   for first entered neuron
 
     # calculate base similarity
-    (sim_intra_base_first, exp) = _calc_base_similarity_intra(n1, n1, weights)
+    '''  in general what the variable sim_intra_base_first and sim_intra_base_second
+    do is provide a "max score" for the highest possible similarity given an input term.
+    These terms go into a denominator which make sure that the returned
+    sim_intra_norm score is between 0 and 1'''
+    (sim_intra_base_first,  exp) = _calc_base_similarity_intra(n1, n1, weights)
     (sim_intra_base_second, exp) = _calc_base_similarity_intra(n2, n2, weights)
     if sim_intra_base_first == 0.0:
         sim_intra_base_first = 1.0
