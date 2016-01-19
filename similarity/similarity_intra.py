@@ -46,7 +46,7 @@ class LayerSimilarity(object):
     returns .5 if both neurons share a similar layer, e.g. 'layer2/3' and 'layer 2A', else 0
     '''
     def similarity(self, n1, n2):
-        BASE_MULTIPLIER = 1.5
+        BASE_MULTIPLIER = 2
         # HBP_LAYER:0000101 (layer 1-2) --> [1,2]
         def neuron2layer_numbers(neuron):
             layer_numbers = []
@@ -139,6 +139,7 @@ class BrainRegionSimilarity(object):
             return (0, []) # no regions in both neurons
 
 
+
 class MorphologySimilarity(object):
     """LayerSimilarity: similarity """
     PREFIX = 'HBP_MORPHOLOGY'
@@ -171,7 +172,7 @@ class MouseLineSimilarity(object):
     returns number of shared terms if both neurons share same mouse line, else 0
     '''
     def similarity(self, n1, n2):
-        BASE_MULTIPLIER = 2.5
+        BASE_MULTIPLIER = 2
         def neuron2line(neuron):
             morphologies = []
             for n in neuron:

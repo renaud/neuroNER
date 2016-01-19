@@ -5262,6 +5262,7 @@ synonym: "Lingula (I)" []
 id: ABA_REGION:993
 name: Secondary motor area
 synonym: "Secondary motor area" []
+synonym: "secondary motor cortex" []
 
 [Term]
 id: ABA_REGION:992
