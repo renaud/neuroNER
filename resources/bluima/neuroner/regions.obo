@@ -8086,10 +8086,6 @@ id: UNKN_REGION:2021
 name: nucleus tractus mesencephalici nervi trigemini
 
 [Term]
-id: UNKN_REGION:2022
-name: layer iii
-
-[Term]
 id: UNKN_REGION:2023
 name: ventral secondary ascending tract of  v
 
@@ -8460,10 +8456,6 @@ name: stria longitudinalis interna
 [Term]
 id: UNKN_REGION:2115
 name: centromedian nucleus
-
-[Term]
-id: UNKN_REGION:2116
-name: layer v
 
 [Term]
 id: UNKN_REGION:2117
@@ -9340,10 +9332,6 @@ name: tonsilla
 [Term]
 id: UNKN_REGION:2335
 name: cerebral commissural fibers
-
-[Term]
-id: UNKN_REGION:2336
-name: layer vi
 
 [Term]
 id: UNKN_REGION:2337
@@ -11622,10 +11610,6 @@ id: UNKN_REGION:2905
 name: nucleus of the optic tract *rat added*
 
 [Term]
-id: UNKN_REGION:2906
-name: layer i
-
-[Term]
 id: UNKN_REGION:2907
 name: dentate gyrus medial blade
 
@@ -13900,10 +13884,6 @@ name: middle lobe-1 of cerebellum
 [Term]
 id: UNKN_REGION:3475
 name: nucleus colliculus superioris
-
-[Term]
-id: UNKN_REGION:3476
-name: layer ii
 
 [Term]
 id: UNKN_REGION:3477
@@ -16310,10 +16290,6 @@ id: UNKN_REGION:4077
 name: posterior parolfactory sulcus
 
 [Term]
-id: UNKN_REGION:4078
-name: layer iv
-
-[Term]
 id: UNKN_REGION:4079
 name: dentate gyrus, crest-granule cell layer
 
@@ -16704,10 +16680,6 @@ name: regio septalis
 [Term]
 id: UNKN_REGION:4176
 name: septum
-
-[Term]
-id: UNKN_REGION:4177
-name: layer vii
 
 [Term]
 id: UNKN_REGION:4178
@@ -24396,10 +24368,6 @@ name: posterior column medullary relay nuclei
 [Term]
 id: UNKN_REGION:6099
 name: sulcus calcarinus superior
-
-[Term]
-id: UNKN_REGION:6100
-name: layer vi
 
 [Term]
 id: UNKN_REGION:6101
