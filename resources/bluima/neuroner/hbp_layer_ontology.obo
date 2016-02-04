@@ -1,0 +1,1509 @@
+format-version: 1.2
+data-version: 0.1
+date: 23:01:2015 15:31
+saved-by: renaud.richardet@epfl.ch
+default-namespace: HBP_LAYER
+ontology: HBP Neocortex Layer
+
+synonymtypedef: ALTERNATE_SPELLING "alternate spelling" EXACT
+synonymtypedef: ALTERNATE_PLURAL_SPELLING "alternate plural spelling" EXACT
+synonymtypedef: MISSPELLING "misspelling" RELATED
+synonymtypedef: PLURAL "plural term" EXACT
+synonymtypedef: ACRONYM "acronym" BROAD
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!! single layers
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+[Term]
+id: HBP_LAYER:0000001
+name: layer 1
+acronym: L1
+rsynonym: "[Ll]ayer[- ]?[1I]" EXACT ALTERNATE_SPELLING []
+synonym: "Layer I"
+synonym: "layerI"
+synonym: "layer-I"
+synonym: "Layer-I"
+synonym: "layer I"
+synonym: "LayerI"
+synonym: "layer-1"
+synonym: "layer1"
+synonym: "Layer 1"
+synonym: "layer 1"
+synonym: "Layer-1"
+synonym: "Layer1"
+rsynonym: "[Ll]1" BROAD ACRONYM []
+synonym: "L1"
+synonym: "l1"
+
+[Term]
+id: HBP_LAYER:0000002
+name: layer 2
+acronym: L2
+rsynonym: "[Ll]ayer[- ]?(2|II)" EXACT ALTERNATE_SPELLING []
+synonym: "layer-II"
+synonym: "layer II"
+synonym: "layer-2"
+synonym: "LayerII"
+synonym: "layer2"
+synonym: "Layer 2"
+synonym: "layer 2"
+synonym: "Layer II"
+synonym: "Layer2"
+synonym: "layerII"
+synonym: "Layer-2"
+synonym: "Layer-II"
+rsynonym: "[Ll]2" BROAD ACRONYM []
+synonym: "L2"
+synonym: "l2"
+
+[Term]
+id: HBP_LAYER:0000003
+name: layer 3
+acronym: L3
+rsynonym: "[Ll]ayer[- ]?(3|III)" EXACT ALTERNATE_SPELLING []
+synonym: "layerIII"
+synonym: "layer-III"
+synonym: "Layer-III"
+synonym: "layer3"
+synonym: "layer III"
+synonym: "layer-3"
+synonym: "layer 3"
+synonym: "LayerIII"
+synonym: "Layer 3"
+synonym: "Layer3"
+synonym: "Layer III"
+synonym: "Layer-3"
+rsynonym: "[Ll]3" BROAD ACRONYM []
+synonym: "L3"
+synonym: "l3"
+
+[Term]
+id: HBP_LAYER:0000004
+name: layer 4
+acronym: L4
+rsynonym: "[Ll]ayer[- ]?(4|IV)" EXACT ALTERNATE_SPELLING []
+synonym: "Layer-4"
+synonym: "layer-IV"
+synonym: "layerIV"
+synonym: "layer IV"
+synonym: "LayerIV"
+synonym: "layer-4"
+synonym: "layer4"
+synonym: "layer 4"
+synonym: "Layer-IV"
+synonym: "Layer4"
+synonym: "Layer 4"
+synonym: "Layer IV"
+rsynonym: "[Ll]4" BROAD ACRONYM []
+synonym: "l4"
+synonym: "L4"
+
+[Term]
+id: HBP_LAYER:0000005
+name: layer 5
+acronym: L5
+rsynonym: "[Ll]ayer[- ]?(5|V)" EXACT ALTERNATE_SPELLING []
+synonym: "Layer-5"
+synonym: "Layer-V"
+synonym: "layer-V"
+synonym: "layer-5"
+synonym: "layer V"
+synonym: "layer 5"
+synonym: "LayerV"
+synonym: "Layer5"
+synonym: "layer5"
+synonym: "Layer 5"
+synonym: "layerV"
+synonym: "Layer V"
+rsynonym: "[Ll]5" BROAD ACRONYM []
+synonym: "l5"
+synonym: "L5"
+
+[Term]
+id: HBP_LAYER:0000006
+name: layer 6
+acronym: L6
+rsynonym: "[Ll]ayer[- ]?(6|VI)" EXACT ALTERNATE_SPELLING []
+synonym: "Layer VI"
+synonym: "Layer-6"
+synonym: "layer-6"
+synonym: "layer-VI"
+synonym: "layer 6"
+synonym: "Layer6"
+synonym: "layerVI"
+synonym: "layer VI"
+synonym: "LayerVI"
+synonym: "Layer-VI"
+synonym: "Layer 6"
+synonym: "layer6"
+rsynonym: "[Ll]6" BROAD ACRONYM []
+synonym: "L6"
+synonym: "l6"
+
+[Term]
+id: HBP_LAYER:0000007
+name: layer 7
+acronym: L7
+synonym: "layer VII" EXACT ALTERNATE_SPELLING []
+comment: "this is unlikely, but has been found in articles TODO cite"
+
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!! sub-layers
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+[Term]
+id: HBP_LAYER:0000030
+name: layer 3a
+acronym: L3a
+rsynonym: "[Ll]ayer[- ]?(3|iii|III) ?[Aa]" EXACT ALTERNATE_SPELLING []
+synonym: "layer3A"
+synonym: "Layer 3 A"
+synonym: "layer iii A"
+synonym: "layerIII A"
+synonym: "layer-IIIa"
+synonym: "Layer-iiiA"
+synonym: "layer-iii a"
+synonym: "Layer IIIa"
+synonym: "layer iiia"
+synonym: "Layer 3a"
+synonym: "LayeriiiA"
+synonym: "layer-3 a"
+synonym: "layer-3A"
+synonym: "Layer3 A"
+synonym: "Layeriii A"
+synonym: "Layer iii a"
+synonym: "Layer-iii a"
+synonym: "layer iii a"
+synonym: "layerIII a"
+synonym: "Layer IIIA"
+synonym: "layer iiiA"
+synonym: "Layeriiia"
+synonym: "layer-3 A"
+synonym: "Layer-III A"
+synonym: "Layer-3 a"
+synonym: "Layer3 a"
+synonym: "layeriii a"
+synonym: "LayerIII a"
+synonym: "Layeriii a"
+synonym: "layer3 a"
+synonym: "Layer iiia"
+synonym: "layer IIIA"
+synonym: "layer III A"
+synonym: "layeriiiA"
+synonym: "LayerIIIa"
+synonym: "Layer-iii A"
+synonym: "layer 3a"
+synonym: "Layer3a"
+synonym: "Layer III a"
+synonym: "layerIIIA"
+synonym: "Layer-IIIa"
+synonym: "Layer-III a"
+synonym: "Layer-3 A"
+synonym: "layer-iiia"
+synonym: "LayerIII A"
+synonym: "layeriii A"
+synonym: "layer 3 a"
+synonym: "Layer-3A"
+synonym: "layer3 A"
+synonym: "layer-III a"
+synonym: "Layer iiiA"
+synonym: "layer IIIa"
+synonym: "layeriiia"
+synonym: "layer III a"
+synonym: "LayerIIIA"
+synonym: "layer3a"
+synonym: "Layer 3 a"
+synonym: "layer 3A"
+synonym: "layer-IIIA"
+synonym: "Layer-iiia"
+synonym: "Layer3A"
+synonym: "layer-iii A"
+synonym: "Layer III A"
+synonym: "layerIIIa"
+synonym: "Layer 3A"
+synonym: "Layer-IIIA"
+synonym: "layer-3a"
+synonym: "layer-iiiA"
+synonym: "layer 3 A"
+synonym: "Layer iii A"
+synonym: "Layer-3a"
+synonym: "layer-III A"
+rsynonym: "[Ll]3[Aa]" BROAD ACRONYM []
+synonym: "l3a"
+synonym: "L3A"
+synonym: "l3A"
+synonym: "L3a"
+is_a: HBP_LAYER:0000003
+
+[Term]
+id: HBP_LAYER:0000031
+name: layer 3b
+acronym: L3b
+rsynonym: "[Ll]ayer[- ]?(3|iii|III) ?[Bb]" EXACT ALTERNATE_SPELLING []
+synonym: "layer iiib"
+synonym: "Layer 3 B"
+synonym: "Layer IIIb"
+synonym: "layer iii B"
+synonym: "layerIII B"
+synonym: "Layer-iiiB"
+synonym: "layer-IIIb"
+synonym: "layer-iii b"
+synonym: "LayeriiiB"
+synonym: "Layer 3b"
+synonym: "layer-3 b"
+synonym: "Layer3 B"
+synonym: "layer-3B"
+synonym: "Layeriii B"
+synonym: "Layer iii b"
+synonym: "Layer-iii b"
+synonym: "layer iiiB"
+synonym: "Layer IIIB"
+synonym: "layer iii b"
+synonym: "layerIII b"
+synonym: "Layeriiib"
+synonym: "layer-3 B"
+synonym: "Layer3 b"
+synonym: "Layer-III B"
+synonym: "layer IIIB"
+synonym: "Layer iiib"
+synonym: "Layer-3 b"
+synonym: "LayerIII b"
+synonym: "layeriii b"
+synonym: "Layer3b"
+synonym: "layer III B"
+synonym: "Layeriii b"
+synonym: "LayerIIIb"
+synonym: "layer3 b"
+synonym: "layeriiiB"
+synonym: "Layer-iii B"
+synonym: "layer 3b"
+synonym: "Layer III b"
+synonym: "layerIIIB"
+synonym: "Layer-III b"
+synonym: "Layer-IIIb"
+synonym: "Layer iiiB"
+synonym: "layer IIIb"
+synonym: "Layer-3 B"
+synonym: "layeriii B"
+synonym: "LayerIII B"
+synonym: "layer-iiib"
+synonym: "layer 3 b"
+synonym: "Layer3B"
+synonym: "Layer-3B"
+synonym: "layer III b"
+synonym: "layer-III b"
+synonym: "LayerIIIB"
+synonym: "layer3 B"
+synonym: "layeriiib"
+synonym: "layer3b"
+synonym: "Layer 3 b"
+synonym: "Layer-iiib"
+synonym: "layer 3B"
+synonym: "layer-IIIB"
+synonym: "layer-iii B"
+synonym: "Layer III B"
+synonym: "Layer 3B"
+synonym: "layerIIIb"
+synonym: "Layer-IIIB"
+synonym: "layer-3b"
+synonym: "layer-iiiB"
+synonym: "layer 3 B"
+synonym: "Layer-3b"
+synonym: "layer-III B"
+synonym: "Layer iii B"
+synonym: "layer3B"
+rsynonym: "[Ll]3[Bb]" BROAD ACRONYM []
+synonym: "l3B"
+synonym: "L3b"
+synonym: "L3B"
+synonym: "l3b"
+is_a: HBP_LAYER:0000003
+
+
+[Term]
+id: HBP_LAYER:0000040
+name: layer 4a
+acronym: L4a
+rsynonym: "[Ll]ayer[- ]?(4|iv|IV) ?[Aa]" EXACT ALTERNATE_SPELLING []
+synonym: "layer-ivA"
+synonym: "layer-IVA"
+synonym: "layer IV a"
+synonym: "LayerIV A"
+synonym: "layeriv A"
+synonym: "Layer-IV A"
+synonym: "Layer 4A"
+synonym: "Layer-IVa"
+synonym: "Layer-iva"
+synonym: "Layer-4 A"
+synonym: "layer 4 a"
+synonym: "layeriva"
+synonym: "Layeriv a"
+synonym: "Layer-iv A"
+synonym: "layerIVa"
+synonym: "layerIV A"
+synonym: "Layer-4a"
+synonym: "layer4 A"
+synonym: "Layer 4 a"
+synonym: "layer 4a"
+synonym: "Layer4a"
+synonym: "layeriv a"
+synonym: "Layer 4a"
+synonym: "Layer-IVA"
+synonym: "Layer-ivA"
+synonym: "layer 4 A"
+synonym: "LayerivA"
+synonym: "LayerIVA"
+synonym: "layer iv a"
+synonym: "layer iva"
+synonym: "layer IVa"
+synonym: "layerivA"
+synonym: "layerIV a"
+synonym: "layerIVA"
+synonym: "Layer iva"
+synonym: "Layer iv a"
+synonym: "layer4a"
+synonym: "Layer IVa"
+synonym: "layer-4 a"
+synonym: "Layer 4 A"
+synonym: "layer 4A"
+synonym: "Layer4A"
+synonym: "layer-iv a"
+synonym: "Layer4 A"
+synonym: "layer-4a"
+synonym: "Layer IV a"
+synonym: "layer ivA"
+synonym: "LayerIVa"
+synonym: "Layeriva"
+synonym: "layer IVA"
+synonym: "layer iv A"
+synonym: "layer-IV A"
+synonym: "layer-iva"
+synonym: "layer-IVa"
+synonym: "Layer ivA"
+synonym: "layer4A"
+synonym: "Layer iv A"
+synonym: "Layer IVA"
+synonym: "layer-4 A"
+synonym: "layer IV A"
+synonym: "LayerIV a"
+synonym: "layer-iv A"
+synonym: "Layer-IV a"
+synonym: "Layer4 a"
+synonym: "layer-4A"
+synonym: "Layer IV A"
+synonym: "Layer-4 a"
+synonym: "layer-IV a"
+synonym: "Layeriv A"
+synonym: "Layer-iv a"
+synonym: "Layer-4A"
+synonym: "layer4 a"
+rsynonym: "[Ll]4[Aa]" BROAD ACRONYM []
+synonym: "L4a"
+synonym: "l4A"
+synonym: "L4A"
+synonym: "l4a"
+is_a: HBP_LAYER:0000004
+
+
+[Term]
+id: HBP_LAYER:0000041
+name: layer 4b
+acronym: L4b
+rsynonym: "[Ll]ayer[- ]?(4|iv|IV) ?[Bb]" EXACT ALTERNATE_SPELLING []
+synonym: "layer-ivB"
+synonym: "layer-IVB"
+synonym: "layer IV b"
+synonym: "Layeriv B"
+synonym: "Layer 4B"
+synonym: "Layer-IV B"
+synonym: "Layer-4 B"
+synonym: "Layer-ivb"
+synonym: "Layer-IVb"
+synonym: "layer 4 b"
+synonym: "Layer-iv B"
+synonym: "Layer-4b"
+synonym: "layer4 B"
+synonym: "layerIVb"
+synonym: "layerivb"
+synonym: "Layer 4 b"
+synonym: "layer 4b"
+synonym: "layerIV B"
+synonym: "Layeriv b"
+synonym: "Layer4b"
+synonym: "Layer 4b"
+synonym: "LayerIVB"
+synonym: "LayerivB"
+synonym: "Layer-IVB"
+synonym: "Layer-ivB"
+synonym: "layeriv B"
+synonym: "layer ivb"
+synonym: "layer IVb"
+synonym: "layer iv b"
+synonym: "layer 4 B"
+synonym: "layerIVB"
+synonym: "layerivB"
+synonym: "layer4b"
+synonym: "layer-4 b"
+synonym: "Layer IVb"
+synonym: "Layer iv b"
+synonym: "Layer ivb"
+synonym: "Layer 4 B"
+synonym: "layer 4B"
+synonym: "layerIV b"
+synonym: "Layer4B"
+synonym: "layer-iv b"
+synonym: "LayerIVb"
+synonym: "Layerivb"
+synonym: "Layer4 B"
+synonym: "layer-4b"
+synonym: "Layer IV b"
+synonym: "layer iv B"
+synonym: "layeriv b"
+synonym: "layer ivB"
+synonym: "layer IVB"
+synonym: "LayerIV b"
+synonym: "layer-IV B"
+synonym: "layer4B"
+synonym: "layer-ivb"
+synonym: "layer-IVb"
+synonym: "Layer IVB"
+synonym: "layer-4 B"
+synonym: "Layer iv B"
+synonym: "Layer ivB"
+synonym: "layer IV B"
+synonym: "layer-iv B"
+synonym: "Layer-IV b"
+synonym: "Layer-4 b"
+synonym: "Layer4 b"
+synonym: "layer-4B"
+synonym: "Layer IV B"
+synonym: "LayerIV B"
+synonym: "Layer-iv b"
+synonym: "Layer-4B"
+synonym: "layer-IV b"
+synonym: "layer4 b"
+rsynonym: "[Ll]4[Bb]" BROAD ACRONYM []
+synonym: "l4b"
+synonym: "L4b"
+synonym: "l4B"
+synonym: "L4B"
+is_a: HBP_LAYER:0000004
+
+[Term]
+id: HBP_LAYER:0000050
+name: layer 5a
+acronym: L5a
+rsynonym: "[Ll]ayer[- ]?(5|v|V) ?[Aa]" EXACT ALTERNATE_SPELLING []
+synonym: "layer 5a"
+synonym: "layer-5 a"
+synonym: "layer Va"
+synonym: "Layer 5 A"
+synonym: "layer-v a"
+synonym: "LayerVa"
+synonym: "Layer5a"
+synonym: "Layer vA"
+synonym: "Layer V a"
+synonym: "Layer v A"
+synonym: "Layer5 A"
+synonym: "LayerV a"
+synonym: "Layerv A"
+synonym: "Layer-VA"
+synonym: "Layer-va"
+synonym: "layer V A"
+synonym: "Layer-5A"
+synonym: "layer5a"
+synonym: "layer 5A"
+synonym: "layer-5 A"
+synonym: "layer VA"
+synonym: "layer va"
+synonym: "layerVa"
+synonym: "layer-V a"
+synonym: "layer-v A"
+synonym: "Layerva"
+synonym: "LayerVA"
+synonym: "Layer5A"
+synonym: "Layer 5A"
+synonym: "Layer va"
+synonym: "Layer VA"
+synonym: "Layer V A"
+synonym: "Layer-v a"
+synonym: "Layer-5 a"
+synonym: "Layer5 a"
+synonym: "layer-5a"
+synonym: "Layerv a"
+synonym: "Layer-Va"
+synonym: "Layer-5a"
+synonym: "layerv a"
+synonym: "layer5 a"
+synonym: "layer-Va"
+synonym: "layer5A"
+synonym: "layer vA"
+synonym: "layerva"
+synonym: "layerVA"
+synonym: "layer-V A"
+synonym: "LayervA"
+synonym: "Layer 5a"
+synonym: "Layer Va"
+synonym: "Layer-v A"
+synonym: "Layer-5 A"
+synonym: "Layer-V a"
+synonym: "layer-5A"
+synonym: "layer 5 a"
+synonym: "layer v a"
+synonym: "layer5 A"
+synonym: "layerv A"
+synonym: "layerV a"
+synonym: "layer-va"
+synonym: "layer-VA"
+synonym: "layervA"
+synonym: "Layer 5 a"
+synonym: "Layer v a"
+synonym: "Layer-V A"
+synonym: "LayerV A"
+synonym: "Layer-vA"
+synonym: "layer 5 A"
+synonym: "layer V a"
+synonym: "layer v A"
+synonym: "layerV A"
+synonym: "layer-vA"
+rsynonym: "[Ll]5[Aa]" BROAD ACRONYM []
+synonym: "l5a"
+synonym: "l5A"
+synonym: "L5a"
+synonym: "L5A"
+is_a: HBP_LAYER:0000005
+
+[Term]
+id: HBP_LAYER:0000051
+name: layer 5b
+acronym: L5b
+rsynonym: "[Ll]ayer[- ]?(5|v|V) ?[Bb]" EXACT ALTERNATE_SPELLING []
+synonym: "layer Vb"
+synonym: "layer-5 b"
+synonym: "layer-v b"
+synonym: "LayerVb"
+synonym: "layer 5b"
+synonym: "Layer5b"
+synonym: "Layer vB"
+synonym: "Layer v B"
+synonym: "Layer 5 B"
+synonym: "Layer V b"
+synonym: "Layerv B"
+synonym: "Layer5 B"
+synonym: "LayerV b"
+synonym: "Layer-5B"
+synonym: "Layer-vb"
+synonym: "Layer-VB"
+synonym: "layer V B"
+synonym: "layer5b"
+synonym: "layer vb"
+synonym: "layerVb"
+synonym: "layer VB"
+synonym: "layer-5 B"
+synonym: "layer-v B"
+synonym: "layer-V b"
+synonym: "Layervb"
+synonym: "LayerVB"
+synonym: "layer 5B"
+synonym: "Layer5B"
+synonym: "Layer vb"
+synonym: "Layer VB"
+synonym: "Layer V B"
+synonym: "Layer 5B"
+synonym: "layer-5b"
+synonym: "Layer-5 b"
+synonym: "layer-Vb"
+synonym: "Layerv b"
+synonym: "Layer5 b"
+synonym: "Layer-v b"
+synonym: "Layer-5b"
+synonym: "Layer-Vb"
+synonym: "layerv b"
+synonym: "layer5 b"
+synonym: "layer5B"
+synonym: "layer vB"
+synonym: "layerVB"
+synonym: "layervb"
+synonym: "layer-V B"
+synonym: "LayervB"
+synonym: "Layer Vb"
+synonym: "Layer 5b"
+synonym: "layer-5B"
+synonym: "layer-vb"
+synonym: "layer-VB"
+synonym: "Layer-5 B"
+synonym: "Layer-V b"
+synonym: "Layer-v B"
+synonym: "layer 5 b"
+synonym: "layer v b"
+synonym: "layerV b"
+synonym: "layerv B"
+synonym: "layer5 B"
+synonym: "layervB"
+synonym: "Layer 5 b"
+synonym: "Layer v b"
+synonym: "layer-vB"
+synonym: "LayerV B"
+synonym: "Layer-V B"
+synonym: "layer v B"
+synonym: "layer 5 B"
+synonym: "Layer-vB"
+synonym: "layer V b"
+synonym: "layerV B"
+rsynonym: "[Ll]5[Bb]" BROAD ACRONYM []
+synonym: "l5b"
+synonym: "L5b"
+synonym: "l5B"
+synonym: "L5B"
+is_a: HBP_LAYER:0000005
+
+[Term]
+id: HBP_LAYER:0000060
+name: layer 6a
+acronym: L6a
+rsynonym: "[Ll]ayer[- ]?(6|vi|VI) ?[Aa]" EXACT ALTERNATE_SPELLING []
+synonym: "layer6a"
+synonym: "layer 6A"
+synonym: "layer VI a"
+synonym: "Layer6A"
+synonym: "layerviA"
+synonym: "layerVIA"
+synonym: "Layervi A"
+synonym: "Layer-vi A"
+synonym: "layer via"
+synonym: "layer vi a"
+synonym: "layer VIa"
+synonym: "Layer-6 A"
+synonym: "Layer-VI A"
+synonym: "layer 6 a"
+synonym: "layer-6a"
+synonym: "layer6 A"
+synonym: "Layer vi A"
+synonym: "layer6A"
+synonym: "layer VI A"
+synonym: "Layervi a"
+synonym: "layer-VIa"
+synonym: "layer-via"
+synonym: "layer viA"
+synonym: "layer vi A"
+synonym: "Layer 6 a"
+synonym: "layer VIA"
+synonym: "layerVI A"
+synonym: "Layer VI a"
+synonym: "Layer-6A"
+synonym: "Layer via"
+synonym: "layer 6 A"
+synonym: "Layer VIa"
+synonym: "layervi A"
+synonym: "layer-6A"
+synonym: "Layer vi a"
+synonym: "layer-6 a"
+synonym: "LayerviA"
+synonym: "layer-VI A"
+synonym: "LayerVIA"
+synonym: "Layer 6A"
+synonym: "layer-VIA"
+synonym: "layer-viA"
+synonym: "Layer 6 A"
+synonym: "layerVI a"
+synonym: "Layer VI A"
+synonym: "Layer6 A"
+synonym: "Layer-6a"
+synonym: "layer-vi a"
+synonym: "Layer-VIa"
+synonym: "LayerVI a"
+synonym: "Layer-via"
+synonym: "Layer viA"
+synonym: "Layer VIA"
+synonym: "layervi a"
+synonym: "layer 6a"
+synonym: "layer-6 A"
+synonym: "Layer6a"
+synonym: "layerVIa"
+synonym: "layervia"
+synonym: "Layervia"
+synonym: "layer-VI a"
+synonym: "Layer 6a"
+synonym: "LayerVIa"
+synonym: "Layer-vi a"
+synonym: "Layer-6 a"
+synonym: "Layer6 a"
+synonym: "layer-vi A"
+synonym: "Layer-VIA"
+synonym: "LayerVI A"
+synonym: "Layer-viA"
+synonym: "Layer-VI a"
+synonym: "layer6 a"
+rsynonym: "[Ll]6[Aa]" BROAD ACRONYM []
+synonym: "l6A"
+synonym: "l6a"
+synonym: "L6A"
+synonym: "L6a"
+is_a: HBP_LAYER:0000006
+
+[Term]
+id: HBP_LAYER:0000061
+name: layer 6b
+acronym: L6b
+rsynonym: "[Ll]ayer[- ]?(6|vi|VI) ?[Bb]" EXACT ALTERNATE_SPELLING []
+synonym: "layer 6B"
+synonym: "layer6b"
+synonym: "layerviB"
+synonym: "Layer VIb"
+synonym: "layerVIB"
+synonym: "layer VI b"
+synonym: "Layer6B"
+synonym: "Layer vib"
+synonym: "Layer-vi B"
+synonym: "Layervi B"
+synonym: "layer vi b"
+synonym: "layer-6b"
+synonym: "layer VIB"
+synonym: "layer viB"
+synonym: "Layer-6 B"
+synonym: "layer 6 b"
+synonym: "Layer-VI B"
+synonym: "layer6 B"
+synonym: "layer6B"
+synonym: "Layer VIB"
+synonym: "layer VI B"
+synonym: "Layer viB"
+synonym: "Layer vi B"
+synonym: "Layervi b"
+synonym: "layer-vib"
+synonym: "layer-VIb"
+synonym: "layer vi B"
+synonym: "layerVI B"
+synonym: "Layer 6 b"
+synonym: "layer-6B"
+synonym: "Layer VI b"
+synonym: "layer 6 B"
+synonym: "Layer-6B"
+synonym: "layervi B"
+synonym: "layer-6 b"
+synonym: "Layer vi b"
+synonym: "Layer 6B"
+synonym: "layer-VI B"
+synonym: "LayerVIB"
+synonym: "layer-viB"
+synonym: "LayerviB"
+synonym: "layer-VIB"
+synonym: "layerVI b"
+synonym: "Layer 6 B"
+synonym: "Layer6 B"
+synonym: "Layer VI B"
+synonym: "layer-vi b"
+synonym: "Layer-vib"
+synonym: "Layer-VIb"
+synonym: "LayerVI b"
+synonym: "Layer-6b"
+synonym: "layervi b"
+synonym: "layer 6b"
+synonym: "layervib"
+synonym: "layer-6 B"
+synonym: "layerVIb"
+synonym: "Layer6b"
+synonym: "Layer 6b"
+synonym: "Layer-vi b"
+synonym: "layer-VI b"
+synonym: "LayerVIb"
+synonym: "Layervib"
+synonym: "layer VIb"
+synonym: "layer vib"
+synonym: "Layer6 b"
+synonym: "Layer-6 b"
+synonym: "layer-vi B"
+synonym: "Layer-viB"
+synonym: "Layer-VIB"
+synonym: "LayerVI B"
+synonym: "Layer-VI b"
+synonym: "layer6 b"
+rsynonym: "[Ll]6[Bb]" BROAD ACRONYM []
+synonym: "L6b"
+synonym: "L6B"
+synonym: "l6B"
+synonym: "l6b"
+is_a: HBP_LAYER:0000006
+
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!! RANGES: layer x-y
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+! 1-x
+
+[Term]
+id: HBP_LAYER:0000101
+name: layer 1-2
+acronym: L1-2
+rsynonym: "[Ll](ayers?)? ?(1[-/]2|I[-/]II)"  EXACT ALTERNATE_SPELLING []
+synonym: "lI/II"
+synonym: "Layer 1/2"
+synonym: "lI-II"
+synonym: "Layer 1-2"
+synonym: "layers1-2"
+synonym: "layersI/II"
+synonym: "layers1/2"
+synonym: "layer I-II"
+synonym: "layersI-II"
+synonym: "layer I/II"
+synonym: "Layer1/2"
+synonym: "Layer1-2"
+synonym: "l1/2"
+synonym: "Layer I/II"
+synonym: "layer1/2"
+synonym: "l1-2"
+synonym: "layer1-2"
+synonym: "Layer I-II"
+synonym: "LI-II"
+synonym: "l 1/2"
+synonym: "LayerI/II"
+synonym: "layers 1-2"
+synonym: "LI/II"
+synonym: "layers I/II"
+synonym: "l 1-2"
+synonym: "LayerI-II"
+synonym: "layers I-II"
+synonym: "l I-II"
+synonym: "L1-2"
+synonym: "l I/II"
+synonym: "L1/2"
+synonym: "L I-II"
+synonym: "L I/II"
+synonym: "layers 1/2"
+synonym: "layerI-II"
+synonym: "Layers I-II"
+synonym: "layerI/II"
+synonym: "Layers 1-2"
+synonym: "Layers I/II"
+synonym: "layer 1-2"
+synonym: "LayersI/II"
+synonym: "layer 1/2"
+synonym: "LayersI-II"
+synonym: "Layers1/2"
+synonym: "L 1-2"
+synonym: "Layers1-2"
+synonym: "Layers 1/2"
+synonym: "L 1/2"
+synonym: "layer II-I"  EXACT ALTERNATE_SPELLING [] ! unlikely
+synonym: "layer 2-1"   EXACT ALTERNATE_SPELLING [] ! unlikely
+union_of: HBP_LAYER:0000001
+union_of: HBP_LAYER:0000002
+
+[Term]
+id: HBP_LAYER:0000102
+name: layer 1-3
+acronym: L1-3
+rsynonym: "[Ll](ayers?)? ?(1-3|I-III)"  EXACT ALTERNATE_SPELLING []
+synonym: "layers 1-3"
+synonym: "l 1-3"
+synonym: "layers1-3"
+synonym: "layerI-III"
+synonym: "Layers I-III"
+synonym: "LayersI-III"
+synonym: "l I-III"
+synonym: "L1-3"
+synonym: "Layer 1-3"
+synonym: "layer I-III"
+synonym: "layers I-III"
+synonym: "Layers 1-3"
+synonym: "LI-III"
+synonym: "Layer I-III"
+synonym: "Layer1-3"
+synonym: "LayerI-III"
+synonym: "l1-3"
+synonym: "layer 1-3"
+synonym: "lI-III"
+synonym: "Layers1-3"
+synonym: "L 1-3"
+synonym: "L I-III"
+synonym: "layer1-3"
+synonym: "layersI-III"
+synonym: "layer III-I"  EXACT ALTERNATE_SPELLING [] ! unlikely
+synonym: "layer 3-1"    EXACT ALTERNATE_SPELLING [] ! unlikely
+union_of: HBP_LAYER:0000001
+union_of: HBP_LAYER:0000002
+union_of: HBP_LAYER:0000003
+
+[Term]
+id: HBP_LAYER:0000103
+name: layer 1-4
+acronym: L1-4
+rsynonym: "[Ll](ayers?)? ?(1-4|I-IV)"  EXACT ALTERNATE_SPELLING []
+synonym: "layers1-4"
+synonym: "layers 1-4"
+synonym: "l 1-4"
+synonym: "layerI-IV"
+synonym: "layers I-IV"
+synonym: "Layer I-IV"
+synonym: "LI-IV"
+synonym: "Layer 1-4"
+synonym: "LayersI-IV"
+synonym: "lI-IV"
+synonym: "L1-4"
+synonym: "L I-IV"
+synonym: "Layers 1-4"
+synonym: "Layer1-4"
+synonym: "LayerI-IV"
+synonym: "l I-IV"
+synonym: "L 1-4"
+synonym: "layer I-IV"
+synonym: "layer 1-4"
+synonym: "l1-4"
+synonym: "layer1-4"
+synonym: "layersI-IV"
+synonym: "Layers1-4"
+synonym: "Layers I-IV"
+synonym: "layer IV-I"  EXACT ALTERNATE_SPELLING [] ! unlikely
+synonym: "layer 4-1"   EXACT ALTERNATE_SPELLING [] ! unlikely
+union_of: HBP_LAYER:0000001
+union_of: HBP_LAYER:0000002
+union_of: HBP_LAYER:0000003
+union_of: HBP_LAYER:0000004
+
+[Term]
+id: HBP_LAYER:0000104
+name: layer 1-5
+acronym: L1-5
+rsynonym: "[Ll](ayers?)? ?(1-5|I-V)"  EXACT ALTERNATE_SPELLING []
+synonym: "L I-V"
+synonym: "layers1-5"
+synonym: "layers 1-5"
+synonym: "l 1-5"
+synonym: "LI-V"
+synonym: "Layer I-V"
+synonym: "layersI-V"
+synonym: "L1-5"
+synonym: "Layer 1-5"
+synonym: "layers I-V"
+synonym: "Layers 1-5"
+synonym: "layer1-5"
+synonym: "layer I-V"
+synonym: "lI-V"
+synonym: "LayerI-V"
+synonym: "layer 1-5"
+synonym: "layerI-V"
+synonym: "LayersI-V"
+synonym: "L 1-5"
+synonym: "Layer1-5"
+synonym: "l1-5"
+synonym: "Layers1-5"
+synonym: "l I-V"
+synonym: "Layers I-V"
+synonym: "layer V-I"  EXACT ALTERNATE_SPELLING [] ! unlikely
+synonym: "layer 5-1"  EXACT ALTERNATE_SPELLING [] ! unlikely
+union_of: HBP_LAYER:0000001
+union_of: HBP_LAYER:0000002
+union_of: HBP_LAYER:0000003
+union_of: HBP_LAYER:0000004
+union_of: HBP_LAYER:0000005
+
+[Term]
+id: HBP_LAYER:0000105
+name: layer 1-6
+acronym: L1-6
+rsynonym: "[Ll](ayers?)? ?(1-6|I-VI)"  EXACT ALTERNATE_SPELLING []
+synonym: "layers 1-6"
+synonym: "Layers I-VI"
+synonym: "l 1-6"
+synonym: "LayersI-VI"
+synonym: "Layer I-VI"
+synonym: "layerI-VI"
+synonym: "L1-6"
+synonym: "layers1-6"
+synonym: "Layer 1-6"
+synonym: "lI-VI"
+synonym: "layer1-6"
+synonym: "Layers1-6"
+synonym: "LI-VI"
+synonym: "layers I-VI"
+synonym: "layersI-VI"
+synonym: "Layers 1-6"
+synonym: "L 1-6"
+synonym: "layer 1-6"
+synonym: "Layer1-6"
+synonym: "l I-VI"
+synonym: "layer I-VI"
+synonym: "L I-VI"
+synonym: "LayerI-VI"
+synonym: "l1-6"
+synonym: "layer VI-I"  EXACT ALTERNATE_SPELLING [] ! unlikely
+synonym: "layer 6-1"   EXACT ALTERNATE_SPELLING [] ! unlikely
+union_of: HBP_LAYER:0000001
+union_of: HBP_LAYER:0000002
+union_of: HBP_LAYER:0000003
+union_of: HBP_LAYER:0000004
+union_of: HBP_LAYER:0000005
+union_of: HBP_LAYER:0000006
+
+! 2-x
+
+[Term]
+id: HBP_LAYER:0000111
+name: layer 2-3
+acronym: L2-3
+rsynonym: "[Ll](ayers?)? ?(2[-/]3|II[-/]III)"  EXACT ALTERNATE_SPELLING []
+synonym: "LII/III"
+synonym: "layers2-3"
+synonym: "l II-III"
+synonym: "L II/III"
+synonym: "layers2/3"
+synonym: "Layer 2/3"
+synonym: "LII-III"
+synonym: "Layer 2-3"
+synonym: "layersII-III"
+synonym: "Layer2/3"
+synonym: "Layer2-3"
+synonym: "layersII/III"
+synonym: "l2/3"
+synonym: "layer2/3"
+synonym: "L II-III"
+synonym: "Layer II/III"
+synonym: "l2-3"
+synonym: "l II/III"
+synonym: "layer2-3"
+synonym: "Layer II-III"
+synonym: "Layers II-III"
+synonym: "layers 2/3"
+synonym: "layer II-III"
+synonym: "layer II/III"
+synonym: "l 2/3"
+synonym: "layers 2-3"
+synonym: "Layers II/III"
+synonym: "lII-III"
+synonym: "layers II/III"
+synonym: "l 2-3"
+synonym: "layers II-III"
+synonym: "LayersII/III"
+synonym: "LayersII-III"
+synonym: "L2/3"
+synonym: "lII/III"
+synonym: "L2-3"
+synonym: "LayerII/III"
+synonym: "Layers 2-3"
+synonym: "Layers 2/3"
+synonym: "layer 2/3"
+synonym: "LayerII-III"
+synonym: "L 2-3"
+synonym: "layerII/III"
+synonym: "layer 2-3"
+synonym: "L 2/3"
+synonym: "layerII-III"
+synonym: "Layers2/3"
+synonym: "Layers2-3"
+synonym: "layer III-II"  EXACT ALTERNATE_SPELLING [] ! unlikely
+synonym: "layer 3-2"     EXACT ALTERNATE_SPELLING [] ! unlikely
+union_of: HBP_LAYER:0000002
+union_of: HBP_LAYER:0000003
+
+[Term]
+id: HBP_LAYER:0000112
+name: layer 2-4
+acronym: L2-4
+rsynonym: "[Ll](ayers?)? ?(2-4|II-IV)"  EXACT ALTERNATE_SPELLING []
+synonym: "layers2-4"
+synonym: "layers 2-4"
+synonym: "l 2-4"
+synonym: "l II-IV"
+synonym: "LayerII-IV"
+synonym: "LayersII-IV"
+synonym: "layer II-IV"
+synonym: "L2-4"
+synonym: "Layer 2-4"
+synonym: "Layers 2-4"
+synonym: "layersII-IV"
+synonym: "layer2-4"
+synonym: "Layers II-IV"
+synonym: "layerII-IV"
+synonym: "LII-IV"
+synonym: "layer 2-4"
+synonym: "layers II-IV"
+synonym: "L 2-4"
+synonym: "Layer II-IV"
+synonym: "l2-4"
+synonym: "Layer2-4"
+synonym: "L II-IV"
+synonym: "Layers2-4"
+synonym: "lII-IV"
+synonym: "layer IV-II"  EXACT ALTERNATE_SPELLING [] ! unlikely
+synonym: "layer 4-2"    EXACT ALTERNATE_SPELLING [] ! unlikely
+union_of: HBP_LAYER:0000002
+union_of: HBP_LAYER:0000003
+union_of: HBP_LAYER:0000004
+
+[Term]
+id: HBP_LAYER:0000113
+name: layer 2-5
+acronym: L2-5
+rsynonym: "[Ll](ayers?)? ?(2-5|II-V)"  EXACT ALTERNATE_SPELLING []
+synonym: "layers II-V"
+synonym: "lII-V"
+synonym: "layer II-V"
+synonym: "LII-V"
+synonym: "layers 2-5"
+synonym: "l 2-5"
+synonym: "layersII-V"
+synonym: "L II-V"
+synonym: "L2-5"
+synonym: "LayerII-V"
+synonym: "l II-V"
+synonym: "Layer 2-5"
+synonym: "layers2-5"
+synonym: "layer2-5"
+synonym: "Layers2-5"
+synonym: "Layer II-V"
+synonym: "LayersII-V"
+synonym: "Layers II-V"
+synonym: "Layers 2-5"
+synonym: "L 2-5"
+synonym: "layer 2-5"
+synonym: "Layer2-5"
+synonym: "l2-5"
+synonym: "layerII-V"
+synonym: "layer V-II"  EXACT ALTERNATE_SPELLING [] ! unlikely
+synonym: "layer 5-2"   EXACT ALTERNATE_SPELLING [] ! unlikely
+union_of: HBP_LAYER:0000002
+union_of: HBP_LAYER:0000003
+union_of: HBP_LAYER:0000004
+union_of: HBP_LAYER:0000005
+
+[Term]
+id: HBP_LAYER:0000114
+name: layer 2-6
+acronym: L2-6
+rsynonym: "[Ll](ayers?)? ?(2-6|II-VI)"  EXACT ALTERNATE_SPELLING []
+synonym: "LayerII-VI"
+synonym: "Layer II-VI"
+synonym: "LII-VI"
+synonym: "layers 2-6"
+synonym: "lII-VI"
+synonym: "l 2-6"
+synonym: "layers II-VI"
+synonym: "Layer 2-6"
+synonym: "L2-6"
+synonym: "LayersII-VI"
+synonym: "Layers II-VI"
+synonym: "l II-VI"
+synonym: "layers2-6"
+synonym: "Layers2-6"
+synonym: "layerII-VI"
+synonym: "layer2-6"
+synonym: "layersII-VI"
+synonym: "Layers 2-6"
+synonym: "L II-VI"
+synonym: "layer II-VI"
+synonym: "L 2-6"
+synonym: "l2-6"
+synonym: "layer 2-6"
+synonym: "Layer2-6"
+synonym: "layer VI-II"  EXACT ALTERNATE_SPELLING [] ! unlikely
+synonym: "layer 6-2"    EXACT ALTERNATE_SPELLING [] ! unlikely
+union_of: HBP_LAYER:0000002
+union_of: HBP_LAYER:0000003
+union_of: HBP_LAYER:0000004
+union_of: HBP_LAYER:0000005
+union_of: HBP_LAYER:0000006
+
+! 3-x
+
+[Term]
+id: HBP_LAYER:0000121
+name: layer 3-4
+acronym: L3-4
+rsynonym: "[Ll](ayers?)? ?(3[-/]4|III[-/]IV)"  EXACT ALTERNATE_SPELLING []
+synonym: "Layer III-IV"
+synonym: "layers3/4"
+synonym: "Layer III/IV"
+synonym: "LIII-IV"
+synonym: "Layer 3/4"
+synonym: "LIII/IV"
+synonym: "Layer 3-4"
+synonym: "layers3-4"
+synonym: "layer3-4"
+synonym: "Layer3/4"
+synonym: "layer III-IV"
+synonym: "layer III/IV"
+synonym: "layerIII/IV"
+synonym: "Layer3-4"
+synonym: "l3/4"
+synonym: "layer3/4"
+synonym: "l3-4"
+synonym: "layerIII-IV"
+synonym: "LayerIII/IV"
+synonym: "layers 3/4"
+synonym: "lIII-IV"
+synonym: "LayerIII-IV"
+synonym: "l 3/4"
+synonym: "layers 3-4"
+synonym: "lIII/IV"
+synonym: "layers III-IV"
+synonym: "l 3-4"
+synonym: "Layers III-IV"
+synonym: "layersIII-IV"
+synonym: "L3-4"
+synonym: "L3/4"
+synonym: "layersIII/IV"
+synonym: "Layers3-4"
+synonym: "Layers 3/4"
+synonym: "LayersIII/IV"
+synonym: "LayersIII-IV"
+synonym: "Layers 3-4"
+synonym: "L 3-4"
+synonym: "l III/IV"
+synonym: "layers III/IV"
+synonym: "Layers III/IV"
+synonym: "layer 3-4"
+synonym: "L 3/4"
+synonym: "layer 3/4"
+synonym: "l III-IV"
+synonym: "L III-IV"
+synonym: "L III/IV"
+synonym: "Layers3/4"
+synonym: "layer IV-III"  EXACT ALTERNATE_SPELLING [] ! unlikely
+synonym: "layer 4-3"     EXACT ALTERNATE_SPELLING [] ! unlikely
+rsynonym: "[Ll](3[-/]4|III[-/]IV)" BROAD ACRONYM []
+synonym: "lIII-IV"
+synonym: "lIII/IV"
+synonym: "LIII-IV"
+synonym: "l3/4"
+synonym: "L3-4"
+synonym: "LIII/IV"
+synonym: "L3/4"
+synonym: "l3-4"
+union_of: HBP_LAYER:0000003
+union_of: HBP_LAYER:0000004
+
+[Term]
+id: HBP_LAYER:0000122
+name: layer 3-5
+acronym: L3-5
+rsynonym: "[Ll](ayers?)? ?(3-5|III-V)"  EXACT ALTERNATE_SPELLING []
+synonym: "LayersIII-V"
+synonym: "layers 3-5"
+synonym: "L III-V"
+synonym: "layer III-V"
+synonym: "l 3-5"
+synonym: "Layer 3-5"
+synonym: "L3-5"
+synonym: "layers3-5"
+synonym: "LayerIII-V"
+synonym: "layers III-V"
+synonym: "Layers3-5"
+synonym: "LIII-V"
+synonym: "layer3-5"
+synonym: "Layer III-V"
+synonym: "lIII-V"
+synonym: "Layers 3-5"
+synonym: "L 3-5"
+synonym: "layersIII-V"
+synonym: "Layers III-V"
+synonym: "layerIII-V"
+synonym: "l III-V"
+synonym: "Layer3-5"
+synonym: "layer 3-5"
+synonym: "l3-5"
+synonym: "layer V-III"  EXACT ALTERNATE_SPELLING [] ! unlikely
+synonym: "layer 5-3"    EXACT ALTERNATE_SPELLING [] ! unlikely
+union_of: HBP_LAYER:0000003
+union_of: HBP_LAYER:0000004
+union_of: HBP_LAYER:0000005
+
+[Term]
+id: HBP_LAYER:0000123
+name: layer 3-6
+acronym: L3-6
+rsynonym: "[Ll](ayers?)? ?(3-6|III-VI)"  EXACT ALTERNATE_SPELLING []
+synonym: "l3-6"
+synonym: "layersIII-VI"
+synonym: "Layer III-VI"
+synonym: "layers 3-6"
+synonym: "l 3-6"
+synonym: "Layer 3-6"
+synonym: "layers3-6"
+synonym: "LayerIII-VI"
+synonym: "layer3-6"
+synonym: "LIII-VI"
+synonym: "L III-VI"
+synonym: "layer III-VI"
+synonym: "L3-6"
+synonym: "Layers3-6"
+synonym: "layerIII-VI"
+synonym: "l III-VI"
+synonym: "Layers 3-6"
+synonym: "L 3-6"
+synonym: "lIII-VI"
+synonym: "Layers III-VI"
+synonym: "layers III-VI"
+synonym: "Layer3-6"
+synonym: "LayersIII-VI"
+synonym: "layer 3-6"
+synonym: "layer VI-III"  EXACT ALTERNATE_SPELLING [] ! unlikely
+synonym: "layer 6-3"     EXACT ALTERNATE_SPELLING [] ! unlikely
+union_of: HBP_LAYER:0000003
+union_of: HBP_LAYER:0000004
+union_of: HBP_LAYER:0000005
+union_of: HBP_LAYER:0000006
+
+! 4-x
+
+[Term]
+id: HBP_LAYER:0000131
+name: layer 4-5
+acronym: L4-5
+rsynonym: "[Ll](ayers?)? ?(4[-/]5|IV[-/]V)"  EXACT ALTERNATE_SPELLING []
+synonym: "layerIV/V"
+synonym: "l4-5"
+synonym: "layerIV-V"
+synonym: "Layer 4-5"
+synonym: "layers4-5"
+synonym: "Layer 4/5"
+synonym: "layers4/5"
+synonym: "layer4/5"
+synonym: "LayerIV-V"
+synonym: "LIV/V"
+synonym: "layer4-5"
+synonym: "LayerIV/V"
+synonym: "LIV-V"
+synonym: "layersIV-V"
+synonym: "l IV/V"
+synonym: "l IV-V"
+synonym: "layersIV/V"
+synonym: "Layer4/5"
+synonym: "L IV/V"
+synonym: "l4/5"
+synonym: "Layer4-5"
+synonym: "L IV-V"
+synonym: "Layers IV/V"
+synonym: "Layers IV-V"
+synonym: "layers 4/5"
+synonym: "LayersIV-V"
+synonym: "l 4/5"
+synonym: "layers 4-5"
+synonym: "Layer IV-V"
+synonym: "LayersIV/V"
+synonym: "l 4-5"
+synonym: "L4/5"
+synonym: "Layer IV/V"
+synonym: "Layers4/5"
+synonym: "L4-5"
+synonym: "Layers4-5"
+synonym: "layers IV-V"
+synonym: "lIV/V"
+synonym: "Layers 4-5"
+synonym: "layers IV/V"
+synonym: "L 4-5"
+synonym: "lIV-V"
+synonym: "Layers 4/5"
+synonym: "L 4/5"
+synonym: "layer IV/V"
+synonym: "layer 4/5"
+synonym: "layer IV-V"
+synonym: "layer 4-5"
+synonym: "layer V-IV"  EXACT ALTERNATE_SPELLING [] ! unlikely
+synonym: "layer 5-4"   EXACT ALTERNATE_SPELLING [] ! unlikely
+union_of: HBP_LAYER:0000004
+union_of: HBP_LAYER:0000005
+
+[Term]
+id: HBP_LAYER:0000132
+name: layer 4-6
+acronym: L4-6
+rsynonym: "[Ll](ayers?)? ?(4-6|IV-VI)"  EXACT ALTERNATE_SPELLING []
+synonym: "l4-6"
+synonym: "layerIV-VI"
+synonym: "Layers IV-VI"
+synonym: "layers 4-6"
+synonym: "l 4-6"
+synonym: "layer IV-VI"
+synonym: "LayersIV-VI"
+synonym: "Layer 4-6"
+synonym: "layers4-6"
+synonym: "lIV-VI"
+synonym: "L4-6"
+synonym: "Layer IV-VI"
+synonym: "Layers4-6"
+synonym: "Layers 4-6"
+synonym: "layer4-6"
+synonym: "LayerIV-VI"
+synonym: "l IV-VI"
+synonym: "L 4-6"
+synonym: "Layer4-6"
+synonym: "LIV-VI"
+synonym: "layers IV-VI"
+synonym: "layer 4-6"
+synonym: "L IV-VI"
+synonym: "layersIV-VI"
+synonym: "layer VI-IV"  EXACT ALTERNATE_SPELLING [] ! unlikely
+synonym: "layer 6-4"    EXACT ALTERNATE_SPELLING [] ! unlikely
+union_of: HBP_LAYER:0000004
+union_of: HBP_LAYER:0000005
+union_of: HBP_LAYER:0000006
+
+! 5-x
+
+[Term]
+id: HBP_LAYER:0000141
+name: layer 5-6
+acronym: L5-6
+rsynonym: "[Ll](ayers?)? ?(5[-/]6|V[-/]VI)"  EXACT ALTERNATE_SPELLING []
+synonym: "LV-VI"
+synonym: "l5/6"
+synonym: "LayerV/VI"
+synonym: "l5-6"
+synonym: "layers V-VI"
+synonym: "L V-VI"
+synonym: "layers V/VI"
+synonym: "LayerV-VI"
+synonym: "l V-VI"
+synonym: "Layer 5/6"
+synonym: "Layer 5-6"
+synonym: "Layers 5-6"
+synonym: "layers5-6"
+synonym: "layers5/6"
+synonym: "LV/VI"
+synonym: "layerV-VI"
+synonym: "layer5/6"
+synonym: "layer5-6"
+synonym: "layerV/VI"
+synonym: "Layer5-6"
+synonym: "layer V-VI"
+synonym: "layers 5-6"
+synonym: "layer V/VI"
+synonym: "Layers V/VI"
+synonym: "Layers V-VI"
+synonym: "Layer5/6"
+synonym: "lV/VI"
+synonym: "layers 5/6"
+synonym: "LayersV-VI"
+synonym: "l 5/6"
+synonym: "Layer V/VI"
+synonym: "LayersV/VI"
+synonym: "l 5-6"
+synonym: "Layer V-VI"
+synonym: "lV-VI"
+synonym: "L5-6"
+synonym: "L5/6"
+synonym: "Layers5/6"
+synonym: "L 5-6"
+synonym: "Layers 5/6"
+synonym: "Layers5-6"
+synonym: "l V/VI"
+synonym: "L 5/6"
+synonym: "L V/VI"
+synonym: "layersV/VI"
+synonym: "layer 5-6"
+synonym: "layersV-VI"
+synonym: "layer 5/6"
+synonym: "layer VI-V"  EXACT ALTERNATE_SPELLING [] ! unlikely
+synonym: "layer 6-5"   EXACT ALTERNATE_SPELLING [] ! unlikely
+union_of: HBP_LAYER:0000005
+union_of: HBP_LAYER:0000006
+
+
+! TODO do we  need layer 3a/3b?
+! TODO do we  need layer 3/5?
