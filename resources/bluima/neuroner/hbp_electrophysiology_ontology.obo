@@ -18,7 +18,7 @@ synonymtypedef: CHEMICAL_FORMULA "chemical formula" EXACT
 id: HBP_EPHYS:0000001
 name: regular
 synonym: "R" BROAD ACRONYM []
-rsynonym: "(regular|tonic)(ly)?"
+!rsynonym: "(regular|tonic)(ly)?"
 synonym: "regularly" []
 synonym: "tonicly" []
 synonym: "tonic" []
@@ -29,7 +29,7 @@ synonym: "RS" BROAD ACRONYM []
 id: HBP_EPHYS:0000010
 name: irregular
 synonym: "I" BROAD ACRONYM []
-rsynonym: "ir?regular(ly)?"
+!rsynonym: "ir?regular(ly)?"
 synonym: "iregularly" []
 synonym: "irregular" []
 synonym: "irregularly" []
@@ -40,7 +40,7 @@ synonym: "IS" BROAD ACRONYM []
 id: HBP_EPHYS:0000020
 name: late
 synonym: "L" BROAD ACRONYM []
-rsynonym: "(late|delay|delayed)"
+!rsynonym: "(late|delay|delayed)"
 synonym: "delay" []
 synonym: "late" []
 synonym: "delayed" []
@@ -50,7 +50,7 @@ synonym: "LS" BROAD ACRONYM []
 id: HBP_EPHYS:0000030
 name: continuous
 synonym: "C" BROAD ACRONYM []
-rsynonym: "continous(ly)?"
+!rsynonym: "continous(ly)?"
 synonym: "continous" []
 synonym: "continously" []
 
@@ -58,7 +58,7 @@ synonym: "continously" []
 id: HBP_EPHYS:0000040
 name: intrinsic
 synonym: "I" BROAD ACRONYM []
-rsynonym: "intrinsic(ally)?"
+!rsynonym: "intrinsic(ally)?"
 synonym: "intrinsically" []
 synonym: "intrinsic" []
 
@@ -66,7 +66,7 @@ synonym: "intrinsic" []
 id: HBP_EPHYS:0000050
 name: classical
 synonym: "C" BROAD ACRONYM []
-rsynonym: "classical(ly)?"
+!rsynonym: "classical(ly)?"
 synonym: "classically" []
 synonym: "classical" []
 !disjoint_from: HBP_EPHYS:0000015 ! adapting
@@ -83,12 +83,12 @@ name: depolarized
 id: HBP_EPHYS:0000080
 name: fast
 synonym: "F" BROAD ACRONYM []
-rsynonym: "(fast|rapid)(ly)?"
+!rsynonym: "(fast|rapid)(ly)?"
 synonym: "fastly" []
 synonym: "fast" []
 synonym: "rapid" []
 synonym: "rapidly" []
-rsynonym: "(Fast|Rapid)(ly)?"
+!rsynonym: "(Fast|Rapid)(ly)?"
 synonym: "Fastly" []
 synonym: "Rapidly" []
 synonym: "Rapid" []
@@ -99,7 +99,7 @@ synonym: "FS" BROAD ACRONYM []
 id: HBP_EPHYS:0000090
 name: non-fast
 synonym: "NF" BROAD ACRONYM []
-rsynonym: "(non|not|un)[- ]?(fast|rapid)(ly)?"
+!rsynonym: "(non|not|un)[- ]?(fast|rapid)(ly)?"
 synonym: "non fastly" []
 synonym: "not rapid" []
 synonym: "notfastly" []
@@ -141,7 +141,7 @@ synonym: "notrapidly" []
 id: HBP_EPHYS:0000100
 name: slow
 synonym: "S" BROAD ACRONYM []
-rsynonym: "(slow)(ly)?"
+!rsynonym: "(slow)(ly)?"
 synonym: "slow" []
 synonym: "slowly" []
 
@@ -149,7 +149,7 @@ synonym: "slowly" []
 id: HBP_EPHYS:0000110
 name: low threshold
 synonym: "LT" BROAD ACRONYM []
-rsynonym: "low[- ]threshold"
+!rsynonym: "low[- ]threshold"
 synonym: "low threshold" []
 synonym: "low-threshold" []
 synonym: "LTS" BROAD ACRONYM []
@@ -158,6 +158,6 @@ synonym: "LTS" BROAD ACRONYM []
 id: HBP_EPHYS:0000120
 name: spontaneous
 synonym: "S" BROAD ACRONYM []
-rsynonym: "spontaneous(ly)?"
+!rsynonym: "spontaneous(ly)?"
 synonym: "spontaneously" []
 synonym: "spontaneous" []

@@ -20,7 +20,7 @@ synonymtypedef: ACRONYM "acronym" BROAD
 id: HBP_LAYER:0000001
 name: layer 1
 synonym: "L1" BROAD ACRONYM []
-rsynonym: "[Ll]ayer[- ]?[1I]" EXACT ALTERNATE_SPELLING []
+!rsynonym: "[Ll]ayer[- ]?[1I]" EXACT ALTERNATE_SPELLING []
 synonym: "Layer I" EXACT ALTERNATE_SPELLING []
 synonym: "layerI" EXACT ALTERNATE_SPELLING []
 synonym: "layer-I" EXACT ALTERNATE_SPELLING []
@@ -33,7 +33,7 @@ synonym: "Layer 1" EXACT ALTERNATE_SPELLING []
 synonym: "layer 1" EXACT ALTERNATE_SPELLING []
 synonym: "Layer-1" EXACT ALTERNATE_SPELLING []
 synonym: "Layer1" EXACT ALTERNATE_SPELLING []
-rsynonym: "[Ll]1" BROAD ACRONYM []
+!rsynonym: "[Ll]1" BROAD ACRONYM []
 synonym: "L1" BROAD ACRONYM []
 synonym: "l1" BROAD ACRONYM []
 
@@ -41,7 +41,7 @@ synonym: "l1" BROAD ACRONYM []
 id: HBP_LAYER:0000002
 name: layer 2
 synonym: "L2" BROAD ACRONYM []
-rsynonym: "[Ll]ayer[- ]?(2|II)" EXACT ALTERNATE_SPELLING []
+!rsynonym: "[Ll]ayer[- ]?(2|II)" EXACT ALTERNATE_SPELLING []
 synonym: "layer-II" EXACT ALTERNATE_SPELLING []
 synonym: "layer II" EXACT ALTERNATE_SPELLING []
 synonym: "layer-2" EXACT ALTERNATE_SPELLING []
@@ -54,7 +54,7 @@ synonym: "Layer2" EXACT ALTERNATE_SPELLING []
 synonym: "layerII" EXACT ALTERNATE_SPELLING []
 synonym: "Layer-2" EXACT ALTERNATE_SPELLING []
 synonym: "Layer-II" EXACT ALTERNATE_SPELLING []
-rsynonym: "[Ll]2" BROAD ACRONYM []
+!rsynonym: "[Ll]2" BROAD ACRONYM []
 synonym: "L2" BROAD ACRONYM []
 synonym: "l2" BROAD ACRONYM []
 
@@ -62,7 +62,7 @@ synonym: "l2" BROAD ACRONYM []
 id: HBP_LAYER:0000003
 name: layer 3
 synonym: "L3" BROAD ACRONYM []
-rsynonym: "[Ll]ayer[- ]?(3|III)" EXACT ALTERNATE_SPELLING []
+!rsynonym: "[Ll]ayer[- ]?(3|III)" EXACT ALTERNATE_SPELLING []
 synonym: "layerIII" EXACT ALTERNATE_SPELLING []
 synonym: "layer-III" EXACT ALTERNATE_SPELLING []
 synonym: "Layer-III" EXACT ALTERNATE_SPELLING []
@@ -75,7 +75,7 @@ synonym: "Layer 3" EXACT ALTERNATE_SPELLING []
 synonym: "Layer3" EXACT ALTERNATE_SPELLING []
 synonym: "Layer III" EXACT ALTERNATE_SPELLING []
 synonym: "Layer-3" EXACT ALTERNATE_SPELLING []
-rsynonym: "[Ll]3" BROAD ACRONYM []
+!rsynonym: "[Ll]3" BROAD ACRONYM []
 synonym: "L3" BROAD ACRONYM []
 synonym: "l3" BROAD ACRONYM []
 
@@ -83,7 +83,7 @@ synonym: "l3" BROAD ACRONYM []
 id: HBP_LAYER:0000004
 name: layer 4
 synonym: "L4" BROAD ACRONYM []
-rsynonym: "[Ll]ayer[- ]?(4|IV)" EXACT ALTERNATE_SPELLING []
+!rsynonym: "[Ll]ayer[- ]?(4|IV)" EXACT ALTERNATE_SPELLING []
 synonym: "Layer-4" EXACT ALTERNATE_SPELLING []
 synonym: "layer-IV" EXACT ALTERNATE_SPELLING []
 synonym: "layerIV" EXACT ALTERNATE_SPELLING []
@@ -96,7 +96,7 @@ synonym: "Layer-IV" EXACT ALTERNATE_SPELLING []
 synonym: "Layer4" EXACT ALTERNATE_SPELLING []
 synonym: "Layer 4" EXACT ALTERNATE_SPELLING []
 synonym: "Layer IV" EXACT ALTERNATE_SPELLING []
-rsynonym: "[Ll]4" BROAD ACRONYM []
+!rsynonym: "[Ll]4" BROAD ACRONYM []
 synonym: "l4" BROAD ACRONYM []
 synonym: "L4" BROAD ACRONYM []
 
@@ -104,7 +104,7 @@ synonym: "L4" BROAD ACRONYM []
 id: HBP_LAYER:0000005
 name: layer 5
 synonym: "L5" BROAD ACRONYM []
-rsynonym: "[Ll]ayer[- ]?(5|V)" EXACT ALTERNATE_SPELLING []
+!rsynonym: "[Ll]ayer[- ]?(5|V)" EXACT ALTERNATE_SPELLING []
 synonym: "Layer-5" EXACT ALTERNATE_SPELLING []
 synonym: "Layer-V" EXACT ALTERNATE_SPELLING []
 synonym: "layer-V" EXACT ALTERNATE_SPELLING []
@@ -117,7 +117,7 @@ synonym: "layer5" EXACT ALTERNATE_SPELLING []
 synonym: "Layer 5" EXACT ALTERNATE_SPELLING []
 synonym: "layerV" EXACT ALTERNATE_SPELLING []
 synonym: "Layer V" EXACT ALTERNATE_SPELLING []
-rsynonym: "[Ll]5" BROAD ACRONYM []
+!rsynonym: "[Ll]5" BROAD ACRONYM []
 synonym: "l5" BROAD ACRONYM []
 synonym: "L5" BROAD ACRONYM []
 
@@ -125,7 +125,7 @@ synonym: "L5" BROAD ACRONYM []
 id: HBP_LAYER:0000006
 name: layer 6
 synonym: "L6" BROAD ACRONYM []
-rsynonym: "[Ll]ayer[- ]?(6|VI)" EXACT ALTERNATE_SPELLING []
+!rsynonym: "[Ll]ayer[- ]?(6|VI)" EXACT ALTERNATE_SPELLING []
 synonym: "Layer VI" EXACT ALTERNATE_SPELLING []
 synonym: "Layer-6" EXACT ALTERNATE_SPELLING []
 synonym: "layer-6" EXACT ALTERNATE_SPELLING []
@@ -138,7 +138,7 @@ synonym: "LayerVI" EXACT ALTERNATE_SPELLING []
 synonym: "Layer-VI" EXACT ALTERNATE_SPELLING []
 synonym: "Layer 6" EXACT ALTERNATE_SPELLING []
 synonym: "layer6" EXACT ALTERNATE_SPELLING []
-rsynonym: "[Ll]6" BROAD ACRONYM []
+!rsynonym: "[Ll]6" BROAD ACRONYM []
 synonym: "L6" BROAD ACRONYM []
 synonym: "l6" BROAD ACRONYM []
 
@@ -159,7 +159,7 @@ comment: "this is unlikely, but has been found in articles TODO cite"
 id: HBP_LAYER:0000030
 name: layer 3a
 synonym: "L3a" BROAD ACRONYM []
-rsynonym: "[Ll]ayer[- ]?(3|iii|III) ?[Aa]" EXACT ALTERNATE_SPELLING []
+!rsynonym: "[Ll]ayer[- ]?(3|iii|III) ?[Aa]" EXACT ALTERNATE_SPELLING []
 synonym: "layer3A" EXACT ALTERNATE_SPELLING []
 synonym: "Layer 3 A" EXACT ALTERNATE_SPELLING []
 synonym: "layer iii A" EXACT ALTERNATE_SPELLING []
@@ -232,7 +232,7 @@ synonym: "layer 3 A" EXACT ALTERNATE_SPELLING []
 synonym: "Layer iii A" EXACT ALTERNATE_SPELLING []
 synonym: "Layer-3a" EXACT ALTERNATE_SPELLING []
 synonym: "layer-III A" EXACT ALTERNATE_SPELLING []
-rsynonym: "[Ll]3[Aa]" BROAD ACRONYM []
+!rsynonym: "[Ll]3[Aa]" BROAD ACRONYM []
 synonym: "l3a" BROAD ACRONYM []
 synonym: "L3A" BROAD ACRONYM []
 synonym: "l3A" BROAD ACRONYM []
@@ -243,7 +243,7 @@ is_a: HBP_LAYER:0000003
 id: HBP_LAYER:0000031
 name: layer 3b
 synonym: "L3b" BROAD ACRONYM []
-rsynonym: "[Ll]ayer[- ]?(3|iii|III) ?[Bb]" EXACT ALTERNATE_SPELLING []
+!rsynonym: "[Ll]ayer[- ]?(3|iii|III) ?[Bb]" EXACT ALTERNATE_SPELLING []
 synonym: "layer iiib" EXACT ALTERNATE_SPELLING []
 synonym: "Layer 3 B" EXACT ALTERNATE_SPELLING []
 synonym: "Layer IIIb" EXACT ALTERNATE_SPELLING []
@@ -316,7 +316,7 @@ synonym: "Layer-3b" EXACT ALTERNATE_SPELLING []
 synonym: "layer-III B" EXACT ALTERNATE_SPELLING []
 synonym: "Layer iii B" EXACT ALTERNATE_SPELLING []
 synonym: "layer3B" EXACT ALTERNATE_SPELLING []
-rsynonym: "[Ll]3[Bb]" BROAD ACRONYM []
+!rsynonym: "[Ll]3[Bb]" BROAD ACRONYM []
 synonym: "l3B" BROAD ACRONYM []
 synonym: "L3b" BROAD ACRONYM []
 synonym: "L3B" BROAD ACRONYM []
@@ -328,7 +328,7 @@ is_a: HBP_LAYER:0000003
 id: HBP_LAYER:0000040
 name: layer 4a
 synonym: "L4a" BROAD ACRONYM []
-rsynonym: "[Ll]ayer[- ]?(4|iv|IV) ?[Aa]" EXACT ALTERNATE_SPELLING []
+!rsynonym: "[Ll]ayer[- ]?(4|iv|IV) ?[Aa]" EXACT ALTERNATE_SPELLING []
 synonym: "layer-ivA" EXACT ALTERNATE_SPELLING []
 synonym: "layer-IVA" EXACT ALTERNATE_SPELLING []
 synonym: "layer IV a" EXACT ALTERNATE_SPELLING []
@@ -401,7 +401,7 @@ synonym: "Layeriv A" EXACT ALTERNATE_SPELLING []
 synonym: "Layer-iv a" EXACT ALTERNATE_SPELLING []
 synonym: "Layer-4A" EXACT ALTERNATE_SPELLING []
 synonym: "layer4 a" EXACT ALTERNATE_SPELLING []
-rsynonym: "[Ll]4[Aa]" BROAD ACRONYM []
+!rsynonym: "[Ll]4[Aa]" BROAD ACRONYM []
 synonym: "L4a" BROAD ACRONYM []
 synonym: "l4A" BROAD ACRONYM []
 synonym: "L4A" BROAD ACRONYM []
@@ -413,7 +413,7 @@ is_a: HBP_LAYER:0000004
 id: HBP_LAYER:0000041
 name: layer 4b
 synonym: "L4b" BROAD ACRONYM []
-rsynonym: "[Ll]ayer[- ]?(4|iv|IV) ?[Bb]" EXACT ALTERNATE_SPELLING []
+!rsynonym: "[Ll]ayer[- ]?(4|iv|IV) ?[Bb]" EXACT ALTERNATE_SPELLING []
 synonym: "layer-ivB" EXACT ALTERNATE_SPELLING []
 synonym: "layer-IVB" EXACT ALTERNATE_SPELLING []
 synonym: "layer IV b" EXACT ALTERNATE_SPELLING []
@@ -486,7 +486,7 @@ synonym: "Layer-iv b" EXACT ALTERNATE_SPELLING []
 synonym: "Layer-4B" EXACT ALTERNATE_SPELLING []
 synonym: "layer-IV b" EXACT ALTERNATE_SPELLING []
 synonym: "layer4 b" EXACT ALTERNATE_SPELLING []
-rsynonym: "[Ll]4[Bb]" BROAD ACRONYM []
+!rsynonym: "[Ll]4[Bb]" BROAD ACRONYM []
 synonym: "l4b" BROAD ACRONYM []
 synonym: "L4b" BROAD ACRONYM []
 synonym: "l4B" BROAD ACRONYM []
@@ -497,7 +497,7 @@ is_a: HBP_LAYER:0000004
 id: HBP_LAYER:0000050
 name: layer 5a
 synonym: "L5a" BROAD ACRONYM []
-rsynonym: "[Ll]ayer[- ]?(5|v|V) ?[Aa]" EXACT ALTERNATE_SPELLING []
+!rsynonym: "[Ll]ayer[- ]?(5|v|V) ?[Aa]" EXACT ALTERNATE_SPELLING []
 synonym: "layer 5a" EXACT ALTERNATE_SPELLING []
 synonym: "layer-5 a" EXACT ALTERNATE_SPELLING []
 synonym: "layer Va" EXACT ALTERNATE_SPELLING []
@@ -570,7 +570,7 @@ synonym: "layer V a" EXACT ALTERNATE_SPELLING []
 synonym: "layer v A" EXACT ALTERNATE_SPELLING []
 synonym: "layerV A" EXACT ALTERNATE_SPELLING []
 synonym: "layer-vA" EXACT ALTERNATE_SPELLING []
-rsynonym: "[Ll]5[Aa]" BROAD ACRONYM []
+!rsynonym: "[Ll]5[Aa]" BROAD ACRONYM []
 synonym: "l5a" BROAD ACRONYM []
 synonym: "l5A" BROAD ACRONYM []
 synonym: "L5a" BROAD ACRONYM []
@@ -581,7 +581,7 @@ is_a: HBP_LAYER:0000005
 id: HBP_LAYER:0000051
 name: layer 5b
 synonym: "L5b" BROAD ACRONYM []
-rsynonym: "[Ll]ayer[- ]?(5|v|V) ?[Bb]" EXACT ALTERNATE_SPELLING []
+!rsynonym: "[Ll]ayer[- ]?(5|v|V) ?[Bb]" EXACT ALTERNATE_SPELLING []
 synonym: "layer Vb" EXACT ALTERNATE_SPELLING []
 synonym: "layer-5 b" EXACT ALTERNATE_SPELLING []
 synonym: "layer-v b" EXACT ALTERNATE_SPELLING []
@@ -654,7 +654,7 @@ synonym: "layer 5 B" EXACT ALTERNATE_SPELLING []
 synonym: "Layer-vB" EXACT ALTERNATE_SPELLING []
 synonym: "layer V b" EXACT ALTERNATE_SPELLING []
 synonym: "layerV B" EXACT ALTERNATE_SPELLING []
-rsynonym: "[Ll]5[Bb]" BROAD ACRONYM []
+!rsynonym: "[Ll]5[Bb]" BROAD ACRONYM []
 synonym: "l5b" BROAD ACRONYM []
 synonym: "L5b" BROAD ACRONYM []
 synonym: "l5B" BROAD ACRONYM []
@@ -665,7 +665,7 @@ is_a: HBP_LAYER:0000005
 id: HBP_LAYER:0000060
 name: layer 6a
 synonym: "L6a" BROAD ACRONYM []
-rsynonym: "[Ll]ayer[- ]?(6|vi|VI) ?[Aa]" EXACT ALTERNATE_SPELLING []
+!rsynonym: "[Ll]ayer[- ]?(6|vi|VI) ?[Aa]" EXACT ALTERNATE_SPELLING []
 synonym: "layer6a" EXACT ALTERNATE_SPELLING []
 synonym: "layer 6A" EXACT ALTERNATE_SPELLING []
 synonym: "layer VI a" EXACT ALTERNATE_SPELLING []
@@ -738,7 +738,7 @@ synonym: "LayerVI A" EXACT ALTERNATE_SPELLING []
 synonym: "Layer-viA" EXACT ALTERNATE_SPELLING []
 synonym: "Layer-VI a" EXACT ALTERNATE_SPELLING []
 synonym: "layer6 a" EXACT ALTERNATE_SPELLING []
-rsynonym: "[Ll]6[Aa]" BROAD ACRONYM []
+!rsynonym: "[Ll]6[Aa]" BROAD ACRONYM []
 synonym: "l6A" BROAD ACRONYM []
 synonym: "l6a" BROAD ACRONYM []
 synonym: "L6A" BROAD ACRONYM []
@@ -749,7 +749,7 @@ is_a: HBP_LAYER:0000006
 id: HBP_LAYER:0000061
 name: layer 6b
 synonym: "L6b" BROAD ACRONYM []
-rsynonym: "[Ll]ayer[- ]?(6|vi|VI) ?[Bb]" EXACT ALTERNATE_SPELLING []
+!rsynonym: "[Ll]ayer[- ]?(6|vi|VI) ?[Bb]" EXACT ALTERNATE_SPELLING []
 synonym: "layer 6B" EXACT ALTERNATE_SPELLING []
 synonym: "layer6b" EXACT ALTERNATE_SPELLING []
 synonym: "layerviB" EXACT ALTERNATE_SPELLING []
@@ -822,7 +822,7 @@ synonym: "Layer-VIB" EXACT ALTERNATE_SPELLING []
 synonym: "LayerVI B" EXACT ALTERNATE_SPELLING []
 synonym: "Layer-VI b" EXACT ALTERNATE_SPELLING []
 synonym: "layer6 b" EXACT ALTERNATE_SPELLING []
-rsynonym: "[Ll]6[Bb]" BROAD ACRONYM []
+!rsynonym: "[Ll]6[Bb]" BROAD ACRONYM []
 synonym: "L6b" BROAD ACRONYM []
 synonym: "L6B" BROAD ACRONYM []
 synonym: "l6B" BROAD ACRONYM []
@@ -841,7 +841,7 @@ is_a: HBP_LAYER:0000006
 id: HBP_LAYER:0000101
 name: layer 1-2
 synonym: "L1-2" BROAD ACRONYM []
-rsynonym: "[Ll](ayers?)? ?(1[-/]2|I[-/]II)"  EXACT ALTERNATE_SPELLING []
+!rsynonym: "[Ll](ayers?)? ?(1[-/]2|I[-/]II)"  EXACT ALTERNATE_SPELLING []
 synonym: "lI/II" EXACT ALTERNATE_SPELLING []
 synonym: "Layer 1/2" EXACT ALTERNATE_SPELLING []
 synonym: "lI-II" EXACT ALTERNATE_SPELLING []
@@ -899,7 +899,7 @@ union_of: HBP_LAYER:0000002
 id: HBP_LAYER:0000102
 name: layer 1-3
 synonym: "L1-3" BROAD ACRONYM []
-rsynonym: "[Ll](ayers?)? ?(1-3|I-III)"  EXACT ALTERNATE_SPELLING []
+!rsynonym: "[Ll](ayers?)? ?(1-3|I-III)"  EXACT ALTERNATE_SPELLING []
 synonym: "layers 1-3" EXACT ALTERNATE_SPELLING []
 synonym: "l 1-3" EXACT ALTERNATE_SPELLING []
 synonym: "layers1-3" EXACT ALTERNATE_SPELLING []
@@ -934,7 +934,7 @@ union_of: HBP_LAYER:0000003
 id: HBP_LAYER:0000103
 name: layer 1-4
 synonym: "L1-4" BROAD ACRONYM []
-rsynonym: "[Ll](ayers?)? ?(1-4|I-IV)"  EXACT ALTERNATE_SPELLING []
+!rsynonym: "[Ll](ayers?)? ?(1-4|I-IV)"  EXACT ALTERNATE_SPELLING []
 synonym: "layers1-4" EXACT ALTERNATE_SPELLING []
 synonym: "layers 1-4" EXACT ALTERNATE_SPELLING []
 synonym: "l 1-4" EXACT ALTERNATE_SPELLING []
@@ -970,7 +970,7 @@ union_of: HBP_LAYER:0000004
 id: HBP_LAYER:0000104
 name: layer 1-5
 synonym: "L1-5" BROAD ACRONYM []
-rsynonym: "[Ll](ayers?)? ?(1-5|I-V)"  EXACT ALTERNATE_SPELLING []
+!rsynonym: "[Ll](ayers?)? ?(1-5|I-V)"  EXACT ALTERNATE_SPELLING []
 synonym: "L I-V" EXACT ALTERNATE_SPELLING []
 synonym: "layers1-5" EXACT ALTERNATE_SPELLING []
 synonym: "layers 1-5" EXACT ALTERNATE_SPELLING []
@@ -1007,7 +1007,7 @@ union_of: HBP_LAYER:0000005
 id: HBP_LAYER:0000105
 name: layer 1-6
 synonym: "L1-6" BROAD ACRONYM []
-rsynonym: "[Ll](ayers?)? ?(1-6|I-VI)"  EXACT ALTERNATE_SPELLING []
+!rsynonym: "[Ll](ayers?)? ?(1-6|I-VI)"  EXACT ALTERNATE_SPELLING []
 synonym: "layers 1-6" EXACT ALTERNATE_SPELLING []
 synonym: "Layers I-VI" EXACT ALTERNATE_SPELLING []
 synonym: "l 1-6" EXACT ALTERNATE_SPELLING []
@@ -1047,7 +1047,7 @@ union_of: HBP_LAYER:0000006
 id: HBP_LAYER:0000111
 name: layer 2-3
 synonym: "L2-3" BROAD ACRONYM []
-rsynonym: "[Ll](ayers?)? ?(2[-/]3|II[-/]III)"  EXACT ALTERNATE_SPELLING []
+!rsynonym: "[Ll](ayers?)? ?(2[-/]3|II[-/]III)"  EXACT ALTERNATE_SPELLING []
 synonym: "LII/III" EXACT ALTERNATE_SPELLING []
 synonym: "layers2-3" EXACT ALTERNATE_SPELLING []
 synonym: "l II-III" EXACT ALTERNATE_SPELLING []
@@ -1105,7 +1105,7 @@ union_of: HBP_LAYER:0000003
 id: HBP_LAYER:0000112
 name: layer 2-4
 synonym: "L2-4" BROAD ACRONYM []
-rsynonym: "[Ll](ayers?)? ?(2-4|II-IV)"  EXACT ALTERNATE_SPELLING []
+!rsynonym: "[Ll](ayers?)? ?(2-4|II-IV)"  EXACT ALTERNATE_SPELLING []
 synonym: "layers2-4" EXACT ALTERNATE_SPELLING []
 synonym: "layers 2-4" EXACT ALTERNATE_SPELLING []
 synonym: "l 2-4" EXACT ALTERNATE_SPELLING []
@@ -1140,7 +1140,7 @@ union_of: HBP_LAYER:0000004
 id: HBP_LAYER:0000113
 name: layer 2-5
 synonym: "L2-5" BROAD ACRONYM []
-rsynonym: "[Ll](ayers?)? ?(2-5|II-V)"  EXACT ALTERNATE_SPELLING []
+!rsynonym: "[Ll](ayers?)? ?(2-5|II-V)"  EXACT ALTERNATE_SPELLING []
 synonym: "layers II-V" EXACT ALTERNATE_SPELLING []
 synonym: "lII-V" EXACT ALTERNATE_SPELLING []
 synonym: "layer II-V" EXACT ALTERNATE_SPELLING []
@@ -1176,7 +1176,7 @@ union_of: HBP_LAYER:0000005
 id: HBP_LAYER:0000114
 name: layer 2-6
 synonym: "L2-6" BROAD ACRONYM []
-rsynonym: "[Ll](ayers?)? ?(2-6|II-VI)"  EXACT ALTERNATE_SPELLING []
+!rsynonym: "[Ll](ayers?)? ?(2-6|II-VI)"  EXACT ALTERNATE_SPELLING []
 synonym: "LayerII-VI" EXACT ALTERNATE_SPELLING []
 synonym: "Layer II-VI" EXACT ALTERNATE_SPELLING []
 synonym: "LII-VI" EXACT ALTERNATE_SPELLING []
@@ -1215,7 +1215,7 @@ union_of: HBP_LAYER:0000006
 id: HBP_LAYER:0000121
 name: layer 3-4
 synonym: "L3-4" BROAD ACRONYM []
-rsynonym: "[Ll](ayers?)? ?(3[-/]4|III[-/]IV)"  EXACT ALTERNATE_SPELLING []
+!rsynonym: "[Ll](ayers?)? ?(3[-/]4|III[-/]IV)"  EXACT ALTERNATE_SPELLING []
 synonym: "Layer III-IV" EXACT ALTERNATE_SPELLING []
 synonym: "layers3/4" EXACT ALTERNATE_SPELLING []
 synonym: "Layer III/IV" EXACT ALTERNATE_SPELLING []
@@ -1266,7 +1266,7 @@ synonym: "L III/IV" EXACT ALTERNATE_SPELLING []
 synonym: "Layers3/4" EXACT ALTERNATE_SPELLING []
 synonym: "layer IV-III"  EXACT ALTERNATE_SPELLING [] ! unlikely
 synonym: "layer 4-3"     EXACT ALTERNATE_SPELLING [] ! unlikely
-rsynonym: "[Ll](3[-/]4|III[-/]IV)" BROAD ACRONYM []
+!rsynonym: "[Ll](3[-/]4|III[-/]IV)" BROAD ACRONYM []
 synonym: "lIII-IV" BROAD ACRONYM []
 synonym: "lIII/IV" BROAD ACRONYM []
 synonym: "LIII-IV" BROAD ACRONYM []
@@ -1282,7 +1282,7 @@ union_of: HBP_LAYER:0000004
 id: HBP_LAYER:0000122
 name: layer 3-5
 synonym: "L3-5" BROAD ACRONYM []
-rsynonym: "[Ll](ayers?)? ?(3-5|III-V)"  EXACT ALTERNATE_SPELLING []
+!rsynonym: "[Ll](ayers?)? ?(3-5|III-V)"  EXACT ALTERNATE_SPELLING []
 synonym: "LayersIII-V" EXACT ALTERNATE_SPELLING []
 synonym: "layers 3-5" EXACT ALTERNATE_SPELLING []
 synonym: "L III-V" EXACT ALTERNATE_SPELLING []
@@ -1317,7 +1317,7 @@ union_of: HBP_LAYER:0000005
 id: HBP_LAYER:0000123
 name: layer 3-6
 synonym: "L3-6" BROAD ACRONYM []
-rsynonym: "[Ll](ayers?)? ?(3-6|III-VI)"  EXACT ALTERNATE_SPELLING []
+!rsynonym: "[Ll](ayers?)? ?(3-6|III-VI)"  EXACT ALTERNATE_SPELLING []
 synonym: "l3-6" EXACT ALTERNATE_SPELLING []
 synonym: "layersIII-VI" EXACT ALTERNATE_SPELLING []
 synonym: "Layer III-VI" EXACT ALTERNATE_SPELLING []
@@ -1355,7 +1355,7 @@ union_of: HBP_LAYER:0000006
 id: HBP_LAYER:0000131
 name: layer 4-5
 synonym: "L4-5" BROAD ACRONYM []
-rsynonym: "[Ll](ayers?)? ?(4[-/]5|IV[-/]V)"  EXACT ALTERNATE_SPELLING []
+!rsynonym: "[Ll](ayers?)? ?(4[-/]5|IV[-/]V)"  EXACT ALTERNATE_SPELLING []
 synonym: "layerIV/V" EXACT ALTERNATE_SPELLING []
 synonym: "l4-5" EXACT ALTERNATE_SPELLING []
 synonym: "layerIV-V" EXACT ALTERNATE_SPELLING []
@@ -1413,7 +1413,7 @@ union_of: HBP_LAYER:0000005
 id: HBP_LAYER:0000132
 name: layer 4-6
 synonym: "L4-6" BROAD ACRONYM []
-rsynonym: "[Ll](ayers?)? ?(4-6|IV-VI)"  EXACT ALTERNATE_SPELLING []
+!rsynonym: "[Ll](ayers?)? ?(4-6|IV-VI)"  EXACT ALTERNATE_SPELLING []
 synonym: "l4-6" EXACT ALTERNATE_SPELLING []
 synonym: "layerIV-VI" EXACT ALTERNATE_SPELLING []
 synonym: "Layers IV-VI" EXACT ALTERNATE_SPELLING []
@@ -1450,7 +1450,7 @@ union_of: HBP_LAYER:0000006
 id: HBP_LAYER:0000141
 name: layer 5-6
 synonym: "L5-6" BROAD ACRONYM []
-rsynonym: "[Ll](ayers?)? ?(5[-/]6|V[-/]VI)"  EXACT ALTERNATE_SPELLING []
+!rsynonym: "[Ll](ayers?)? ?(5[-/]6|V[-/]VI)"  EXACT ALTERNATE_SPELLING []
 synonym: "LV-VI" EXACT ALTERNATE_SPELLING []
 synonym: "l5/6" EXACT ALTERNATE_SPELLING []
 synonym: "LayerV/VI" EXACT ALTERNATE_SPELLING []

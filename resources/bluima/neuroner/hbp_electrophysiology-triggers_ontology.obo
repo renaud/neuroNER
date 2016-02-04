@@ -17,7 +17,7 @@ synonymtypedef: PLURAL "plural term" EXACT
 id: HBP_EPHYS_TRIGGER:0000001
 name: accommodating
 synonym: "Ac" BROAD ACRONYM []
-rsynonym: "acc?omm?odating"
+!rsynonym: "acc?omm?odating"
 synonym: "accomodating" []
 synonym: "accommodating" []
 synonym: "acomodating" []
@@ -28,7 +28,7 @@ synonym: "accomodating" RELATED MISSPELLING []
 id: HBP_EPHYS_TRIGGER:0000002
 name: non-accommodating
 synonym: "NAc" BROAD ACRONYM []
-rsynonym: "(non|not|un)[- ]?accomodating"
+!rsynonym: "(non|not|un)[- ]?accomodating"
 synonym: "nonaccomodating" []
 synonym: "not accomodating" []
 synonym: "notaccomodating" []
@@ -44,7 +44,7 @@ disjoint_from: HBP_EPHYS_TRIGGER:0000001 ! accommodating
 id: HBP_EPHYS_TRIGGER:0000003
 name: spiking
 synonym: "S" BROAD ACRONYM []
-rsynonym: "spik(ing|e)"
+!rsynonym: "spik(ing|e)"
 synonym: "spiking" []
 synonym: "spike" []
 
@@ -58,7 +58,7 @@ synonym: "S" BROAD ACRONYM []
 id: HBP_EPHYS_TRIGGER:0000005
 name: burst
 synonym: "B" BROAD ACRONYM []
-rsynonym: "burst(ing)?"
+!rsynonym: "burst(ing)?"
 synonym: "burst" []
 synonym: "bursting" []
 
@@ -66,7 +66,7 @@ synonym: "bursting" []
 id: HBP_EPHYS_TRIGGER:0000006
 name: stuttering
 synonym: "Stut" BROAD ACRONYM []
-rsynonym: "stutter(ing)?"
+!rsynonym: "stutter(ing)?"
 synonym: "stuttering" []
 synonym: "stutter" []
 synonym: "STUT" BROAD ACRONYM []
@@ -75,7 +75,7 @@ synonym: "STUT" BROAD ACRONYM []
 id: HBP_EPHYS_TRIGGER:0000007
 name: chattering
 synonym: "Chat" BROAD ACRONYM []
-rsynonym: "chatter(ing)?"
+!rsynonym: "chatter(ing)?"
 synonym: "chattering" []
 synonym: "chatter" []
 
@@ -88,7 +88,7 @@ synonym: "Ad" BROAD ACRONYM []
 id: HBP_EPHYS_TRIGGER:0000009
 name: nonadapting
 synonym: "NAd" BROAD ACRONYM []
-rsynonym: "(non|not|un)[- ]?adapting"
+!rsynonym: "(non|not|un)[- ]?adapting"
 synonym: "nonadapting" []
 synonym: "non adapting" []
 synonym: "notadapting" []
