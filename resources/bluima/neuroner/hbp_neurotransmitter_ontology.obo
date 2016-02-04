@@ -14,7 +14,7 @@ synonymtypedef: PLURAL "plural term" EXACT
 synonymtypedef: CHEMICAL_FORMULA "chemical formula" EXACT
 
 
-[TypeDef]
+[Typedef]
 id: has_effect
 name: has_effect
 def: "the behaviour of post-synaptic cell" []
