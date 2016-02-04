@@ -6002,7 +6002,7 @@ synonym: "cerebral cortex" []
 synonym: "pallium" []
 synonym: "Cerebral cortex" []
 synonym: "Cortex cerebri" []
-synonym: "cortex" [] ! curator=RR 
+synonym: "cortex" [] ! curator=RR
 synonym: "cortical" [] ! curator=RR
 ! in terms of text-mining, and what authors mean
 ! these regions should go with Isocortex

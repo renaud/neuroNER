@@ -19,10 +19,10 @@ id: HBP_EPHYS:0000001
 name: regular
 acronym: R
 rsynonym: "(regular|tonic)(ly)?"
-synonym: "regularly"
-synonym: "tonicly"
-synonym: "tonic"
-synonym: "regular"
+synonym: "regularly" []
+synonym: "tonicly" []
+synonym: "tonic" []
+synonym: "regular" []
 synonym: "RS" BROAD ACRONYM []
 
 [Term]
@@ -30,10 +30,10 @@ id: HBP_EPHYS:0000010
 name: irregular
 acronym: I
 rsynonym: "ir?regular(ly)?"
-synonym: "iregularly"
-synonym: "irregular"
-synonym: "irregularly"
-synonym: "iregular"
+synonym: "iregularly" []
+synonym: "irregular" []
+synonym: "irregularly" []
+synonym: "iregular" []
 synonym: "IS" BROAD ACRONYM []
 
 [Term]
@@ -41,9 +41,9 @@ id: HBP_EPHYS:0000020
 name: late
 acronym: L
 rsynonym: "(late|delay|delayed)"
-synonym: "delay"
-synonym: "late"
-synonym: "delayed"
+synonym: "delay" []
+synonym: "late" []
+synonym: "delayed" []
 synonym: "LS" BROAD ACRONYM []
 
 [Term]
@@ -51,24 +51,24 @@ id: HBP_EPHYS:0000030
 name: continuous
 acronym: C
 rsynonym: "continous(ly)?"
-synonym: "continous"
-synonym: "continously"
+synonym: "continous" []
+synonym: "continously" []
 
 [Term]
 id: HBP_EPHYS:0000040
 name: intrinsic
 acronym: I
 rsynonym: "intrinsic(ally)?"
-synonym: "intrinsically"
-synonym: "intrinsic"
+synonym: "intrinsically" []
+synonym: "intrinsic" []
 
 [Term]
 id: HBP_EPHYS:0000050
 name: classical
 acronym: C
 rsynonym: "classical(ly)?"
-synonym: "classically"
-synonym: "classical"
+synonym: "classically" []
+synonym: "classical" []
 !disjoint_from: HBP_EPHYS:0000015 ! adapting
 
 [Term]
@@ -84,15 +84,15 @@ id: HBP_EPHYS:0000080
 name: fast
 acronym: F
 rsynonym: "(fast|rapid)(ly)?"
-synonym: "fastly"
-synonym: "fast"
-synonym: "rapid"
-synonym: "rapidly"
+synonym: "fastly" []
+synonym: "fast" []
+synonym: "rapid" []
+synonym: "rapidly" []
 rsynonym: "(Fast|Rapid)(ly)?"
-synonym: "Fastly"
-synonym: "Rapidly"
-synonym: "Rapid"
-synonym: "Fast"
+synonym: "Fastly" []
+synonym: "Rapidly" []
+synonym: "Rapid" []
+synonym: "Fast" []
 synonym: "FS" BROAD ACRONYM []
 
 [Term]
@@ -100,58 +100,58 @@ id: HBP_EPHYS:0000090
 name: non-fast
 acronym: NF
 rsynonym: "(non|not|un)[- ]?(fast|rapid)(ly)?"
-synonym: "non fastly"
-synonym: "not rapid"
-synonym: "notfastly"
-synonym: "un rapidly"
-synonym: "notfast"
-synonym: "un-fastly"
-synonym: "un-fast"
-synonym: "non-rapidly"
-synonym: "non-rapid"
-synonym: "not rapidly"
-synonym: "unfast"
-synonym: "un rapid"
-synonym: "not-rapidly"
-synonym: "not-rapid"
-synonym: "un-rapid"
-synonym: "unrapidly"
-synonym: "un-rapidly"
-synonym: "unrapid"
-synonym: "un fast"
-synonym: "nonfastly"
-synonym: "non rapidly"
-synonym: "non-fastly"
-synonym: "not-fast"
-synonym: "non-fast"
-synonym: "non rapid"
-synonym: "not fast"
-synonym: "unfastly"
-synonym: "nonrapid"
-synonym: "notrapid"
-synonym: "non fast"
-synonym: "not fastly"
-synonym: "not-fastly"
-synonym: "nonrapidly"
-synonym: "un fastly"
-synonym: "nonfast"
-synonym: "notrapidly"
+synonym: "non fastly" []
+synonym: "not rapid" []
+synonym: "notfastly" []
+synonym: "un rapidly" []
+synonym: "notfast" []
+synonym: "un-fastly" []
+synonym: "un-fast" []
+synonym: "non-rapidly" []
+synonym: "non-rapid" []
+synonym: "not rapidly" []
+synonym: "unfast" []
+synonym: "un rapid" []
+synonym: "not-rapidly" []
+synonym: "not-rapid" []
+synonym: "un-rapid" []
+synonym: "unrapidly" []
+synonym: "un-rapidly" []
+synonym: "unrapid" []
+synonym: "un fast" []
+synonym: "nonfastly" []
+synonym: "non rapidly" []
+synonym: "non-fastly" []
+synonym: "not-fast" []
+synonym: "non-fast" []
+synonym: "non rapid" []
+synonym: "not fast" []
+synonym: "unfastly" []
+synonym: "nonrapid" []
+synonym: "notrapid" []
+synonym: "non fast" []
+synonym: "not fastly" []
+synonym: "not-fastly" []
+synonym: "nonrapidly" []
+synonym: "un fastly" []
+synonym: "nonfast" []
+synonym: "notrapidly" []
 
 [Term]
 id: HBP_EPHYS:0000100
 name: slow
 acronym: S
 rsynonym: "(slow)(ly)?"
-synonym: "slow"
-synonym: "slowly"
+synonym: "slow" []
+synonym: "slowly" []
 
 [Term]
 id: HBP_EPHYS:0000110
 name: low threshold
 acronym: LT
 rsynonym: "low[- ]threshold"
-synonym: "low threshold"
-synonym: "low-threshold"
+synonym: "low threshold" []
+synonym: "low-threshold" []
 synonym: "LTS" BROAD ACRONYM []
 
 [Term]
@@ -159,5 +159,5 @@ id: HBP_EPHYS:0000120
 name: spontaneous
 acronym: S
 rsynonym: "spontaneous(ly)?"
-synonym: "spontaneously"
-synonym: "spontaneous"
+synonym: "spontaneously" []
+synonym: "spontaneous" []
