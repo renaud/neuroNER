@@ -43,7 +43,7 @@ disjoint_from: HBP_NEUROTRANSMITTER:0000001 ! serotonin
 id: HBP_NEUROTRANSMITTER:0000003
 name: gaba
 synonym: "gaba" BROAD ACRONYM []
-has_effect: inhibitory
+!has_effect: inhibitory
 synonym: "gabaergic" RELATED ADJECTIVE []
 synonym: "GABAergic" RELATED ADJECTIVE []
 synonym: "GABA" BROAD ACRONYM []
@@ -52,7 +52,7 @@ synonym: "GABA" BROAD ACRONYM []
 id: HBP_NEUROTRANSMITTER:0000004
 name: glutamate
 synonym: "glu" BROAD ACRONYM []
-has_effect: exhibitatory
+!has_effect: exhibitatory
 synonym: "glutamic acid" []
 synonym: "2-Aminopentanedioic acid" []
 synonym: "2-aminoglutaric acid" []
@@ -65,7 +65,7 @@ def: "An α-amino acid that is glutaric acid bearing a single amino substituent 
 id: HBP_NEUROTRANSMITTER:0000005
 name: acetylcholine
 synonym: "ACh" BROAD ACRONYM []
-has_effect: inhibitory
+!has_effect: inhibitory
 synonym: "cholinergic" RELATED ADJECTIVE []
 synonym: "acetylcholinergic" RELATED ADJECTIVE []
 synonym: "ACh" BROAD ACRONYM []
@@ -103,7 +103,7 @@ disjoint_from: HBP_NEUROTRANSMITTER:0000007 ! dopamine
 id: HBP_NEUROTRANSMITTER:0000008
 name: glycine
 synonym: "gly" BROAD ACRONYM []
-has_effect: inhibitory
+!has_effect: inhibitory
 synonym: "glycinergic" RELATED ADJECTIVE []
 synonym: "Gly" BROAD ACRONYM []
 
