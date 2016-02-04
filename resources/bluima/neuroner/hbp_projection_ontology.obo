@@ -16,31 +16,31 @@ synonymtypedef: CHEMICAL_FORMULA "chemical formula" EXACT
 [Term]
 id: HBP_PROJECTION:22
 name: corticospinal
-acronym: CSp
+synonym: "CSp" BROAD ACRONYM []
 
 [Term]
 id: HBP_PROJECTION:113
 name: corticothalamic
-acronym: CThal
+synonym: "CThal" BROAD ACRONYM []
 
 [Term]
 id: HBP_PROJECTION:7322
 name: corticostriatal
-acronym: CStr
+synonym: "CStr" BROAD ACRONYM []
 
 [Term]
 id: HBP_PROJECTION:7323
 name: corticocortical
 synonym: "corticocallosal" RELATED ADJECTIVE []
-acronym: CCo
+synonym: "CCo" BROAD ACRONYM []
 
 [Term]
 id: HBP_PROJECTION:7324
 name: corticotrigeminal
-acronym: CTrig
+synonym: "CTrig" BROAD ACRONYM []
 
 [Term]
 id: HBP_PROJECTION:7325
 name: corticotectal
-acronym: CTect
+synonym: "CTect" BROAD ACRONYM []
 

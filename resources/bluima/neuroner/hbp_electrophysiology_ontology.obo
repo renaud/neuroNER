@@ -17,7 +17,7 @@ synonymtypedef: CHEMICAL_FORMULA "chemical formula" EXACT
 [Term]
 id: HBP_EPHYS:0000001
 name: regular
-acronym: R
+synonym: "R" BROAD ACRONYM []
 rsynonym: "(regular|tonic)(ly)?"
 synonym: "regularly" []
 synonym: "tonicly" []
@@ -28,7 +28,7 @@ synonym: "RS" BROAD ACRONYM []
 [Term]
 id: HBP_EPHYS:0000010
 name: irregular
-acronym: I
+synonym: "I" BROAD ACRONYM []
 rsynonym: "ir?regular(ly)?"
 synonym: "iregularly" []
 synonym: "irregular" []
@@ -39,7 +39,7 @@ synonym: "IS" BROAD ACRONYM []
 [Term]
 id: HBP_EPHYS:0000020
 name: late
-acronym: L
+synonym: "L" BROAD ACRONYM []
 rsynonym: "(late|delay|delayed)"
 synonym: "delay" []
 synonym: "late" []
@@ -49,7 +49,7 @@ synonym: "LS" BROAD ACRONYM []
 [Term]
 id: HBP_EPHYS:0000030
 name: continuous
-acronym: C
+synonym: "C" BROAD ACRONYM []
 rsynonym: "continous(ly)?"
 synonym: "continous" []
 synonym: "continously" []
@@ -57,7 +57,7 @@ synonym: "continously" []
 [Term]
 id: HBP_EPHYS:0000040
 name: intrinsic
-acronym: I
+synonym: "I" BROAD ACRONYM []
 rsynonym: "intrinsic(ally)?"
 synonym: "intrinsically" []
 synonym: "intrinsic" []
@@ -65,7 +65,7 @@ synonym: "intrinsic" []
 [Term]
 id: HBP_EPHYS:0000050
 name: classical
-acronym: C
+synonym: "C" BROAD ACRONYM []
 rsynonym: "classical(ly)?"
 synonym: "classically" []
 synonym: "classical" []
@@ -82,7 +82,7 @@ name: depolarized
 [Term]
 id: HBP_EPHYS:0000080
 name: fast
-acronym: F
+synonym: "F" BROAD ACRONYM []
 rsynonym: "(fast|rapid)(ly)?"
 synonym: "fastly" []
 synonym: "fast" []
@@ -98,7 +98,7 @@ synonym: "FS" BROAD ACRONYM []
 [Term]
 id: HBP_EPHYS:0000090
 name: non-fast
-acronym: NF
+synonym: "NF" BROAD ACRONYM []
 rsynonym: "(non|not|un)[- ]?(fast|rapid)(ly)?"
 synonym: "non fastly" []
 synonym: "not rapid" []
@@ -140,7 +140,7 @@ synonym: "notrapidly" []
 [Term]
 id: HBP_EPHYS:0000100
 name: slow
-acronym: S
+synonym: "S" BROAD ACRONYM []
 rsynonym: "(slow)(ly)?"
 synonym: "slow" []
 synonym: "slowly" []
@@ -148,7 +148,7 @@ synonym: "slowly" []
 [Term]
 id: HBP_EPHYS:0000110
 name: low threshold
-acronym: LT
+synonym: "LT" BROAD ACRONYM []
 rsynonym: "low[- ]threshold"
 synonym: "low threshold" []
 synonym: "low-threshold" []
@@ -157,7 +157,7 @@ synonym: "LTS" BROAD ACRONYM []
 [Term]
 id: HBP_EPHYS:0000120
 name: spontaneous
-acronym: S
+synonym: "S" BROAD ACRONYM []
 rsynonym: "spontaneous(ly)?"
 synonym: "spontaneously" []
 synonym: "spontaneous" []

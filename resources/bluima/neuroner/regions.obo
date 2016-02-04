@@ -86,7 +86,7 @@ name: hypoglossal
 [Term]
 id: UNKN_REGION:22
 name: corticospinal
-acronym: CSp
+synonym: "CSp" BROAD ACRONYM []
 
 [Term]
 id: UNKN_REGION:23
@@ -451,7 +451,7 @@ name: thalamic
 [Term]
 id: UNKN_REGION:113
 name: corticothalamic
-acronym: CThal
+synonym: "CThal" BROAD ACRONYM []
 
 [Term]
 id: UNKN_REGION:114
@@ -29256,20 +29256,20 @@ name: presympathetic
 [Term]
 id: UNKN_REGION:7322
 name: corticostriatal
-acronym: CStr
+synonym: "CStr" BROAD ACRONYM []
 
 [Term]
 id: UNKN_REGION:7323
 name: corticocortical
 synonym: "corticocallosal" RELATED ADJECTIVE []
-acronym: CCo
+synonym: "CCo" BROAD ACRONYM []
 
 [Term]
 id: UNKN_REGION:7324
 name: corticotrigeminal
-acronym: CTrig
+synonym: "CTrig" BROAD ACRONYM []
 
 [Term]
 id: UNKN_REGION:7325
 name: corticotectal
-acronym: CTect
+synonym: "CTect" BROAD ACRONYM []
