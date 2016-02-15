@@ -1,0 +1,2919 @@
+--- aba_uberon_syn_review.txt.old	2016-02-11 22:47:17.156427133 -0800
++++ aba_uberon_syn_review.txt	2016-02-12 16:58:57.189402655 -0800
+@@ -10,6 +10,25 @@
+ visual areas
+ 
+ 
++UBERON:0000434      anterior paraventricular nucleus of thalamus
++MBA:30              Periventricular hypothalamic nucleus, anterior part
++------ABA  SYNS------
++PVa
++Periventricular hypothalamic nucleus anterior part
++Periventricular hypothalamic nucleus, anterior part
++anterior part of the periventricular nucleus
++periventricular hypothalamic nucleus, anterior part
++-----UBERON SYNS-----
++anterior paraventricular nuclei
++anterior paraventricular nucleus
++anterior paraventricular nucleus of thalamus
++anterior paraventricular nucleus of the thalamus
++anterior periventricular nucleus of the hypothalamus
++nucleus paraventricularis anterior thalami
++periventricular hypothalamic nucleus, anterior part
++ventral paraventricular nucleus of thalamus
++
++
+ UBERON:0000435      lateral tuberal nucleus
+ MBA:614             Tuberal nucleus
+ ------ABA  SYNS------
+@@ -70,6 +89,30 @@
+ posterior commissure (Lieutaud)
+ 
+ 
++UBERON:0000941      cranial nerve II
++MBA:848             optic nerve
++------ABA  SYNS------
++IIn
++Nerve II
++Nervus opticus
++optic nerve
++second cranial nerve
++-----UBERON SYNS-----
++02 optic nerve
++2n
++CN-II
++cranial II
++nerve II
++nervus opticus
++nervus opticus [II]
++optic
++optic II
++optic II nerve
++optic nerve
++optic nerve [II]
++second cranial nerve
++
++
+ UBERON:0000956      cerebral cortex
+ MBA:688             Cerebral cortex
+ ------ABA  SYNS------
+@@ -110,6 +153,19 @@
+ optic chiasm (Rufus of Ephesus)
+ 
+ 
++UBERON:0000966      retina
++MBA:304325711       retina
++------ABA  SYNS------
++retina
++retina
++-----UBERON SYNS-----
++Netzhaut
++inner layer of eyeball
++retina of camera-type eye
++retinas
++tunica interna of eyeball
++
++
+ UBERON:0000988      pons
+ MBA:771             Pons
+ ------ABA  SYNS------
+@@ -194,6 +250,252 @@
+ temporal auditory neocortex
+ 
+ 
++UBERON:0001579      olfactory nerve
++MBA:840             olfactory nerve
++------ABA  SYNS------
++Fila olfactoria
++In
++Nerve I
++Nervus olfactorius
++first cranial nerve
++olfactoria fila
++olfactory fila
++olfactory nerve
++-----UBERON SYNS-----
++1n
++CN-I
++Olfactory nerve [I]
++cranial nerve I
++fila olfactoria
++first cranial nerve
++nerve I
++nerve of smell
++nervus olfactorius
++nervus olfactorius [i]
++olfactoria fila
++olfactory I
++olfactory fila
++olfactory i nerve
++
++
++UBERON:0001643      oculomotor nerve
++MBA:832             oculomotor nerve
++------ABA  SYNS------
++IIIn
++Nerve III
++Nervus oculomotorius
++Nervus oculomotorius, radix inferior
++Nervus oculomotorius, ramus inferior
++inferior branch of the oculomotor nerve
++inferior division of the oculomotor nerve
++oculomotor nerve
++oculomotor nerve, inferior ramus
++third cranial nerve
++-----UBERON SYNS-----
++3n
++CN-III
++cranial nerve III
++nerve III
++nervus oculomotorius
++nervus oculomotorius [III]
++occulomotor
++oculomotor III
++oculomotor III nerve
++oculomotor nerve [III]
++oculomotor nerve or its root
++oculomotor nerve tree
++third cranial nerve
++
++
++UBERON:0001644      trochlear nerve
++MBA:911             trochlear nerve
++------ABA  SYNS------
++IVn
++Nerve IV
++Nervus trochlearis
++fourth cranial nerve
++trochlear nerve
++-----UBERON SYNS-----
++4n
++CN-IV
++cranial nerve IV
++fourth cranial nerve
++nerve IV
++nervus trochlearis
++nervus trochlearis [IV]
++pathetic nerve
++superior oblique nerve
++trochlear
++trochlear IV nerve
++trochlear nerve [IV]
++trochlear nerve or its root
++trochlear nerve tree
++trochlear nerve/root
++
++
++UBERON:0001645      trigeminal nerve
++MBA:901             trigeminal nerve
++------ABA  SYNS------
++Nerve V
++Nervus trigeminus
++Vn
++fifth cranial nerve
++trigeminal nerve
++-----UBERON SYNS-----
++5n
++CN-V
++cranial nerve V
++fifth cranial nerve
++nerve V
++nervus trigeminus
++nervus trigeminus [v]
++trigeminal V
++trigeminal nerve [V]
++trigeminal nerve tree
++trigeminal v nerve
++trigeminus
++
++
++UBERON:0001646      abducens nerve
++MBA:710             abducens nerve
++------ABA  SYNS------
++Nerve VI
++Nervus abducens
++VIn
++abducens nerve
++abducent nerve
++sixth cranial nerve
++-----UBERON SYNS-----
++6n
++CN-VI
++abducens VI nerve
++abducens nerve [VI]
++abducens nerve tree
++abducens nerve/root
++abducent nerve
++abducent nerve [VI]
++abducents VI nerve
++cranial nerve VI
++lateral rectus nerve
++nerve VI
++nervus abducens
++nervus abducens [VI]
++sixth cranial nerve
++
++
++UBERON:0001647      facial nerve
++MBA:798             facial nerve
++------ABA  SYNS------
++Nerve VII
++Nervus facialis
++VIIn
++facial nerve
++seventh cranial nerve
++-----UBERON SYNS-----
++7n
++CN-VII
++Facial nerve [VII]
++branchiomeric cranial nerve
++cranial nerve VII
++face nerve
++facial VII
++facial VII nerve
++facial nerve or its root
++facial nerve tree
++facial nerve/root
++nerve VII
++nerve of face
++nervus facialis
++nervus facialis [vii]
++seventh cranial nerve
++
++
++UBERON:0001648      vestibulocochlear nerve
++MBA:933             vestibulocochlear nerve
++------ABA  SYNS------
++Cranial Nerve VIII
++Nervus octavus
++Nervus statoacusticus
++Nervus vestibulocochlearis
++VIIIn
++acoustic nerve
++cochlear-vestibular nerve
++cochleovestibular nerve
++eighth cranial nerve
++stato-acoustic nerve
++statoacoustic nerve
++vestibulocochlear nerve
++-----UBERON SYNS-----
++8n
++CN-VIII
++VIII nerve
++VIIIth cranial nerve
++Vestibulocochlear nerve [VIII]
++acoustic VIII nerve
++acoustic nerve
++acoustic nerve (Crosby)
++cochlear-vestibular nerve
++cochleovestibular nerve
++cranial nerve VIII
++eighth cranial nerve
++nervus octavus
++nervus statoacusticus
++nervus vestibulocochlearis
++nervus vestibulocochlearis [viii]
++octaval nerve
++stato-acoustic nerve
++statoacoustic nerve
++vestibulocochlear VIII nerve
++vestibulocochlear nerve tree
++
++
++UBERON:0001649      glossopharyngeal nerve
++MBA:808             glossopharyngeal nerve
++------ABA  SYNS------
++IXn
++Nerve IX
++Nervus glossopharyngeus
++glossopharyngeal nerve
++ninth cranial nerve
++-----UBERON SYNS-----
++9n
++CN-IX
++cranial nerve IX
++glossopharyngeal IX
++glossopharyngeal IX nerve
++glossopharyngeal nerve [IX]
++glossopharyngeal nerve tree
++nerve IX
++nervus glossopharyngeus
++nervus glossopharyngeus [ix]
++ninth cranial nerve
++
++
++UBERON:0001650      hypoglossal nerve
++MBA:813             hypoglossal nerve
++------ABA  SYNS------
++Nerve XII
++Nervi hypoglossalis
++Nervus hypoglossus
++XIIn
++hypoglossal nerve
++twelfth cranial nerve
++-----UBERON SYNS-----
++12n
++CN-XII
++Hypoglossal nerve [XII]
++cranial nerve XII
++hypoglossal XII
++hypoglossal XII nerve
++hypoglossal nerve tree
++hypoglossal nerve/ root
++nerve XII
++nervi hypoglossalis
++nervus hypoglossus
++nervus hypoglossus [xii]
++twelfth cranial nerve
++
++
+ UBERON:0001699      sensory root of facial nerve
+ MBA:1131            intermediate nerve
+ ------ABA  SYNS------
+@@ -285,6 +587,86 @@
+ nucleus innominatus
+ 
+ 
++UBERON:0001721      inferior vestibular nucleus
++MBA:225             Spinal vestibular nucleus
++------ABA  SYNS------
++Nucleus vestibularis caudalis
++Nucleus vestibularis inferior
++SPIV
++Spinal vestibular nucleus
++caudal vestibular nucleus
++descending vestibular nucleus
++inferior vestibular nucleus
++spinal vestibular nucleus
++-----UBERON SYNS-----
++descending vestibular nucleus
++nucleus vestibularis inferior
++spinal vestibular nucleus
++
++
++UBERON:0001722      medial vestibular nucleus
++MBA:202             Medial vestibular nucleus
++------ABA  SYNS------
++MV
++Medial vestibular nucleus
++Nucleus vestibularis medialis
++Schwalbe's nucleus
++chief vestibular nucleus
++dorsal vestibular nucleus
++medial vestibular nucleus
++nucleus of Schwalbe
++principal vestibular nucleus
++triangular nucleus
++-----UBERON SYNS-----
++chief vestibular nucleus
++dorsal vestibular nucleus
++medial nucleus
++nucleus of schwalbe
++nucleus triangularis
++nucleus vestibularis medialis
++principal vestibular nucleus
++schwalbe's nucleus
++triangular nucleus
++
++
++UBERON:0001759      vagus nerve
++MBA:917             vagus nerve
++------ABA  SYNS------
++Nerve X
++Nervus vagus
++Xn
++tenth cranial nerve
++vagus nerve
++-----UBERON SYNS-----
++10n
++CN-X
++Vagus nerve [X]
++cranial nerve X
++nerve X
++nervus vagus
++nervus vagus [x]
++pneuomgastric nerve
++tenth cranial nerve
++vagal nerve
++vagus
++vagus X nerve
++vagus nerve or its root
++vagus nerve tree
++
++
++UBERON:0001785      cranial nerve
++MBA:967             cranial nerves
++------ABA  SYNS------
++Nervi craniales
++Nervi encephalici
++cm
++cranial nerves
++-----UBERON SYNS-----
++cranial nerves
++cranial neural tree organ
++nervus cranialis
++
++
+ UBERON:0001869      cerebral hemisphere
+ MBA:403             Medial amygdalar nucleus
+ ------ABA  SYNS------
+@@ -307,6 +689,27 @@
+ telencephalic vesicle
+ 
+ 
++UBERON:0001877      medial septal nucleus
++MBA:564             Medial septal nucleus
++------ABA  SYNS------
++MS
++Medial septal nucleus
++N. septi medialis
++Nucleus medialis septi
++Nucleus septalis medialis
++medial parolfactory nucleus
++medial septal nucleus
++medial septum nucleus
++-----UBERON SYNS-----
++medial parolfactory nucleus
++medial septal nucleus (Cajal)
++medial septum
++medial septum nucleus
++n. septi medialis
++nucleus medialis septi
++nucleus septalis medialis
++
++
+ UBERON:0001878      septofimbrial nucleus
+ MBA:310             Septofimbrial nucleus
+ ------ABA  SYNS------
+@@ -1425,6 +1828,37 @@
+ substantia nigra, reticular part
+ 
+ 
++UBERON:0002019      accessory XI nerve
++MBA:717             accessory spinal nerve
++------ABA  SYNS------
++Nerve XI
++Nervus accessorius, pars spinalis
++Radices spinales nervi accessorii
++XIn
++accessory spinal nerve
++external branch of accessory nerve
++spinal accessory nerve-1
++spinal part of the accessory nerve
++spinal portion of eleventh cranial nerve
++-----UBERON SYNS-----
++CN-XI
++Willis' nerve
++accessory XI
++accessory XI nerve
++accessory nerve
++accessory nerve [XI]
++accessory spinal nerve
++cervical accessory nerve
++cranial nerve XI
++eleventh cranial nerve
++nervus accessorius [XI]
++pars spinalis nervus accessorius
++radix spinalis nervus accessorius
++spinal accessory nerve
++spinal accessory nerve tree
++spinal part of accessory nerve
++
++
+ UBERON:0002023      claustrum of brain
+ MBA:583             Claustrum
+ ------ABA  SYNS------
+@@ -1761,6 +2195,22 @@
+ tractus retroflexus (Meynert)
+ 
+ 
++UBERON:0002140      parabigeminal nucleus
++MBA:874             Parabigeminal nucleus
++------ABA  SYNS------
++Corpus parabigeminum
++Nucleus parabigeminalis
++PBG
++Parabigeminal nucleus
++parabigeminal nucleus
++-----UBERON SYNS-----
++corpus parabigeminum
++nucleus isthmi
++nucleus parabigeminalis
++parabigeminal nucleus (Bechterew)
++parageminal nucleus
++
++
+ UBERON:0002141      parvocellular oculomotor nucleus
+ MBA:975             Edinger-Westphal nucleus
+ ------ABA  SYNS------
+@@ -2172,6 +2622,27 @@
+ subiculum hippocampi
+ 
+ 
++UBERON:0002192      ventricular system choroidal fissure
++MBA:116             choroid fissure
++------ABA  SYNS------
++Fissura choroidea
++chfl
++chorioid fissure
++choroid fissure
++choroidal fissure
++fissura chorioidea
++-----UBERON SYNS-----
++chorioid fissure
++chorioidal fissure
++choroid fissure
++choroid invagination
++choroidal fissure
++choroidal fissure of lateral ventricle
++choroidal fissures
++lateral ventricle choroid fissure
++ventricular system choroid fissure
++
++
+ UBERON:0002197      median eminence of neurohypophysis
+ MBA:10671           Median eminence
+ ------ABA  SYNS------
+@@ -2391,6 +2862,21 @@
+ tectal ventricle
+ 
+ 
++UBERON:0002291      central canal of spinal cord
++MBA:164             central canal, spinal cord/medulla
++------ABA  SYNS------
++c
++central canal spinal cord/medulla
++central canal, spinal cord/medulla
++-----UBERON SYNS-----
++canalis centralis
++central canal
++central canal of spinal cord
++central canal, spinal cord/medulla
++spinal cord central canal
++ventricle of spinal cord
++
++
+ UBERON:0002298      brainstem
+ MBA:343             Brain stem
+ ------ABA  SYNS------
+@@ -2412,6 +2898,24 @@
+ truncus encephalicus
+ 
+ 
++UBERON:0002309      medial longitudinal fasciculus
++MBA:62              medial longitudinal fascicle
++------ABA  SYNS------
++Fasciculus commissurae posterioris
++Fasciculus longitudinalis dorsalis
++Fasciculus longitudinalis medialis
++Fasciculus longitudinalis posterior
++Tractus longitudinalis medialis
++medial longitudinal bundle
++medial longitudinal fascicle
++medial longitudinal fasciculus
++mlf
++-----UBERON SYNS-----
++MLF
++fasciculus longitudinalis medialis
++medial longitudinal fascicle
++
++
+ UBERON:0002310      hippocampus fimbria
+ MBA:603             fimbria
+ ------ABA  SYNS------
+@@ -2438,6 +2942,16 @@
+ neuraxis fimbria
+ 
+ 
++UBERON:0002336      corpus callosum
++MBA:776             corpus callosum
++------ABA  SYNS------
++cc
++corpus callosum
++human corpus callosum
++-----UBERON SYNS-----
++
++
++
+ UBERON:0002421      hippocampal formation
+ MBA:1089            Hippocampal formation
+ ------ABA  SYNS------
+@@ -3008,6 +3522,24 @@
+ superior colliculus commissure
+ 
+ 
++UBERON:0002587      nucleus subceruleus
++MBA:350             Subceruleus nucleus
++------ABA  SYNS------
++Nucleus subcaeruleus
++Nucleus subceruleus
++SLC
++Subceruleus nucleus
++nucleus subceruleus
++subceruleus nucleus
++subcoeruleus nucleus
++-----UBERON SYNS-----
++nucleus subcaeruleus
++nucleus subcoeruleus
++subcaerulean nucleus
++subceruleus nucleus
++subcoeruleus nucleus
++
++
+ UBERON:0002588      decussation of superior cerebellar peduncle
+ MBA:812             superior cerebellar peduncle decussation
+ ------ABA  SYNS------
+@@ -3203,6 +3735,28 @@
+ trigeminal nerve superior sensory nucleus
+ 
+ 
++UBERON:0002601      fasciolar gyrus
++MBA:982             Fasciola cinerea
++------ABA  SYNS------
++FC
++Fasciola cinerea
++Gyrus fasciolaris
++Gyrus retrosplenialis hippocampi
++fasciola cinerea
++fasciola cinereum
++fasciolar gyrus
++retrosplenial gyrus of hippocampus
++-----UBERON SYNS-----
++FC
++fasciola cinerea
++fasciola cinerea (Reil, Arnold)
++fasciola cinereum
++gyrus fasciolaris
++gyrus retrosplenialis hippocampi
++retrosplenial gyrus of hippocampus
++splenial gyrus
++
++
+ UBERON:0002604      ventral nucleus of lateral lemniscus
+ MBA:99              Nucleus of the lateral lemniscus, ventral part
+ ------ABA  SYNS------
+@@ -3902,6 +4456,26 @@
+ posterior nucleus of the hypothalamus
+ 
+ 
++UBERON:0002707      corticospinal tract
++MBA:190             pyramid
++------ABA  SYNS------
++Fasciculus pyramidalis
++Tractus pyramidalis
++py
++pyramid
++pyramidal tract
++-----UBERON SYNS-----
++corticospinal fibers
++fasciculus cerebro-spinalis
++fasciculus pyramidalis
++fibrae corticospinales
++pyramid (Willis)
++pyramidal tract
++tractus cortico-spinalis
++tractus corticospinalis
++tractus pyramidalis
++
++
+ UBERON:0002708      posterior periventricular nucleus
+ MBA:126             Periventricular hypothalamic nucleus, posterior part
+ ------ABA  SYNS------
+@@ -4230,6 +4804,23 @@
+ tractus olivocerebellaris
+ 
+ 
++UBERON:0002753      posterior spinocerebellar tract
++MBA:553             dorsal spinocerebellar tract
++------ABA  SYNS------
++Flechsig's fasciculus
++Flechsig's tract
++Tractus spino-cerebellaris posterior
++Tractus spinocerebellaris dorsalis
++Tractus spinocerebellaris posterior
++dorsal spinocerebellar tract
++posterior spinocerebellar tract
++sctd
++-----UBERON SYNS-----
++dorsal spinocerebellar tract
++dorsal spinocerebellar tract of the medulla
++flechsig's tract
++
++
+ UBERON:0002755      pyramidal decussation
+ MBA:198             pyramidal decussation
+ ------ABA  SYNS------
+@@ -4331,6 +4922,74 @@
+ nucleus medialis magnocellularis corporis geniculati medialis
+ 
+ 
++UBERON:0002760      ventral corticospinal tract
++MBA:1028            corticospinal tract, uncrossed
++------ABA  SYNS------
++anterior cerebrospinal fasciculus
++anterior corticospinal tract
++bundle of Turck
++corticospinal tract uncrossed
++corticospinal tract, uncrossed
++cstu
++direct corticospinal tract
++medial corticospinal tract
++uncrossed corticospinal tract
++ventral corticospinal tract
++-----UBERON SYNS-----
++anterior cerebrospinal fasciculus
++anterior corticospinal tract
++anterior corticospinal tract of the medulla
++anterior pyramidal tract
++anterior tract of turck
++bundle of Turck
++column of Turck
++corticospinal tract, uncrossed
++direct corticospinal tract
++medial corticospinal tract
++tractus corticospinalis anterior
++tractus corticospinalis ventralis
++uncrossed corticospinal tract
++ventral corticospinal tract
++
++
++UBERON:0002762      internal medullary lamina of thalamus
++MBA:14              internal medullary lamina of the thalamus
++------ABA  SYNS------
++Lamina medullaris interna
++Lamina medullaris interna thalami
++Lamina medullaris thalami interna
++im
++internal medullary lamina
++internal medullary lamina of thalamus
++internal medullary lamina of the thalamus
++-----UBERON SYNS-----
++envelope (involucrum medial) (Hassler)
++internal medullary lamina
++internal medullary lamina of thalamus
++internal medullary lamina of the thalamus
++lamina medullaris interna
++lamina medullaris interna thalami
++lamina medullaris medialis
++lamina medullaris medialis thalami
++lamina medullaris thalami interna
++
++
++UBERON:0002768      vestibulospinal tract
++MBA:941             vestibulospinal pathway
++------ABA  SYNS------
++Tractus vestibulospinalis
++vestibulospinal pathway
++vestibulospinal tract
++vestibulospinal tracts
++vsp
++-----UBERON SYNS-----
++tractus vestibulospinalis
++vestibulo-spinal tract
++vestibulo-spinal tracts
++vestibulospinal pathway
++vestibulospinal tracts
++
++
+ UBERON:0002776      ventral nuclear group
+ MBA:637             Ventral group of the dorsal thalamus
+ ------ABA  SYNS------
+@@ -4488,6 +5147,51 @@
+ striae acusticae dorsalis
+ 
+ 
++UBERON:0002795      frontal pole
++MBA:184             Frontal pole, cerebral cortex
++------ABA  SYNS------
++FRP
++Frontal pole cerebral cortex
++Frontal pole, cerebral cortex
++frontal polar area
++-----UBERON SYNS-----
++Frontal pole, cerebral cortex
++polus frontalis
++
++
++UBERON:0002796      motor root of trigeminal nerve
++MBA:93              motor root of the trigeminal nerve
++------ABA  SYNS------
++Nervus trigemini radix motoria
++Nervus trigeminus, radix motoria
++Nervus trigeminus, radix motorius
++Portio minor nervi trigemini
++Portio minor of trigeminal nerve
++Radix motoria
++minor root of trigeminal nerve
++moV
++motor branch of trigeminal nerve
++motor root of N. V
++motor root of the trigeminal nerve
++motor root of trigeminal nerve
++-----UBERON SYNS-----
++dorsal motor root of v
++dorsal motor roots of V
++minor root of trigeminal nerve
++motor branch of trigeminal nerve
++motor root of N. V
++motor root of nervus v
++motor root of the trigeminal nerve
++nervus trigemini radix motoria
++nervus trigeminus, radix motoria
++nervus trigeminus, radix motorius
++portio minor nervi trigemini
++portio minor of trigeminal nerve
++radix motoria
++radix motoria (Nervus trigeminus [V])
++radix motoria nervus trigemini
++
++
+ UBERON:0002798      spinothalamic tract of pons
+ MBA:277             spinotectal pathway
+ ------ABA  SYNS------
+@@ -5090,6 +5794,23 @@
+ nucleus striae olfactoriae lateralis
+ 
+ 
++UBERON:0002899      hippocampal sulcus
++MBA:1063            hippocampal fissure
++------ABA  SYNS------
++Sulcus hippocampi
++dentate fissure
++hf
++hippocampal fissure
++hippocampal sulcus
++-----UBERON SYNS-----
++HIS
++dentate fissure
++hippocampal fissure
++hippocampal fissure (Gratiolet)
++sulcus hippocampalis
++sulcus hippocampi
++
++
+ UBERON:0002918      medial parabrachial nucleus
+ MBA:890             Parabrachial nucleus, medial division
+ ------ABA  SYNS------
+@@ -5106,6 +5827,32 @@
+ parabrachial nucleus, medial part
+ 
+ 
++UBERON:0002924      terminal nerve
++MBA:885             terminal nerve
++------ABA  SYNS------
++Nervus terminalis
++terminal nerve
++tn
++-----UBERON SYNS-----
++TRN
++cranial nerve 0
++cranial nerve zero
++nervus terminalis
++terminalis
++terminalis nerve
++
++
++UBERON:0002928      dentate gyrus polymorphic layer
++MBA:10704           Dentate gyrus, polymorph layer
++------ABA  SYNS------
++DG-po
++Dentate gyrus polymorph layer
++Dentate gyrus, polymorph layer
++-----UBERON SYNS-----
++CA4
++polymorph layer of the dentate gyrus
++
++
+ UBERON:0002932      trapezoid body
+ MBA:841             trapezoid body
+ ------ABA  SYNS------
+@@ -5226,6 +5973,22 @@
+ ventroposteromedial nucleus of the thalamus
+ 
+ 
++UBERON:0002949      tectospinal tract
++MBA:877             tectospinal pathway
++------ABA  SYNS------
++Tractus tectospinalis
++tectospinal pathway
++tectospinal tract
++tsp
++-----UBERON SYNS-----
++Held's bundle
++tectospinal pathway
++tectospinal tract
++tectospinal tract of the medulla
++tractus tectospinalis
++tratto tettospinale@it
++
++
+ UBERON:0002952      intermediate acoustic stria
+ MBA:641             intermediate acoustic stria
+ ------ABA  SYNS------
+@@ -5241,6 +6004,23 @@
+ striae acusticae intermedius
+ 
+ 
++UBERON:0002953      lateral lemniscus
++MBA:658             lateral lemniscus
++------ABA  SYNS------
++Lemniscus acusticus
++Lemniscus lateralis
++central acoustic tract
++lateral fillet
++lateral lemniscus
++ll
++-----UBERON SYNS-----
++central acoustic tract
++lateral fillet
++lateral lemniscus (Reil)
++lemniscus acusticus
++lemniscus lateralis
++
++
+ UBERON:0002955      rhomboidal nucleus
+ MBA:189             Rhomboid nucleus
+ ------ABA  SYNS------
+@@ -5263,6 +6043,24 @@
+ rhomboid thalamic nucleus
+ 
+ 
++UBERON:0002956      granular layer of cerebellar cortex
++MBA:1143            Cerebellar cortex, granular layer
++------ABA  SYNS------
++CBXgr
++Cerebellar cortex granular layer
++Cerebellar cortex, granular layer
++-----UBERON SYNS-----
++cerebellar granular layer
++cerebellar granule cell layer
++cerebellar granule layer
++cerebellum granule cell layer
++cerebellum granule layer
++granular layer of cerebellum
++granule cell layer of cerebellar cortex
++stratum granulosum cerebelli
++stratum granulosum corticis cerebelli
++
++
+ UBERON:0002963      caudal pontine reticular nucleus
+ MBA:1093            Pontine reticular nucleus, caudal part
+ ------ABA  SYNS------
+@@ -5319,6 +6117,26 @@
+ superior olivary complex periolivary region
+ 
+ 
++UBERON:0002974      molecular layer of cerebellar cortex
++MBA:1144            Cerebellar cortex, molecular layer
++------ABA  SYNS------
++CBXmo
++Cerebellar cortex molecular layer
++Cerebellar cortex, molecular layer
++Stratum moleculare
++Stratum plexiforme
++cerebellar cortex, molecular layer
++molecular layer of the cerebellar cortex
++plexiform layer of cerebellar cortex
++-----UBERON SYNS-----
++cerebellar molecular layer
++cerebellum molecular cell layer
++cerebellum molecular layer
++fasciculi thalami
++stratum moleculare corticis cerebelli
++thalamic fiber tracts
++
++
+ UBERON:0002977      triangular septal nucleus
+ MBA:581             Triangular nucleus of septum
+ ------ABA  SYNS------
+@@ -5332,6 +6150,30 @@
+ triangular nucleus septum (cajal)
+ 
+ 
++UBERON:0002979      Purkinje cell layer of cerebellar cortex
++MBA:1145            Cerebellar cortex, Purkinje layer
++------ABA  SYNS------
++CBXpu
++Cerebellar cortex Purkinje layer
++Cerebellar cortex, Purkinje layer
++Purkinje cell layer
++Stratum neurium piriformium
++Stratum neuronorum piriformium
++Stratum purkinjense
++cerebellar cortex, Purkinje layer
++-----UBERON SYNS-----
++Purkinje cell layer
++cerebellar Purkinje cell layer
++cerebellum Purkinje cell layer
++cerebellum Purkinje layer
++nuclei reticulares (thalami)
++nucleus reticularis
++nucleus reticulatus (thalami)
++nucleus thalamicus reticularis
++reticular nucleus thalamus (Arnold)
++reticulatum thalami (Hassler)
++
++
+ UBERON:0002983      lateral posterior nucleus of thalamus
+ MBA:218             Lateral posterior nucleus of the thalamus
+ ------ABA  SYNS------
+@@ -5610,6 +6452,22 @@
+ superior central tegmental nucleus
+ 
+ 
++UBERON:0003006      dorsal nucleus of lateral lemniscus
++MBA:82              Nucleus of the lateral lemniscus, dorsal part
++------ABA  SYNS------
++NLLd
++Nucleus of the lateral lemniscus dorsal part
++Nucleus of the lateral lemniscus, dorsal part
++-----UBERON SYNS-----
++dorsal nucleus of the lateral lemniscus
++nucleus lemnisci lateralis dorsalis
++nucleus lemnisci lateralis pars dorsalis
++nucleus of the lateral lemniscus dorsal part
++nucleus of the lateral lemniscus, dorsal part
++nucleus posterior lemnisci lateralis
++posterior nucleus of lateral lemniscus
++
++
+ UBERON:0003007      lateral parabrachial nucleus
+ MBA:881             Parabrachial nucleus, lateral division
+ ------ABA  SYNS------
+@@ -5624,6 +6482,32 @@
+ parabrachial nucleus, lateral division
+ 
+ 
++UBERON:0003011      facial motor nucleus
++MBA:661             Facial motor nucleus
++------ABA  SYNS------
++Facial motor nucleus
++Nucleus facialis
++Nucleus nervi facialis
++VII
++branchiomotor nucleus of facial nerve
++facial motor nucleus
++facial nucleus
++motor nucleus of VII
++-----UBERON SYNS-----
++branchiomotor nucleus of facial nerve
++facial motor nucleus
++facial nerve motor nucleus
++facial nucleus
++motor nucleus VII
++motor nucleus of VII
++motor nucleus of facial nerve
++n. nervi facialis
++nVII
++nucleus facialis
++nucleus motorius nervi facialis
++nucleus nervi facialis
++
++
+ UBERON:0003016      postcommissural fornix of brain
+ MBA:737             postcommissural fornix
+ ------ABA  SYNS------
+@@ -5687,6 +6571,30 @@
+ ventroposteromedial nucleus of the thalamus, parvicellular part
+ 
+ 
++UBERON:0003021      central lobule
++MBA:920             Central lobule
++------ABA  SYNS------
++Ala centralis
++Ala lobuli centralis
++Ala lobulus centralis
++CENT
++Central lobule
++Lobulus centralis
++alae of central lobule
++alar central lobule
++central lobule
++central lobule of the cerebellum
++lobules II, III of vermis
++wing of the central lobule
++-----UBERON SYNS-----
++central lobe of the cerebellum
++central lobule of cerebellum
++central lobule of cerebellum [II and III]
++lobule II and III of vermis
++lobulus centralis
++lobulus centralis cerebelli [ii et iii]
++
++
+ UBERON:0003025      brachium of inferior colliculus
+ MBA:482             brachium of the inferior colliculus
+ ------ABA  SYNS------
+@@ -5790,6 +6698,21 @@
+ submedius thalamic nucleus
+ 
+ 
++UBERON:0003033      suprageniculate nucleus of thalamus
++MBA:325             Suprageniculate nucleus
++------ABA  SYNS------
++Nucleus suprageniculatus
++SGN
++Suprageniculate nucleus
++suprageniculate nucleus
++suprageniculate thalamic nucleus
++-----UBERON SYNS-----
++SG
++nucleus suprageniculatus
++suprageniculate nucleus
++suprageniculate thalamic nucleus
++
++
+ UBERON:0003036      central lateral nucleus
+ MBA:575             Central lateral nucleus of the thalamus
+ ------ABA  SYNS------
+@@ -5812,6 +6735,39 @@
+ nucleus centralis lateralis thalami
+ 
+ 
++UBERON:0003039      anterior commissure anterior part
++MBA:900             anterior commissure, olfactory limb
++------ABA  SYNS------
++Commissura anterior, crus anterius
++Commissura anterior, pars anterior
++Commissura anterior, pars olfactoria
++Commissura rostralis, pars anterior
++Pars olfactoria commissurae anterioris
++aco
++anterior commissure olfactory limb
++anterior commissure, anterior part
++anterior commissure, olfactory limb
++anterior part of anterior commissure
++anterior part of the anterior commissure
++olfactory limb of anterior commissure
++olfactory part of anterior commissure
++-----UBERON SYNS-----
++anterior commissure olfactory limb
++anterior commissure pars anterior
++anterior commissure, anterior part
++anterior commissure, olfactory limb
++anterior part of anterior commissure
++commissura anterior, crus anterius
++commissura anterior, pars anterior
++commissura anterior, pars olfactoria
++commissura rostralis, pars anterior
++olfactory limb of anterior commissure
++olfactory part of anterior commissure
++pars anterior
++pars anterior commissurae anterioris
++pars olfactoria commissurae anterioris
++
++
+ UBERON:0003040      central gray substance of midbrain
+ MBA:795             Periaqueductal gray
+ ------ABA  SYNS------
+@@ -5863,6 +6819,204 @@
+ substantia grisea centralis mesencephali
+ 
+ 
++UBERON:0003043      posterior part of anterior commissure
++MBA:908             anterior commissure, temporal limb
++------ABA  SYNS------
++Commissura anterior, crus posterius
++Commissura anterior, pars posterior
++Commissura rostralis, pars posterior
++act
++anterior commissure temporal limb
++anterior commissure, posterior part
++anterior commissure, temporal limb
++posterior part of anterior commissure
++posterior part of the anterior commissure
++temporal limb of anterior commissure
++temporal limb of the anterior commissure
++-----UBERON SYNS-----
++anterior commissure pars posterior
++anterior commissure temporal limb
++anterior commissure, posterior part
++anterior commissure, temporal limb
++commissura anterior, crus posterius
++commissura anterior, pars posterior
++commissura rostralis, pars posterior
++pars posterior
++pars posterior commissurae anterioris
++temporal limb of anterior commissure
++
++
++UBERON:0003045      dorsal longitudinal fasciculus
++MBA:547             dorsal longitudinal fascicle
++------ABA  SYNS------
++Fasciculus longitudinalis dorsalis
++Fasciculus longitudinalis periependymalis
++Fasciculus longitudinalis posterior
++Fasciculus periaquaeductalis
++Fasciculus tegmentalis dorsalis
++Fibrae substantiae griseae centralis
++Tractus periependymalis longitudinalis
++bundle of Schutz
++dlf
++dorsal longitudinal fascicle
++dorsal longitudinal fasciculus
++dorsal longitudinal fasciculus of Schultze
++dorsal longitudinal fasciculus of Schutz
++dorsal longitudinal tract
++periependymal fasciculus
++posterior longitudinal fasciculus
++-----UBERON SYNS-----
++DLF
++accessory cochlear nucleus
++bundle of Schutz
++dorsal longitudinal fascicle
++fasciculus longitudinalis dorsalis
++fasciculus longitudinalis posterior
++fasciculus of Schutz
++nucleus acustici accessorici
++nucleus cochlearis anterior
++nucleus cochlearis ventralis
++posterior longitudinal fasciculus
++ventral cochlear nuclei
++ventral division of cochlear nucleus
++
++
++UBERON:0003723      vestibular nerve
++MBA:413             vestibular nerve
++------ABA  SYNS------
++Fibrae vestibulares
++Nervus vestibularis
++vVIIIn
++vestibular division of acoustic nerve
++vestibular nerve
++vestibulocochlear nerve, pars vestibularis
++-----UBERON SYNS-----
++nervus vestibularis
++scarpa ganglion
++scarpa's ganglion
++scarpas ganglion
++vestibular root of acoustic nerve
++vestibular root of eighth cranial nerve
++vestibulocochlear VIII nerve vestibular component
++vestibulocochlear nerve vestibular root
++
++
++UBERON:0003881      CA1 field of hippocampus
++MBA:382             Field CA1
++------ABA  SYNS------
++CA1
++CA1
++CA1 field
++CA1 field of Ammon's horn
++CA1 field of the hippocampus
++Cornu Ammonis 1
++Field CA1
++Region CA1
++Region I of hippocampus proper
++field CA1
++field CA1 of hippocampus
++field CA1, Ammon's horn
++hippocampus CA1
++regio superior of the hippocampus
++-----UBERON SYNS-----
++CA1
++CA1 field
++CA1 field of Ammon's horn
++CA1 field of cornu ammonis
++CA1 field of hippocampus
++CA1 field of the Ammon horn
++CA1 field of the hippocampus
++cornu ammonis 1
++field CA1
++field CA1 of hippocampus
++field CA1, Ammon's horn (Lorente de Ns)
++hippocampus CA1
++prosubiculum = distal ca1
++regio i cornus ammonis
++regio i hippocampi proprii
++regio superior
++regio superior of the hippocampus
++region 1 of Ammon's horn
++region CA1
++region i of ammon's horn
++region i of hippocampus proper
++
++
++UBERON:0003882      CA2 field of hippocampus
++MBA:423             Field CA2
++------ABA  SYNS------
++CA2
++CA2 field
++CA2 field of Ammon's horn
++CA2 field of the hippocampus
++Cornu Ammonis 2
++Field CA2
++Region CA2
++Region II of hippocampus proper
++field CA2
++field CA2 of hippocampus
++field CA2, Ammon's horn
++hippocampus CA2
++-----UBERON SYNS-----
++CA2
++CA2 field
++CA2 field of Ammon's horn
++CA2 field of cornu ammonis
++CA2 field of hippocampus
++CA2 field of the Ammon horn
++CA2 field of the hippocampus
++cornu Ammonis 2
++field CA2
++field CA2 of hippocampus
++field CA2, Ammon's horn (Lorente de Ns)
++hippocampus CA2
++regio ii cornus ammonis
++regio ii hippocampi proprii
++region 2 of Ammon's horn
++region CA2
++region II of ammon's horn
++region II of hippocampus proper
++
++
++UBERON:0003883      CA3 field of hippocampus
++MBA:463             Field CA3
++------ABA  SYNS------
++CA3
++CA3
++CA3 field
++CA3 field of Ammon's horn
++CA3 field of the hippocampus
++Cornu Ammonis 3
++Field CA3
++Region CA3
++Region III of hippocampus proper
++field CA3
++field CA3 of hippocampus
++field CA3, Ammon's horn
++hippocampus CA3
++-----UBERON SYNS-----
++CA3
++CA3 field
++CA3 field of Ammon's horn
++CA3 field of cornu ammonis
++CA3 field of hippocampus
++CA3 field of the Ammon horn
++CA3 field of the hippocampus
++cornu Ammonis 3
++field CA3
++field CA3 of hippocampus
++field CA3, Ammon's horn (Lorente de Ns)
++hippocampus CA3
++regio III cornus ammonis
++regio III hippocampi proprii
++regio hippocampi proprii III
++regio inferior
++region 3 of Ammon's horn
++region CA3
++region III of ammon's horn
++region III of hippocampus proper
++
++
+ UBERON:0003936      postoptic commissure
+ MBA:174             preoptic commissure
+ ------ABA  SYNS------
+@@ -5888,6 +7042,20 @@
+ neuraxis cingulum
+ 
+ 
++UBERON:0003993      interventricular foramen of CNS
++MBA:124             interventricular foramen
++------ABA  SYNS------
++Foramen interventriculare
++IVF
++foramen of Monro
++interventricular foramen
++-----UBERON SYNS-----
++foramen Monroi
++foramen interventriculare
++interventricular foramen
++interventricular foramina
++
++
+ UBERON:0004069      accessory olfactory bulb
+ MBA:151             Accessory olfactory bulb
+ ------ABA  SYNS------
+@@ -5899,6 +7067,69 @@
+ olfactory bulb accessory nucleus
+ 
+ 
++UBERON:0004074      cerebellum vermis lobule I
++MBA:912             Lingula (I)
++------ABA  SYNS------
++LING
++Lingula (I)
++-----UBERON SYNS-----
++Lingula (I)
++Lingula (l)
++lingula
++lingula (I)
++lingula of anterior cerebellum vermis
++lingula of cerebellum
++lingula of vermis
++lobule I of cerebellum vermis
++lobule I of vermis
++neuraxis lingula
++vermic lobule I
++
++
++UBERON:0004075      cerebellum vermis lobule II
++MBA:976             Lobule II
++------ABA  SYNS------
++2nd Cerebellar lobule
++CENT2
++Lobule II
++lobule 2
++lobule II
++-----UBERON SYNS-----
++central lobule
++central lobule of cerebellum
++lobule II
++lobule II of cerebellum vermis
++vermic lobule II
++
++
++UBERON:0004076      cerebellum vermis lobule III
++MBA:984             Lobule III
++------ABA  SYNS------
++3rd Cerebellar lobule
++CENT3
++Lobule III
++lobule 3
++lobule III
++-----UBERON SYNS-----
++central lobule
++central lobule of cerebellum
++lobule III
++lobule III of cerebellum vermis
++vermic lobule III
++
++
++UBERON:0004077      cerebellum vermis lobule IV
++MBA:992             Lobule IV
++------ABA  SYNS------
++CUL4
++Lobule IV
++-----UBERON SYNS-----
++culmen of cerebellum
++lobule IV of cerebellum vermis
++neuraxis culmen
++vermic lobule IV
++
++
+ UBERON:0004078      cerebellum vermis lobule IX
+ MBA:957             Uvula (IX)
+ ------ABA  SYNS------
+@@ -5918,6 +7149,77 @@
+ vermic lobule IX
+ 
+ 
++UBERON:0004079      cerebellum vermis lobule V
++MBA:1001            Lobule V
++------ABA  SYNS------
++CUL5
++Lobule V
++-----UBERON SYNS-----
++culmen
++culmen of cerebellum
++lobule V
++lobule V (culmen and quadrangular lobule, posterior part)
++lobule V of cerebellum vermis
++neuraxis culmen
++vermic lobule V
++
++
++UBERON:0004080      cerebellum vermis lobule VI
++MBA:936             Declive (VI)
++------ABA  SYNS------
++DEC
++Declive (VI)
++-----UBERON SYNS-----
++declive
++declive (VI)
++declive lobule
++declive of cerebellum
++declive of vermis
++declive of vermis of cerebellum
++lobule VI (declive and simplex lobule)
++lobule VI of cerebellum vermis
++lobule VI of vermis
++neuraxis declive
++vermic lobule vi
++
++
++UBERON:0004081      cerebellum vermis lobule VII
++MBA:944             Folium-tuber vermis (VII)
++------ABA  SYNS------
++FOTU
++Folium-tuber vermis (VII)
++-----UBERON SYNS-----
++folium
++folium lobule
++folium of cerebellum
++folium of vermis of cerebellum
++folium-tuber vermis (VII)
++lobule VII of cerebellum vermis
++lobule VIIA of vermis
++neuraxis folium
++vermic lobule VII
++
++
++UBERON:0004082      cerebellum vermis lobule VIII
++MBA:951             Pyramus (VIII)
++------ABA  SYNS------
++PYR
++Pyramus (VIII)
++-----UBERON SYNS-----
++cerebellum lobule VIII
++lobule VIII of cerebellum vermis
++lobule VIII of vermis
++neuraxis pyramis
++neuraxis pyramus
++pyramis
++pyramis of vermis of cerebellum
++pyramus
++pyramus (VIII)
++pyramus of cerebellum
++pyramus of vermis of cerebellum
++vermic lobule VIII
++
++
+ UBERON:0004083      cerebellum vermis lobule X
+ MBA:968             Nodulus (X)
+ ------ABA  SYNS------
+@@ -5934,6 +7236,25 @@
+ vermic lobule X
+ 
+ 
++UBERON:0004170      spinal cord ventral commissure
++MBA:858             ventral commissure of the spinal cord
++------ABA  SYNS------
++vc
++ventral commissure of the spinal cord
++-----UBERON SYNS-----
++alba anterior medullae spinalis
++anterior commissure
++anterior white commissure
++anterior white commissure of spinal cord
++commissura alba anterior medullae spinalis
++spinal cord anterior commissure
++ventral commissure of the spinal cord
++ventral spinal commissure
++ventral white column
++ventral white commissure of spinal cord
++white commissure
++
++
+ UBERON:0004545      external capsule of telencephalon
+ MBA:579             external capsule
+ ------ABA  SYNS------
+@@ -5946,6 +7267,19 @@
+ external capsule
+ 
+ 
++UBERON:0004679      dentate gyrus molecular layer
++MBA:10703           Dentate gyrus, molecular layer
++------ABA  SYNS------
++DG-mo
++Dentate gyrus molecular layer
++Dentate gyrus, molecular layer
++-----UBERON SYNS-----
++dentate gyrus molecular layer
++molecular layer of dentate gyrus
++molecular layer of the dentate gyrus
++stratum moleculare gyri dentati
++
++
+ UBERON:0004680      body of fornix
+ MBA:436             columns of the fornix
+ ------ABA  SYNS------
+@@ -6003,6 +7337,27 @@
+ vermis of cerebellum [I-X]
+ 
+ 
++UBERON:0004727      cochlear nerve
++MBA:948             cochlear nerve
++------ABA  SYNS------
++Nervus acusticus
++Nervus cochlearis
++acoustic nerve
++auditory nerve
++cVIIIn
++cochlear division of acoustic nerve
++cochlear nerve
++vestibulocochlear nerve, pars cochlearis
++-----UBERON SYNS-----
++auditory nerve
++cochlear component
++cochlear root of acoustic nerve
++cochlear root of eighth cranial nerve
++nervus vestibulocochlearis
++vestibulocochlear VIII nerve cochlear component
++vestibulocochlear nerve cochlear component
++
++
+ UBERON:0004922      postnatal subventricular zone
+ MBA:98              subependymal zone
+ ------ABA  SYNS------
+@@ -6024,6 +7379,131 @@
+ subventricular zone of brain
+ 
+ 
++UBERON:0005281      ventricular system of central nervous system
++MBA:73              ventricular systems
++------ABA  SYNS------
++VS
++cerebral ventricles
++ventricles of the brain
++ventricular system
++ventricular systems
++-----UBERON SYNS-----
++CNS ventricular system
++ventricle system
++ventricular system
++ventricular system of neuraxis
++ventriculi cerebri
++
++
++UBERON:0005343      cortical plate
++MBA:695             Cortical plate
++------ABA  SYNS------
++CTXpl
++Cortical plate
++cortical plate
++-----UBERON SYNS-----
++CP
++CxP
++cerebral cortex cortical plate
++future cortical layers II-VI
++future neocortex
++neocortex cortical plate
++
++
++UBERON:0005347      copula pyramidis
++MBA:1033            Copula pyramidis
++------ABA  SYNS------
++COPY
++Copula pyramidis
++copula of the pyramis
++copula pyramidis
++lateral belly of biventer lobule
++-----UBERON SYNS-----
++
++
++
++UBERON:0005348      ansiform lobule
++MBA:1017            Ansiform lobule
++------ABA  SYNS------
++AN
++Ansiform lobule
++Lobulus ansiformis cerebelli
++ansiform lobule
++-----UBERON SYNS-----
++ansiform lobule of cerebellum
++ansiform lobule of cerebellum [H VII A]
++ansiform lobule of cerebellum [hVIIa]
++lobuli semilunares cerebelli
++lobulus ansiformis cerebelli
++lobulus ansiformis cerebelli [h vii a]
++semilunar lobules of cerebellum
++
++
++UBERON:0005349      paramedian lobule
++MBA:1025            Paramedian lobule
++------ABA  SYNS------
++Lobulus gracilis
++Lobulus paramedianus cerebelli
++Lobus paramedianus
++Lobus paramedianus cerebelli
++PRM
++Paramedian lobule
++gracile lobule
++paramedian lobule
++paramedian lobule of the cerebellum
++-----UBERON SYNS-----
++gracile lobule
++hemispheric lobule VIIBii
++lobule VIIIB (pyramis and biventral lobule, posterior part)
++lobulus gracilis
++lobulus paramedianus
++lobulus paramedianus [hVIIb]
++paramedian 1 (hVII)
++paramedian lobule [HVIIB]
++paramedian lobule [h vii b]
++paramedian lobule [hVIIIb]
++paramedian lobule of the cerebellum
++
++
++UBERON:0005350      lobule simplex
++MBA:1007            Simple lobule
++------ABA  SYNS------
++Lobulus quadrangularis pars  caudalis/posterior
++Lobulus quadrangularis pars inferoposterior
++Lobulus simplex
++Posterior quadrangulate lobule
++SIM
++Simple lobule
++Simplex
++lobule H VI of Larsell
++pars posterior lobuli quadrangularis
++posterior crescentic lobule of cerebellum
++posterior quadrangular lobule
++posterior quadrangular lobule of cerebellum
++posterior semilunar lobule
++semilunar lobule-1
++simple lobule
++-----UBERON SYNS-----
++Simple lobule of the cerebellum
++hemispheric lobule VI
++lobule VI of hemisphere of cerebellum
++lobule h vi of larsell
++lobulus quadrangularis pars caudalis/posterior
++lobulus quadrangularis pars inferoposterior
++lobulus quadrangularis posterior
++lobulus quadrangularis posterior cerebelli [H VI]
++lobulus simplex
++lobulus simplex cerebelli [h vi et vi]
++posterior crescentic lobule of cerebellum
++semilunar lobule-1 (posterior)
++simple lobule
++simple lobule of cerebellum
++simple lobule of cerebellum [h vi and vi]
++simplex
++simplex (hvi)
++simplex lobule
++
++
+ UBERON:0005351      paraflocculus
+ MBA:1041            Paraflocculus
+ ------ABA  SYNS------
+@@ -6039,6 +7519,80 @@
+ tonsilla
+ 
+ 
++UBERON:0005373      spinal cord dorsal column
++MBA:514             dorsal column
++------ABA  SYNS------
++dc
++dorsal column
++-----UBERON SYNS-----
++dorsal column
++dorsal column of spinal cord
++dorsal column system
++dorsal columns
++posterior column
++spinal cord posterior column
++
++
++UBERON:0005377      olfactory bulb glomerular layer
++MBA:212             Main olfactory bulb, glomerular layer
++------ABA  SYNS------
++MOBgl
++Main olfactory bulb glomerular layer
++Main olfactory bulb, glomerular layer
++glomerular layer of the main olfactory bulb
++main olfactory bulb, glomerular layer
++-----UBERON SYNS-----
++glomerular layer
++glomerular layer of the olfactory bulb
++olfactory bulb main glomerulus
++stratum glomerulosum bulbi olfactorii
++
++
++UBERON:0005378      olfactory bulb granule cell layer
++MBA:220             Main olfactory bulb, granule layer
++------ABA  SYNS------
++MOBgr
++Main olfactory bulb granule layer
++Main olfactory bulb, granule layer
++-----UBERON SYNS-----
++accessory olfactory bulb granule cell layer
++granule cell layer
++granule layer of main olfactory bulb
++main olfactory bulb granule cell layer
++main olfactory bulb, granule layer
++olfactory bulb main granule cell layer
++
++
++UBERON:0005379      olfactory bulb internal plexiform layer
++MBA:228             Main olfactory bulb, inner plexiform layer
++------ABA  SYNS------
++MOBipl
++Main olfactory bulb inner plexiform layer
++Main olfactory bulb, inner plexiform layer
++inner plexiform layer of the main olfactory bulb
++main olfactory bulb, inner plexiform layer
++-----UBERON SYNS-----
++inner plexiform layer of the main olfactory bulb
++internal plexiform layer
++internal plexiform layer of olfactory bulb
++internal plexiform layer of the olfactory bulb
++main olfactory bulb, inner plexiform layer
++
++
++UBERON:0005381      dentate gyrus granule cell layer
++MBA:632             Dentate gyrus, granule cell layer
++------ABA  SYNS------
++DG-sg
++Dentate gyrus granule cell layer
++Dentate gyrus, granule cell layer
++-----UBERON SYNS-----
++DG granule cell layer
++Dentate gyrus, granule cell layer
++granular layer of dentate gyrus
++granular layer of the dentate gyrus
++stratum granulare gyri dentati
++
++
+ UBERON:0005382      dorsal striatum
+ MBA:485             Striatum dorsal region
+ ------ABA  SYNS------
+@@ -6089,6 +7643,67 @@
+ striatum ventrale
+ 
+ 
++UBERON:0005413      spinocerebellar tract
++MBA:85              spinocerebellar tract
++------ABA  SYNS------
++sct
++spinocerebellar tract
++-----UBERON SYNS-----
++
++
++
++UBERON:0005821      gracile fasciculus
++MBA:388             gracile fascicle
++------ABA  SYNS------
++Fasciculus gracilis
++Funiculus gracilis
++Pars medialis fasciculi dorsalis
++Tractus spinobulbaris medialis
++Tractus spinobulbaris partis medialis
++column of Goll
++fasciculus dorsolateralis gracilis
++fasciculus of Goll
++gracile fascicle
++gracile fasciculus
++gracile fasciculus of medulla
++gracile fasciculus of the medulla
++grf
++medial fasciculus
++tract of Gall
++-----UBERON SYNS-----
++f. gracilis medullae spinalis
++fasciculus gracilis
++gracile column
++gracile fascicle
++gracile tract
++gracilis tract
++tract of Goll
++
++
++UBERON:0005832      cuneate fasciculus
++MBA:380             cuneate fascicle
++------ABA  SYNS------
++Fasciculus cuneatus
++Funiculus cuneatus
++Pars lateralis fasciculi dorsalis
++Tractus spinobulbaris lateralis
++Tractus spinobulbaris partis lateralis
++column of Burdach
++cuf
++cuneate fascicle
++cuneate fasciculus
++lateral fasciculus
++tract of Burdach
++-----UBERON SYNS-----
++Cuneate fascicle
++cuneate column
++cuneate fascicle
++cuneate tract
++cuneatus tract
++fasciculus cuneatus
++fasciculus cuneus
++
++
+ UBERON:0005976      ansiform lobule crus I
+ MBA:1056            Crus 1
+ ------ABA  SYNS------
+@@ -6152,6 +7767,16 @@
+ semilunar lobule-2 (inferior)
+ 
+ 
++UBERON:0005978      olfactory bulb outer nerve layer
++MBA:1016            olfactory nerve layer of main olfactory bulb
++------ABA  SYNS------
++olfactory nerve layer of main olfactory bulb
++onl
++-----UBERON SYNS-----
++olfactory bulb main olfactory nerve layer
++olfactory bulb olfactory nerve layer
++
++
+ UBERON:0006083      perirhinal cortex
+ MBA:922             Perirhinal area
+ ------ABA  SYNS------
+@@ -6214,6 +7839,63 @@
+ internal arcuate tract
+ 
+ 
++UBERON:0006101      Brodmann (1909) area 24
++MBA:31              Anterior cingulate area
++------ABA  SYNS------
++ACA
++Anterior cingulate area
++Brodmann's area 24
++Cingulate cortex
++Gyrus limbicus anterior
++agranular cingulate area
++anterior cingulate area
++area 24 of Brodmann-1905
++-----UBERON SYNS-----
++B09-24
++BA24
++Brodmann (1909) area 24
++Brodmann area 24
++agranular cingulate area
++anterior cingulate area
++area 24 of Brodmann
++area 24 of Brodmann-1905 (guenon)
++area 24 of Brodmann-1909
++area cingularis anterior ventralis
++brodmann's area 24
++gyrus limbicus anterior
++ventral anterior cingulate
++
++
++UBERON:0006120      superior colliculus superficial gray layer
++MBA:842             Superior colliculus, superficial gray layer
++------ABA  SYNS------
++SCsg
++Stratum cinereum
++Stratum griseum superficiale
++Superior colliculus superficial gray layer
++Superior colliculus, superficial gray layer
++outer gray layer of superior colliculus
++stratum griseum I, superficiale
++superficial gray layer
++superficial gray layer of superior colliculus
++superficial gray layer of the superior colliculus
++superior colliculus, superficial gray layer
++-----UBERON SYNS-----
++lamina II of superior colliculus
++lamina colliculi superioris ii
++layer II of superior colliculus
++outer gray layer of superior colliculus
++stratum cinereum
++stratum griseum superficiale
++stratum griseum superficiale colliculi superioris
++stratum griseum superficiale of superior colliculus
++superficial gray layer of superior colliculus
++superficial gray layer of the superior colliculus
++superficial grey layer of superior colliculus
++superficial grey layer of the superior colliculus
++superior colliculus superficial gray layer
++
++
+ UBERON:0006514      pallidum
+ MBA:803             Pallidum
+ ------ABA  SYNS------
+@@ -6273,6 +7955,82 @@
+ von Gudden's tract
+ 
+ 
++UBERON:0006779      superficial white layer of superior colliculus
++MBA:851             Superior colliculus, optic layer
++------ABA  SYNS------
++SCop
++Superior colliculus optic layer
++Superior colliculus, optic layer
++-----UBERON SYNS-----
++lamina III of superior colliculus
++lamina colliculi superioris iii
++layer III of superior colliculus
++optic layer
++optic layer of superior colliculus
++optic layer of the superior colliculus
++stratum opticum colliculi superioris
++superior colliculus optic layer
++
++
++UBERON:0006780      zonal layer of superior colliculus
++MBA:834             Superior colliculus, zonal layer
++------ABA  SYNS------
++SCzo
++Stratum zonale colliculi superioris
++Superior colliculus zonal layer
++Superior colliculus, zonal layer
++stratum zonale of superior colliculus
++superficial white layer
++superior colliculus, zonal layer
++zona layer of the superior colliculus
++zonal layer of superior colliculus
++zonal layer of the superior colliculus
++-----UBERON SYNS-----
++lamina I of superior colliculus
++lamina colliculi superioris I
++layer I of superior colliculus
++stratum zonale colliculi superioris
++stratum zonale of midbrain
++stratum zonale of superior colliculus
++superior colliculus zonal layer
++zonal layer of the superior colliculus
++
++
++UBERON:0006840      nucleus of lateral lemniscus
++MBA:612             Nucleus of the lateral lemniscus
++------ABA  SYNS------
++NLL
++Nucleus of the lateral lemniscus
++nucleus of the lateral lemniscus
++paralemniscal nucleus
++-----UBERON SYNS-----
++lateral lemniscus nuclei
++lateral lemniscus nucleus
++nuclei lemnisci lateralis
++nuclei of lateral lemniscus
++nucleus of the lateral lemniscus
++set of nuclei of lateral lemniscus
++
++
++UBERON:0006847      cerebellar commissure
++MBA:744             cerebellar commissure
++------ABA  SYNS------
++cbc
++cerebellar commissure
++-----UBERON SYNS-----
++commissura cerebelli
++commissure of cerebellum
++
++
++UBERON:0006848      posterior pretectal nucleus
++MBA:1061            Posterior pretectal nucleus
++------ABA  SYNS------
++PPT
++Posterior pretectal nucleus
++-----UBERON SYNS-----
++
++
++
+ UBERON:0007225      lateral entorhinal cortex
+ MBA:918             Entorhinal area, lateral part
+ ------ABA  SYNS------
+@@ -6287,6 +8045,43 @@
+ entorhinal cortex lateral part
+ 
+ 
++UBERON:0007227      superior vestibular nucleus
++MBA:217             Superior vestibular nucleus
++------ABA  SYNS------
++Nucleus Bechterew
++Nucleus vestibularis rostralis
++Nucleus vestibularis superior
++SUV
++Superior vestibular nucleus
++nucleus of Bechterew
++superior vestibular nucleus
++-----UBERON SYNS-----
++Bechterew's nucleus
++Bekhterevs nucleus
++nucleus of Bechterew
++nucleus vestibularis superior
++
++
++UBERON:0007230      lateral vestibular nucleus
++MBA:209             Lateral vestibular nucleus
++------ABA  SYNS------
++Deiter's nucleus
++LAV
++Lateral vestibular nucleus
++Nucleus vestibularis lateralis
++Nucleus vestibularis magnocellularis
++lateral nucleus of Deiters
++lateral vestibular nucleus
++nucleus of Deiters
++-----UBERON SYNS-----
++Deiter's nucleus
++Deiters nucleus
++Deiters' nucleus
++lateral nucleus of Deiters
++nucleus of Deiters
++nucleus vestibularis lateralis
++
++
+ UBERON:0007412      midbrain raphe nuclei
+ MBA:165             Midbrain raphe nuclei
+ ------ABA  SYNS------
+@@ -6366,6 +8161,15 @@
+ lateral septum complex
+ 
+ 
++UBERON:0007629      medial septal complex
++MBA:904             Medial septal complex
++------ABA  SYNS------
++MSC
++Medial septal complex
++-----UBERON SYNS-----
++medial septum complex
++
++
+ UBERON:0007630      septohippocampal nucleus
+ MBA:333             Septohippocampal nucleus
+ ------ABA  SYNS------
+@@ -6464,6 +8268,95 @@
+ recessus lateralis ventriculi quarti
+ 
+ 
++UBERON:0007703      spinothalamic tract
++MBA:871             spinothalamic tract
++------ABA  SYNS------
++Lemniscus spinalis
++Tractus spino-thalamicus
++Tractus spinothalamicus
++spinal lemniscus
++spinothalamic tract
++spinothalamic tract of medulla
++spinothalamic tract of the medulla
++sst
++-----UBERON SYNS-----
++
++
++
++UBERON:0007710      intermediate nucleus of lateral lemniscus
++MBA:90              Nucleus of the lateral lemniscus, horizontal part
++------ABA  SYNS------
++NLLh
++Nucleus of the lateral lemniscus horizontal part
++Nucleus of the lateral lemniscus, horizontal part
++intermediate nucleus of the lateral lemniscus
++nucleus of the lateral lemniscus, horizontal part
++-----UBERON SYNS-----
++intermediate nucleus of the lateral lemniscus
++nucleus of the lateral lemniscus horizontal part
++nucleus of the lateral lemniscus, horizontal part
++
++
++UBERON:0007763      cerebellum culmen
++MBA:928             Culmen
++------ABA  SYNS------
++4&5th Cerebellar lobules
++CUL
++Culmen
++Culmen anterior, posterior
++Culmen monticuli
++culmen
++culmen of the cerebellum
++lobule 4
++lobule 5
++lobules 4-5
++lobules IV, V of vermis
++lobules IV,V
++-----UBERON SYNS-----
++culmen
++culmen of vermis
++lobule IV and V of vermis
++neuraxis culmen
++
++
++UBERON:0007764      paramedian reticular nucleus
++MBA:995             Paramedian reticular nucleus
++------ABA  SYNS------
++Nucleus paramedianus oralis
++Nucleus paramedianus ventralis
++Nucleus reticularis paramedianus
++PMR
++Paramedian reticular nucleus
++paramedian reticular nucleus
++ventral paramedian reticular nucleus
++-----UBERON SYNS-----
++nucleus reticularis paramedianus
++paramedian nucleus reticularis
++ventral paramedian reticular nucleus
++
++
++UBERON:0007767      dorsal premammillary nucleus
++MBA:980             Dorsal premammillary nucleus
++------ABA  SYNS------
++Dorsal premammillary nucleus
++PMd
++dorsal premammillary nucleus
++premammillary nucleus, dorsal part
++-----UBERON SYNS-----
++premammillary nucleus dorsal part
++
++
++UBERON:0007768      ventral premammillary nucleus
++MBA:1004            Ventral premammillary nucleus
++------ABA  SYNS------
++PMv
++Ventral premammillary nucleus
++premammillary nucleus, ventral part
++ventral premammillary nucleus
++-----UBERON SYNS-----
++premammillary nucleus ventral part
++
++
+ UBERON:0007769      medial preoptic region
+ MBA:523             Medial preoptic area
+ ------ABA  SYNS------
+@@ -6481,6 +8374,69 @@
+ medial preopticarea
+ 
+ 
++UBERON:0008930      somatosensory cortex
++MBA:453             Somatosensory areas
++------ABA  SYNS------
++SS
++Somatosensory areas
++Somatosensory cortex
++somatosensory areas
++somatosensory cortex
++somesthetic areas
++-----UBERON SYNS-----
++primary somatic sensory cortex
++somatic sensory cortex
++somatosensory area
++somatosensory areas
++somesthetic area
++
++
++UBERON:0008933      primary somatosensory cortex
++MBA:322             Primary somatosensory area
++------ABA  SYNS------
++Primary somatosensory area
++SSp
++anterior parietal cortex
++postcentral tactile area
++primary somatic sensory area
++primary somatosensory area
++primary somatosensory areas
++primary somatosensory cortex
++primary somesthetic area
++primary somesthetic cortex
++somatic afferent area I
++somatic area I
++somatic sensory I
++somatosensory strip
++-----UBERON SYNS-----
++S1
++S1C
++postcentral gyrus
++primary somatosensory area
++primary somatosensory cortex (area S1, areas 3,1,2)
++somatosensory area 1
++
++
++UBERON:0008934      secondary somatosensory cortex
++MBA:378             Supplemental somatosensory area
++------ABA  SYNS------
++SII area
++SSs
++Supplemental somatosensory area
++area SII of Woolsey-1958
++second sensory area
++second somatic sensory area
++secondary somatosensory cortex
++somatic afferent area II
++supplemental somatosensory area
++supplemental somatosensory areas
++supplementary somatosensory area
++-----UBERON SYNS-----
++S2
++somatosensory area 2
++supplemental somatosensory area
++
++
+ UBERON:0009050      nucleus of solitary tract
+ MBA:651             Nucleus of the solitary tract
+ ------ABA  SYNS------
+@@ -6511,6 +8467,41 @@
+ solitary tract nucleus
+ 
+ 
++UBERON:0009051      gelatinous nucleus of solitary tract
++MBA:674             Nucleus of the solitary tract, gelatinous part
++------ABA  SYNS------
++NTSge
++Nucleus of the solitary tract gelatinous part
++Nucleus of the solitary tract, gelatinous part
++-----UBERON SYNS-----
++
++
++
++UBERON:0009052      medial nucleus of solitary tract
++MBA:691             Nucleus of the solitary tract, medial part
++------ABA  SYNS------
++NTSm
++Nucleus of the solitary tract medial part
++Nucleus of the solitary tract, medial part
++Subnucleus medialis
++medial part of solitary nucleus
++medial subnucleus of the solitary tract
++nucleus of the solitary tract, medial part
++-----UBERON SYNS-----
++
++
++
++UBERON:0009121      vomeronasal nerve
++MBA:949             vomeronasal nerve
++------ABA  SYNS------
++Nervus vomeronasalis
++nerve of Jocobson
++vomeronasal nerve
++von
++-----UBERON SYNS-----
++accessory olfactory bulb vomeronasal nerve
++
++
+ UBERON:0009777      intermediate reticular nucleus
+ MBA:136             Intermediate reticular nucleus
+ ------ABA  SYNS------
+@@ -6520,6 +8511,26 @@
+ 
+ 
+ 
++UBERON:0009907      sensory root of trigeminal nerve
++MBA:229             sensory root of the trigeminal nerve
++------ABA  SYNS------
++Nervus trigeminus radix sensibilis
++Nervus trigeminus, radix sensoria
++Portio major nervi trigemini
++Portio major of trigeminal nerve
++Radix sensoria
++major root of trigeminal nerve
++sV
++sensory branch of trigeminal nerve
++sensory root of N. V
++sensory root of the trigeminal nerve
++-----UBERON SYNS-----
++Sensory root of the trigeminal nerve
++radix sensoria (nervus trigeminus [v])
++radix sensoria nervus trigemini
++sensory root of the trigeminal nerve
++
++
+ UBERON:0009951      main olfactory bulb
+ MBA:507             Main olfactory bulb
+ ------ABA  SYNS------
+@@ -6573,6 +8584,32 @@
+ 
+ 
+ 
++UBERON:0010415      barrel cortex
++MBA:329             Primary somatosensory area, barrel field
++------ABA  SYNS------
++Primary somatosensory area barrel field
++Primary somatosensory area, barrel field
++SSp-bfd
++barrel cortex
++barrel field
++barrel field of the primary somatosensory area
++barrel field sensory area
++primary somatosensory area, barrel field
++primary somatosensory cortex, barrel field
++whisker barrels
++whisker sensory area
++-----UBERON SYNS-----
++barrel cortex
++barrel field
++barrel field of the primary somatosensory area
++barrel field sensory area
++primary somatosensory area barrel field
++primary somatosensory area, barrel field
++primary somatosensory cortex, barrel field
++whisker barrels
++whisker sensory area
++
++
+ UBERON:0011172      retrorubral area
+ MBA:246             Midbrain reticular nucleus, retrorubral area
+ ------ABA  SYNS------
+@@ -6701,6 +8738,80 @@
+ pineal stalk
+ 
+ 
++UBERON:0013531      retrosplenial region
++MBA:254             Retrosplenial area
++------ABA  SYNS------
++RSP
++Regio retrosplenialis
++Retrosplenial area
++retrosplenial area
++retrosplenial cortex
++retrosplenial region
++-----UBERON SYNS-----
++retrosplenial area
++retrosplenial cortex
++
++
++UBERON:0013560      Brodmann (1909) area 32
++MBA:972             Prelimbic area
++------ABA  SYNS------
++PL
++Prelimbic area
++-----UBERON SYNS-----
++B09-32
++BA32
++Brodmann (1909) area 32
++Brodmann area 32
++Brodmann area 32, dorsal anterior cingulate
++Prelimbic area
++area 25 of Brodmann-1905
++area 32 of Brodmann
++area 32 of Brodmann (guenon)
++area 32 of Brodmann-1909
++area cingularis anterior dorsalis
++area praelimbica
++brodmann's area 32
++
++
++UBERON:0013599      dorsal accessory nucleus of optic tract
++MBA:75              Dorsal terminal nucleus of the accessory optic tract
++------ABA  SYNS------
++DT
++Dorsal terminal nucleus of the accessory optic tract
++dorsal terminal nucleus accessory optic tract
++dorsal terminal nucleus of the accessory optic tract
++-----UBERON SYNS-----
++dorsal terminal nucleus of accessory optic tract
++dorsal terminal nucleus of the accessory optic tract
++nucleus accessorius posterior tractus optici
++posterior accessory nucleus of optic tract
++posterior terminal nucleus of accessory optic tract
++
++
++UBERON:0013600      lateral accessory nucleus of optic tract
++MBA:66              Lateral terminal nucleus of the accessory optic tract
++------ABA  SYNS------
++LT
++Lateral terminal nucleus of the accessory optic tract
++lateral terminal nucleus accessory optic tract
++lateral terminal nucleus of the accessory optic tract
++-----UBERON SYNS-----
++lateral terminal nucleus of the accessory optic tract
++nucleus accessorius lateralis tractus optici
++
++
++UBERON:0013601      medial accessory nucleus of optic tract
++MBA:58              Medial terminal nucleus of the accessory optic tract
++------ABA  SYNS------
++MT
++Medial terminal nucleus of the accessory optic tract
++medial terminal nucleus accessory optic tract
++medial terminal nucleus of the accessory optic tract
++-----UBERON SYNS-----
++medial terminal nucleus of the accessory optic tract
++nucleus accessorius medialis tractus optici
++
++
+ UBERON:0013734      rostral linear nucleus
+ MBA:197             Rostral linear nucleus raphe
+ ------ABA  SYNS------
+@@ -6714,6 +8825,37 @@
+ rostral linear nucleus of the raphe
+ 
+ 
++UBERON:0013736      interfascicular linear nucleus
++MBA:12              Interfascicular nucleus raphe
++------ABA  SYNS------
++IF
++Interfascicular nucleus raphe
++interfascicular nucleus
++interfascicular nucleus raphe
++-----UBERON SYNS-----
++central linear nucleus
++intermediate linear nucleus
++
++
++UBERON:0014169      nigrostriatal tract
++MBA:102             nigrostriatal tract
++------ABA  SYNS------
++comb bundle
++nigrostriatal bundle
++nigrostriatal fibers
++nigrostriatal tract
++nigrostriate bundle
++nst
++-----UBERON SYNS-----
++comb bundle
++nigrostriatal bundle
++nigrostriatal fibers
++nigrostriatal tract
++nucleus caudalis centralis oculomotorii
++nucleus centralis nervi oculomotorii
++tegmentum mesencephalicum
++
++
+ UBERON:0014284      endopiriform nucleus
+ MBA:942             Endopiriform nucleus
+ ------ABA  SYNS------
+@@ -6760,6 +8902,229 @@
+ primary sulcus of cerebellum
+ 
+ 
++UBERON:0014473      precentral fissure of cerebellum
++MBA:1087            precentral fissure
++------ABA  SYNS------
++Fissura praecentralis
++Fissura precentralis cerebelli
++pce
++postlingual fissure
++precentral fissure
++precentral fissure of the cerebellum
++sulcus superior anterior
++-----UBERON SYNS-----
++fissura postlingualis cerebelli
++fissura praecentralis
++fissura precentralis cerebelli
++post-lingual fissure of cerebellum
++postlingual fissure
++precentral fissure
++
++
++UBERON:0014534      external medullary lamina of thalamus
++MBA:1092            external medullary lamina of the thalamus
++------ABA  SYNS------
++Lamella medullaris externa
++Lamina medullaris externa
++Lamina medullaris externa thalami
++Lamina medullaris thalami externa
++em
++external medullary lamina
++external medullary lamina of thalamus
++external medullary lamina of the thalamus
++external medullary lamina thalamus
++-----UBERON SYNS-----
++external medullary lamina
++external medullary lamina of the thalamus
++lamella medullaris externa
++lamina medullaris externa
++lamina medullaris externa thalami
++lamina medullaris lateralis
++lamina medullaris lateralis thalami
++lamina medullaris thalami externa
++
++
++UBERON:0014548      pyramidal layer of CA1
++MBA:407             Field CA1, pyramidal layer
++------ABA  SYNS------
++CA1sp
++Field CA1 pyramidal layer
++Field CA1, pyramidal layer
++stratum pyramidale of the CA1 field
++-----UBERON SYNS-----
++CA1 part of stratum pyramidale hippocampi
++CA1 pyramidal cell layer
++CA1 stratum pyramidale
++CA1 stratum pyramidale hippocampi
++field CA1, pyramidal layer
++stratum pyramidale of CA1
++stratum pyramidale of the CA1 field
++
++
++UBERON:0014549      pyramidal layer of CA2
++MBA:446             Field CA2, pyramidal layer
++------ABA  SYNS------
++CA2sp
++Field CA2 pyramidal layer
++Field CA2, pyramidal layer
++stratum pyramidale of the CA2 field
++-----UBERON SYNS-----
++CA2 part of stratum pyramidale hippocampi
++CA2 stratum pyramidale hippocampi
++field CA2, pyramidal layer
++stratum pyramidale of CA2
++stratum pyramidale of the CA2 field
++
++
++UBERON:0014550      pyramidal layer of CA3
++MBA:495             Field CA3, pyramidal layer
++------ABA  SYNS------
++CA3sp
++Field CA3 pyramidal layer
++Field CA3, pyramidal layer
++stratum pyramidale of the CA3 field
++-----UBERON SYNS-----
++CA3 part of stratum pyramidale hippocampi
++CA3 stratum pyramidale hippocampi
++field CA3, pyramidal layer
++stratum pyramidale of CA3
++stratum pyramidale of the CA3 field
++
++
++UBERON:0014551      CA2 stratum oriens
++MBA:438             Field CA2, stratum oriens
++------ABA  SYNS------
++CA2so
++Field CA2 stratum oriens
++Field CA2, stratum oriens
++-----UBERON SYNS-----
++CA2 part of stratum oriens
++CA2 stratum oriens
++oriens layer of CA2 field
++stratum oriens of the CA2 field
++
++
++UBERON:0014552      CA1 stratum oriens
++MBA:399             Field CA1, stratum oriens
++------ABA  SYNS------
++CA1so
++Field CA1 stratum oriens
++Field CA1, stratum oriens
++-----UBERON SYNS-----
++CA1 part of stratum oriens
++CA1 stratum oriens
++oriens layer of CA1 field
++stratum oriens of the CA1 field
++
++
++UBERON:0014553      CA3 stratum oriens
++MBA:486             Field CA3, stratum oriens
++------ABA  SYNS------
++CA3so
++Field CA3 stratum oriens
++Field CA3, stratum oriens
++-----UBERON SYNS-----
++CA3 part of stratum oriens
++CA3 stratum oriens
++oriens layer of CA3 field
++stratum oriens of the CA3 field
++
++
++UBERON:0014554      CA1 stratum radiatum
++MBA:415             Field CA1, stratum radiatum
++------ABA  SYNS------
++CA1sr
++Field CA1 stratum radiatum
++Field CA1, stratum radiatum
++stratum radiatum of the CA1 field
++-----UBERON SYNS-----
++CA1 part of stratum radiatum
++CA1 stratum radiatum
++radiate layer of CA1 field
++stratum radiatum of the CA1 field
++
++
++UBERON:0014555      CA2 stratum radiatum
++MBA:454             Field CA2, stratum radiatum
++------ABA  SYNS------
++CA2sr
++Field CA2 stratum radiatum
++Field CA2, stratum radiatum
++stratum radiatum of the CA2 field
++-----UBERON SYNS-----
++CA2 part of stratum radiatum
++CA2 stratum radiatum
++radiate layer of CA2 field
++stratum radiatum of the CA2 field
++
++
++UBERON:0014556      CA3 stratum radiatum
++MBA:504             Field CA3, stratum radiatum
++------ABA  SYNS------
++CA3sr
++Field CA3 stratum radiatum
++Field CA3, stratum radiatum
++stratum radiatum of the CA3 field
++-----UBERON SYNS-----
++CA3 part of stratum radiatum
++CA3 stratum radiatum
++radiate layer of CA3 field
++stratum radiatum of the CA3 field
++
++
++UBERON:0014557      CA1 stratum lacunosum moleculare
++MBA:391             Field CA1, stratum lacunosum-moleculare
++------ABA  SYNS------
++CA1slm
++Field CA1 stratum lacunosum-moleculare
++Field CA1, stratum lacunosum-moleculare
++stratum lacunosum moleculare of the CA1 field
++-----UBERON SYNS-----
++CA1 part of stratum lacunosum moleculare
++CA1 stratum lacunosum moleculare
++lacunar-molecular layer of CA1 field
++stratum lacunosum moleculare of the CA1 field
++
++
++UBERON:0014558      CA2 stratum lacunosum moleculare
++MBA:431             Field CA2, stratum lacunosum-moleculare
++------ABA  SYNS------
++CA2slm
++Field CA2 stratum lacunosum-moleculare
++Field CA2, stratum lacunosum-moleculare
++stratum lacunosum moleculare of the CA2 field
++-----UBERON SYNS-----
++CA2 part of stratum lacunosum moleculare
++CA2 stratum lacunosum moleculare
++lacunar-molecular layer of CA2 field
++stratum lacunosum moleculare of the CA2 field
++
++
++UBERON:0014559      CA3 stratum lacunosum moleculare
++MBA:471             Field CA3, stratum lacunosum-moleculare
++------ABA  SYNS------
++CA3slm
++Field CA3 stratum lacunosum-moleculare
++Field CA3, stratum lacunosum-moleculare
++-----UBERON SYNS-----
++CA3 part of stratum lacunosum moleculare
++CA3 stratum lacunosum moleculare
++lacunar-molecular layer of CA3 field
++stratum lacunosum moleculare of the CA3 field
++
++
++UBERON:0014560      CA3 stratum lucidum
++MBA:479             Field CA3, stratum lucidum
++------ABA  SYNS------
++CA3slu
++Field CA3 stratum lucidum
++Field CA3, stratum lucidum
++stratum lucidum of the CA3 field
++-----UBERON SYNS-----
++CA3 stratum lucidum
++stratum lucidum of the CA3 field
++
++
+ UBERON:0014589      anterior nucleus of hypothalamus anterior part
+ MBA:700             Anterior hypothalamic nucleus, anterior part
+ ------ABA  SYNS------
+@@ -7076,6 +9441,25 @@
+ internal genu of the facial nerve
+ 
+ 
++UBERON:0014918      retrosplenial granular cortex
++MBA:886             Retrosplenial area, ventral part
++------ABA  SYNS------
++RSPv
++Retrosplenial area ventral part
++Retrosplenial area, ventral part
++retrosplenial area, ventral part
++retrosplenial cortex, ventral part
++retrosplenial granular area
++retrosplenial granular cortex
++ventral part of the retrosplenial area
++-----UBERON SYNS-----
++retrosplenial area, ventral part
++retrosplenial cortex, ventral part
++retrosplenial granular area
++retrosplenial granular cortex
++ventral part of the retrosplenial area
++
++
+ UBERON:0015244      accessory olfactory bulb granule cell layer
+ MBA:196             Accessory olfactory bulb, granular layer
+ ------ABA  SYNS------
+@@ -7124,6 +9508,52 @@
+ rostrum of corpus callosum (Mai)
+ 
+ 
++UBERON:0015703      rostrum of corpus callosum
++MBA:979             corpus callosum, rostrum
++------ABA  SYNS------
++Corpus callosum rostrum
++Rostrum corporis callosi
++Rostrum corpus callosi
++ccr
++corpus callosum rostrum
++corpus callosum, rostrum
++rostrum
++rostrum of corpus callosum
++rostrum of the corpus callosum
++-----UBERON SYNS-----
++corpus callosum rostrum
++corpus callosum, rostrum
++rostrum
++rostrum corporis callosi
++rostrum corpus callosi
++rostrum of corpus callosum
++rostrum of the corpus callosum
++
++
++UBERON:0015708      splenium of the corpus callosum
++MBA:986             corpus callosum, splenium
++------ABA  SYNS------
++Corpus callosum splenium
++Corpus callosum, splenium
++Splenium corporis callosi
++Splenium corpus callosi
++ccs
++corpus callosum splenium
++corpus callosum, splenium
++splenium
++splenium of corpus callosum
++splenium of the corpus callosum
++-----UBERON SYNS-----
++corpus callosum splenium
++corpus callosum, splenium
++corpus callosum, splenium (Burdach)
++splenium
++splenium corporis callosi
++splenium corpus callosi
++splenium of corpus callosum
++splenium of the corpus callosum
++
++
+ UBERON:0015793      induseum griseum
+ MBA:19              Induseum griseum
+ ------ABA  SYNS------
+@@ -7201,6 +9631,15 @@
+ secondary somatomotor areas
+ 
+ 
++UBERON:0016635      paragigantocellular nucleus
++MBA:938             Paragigantocellular reticular nucleus
++------ABA  SYNS------
++PGRN
++Paragigantocellular reticular nucleus
++-----UBERON SYNS-----
++
++
++
+ UBERON:0016641      subparafascicular nucleus
+ MBA:406             Subparafascicular nucleus
+ ------ABA  SYNS------
+@@ -7219,6 +9658,43 @@
+ subparafascicular thalamic nucleus
+ 
+ 
++UBERON:0016824      lateral paragigantocellular nucleus
++MBA:978             Paragigantocellular reticular nucleus, lateral part
++------ABA  SYNS------
++Nucleus paragigantocellularis lateralis
++PGRNl
++Paragigantocellular reticular nucleus lateral part
++Paragigantocellular reticular nucleus, lateral part
++lateral paragigantocellular nucleus
++paragigantocellular nucleus, lateral part
++paragigantocellular reticular nucleus, lateral part
++-----UBERON SYNS-----
++lateral paragigantocellular nucleus
++lateral paragigantocellular reticular nucleus
++nucleus paragigantocellularis lateralis
++paragigantocellular nucleus, lateral part
++paragigantocellular reticular nucleus, lateral part
++
++
++UBERON:0016825      dorsal paragigantocellular nucleus
++MBA:970             Paragigantocellular reticular nucleus, dorsal part
++------ABA  SYNS------
++Nucleus paragigantocellularis dorsalis
++PGRNd
++Paragigantocellular reticular nucleus dorsal part
++Paragigantocellular reticular nucleus, dorsal part
++dorsal paragigantocellular nucleus
++paragigantocellular nucleus, dorsal part
++paragigantocellular reticular nucleus, dorsal part
++-----UBERON SYNS-----
++dorsal paragigantocellular nucleus
++dorsal paragigantocellular reticular nucleus
++nucleus paragigantocellularis dorsalis
++paragigantocellular nucleus, dorsal part
++paragigantocellular reticular nucleus, dorsal part
++posterior paragigantocellular reticular nucleus
++
++
+ UBERON:0018238      dorsal column nucleus
+ MBA:720             Dorsal column nuclei
+ ------ABA  SYNS------
+@@ -7370,6 +9846,21 @@
+ tractus perforans
+ 
+ 
++UBERON:0035013      temporal cortex association area
++MBA:541             Temporal association areas
++------ABA  SYNS------
++TEa
++Temporal association areas
++temporal association areas
++temporal association cortex
++ventral temporal association areas
++-----UBERON SYNS-----
++temporal association area
++temporal association areas
++temporal association cortex
++ventral temporal association areas
++
++
+ UBERON:0035113      central part of mediodorsal nucleus of the thalamus
+ MBA:617             Mediodorsal nucleus of the thalamus, central part
+ ------ABA  SYNS------
+@@ -7439,3 +9930,19 @@
+ NC
+ circular nucleus
+ nucleus circularis
++
++
++UBERON:0035803      extrapyramidal tract system
++MBA:1000            extrapyramidal fiber systems
++------ABA  SYNS------
++eps
++extrapyramidal fiber systems
++-----UBERON SYNS-----
++eps
++extra-pyramidal tract
++extrapyramidal fibre
++extrapyramidal motor system
++extrapyramidal pathway
++extrapyramidal system
++extrapyramidal tracts
++extrapyramindal system
