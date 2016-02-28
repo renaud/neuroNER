@@ -1,7 +1,9 @@
 import unittest;
 
-from similarity import similarity, _cleanup
 from sherlok import Sherlok # pip install --upgrade sherlok
+
+from neuroner.similarity import similarity
+from similarity import _cleanup
 
 
 class TestSimilarity(unittest.TestCase):

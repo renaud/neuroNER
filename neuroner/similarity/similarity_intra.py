@@ -3,17 +3,19 @@ Computes the similarity between neuron properties within a property class.
 E.g. compares 'layer 1a' with 'layer 1-2' and 'Hypothalamus' with 'Midbrain'
 Implemented in XXXXSimilarity classes, e.g. LayerSimilarity, BrainR
 '''
-import os.path
-import oboparser
-from config import cfg
-from itertools import chain
 import glob
-import numpy as np
+import os.path
+from itertools import chain
+import sys
 
 from allensdk.core.mouse_connectivity_cache import MouseConnectivityCache
+
+import oboparser
+#from config import cfg
+
 # requires pip'ing: pip install https://github.com/AllenInstitute/AllenSDK/archive/v0.10.1.tar.gz
 
-onto_root = cfg['onto_root']
+onto_root = os.path.dirname(sys.modules['neuroner'].__file__) + '/resources/bluima/neuroner/'
 assert os.path.exists(onto_root), 'could not find onto_root at ' + onto_root
 
 

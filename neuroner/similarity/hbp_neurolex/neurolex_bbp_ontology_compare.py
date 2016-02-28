@@ -14,7 +14,7 @@ get_ipython().magic(u'autoreload 2')
 
 import sys
 sys.path.append('../')
-from similarity import _cleanup, _normalize, similarity2
+from neuroner.similarity.similarity import _cleanup, similarity2
 
 from sherlok import Sherlok
 neuroner = Sherlok('neuroner')

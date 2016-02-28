@@ -4,12 +4,15 @@ The main function is similarity()
 Computation is delegated to similarity_inter and similarity_intra
 '''
 
-import similarity_inter, similarity_intra
-from operator import itemgetter
-from itertools import groupby
 import re
+from itertools import groupby
+from operator import itemgetter
 
 from sherlok import Sherlok # pip install --upgrade sherlok
+
+import similarity_inter
+import similarity_intra
+
 s = Sherlok('neuroner')
 
 WEIGHTS = { #TODO: implement weights
