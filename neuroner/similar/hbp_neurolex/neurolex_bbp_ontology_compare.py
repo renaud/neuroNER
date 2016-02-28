@@ -14,7 +14,7 @@ get_ipython().magic(u'autoreload 2')
 
 import sys
 sys.path.append('../')
-from neuroner.similarity.similarity import _cleanup, similarity2
+from neuroner.neuroner import clean_annotations, similarity2
 
 from sherlok import Sherlok
 neuroner = Sherlok('neuroner')
@@ -65,10 +65,10 @@ def preprocess(cell_names, prefix=''):
         name, synonyms = entity
         print('name::', name, "id:", id, "prefix:", prefix)
         variants = []
-        variants.append(_cleanup(neuroner.annotate(prefix + name).annotations)) # name
+        variants.append(clean_annotations(neuroner.annotate(prefix + name).annotations)) # name
         for s in synonyms:
             print('         syn::', s)
-            variants.append(_cleanup(neuroner.annotate(prefix + s).annotations)) # synonyms
+            variants.append(clean_annotations(neuroner.annotate(prefix + s).annotations)) # synonyms
         cell_names_processed[id] = variants
     return cell_names_processed
 
@@ -168,7 +168,7 @@ with open('hbp-neurolex.tsv', 'w') as outf:
 # In[45]:
 
 cell_= 'Nest Basket Cell' #'nest basket cell'
-_cleanup(neuroner.annotate(cell_).annotations)
+clean_annotations(neuroner.annotate(cell_).annotations)
 
 
 # In[47]:

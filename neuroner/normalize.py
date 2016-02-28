@@ -1,44 +1,21 @@
-'''
-Computes the semantic similarity between two neuron mentions.
-The main function is similarity()
-Computation is delegated to similarity_inter and similarity_intra
-'''
-
+import glob
 import re
 from itertools import groupby
 from operator import itemgetter
 
-from sherlok import Sherlok # pip install --upgrade sherlok
+from allensdk.core.mouse_connectivity_cache import MouseConnectivityCache
 
-import similarity_inter
-import similarity_intra
-
-s = Sherlok('neuroner')
-
-WEIGHTS = { #TODO: implement weights
-            #TODO: merge with BASE_MULTIPLIER implemented in similarity_intra
-    'Layer': 1.0,
-    'ProteinProp': 1.0
-}
-
-'''
-Computes the intra and inter semantic similarity between two neurons
-in: n1@str, n2@str: the two neurons to measure similarity
-out: (score:float, [([matching_properties], explanation@str)])
-'''
-def similarity(n1, n2, weights=WEIGHTS, symmetric=True, use_inter_similarity=True):
-    assert type(n1) is str and len(n1) > 0, 'n1 cannot be empty'
-    assert type(n2) is str and len(n2) > 0, 'n2 cannot be empty'
-    n1c = _cleanup(s.annotate(n1).annotations)
-    n2c = _cleanup(s.annotate(n2).annotations)
-    return similarity2(n1c, n2c, weights, symmetric, use_inter_similarity)
+import oboparser
+import os
+import sys
 
 '''
 Cleans up raw Sherlok annotations
 in: raw Sherlok output
 out: only keep ontologyIds and if none is present concatenate the type and text
 '''
-def _cleanup(n, orig_neuron_str = None):
+
+def clean_annotations(n, orig_neuron_str = None):
     clean = []
     filt_attrib_list = ['Neuron', 'PreNeuron', 'PostNeuron', 'Electrophysiology', 'ProteinTrigger']
     for (begin, end, txt, type_, props) in n:
@@ -109,10 +86,36 @@ def _cleanup(n, orig_neuron_str = None):
 
     return clean
 
-# load all ontologies into one large dictionary
-big_onto = similarity_intra.load_ontologies()
+onto_root = os.path.dirname(sys.modules['neuroner'].__file__) + '/resources/bluima/neuroner/'
+assert os.path.exists(onto_root), 'could not find onto_root at ' + onto_root
 
-def _normalize(onto_list, shorten = False):
+# load all ontologies into one large dictionary
+def load_ontologies():
+    """Loads all of the ontologies into a nice dictionary data structure"""
+
+    # a massive dictionary containing key : dictionary mappings between HBP ontology id's and .obo ontology terms
+    big_onto = {}
+    mcc = MouseConnectivityCache()
+    aba_onto = mcc.get_ontology()
+
+    file_name_list = [f for f in glob.glob(onto_root + "*.robo")]
+    file_name_list.extend([f for f in glob.glob(onto_root + "*.obo")])
+    for fn in file_name_list:
+        for o in oboparser.parse(fn):
+            if 'id' in o:
+                big_onto[o['id']] = o
+    for k in big_onto.keys():
+        if 'ABA' in k:
+            new_o = big_onto[k]
+            aba_id = int(k[11:])
+            new_o['acronym'] = [aba_onto[aba_id]['acronym'].item()]
+            big_onto[k] = new_o
+    return big_onto
+
+
+big_onto = load_ontologies()
+
+def normalize_annots(onto_list, shorten = False):
     """Convenience function for turning a neuroNER ontology list back into ontology names or acronyms
     """
     normalized_term = []
@@ -130,21 +133,3 @@ def _normalize(onto_list, shorten = False):
             new_term = re.sub('^\w+:', '', l)
             normalized_term.append(new_term)
     return ' '.join(normalized_term)
-
-
-
-'''
-Computes the intra and inter semantic similarity between two neurons
-in:  n1@[], n2@[]: the two neurons to measure similarity
-out: (score:float, [([matching_properties, explanation@str])])
-'''
-def similarity2(n1, n2, weights=WEIGHTS, symmetric=True, use_inter_similarity=True):
-    # TODO assert type(n1) is array
-    s_intra = similarity_intra._similarity_intra(n1, n2, weights, symmetric)
-    if not use_inter_similarity:
-        return s_intra
-    else:
-        s_inter = similarity_inter._similarity_inter(n1, n2)
-        #print('s_intra', s_intra, 's_inter', s_inter)
-        return (s_intra[0] + s_inter[0], s_intra[1] + s_inter[1])
-

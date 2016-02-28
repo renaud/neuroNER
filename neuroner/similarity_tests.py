@@ -1,9 +1,9 @@
-import unittest;
+import unittest
 
 from sherlok import Sherlok # pip install --upgrade sherlok
 
-from neuroner.similarity import similarity
-from similarity import _cleanup
+import similarity
+from normalize import clean_annotations
 
 
 class TestSimilarity(unittest.TestCase):
@@ -11,7 +11,7 @@ class TestSimilarity(unittest.TestCase):
     def test_cleanup(self):
         s = Sherlok('neuroner')
         an = s.annotate('layer 4 pyramidal long large neuron').annotations
-        clean = _cleanup(an)
+        clean = clean_annotations(an)
         self.assertEqual(clean, ['HBP_LAYER:0000004', u'HBP_MORPHOLOGY:0000001', 'Missing:long', 'Size:large'])
 
     def test_exact_similiarity(self):

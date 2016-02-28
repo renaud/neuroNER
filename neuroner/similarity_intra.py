@@ -3,14 +3,14 @@ Computes the similarity between neuron properties within a property class.
 E.g. compares 'layer 1a' with 'layer 1-2' and 'Hypothalamus' with 'Midbrain'
 Implemented in XXXXSimilarity classes, e.g. LayerSimilarity, BrainR
 '''
-import glob
 import os.path
-from itertools import chain
 import sys
+from itertools import chain
 
 from allensdk.core.mouse_connectivity_cache import MouseConnectivityCache
 
 import oboparser
+
 #from config import cfg
 
 # requires pip'ing: pip install https://github.com/AllenInstitute/AllenSDK/archive/v0.10.1.tar.gz
@@ -328,28 +328,5 @@ def _calc_base_similarity_intra(n1, n2, weights):
         (s_sim, s_expl) = s.similarity(n1, n2) #TODO weights
         sim_intra += s_sim; explanations.append(s_expl)
     return (sim_intra, explanations)
-
-
-def load_ontologies():
-    """Loads all of the ontologies into a nice dictionary data structure"""
-
-    # a massive dictionary containing key : dictionary mappings between HBP ontology id's and .obo ontology terms
-    big_onto = {}
-    mcc = MouseConnectivityCache()
-    aba_onto = mcc.get_ontology()
-
-    file_name_list = [f for f in glob.glob(onto_root + "*.robo")]
-    file_name_list.extend([f for f in glob.glob(onto_root + "*.obo")])
-    for fn in file_name_list:
-        for o in oboparser.parse(fn):
-            if 'id' in o:
-                big_onto[o['id']] = o
-    for k in big_onto.keys():
-        if 'ABA' in k:
-            new_o = big_onto[k]
-            aba_id = int(k[11:])
-            new_o['acronym'] = [aba_onto[aba_id]['acronym'].item()]
-            big_onto[k] = new_o
-    return big_onto
 
 
