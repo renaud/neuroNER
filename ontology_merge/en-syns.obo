@@ -1,0 +1,6770 @@
+format-version: 1.2
+date: 29:02:2016 08:14
+saved-by: tom
+auto-generated-by: obo_io
+ontology: en-syns.obo
+
+[Term]
+id: MBA:1
+name: Tuberomammillary nucleus, ventral part
+synonym: "tuberomammillary nucleus ventral part" EXACT []
+
+[Term]
+id: MBA:10
+name: Superior colliculus, motor related, intermediate gray layer
+
+[Term]
+id: MBA:100
+name: Interpeduncular nucleus
+synonym: "interpeduncular ganglion" EXACT []
+synonym: "interpeduncular nuclei" EXACT []
+synonym: "interpeduncular nucleus of midbrain" EXACT []
+
+[Term]
+id: MBA:1000
+name: extrapyramidal fiber systems
+
+[Term]
+id: MBA:1001
+name: Lobule V
+synonym: "lobule V (culmen and quadrangular lobule, posterior part)" EXACT []
+synonym: "lobule V of cerebellum vermis" EXACT []
+synonym: "lobule V" EXACT []
+synonym: "vermic lobule V" EXACT []
+
+[Term]
+id: MBA:1002
+name: Primary auditory area
+
+[Term]
+id: MBA:1003
+name: corticopontine tract
+
+[Term]
+id: MBA:1004
+name: Ventral premammillary nucleus
+
+[Term]
+id: MBA:1005
+name: Primary auditory area, layer 6b
+
+[Term]
+id: MBA:1006
+name: Primary somatosensory area, trunk, layer 1
+
+[Term]
+id: MBA:1007
+name: Simple lobule
+synonym: "hemispheric lobule VI" EXACT []
+synonym: "lobule h vi of larsell" EXACT []
+synonym: "lobulus quadrangularis pars caudalis/posterior" EXACT []
+synonym: "lobulus quadrangularis pars inferoposterior" EXACT []
+synonym: "lobulus quadrangularis posterior cerebelli [H VI]" EXACT []
+synonym: "lobulus quadrangularis posterior" EXACT []
+synonym: "lobulus simplex cerebelli [h vi et vi]" EXACT []
+synonym: "lobulus simplex" EXACT []
+synonym: "posterior crescentic lobule of cerebellum" EXACT []
+synonym: "semilunar lobule-1 (posterior)" EXACT []
+synonym: "simple lobule of cerebellum [h vi and vi]" EXACT []
+synonym: "simple lobule of cerebellum" EXACT []
+synonym: "simple lobule" EXACT []
+synonym: "simplex (hvi)" EXACT []
+synonym: "simplex lobule" EXACT []
+synonym: "simplex" EXACT []
+
+[Term]
+id: MBA:1008
+name: Geniculate group, dorsal thalamus
+synonym: "geniculate group of the dorsal thalamus" EXACT []
+synonym: "geniculate thalamic group" EXACT []
+synonym: "nuclei metathalami" EXACT []
+
+[Term]
+id: MBA:1009
+name: fiber tracts
+
+[Term]
+id: MBA:101
+name: Ventral cochlear nucleus
+synonym: "anterior cochlear nucleus" EXACT []
+synonym: "c1281209" EXACT []
+synonym: "ventral cochlear nucleus" EXACT []
+
+[Term]
+id: MBA:1010
+name: Visceral area, layer 4
+
+[Term]
+id: MBA:1011
+name: Dorsal auditory area
+
+[Term]
+id: MBA:1012
+name: corticorubral tract
+
+[Term]
+id: MBA:1014
+name: Geniculate group, ventral thalamus
+
+[Term]
+id: MBA:1015
+name: Anterior cingulate area, dorsal part, layer 5
+
+[Term]
+id: MBA:1016
+name: olfactory nerve layer of main olfactory bulb
+synonym: "olfactory bulb main olfactory nerve layer" EXACT []
+synonym: "olfactory bulb olfactory nerve layer" EXACT []
+
+[Term]
+id: MBA:1017
+name: Ansiform lobule
+synonym: "ansiform lobule of cerebellum [hVIIa]" EXACT []
+synonym: "ansiform lobule of cerebellum" EXACT []
+synonym: "lobuli semilunares cerebelli" EXACT []
+synonym: "lobulus ansiformis cerebelli [h vii a]" EXACT []
+synonym: "lobulus ansiformis cerebelli" EXACT []
+synonym: "semilunar lobules of cerebellum" EXACT []
+
+[Term]
+id: MBA:1018
+name: Ventral auditory area
+
+[Term]
+id: MBA:1019
+name: corticospinal tract, crossed
+synonym: "corticospinal tract, crossed" EXACT []
+synonym: "crossed pyramidal tract" EXACT []
+synonym: "lateral pyramidal tract" EXACT []
+synonym: "pyramidal tract, crossed" EXACT []
+
+[Term]
+id: MBA:102
+name: nigrostriatal tract
+synonym: "comb bundle" EXACT []
+synonym: "nigrostriatal bundle" EXACT []
+synonym: "nigrostriatal fibers" EXACT []
+synonym: "nigrostriatal tract" EXACT []
+
+[Term]
+id: MBA:1020
+name: Posterior complex of the thalamus
+synonym: "caudal thalamic nucleus" EXACT []
+synonym: "nuclei posteriores thalami" EXACT []
+synonym: "posterior complex of thalamus" EXACT []
+synonym: "posterior complex of the thalamus" EXACT []
+synonym: "posterior nuclear complex of thalamus" EXACT []
+synonym: "posterior nuclear complex" EXACT []
+synonym: "posterior nuclear group of thalamus" EXACT []
+synonym: "posterior nucleus of dorsal thalamus" EXACT []
+synonym: "posterior thalamic nuclear group" EXACT []
+synonym: "posterior thalamic nucleus" EXACT []
+
+[Term]
+id: MBA:1021
+name: Secondary motor area, layer 6a
+
+[Term]
+id: MBA:1022
+name: Globus pallidus, external segment
+synonym: "external globus pallidus" EXACT []
+synonym: "external pallidum" EXACT []
+synonym: "external part of globus pallidus" EXACT []
+synonym: "globus pallidus extermal segment" EXACT []
+synonym: "globus pallidus external segment" EXACT []
+synonym: "globus pallidus externus" EXACT []
+synonym: "globus pallidus lateralis" EXACT []
+synonym: "globus pallidus, lateral segment" EXACT []
+synonym: "lateral pallidal segment" EXACT []
+synonym: "lateral pallidum" EXACT []
+synonym: "lateral part of globus pallidus" EXACT []
+synonym: "lateral segment of globus pallidus" EXACT []
+synonym: "pallidus II" EXACT []
+synonym: "pars lateralis globi pallidi medialis" EXACT []
+
+[Term]
+id: MBA:1023
+name: Ventral auditory area, layer 5
+
+[Term]
+id: MBA:1024
+name: grooves
+
+[Term]
+id: MBA:1025
+name: Paramedian lobule
+synonym: "gracile lobule" EXACT []
+synonym: "hemispheric lobule VIIBii" EXACT []
+synonym: "lobule VIIIB (pyramis and biventral lobule, posterior part)" EXACT []
+synonym: "lobulus gracilis" EXACT []
+synonym: "lobulus paramedianus [hVIIb]" EXACT []
+synonym: "lobulus paramedianus" EXACT []
+synonym: "paramedian 1 (hVII)" EXACT []
+synonym: "paramedian lobule [h vii b]" EXACT []
+synonym: "paramedian lobule [HVIIB]" EXACT []
+synonym: "paramedian lobule [hVIIIb]" EXACT []
+
+[Term]
+id: MBA:1026
+name: Primary somatosensory area, upper limb, layer 6b
+
+[Term]
+id: MBA:1027
+name: Posterior auditory area
+
+[Term]
+id: MBA:1028
+name: corticospinal tract, uncrossed
+synonym: "anterior corticospinal tract" EXACT []
+synonym: "anterior pyramidal tract" EXACT []
+synonym: "anterior tract of turck" EXACT []
+synonym: "bundle of Turck" EXACT []
+synonym: "column of Turck" EXACT []
+synonym: "corticospinal tract, uncrossed" EXACT []
+
+[Term]
+id: MBA:1029
+name: Posterior limiting nucleus of the thalamus
+
+[Term]
+id: MBA:103
+name: Paraventricular hypothalamic nucleus, magnocellular division, posterior magnocellular part
+synonym: "paraventricular nucleus of the hypothalamus magnocellular division - posterior magnocellular part" EXACT []
+
+[Term]
+id: MBA:1030
+name: Primary somatosensory area, lower limb, layer 1
+
+[Term]
+id: MBA:1031
+name: Globus pallidus, internal segment
+synonym: "entopeduncular nucleus (monakow)" EXACT []
+synonym: "globus pallidus interna" EXACT []
+synonym: "globus pallidus internal segment" EXACT []
+synonym: "globus pallidus internus" EXACT []
+synonym: "globus pallidus medial segment" EXACT []
+synonym: "globus pallidus medialis" EXACT []
+synonym: "globus pallidus, medial segment" EXACT []
+synonym: "internal globus pallidus" EXACT []
+synonym: "internal pallidum" EXACT []
+synonym: "internal part of globus pallidus" EXACT []
+synonym: "medial pallidal segment" EXACT []
+synonym: "medial part of globus pallidus" EXACT []
+synonym: "medial segment of globus pallidus" EXACT []
+synonym: "mesial pallidum" EXACT []
+synonym: "pallidus I" EXACT []
+synonym: "pars medialis globi pallidi" EXACT []
+
+[Term]
+id: MBA:1032
+name: grooves of the cerebral cortex
+
+[Term]
+id: MBA:1033
+name: Copula pyramidis
+
+[Term]
+id: MBA:1034
+name: Taenia tecta, dorsal part, layer 1
+
+[Term]
+id: MBA:1035
+name: Supplemental somatosensory area, layer 4
+
+[Term]
+id: MBA:1036
+name: corticotectal tract
+synonym: "corticotectal fibers" EXACT []
+synonym: "corticotectal fibres" EXACT []
+synonym: "fibrae corticotectales" EXACT []
+
+[Term]
+id: MBA:1037
+name: Postsubiculum
+
+[Term]
+id: MBA:1038
+name: Primary somatosensory area, barrel field, layer 6a
+
+[Term]
+id: MBA:1039
+name: Gracile nucleus
+synonym: "Goll's nucleus" EXACT []
+synonym: "golls nucleus" EXACT []
+synonym: "nucleus gracilis" EXACT []
+
+[Term]
+id: MBA:104
+name: Agranular insular area, dorsal part
+
+[Term]
+id: MBA:1040
+name: grooves of the cerebellar cortex
+
+[Term]
+id: MBA:1041
+name: Paraflocculus
+synonym: "cerebellar tonsil" EXACT []
+synonym: "hemispheric lobule IX" EXACT []
+synonym: "neuraxis paraflocculus" EXACT []
+synonym: "parafloccular lobule of cerebellum" EXACT []
+synonym: "paraflocculus of cerebellum" EXACT []
+synonym: "tonsil (HXI)" EXACT []
+synonym: "tonsilla" EXACT []
+
+[Term]
+id: MBA:1042
+name: Taenia tecta, dorsal part, layer 2
+
+[Term]
+id: MBA:1043
+name: crossed tectospinal pathway
+
+[Term]
+id: MBA:1044
+name: Peripeduncular nucleus
+synonym: "peripeduncular nucleus of pons" EXACT []
+
+[Term]
+id: MBA:1045
+name: Ectorhinal area/Layer 6b
+
+[Term]
+id: MBA:1046
+name: Anteromedial visual area, layer 6a
+
+[Term]
+id: MBA:1047
+name: Primary somatosensory area, barrel field, layer 4
+
+[Term]
+id: MBA:1048
+name: Gigantocellular reticular nucleus
+synonym: "gigantocellular group" EXACT []
+synonym: "gigantocellular reticular nuclei" EXACT []
+synonym: "gigantocellular reticular nucleus" EXACT []
+synonym: "nucleus gigantocellularis" EXACT []
+
+[Term]
+id: MBA:1049
+name: Flocculus
+synonym: "flocculus of cerebellum" EXACT []
+synonym: "neuraxis flocculus" EXACT []
+
+[Term]
+id: MBA:105
+name: Superior olivary complex, medial part
+synonym: "chief nucleus of superior olive" EXACT []
+synonym: "chief superior olivary nucleus" EXACT []
+synonym: "main superior olivary nucleus" EXACT []
+synonym: "medial superior olive" EXACT []
+synonym: "principal superior olivary nucleus" EXACT []
+synonym: "superior olivary nucleus, medial part" EXACT []
+synonym: "superior olive medial part" EXACT []
+
+[Term]
+id: MBA:1050
+name: Taenia tecta, dorsal part, layer 3
+
+[Term]
+id: MBA:1051
+name: direct tectospinal pathway
+
+[Term]
+id: MBA:1052
+name: Pedunculopontine nucleus
+synonym: "peduncular pontine nucleus" EXACT []
+synonym: "pedunculopontine nucleus" EXACT []
+
+[Term]
+id: MBA:1053
+name: Anterior cingulate area, layer 2/3
+
+[Term]
+id: MBA:1054
+name: Infralimbic area, layer 6a
+
+[Term]
+id: MBA:1055
+name: endorhinal groove
+
+[Term]
+id: MBA:1056
+name: Crus 1
+synonym: "crus I of the ansiform lobule (HVII)" EXACT []
+synonym: "crus primum lobuli ansiformis cerebelli [h vii a]" EXACT []
+synonym: "first crus of ansiform lobule of cerebellum [hVIIa]" EXACT []
+synonym: "hemispheric lobule viia" EXACT []
+synonym: "lobulus ansiform crus I" EXACT []
+synonym: "lobulus semilunaris superior cerebelli" EXACT []
+synonym: "lobulus semilunaris superior" EXACT []
+synonym: "posterior superior lobule" EXACT []
+synonym: "semilunar lobule-2 (superior)" EXACT []
+synonym: "superior semilunar lobule of cerebellum" EXACT []
+synonym: "superior semilunar lobule" EXACT []
+
+[Term]
+id: MBA:1057
+name: Gustatory areas
+
+[Term]
+id: MBA:1058
+name: Visceral area, layer 5
+
+[Term]
+id: MBA:1059
+name: Taenia tecta, dorsal part, layer 4
+
+[Term]
+id: MBA:106
+name: Inferior salivatory nucleus
+synonym: "inferior salivary nucleus" EXACT []
+synonym: "inferior salivatary nucleus" EXACT []
+
+[Term]
+id: MBA:1060
+name: doral tegmental decussation
+
+[Term]
+id: MBA:1061
+name: Posterior pretectal nucleus
+
+[Term]
+id: MBA:1062
+name: Primary somatosensory area, barrel field, layer 6b
+
+[Term]
+id: MBA:1063
+name: hippocampal fissure
+synonym: "dentate fissure" EXACT []
+synonym: "hippocampal fissure" EXACT []
+synonym: "sulcus hippocampi" EXACT []
+
+[Term]
+id: MBA:1064
+name: Crus 2
+synonym: "crus II of the ansiform lobule (HVII)" EXACT []
+synonym: "crus secundum lobuli ansiformis cerebelli [h vii a" EXACT []
+synonym: "hemispheric lobule viibi" EXACT []
+synonym: "inferior semilunar lobule of cerebellum" EXACT []
+synonym: "inferior semilunar lobule" EXACT []
+synonym: "lobulus ansiform crus II" EXACT []
+synonym: "lobulus semilunaris inferior cerebelli" EXACT []
+synonym: "lobulus semilunaris inferior" EXACT []
+synonym: "posterior inferior lobule" EXACT []
+synonym: "second crus of ansiform lobule of cerebellum [hVIIa]" EXACT []
+synonym: "semilunar lobule-2 (inferior)" EXACT []
+
+[Term]
+id: MBA:1065
+name: Hindbrain
+
+[Term]
+id: MBA:1066
+name: Anteromedial visual area, layer 2/3
+
+[Term]
+id: MBA:1067
+name: Taenia tecta, ventral part, layer 1
+
+[Term]
+id: MBA:10671
+name: Median eminence
+synonym: "eminentia mediana hypothalami" EXACT []
+synonym: "median eminence of hypothalamus" EXACT []
+synonym: "median eminence of posterior lobe of pituitary gland" EXACT []
+synonym: "median eminence of tuber cinereum" EXACT []
+synonym: "median eminence" EXACT []
+
+[Term]
+id: MBA:10672
+name: Simple lobule, granular layer
+
+[Term]
+id: MBA:10673
+name: Simple lobule, Purkinje layer
+
+[Term]
+id: MBA:10674
+name: Simple lobule, molecular layer
+
+[Term]
+id: MBA:10675
+name: Crus 1, granular layer
+
+[Term]
+id: MBA:10676
+name: Crus 1, Purkinje layer
+
+[Term]
+id: MBA:10677
+name: Crus 1, molecular layer
+
+[Term]
+id: MBA:10678
+name: Crus 2, granular layer
+
+[Term]
+id: MBA:10679
+name: Crus 2, Purkinje layer
+
+[Term]
+id: MBA:1068
+name: dorsal thalamus related
+
+[Term]
+id: MBA:10680
+name: Crus 2, molecular layer
+
+[Term]
+id: MBA:10681
+name: Paramedian lobule, granular layer
+
+[Term]
+id: MBA:10682
+name: Paramedian lobule, Purkinje layer
+
+[Term]
+id: MBA:10683
+name: Paramedian lobule, molecular layer
+
+[Term]
+id: MBA:10684
+name: Copula pyramidis, granular layer
+
+[Term]
+id: MBA:10685
+name: Copula pyramidis, Purkinje layer
+
+[Term]
+id: MBA:10686
+name: Copula pyramidis, molecular layer
+
+[Term]
+id: MBA:10687
+name: Paraflocculus, granular layer
+
+[Term]
+id: MBA:10688
+name: Paraflocculus, Purkinje layer
+
+[Term]
+id: MBA:10689
+name: Paraflocculus, molecular layer
+
+[Term]
+id: MBA:1069
+name: Parapyramidal nucleus
+
+[Term]
+id: MBA:10690
+name: Flocculus, granular layer
+
+[Term]
+id: MBA:10691
+name: Flocculus, Purkinje layer
+
+[Term]
+id: MBA:10692
+name: Flocculus, molecular layer
+
+[Term]
+id: MBA:10693
+name: Parasubiculum, layer 1
+
+[Term]
+id: MBA:10694
+name: Parasubiculum, layer 2
+
+[Term]
+id: MBA:10695
+name: Parasubiculum, layer 3
+
+[Term]
+id: MBA:10696
+name: Postsubiculum, layer 1
+
+[Term]
+id: MBA:10697
+name: Postsubiculum, layer 2
+
+[Term]
+id: MBA:10698
+name: Postsubiculum, layer 3
+
+[Term]
+id: MBA:10699
+name: Presubiculum, layer 1
+
+[Term]
+id: MBA:107
+name: Somatomotor areas, Layer 1
+
+[Term]
+id: MBA:1070
+name: Primary somatosensory area, barrel field, layer 5
+
+[Term]
+id: MBA:10700
+name: Presubiculum, layer 2
+
+[Term]
+id: MBA:10701
+name: Presubiculum, layer 3
+
+[Term]
+id: MBA:10702
+name: Dentate gyrus, subgranular zone
+synonym: "subgranular zone of dentate gyrus" EXACT []
+synonym: "subgranular zone" EXACT []
+
+[Term]
+id: MBA:10703
+name: Dentate gyrus, molecular layer
+synonym: "dentate gyrus molecular layer" EXACT []
+synonym: "molecular layer of dentate gyrus" EXACT []
+synonym: "stratum moleculare gyri dentati" EXACT []
+
+[Term]
+id: MBA:10704
+name: Dentate gyrus, polymorph layer
+
+[Term]
+id: MBA:10705
+name: Lingula (I), granular layer
+
+[Term]
+id: MBA:10706
+name: Lingula (I), Purkinje layer
+
+[Term]
+id: MBA:10707
+name: Lingula (I), molecular layer
+
+[Term]
+id: MBA:10708
+name: Lobule II, granular layer
+
+[Term]
+id: MBA:10709
+name: Lobule II, Purkinje layer
+
+[Term]
+id: MBA:1071
+name: rhinal fissure
+synonym: "fissura rhinalis" EXACT []
+synonym: "rhinal fissuer (turner, rezius)" EXACT []
+synonym: "rhinal fissure" EXACT []
+synonym: "sulcus rhinalis" EXACT []
+
+[Term]
+id: MBA:10710
+name: Lobule II, molecular layer
+
+[Term]
+id: MBA:10711
+name: Lobule III, granular layer
+
+[Term]
+id: MBA:10712
+name: Lobule III, Purkinje layer
+
+[Term]
+id: MBA:10713
+name: Lobule III, molecular layer
+
+[Term]
+id: MBA:10714
+name: Lobule IV, granular layer
+
+[Term]
+id: MBA:10715
+name: Lobule IV, Purkinje layer
+
+[Term]
+id: MBA:10716
+name: Lobule IV, molecular layer
+
+[Term]
+id: MBA:10717
+name: Lobule V, granular layer
+
+[Term]
+id: MBA:10718
+name: Lobule V, Purkinje layer
+
+[Term]
+id: MBA:10719
+name: Lobule V, molecular layer
+
+[Term]
+id: MBA:1072
+name: Medial geniculate complex, dorsal part
+synonym: "dorsal nucleus of medial geniculate complex" EXACT []
+synonym: "medial geniculate complex, dorsal part" EXACT []
+synonym: "medial geniculate nucleus, dorsal part" EXACT []
+synonym: "nucleus corporis geniculati medialis, pars dorsalis" EXACT []
+synonym: "nucleus dorsalis corporis geniculati medialis" EXACT []
+synonym: "nucleus geniculatus medialis fibrosus (hassler)" EXACT []
+synonym: "nucleus geniculatus medialis pars dorsalis" EXACT []
+
+[Term]
+id: MBA:10720
+name: Lobules IV-V, granular layer
+
+[Term]
+id: MBA:10721
+name: Lobules IV-V, Purkinje layer
+
+[Term]
+id: MBA:10722
+name: Lobules IV-V, molecular layer
+
+[Term]
+id: MBA:10723
+name: Declive (VI), granular layer
+
+[Term]
+id: MBA:10724
+name: Declive (VI), Purkinje layer
+
+[Term]
+id: MBA:10725
+name: Declive (VI), molecular layer
+
+[Term]
+id: MBA:10726
+name: Folium-tuber vermis (VII), granular layer
+
+[Term]
+id: MBA:10727
+name: Folium-tuber vermis (VII), Purkinje layer
+
+[Term]
+id: MBA:10728
+name: Folium-tuber vermis (VII), molecular layer
+
+[Term]
+id: MBA:10729
+name: Pyramus (VIII), granular layer
+
+[Term]
+id: MBA:1073
+name: Hemispheric regions
+synonym: "cerebellar hemisphere" EXACT []
+synonym: "cerebellum hemisphere" EXACT []
+synonym: "hemisphere of cerebellum [H II - H X]" EXACT []
+synonym: "hemisphere of cerebellum" EXACT []
+synonym: "hemispherium cerebelli [H II - H X]" EXACT []
+synonym: "hemispherium cerebelli [hII-hX]" EXACT []
+
+[Term]
+id: MBA:10730
+name: Pyramus (VIII), Purkinje layer
+
+[Term]
+id: MBA:10731
+name: Pyramus (VIII), molecular layer
+
+[Term]
+id: MBA:10732
+name: Uvula (IX), granular layer
+
+[Term]
+id: MBA:10733
+name: Uvula (IX), Purkinje layer
+
+[Term]
+id: MBA:10734
+name: Uvula (IX), molecular layer
+
+[Term]
+id: MBA:10735
+name: Nodulus (X), granular layer
+
+[Term]
+id: MBA:10736
+name: Nodulus (X), Purkinje layer
+
+[Term]
+id: MBA:10737
+name: Nodulus (X), molecular layer
+
+[Term]
+id: MBA:1074
+name: Anterolateral visual area, layer 1
+
+[Term]
+id: MBA:1075
+name: Taenia tecta, ventral part, layer 2
+
+[Term]
+id: MBA:1076
+name: efferent cochleovestibular bundle
+
+[Term]
+id: MBA:1077
+name: Perireunensis nucleus
+
+[Term]
+id: MBA:1078
+name: rhinal incisure
+synonym: "riMLF" EXACT []
+synonym: "rostral interstitial nucleus of MLF" EXACT []
+
+[Term]
+id: MBA:1079
+name: Medial geniculate complex, ventral part
+synonym: "medial geniculate complex, ventral part" EXACT []
+synonym: "medial geniculate nucleus, ventral part" EXACT []
+synonym: "medial nucleus of medial geniculate complex" EXACT []
+synonym: "nucleus corporis geniculati medialis, pars ventralis" EXACT []
+synonym: "nucleus geniculatus medialis fasciculosis (Hassler)" EXACT []
+synonym: "nucleus geniculatus medialis fasciculosus (hassler)" EXACT []
+synonym: "nucleus geniculatus medialis pars ventralis" EXACT []
+synonym: "nucleus ventralis corporis geniculati medialis" EXACT []
+synonym: "ventral nucleus of medial geniculate complex" EXACT []
+synonym: "ventral principal nucleus of medial geniculate body" EXACT []
+
+[Term]
+id: MBA:108
+name: choroid plexus
+synonym: "chorioid plexus" EXACT []
+synonym: "plexus choroideus" EXACT []
+
+[Term]
+id: MBA:1080
+name: Hippocampal region
+
+[Term]
+id: MBA:1081
+name: Infralimbic area, layer 6b
+
+[Term]
+id: MBA:1082
+name: Taenia tecta, ventral part, layer 3
+
+[Term]
+id: MBA:1083
+name: epithalamus related
+
+[Term]
+id: MBA:1084
+name: Presubiculum
+synonym: "presubicular cortex (presubiculum)" EXACT []
+synonym: "presubiculum (Cajal)" EXACT []
+
+[Term]
+id: MBA:1085
+name: Secondary motor area, layer 6b
+
+[Term]
+id: MBA:1086
+name: Primary somatosensory area, trunk, layer 4
+
+[Term]
+id: MBA:1087
+name: precentral fissure
+synonym: "fissura postlingualis cerebelli" EXACT []
+synonym: "fissura praecentralis" EXACT []
+synonym: "fissura precentralis cerebelli" EXACT []
+synonym: "post-lingual fissure of cerebellum" EXACT []
+synonym: "postlingual fissure" EXACT []
+synonym: "precentral fissure" EXACT []
+
+[Term]
+id: MBA:1088
+name: Medial geniculate complex, medial part
+synonym: "corpus geniculatus mediale, pars magnocelluaris" EXACT []
+synonym: "magnocelluar nucleus of medial geniculate complex" EXACT []
+synonym: "medial division of medial geniculate body" EXACT []
+synonym: "medial geniculate complex, medial part" EXACT []
+synonym: "medial geniculate nucleus, medial part" EXACT []
+synonym: "medial magnocellular nucleus of medial geniculate body" EXACT []
+synonym: "medial nucleus of medial geniculate body" EXACT []
+synonym: "nucleus corporis geniculati medialis, pars magnocelluaris" EXACT []
+synonym: "nucleus geniculatus medialis magnocelluaris (hassler)" EXACT []
+synonym: "nucleus geniculatus medialis, pars magnocelluaris" EXACT []
+
+[Term]
+id: MBA:1089
+name: Hippocampal formation
+synonym: "hippocampus (Crosby)" EXACT []
+synonym: "hippocampus" NARROW []
+
+[Term]
+id: MBA:109
+name: nigrothalamic fibers
+
+[Term]
+id: MBA:1090
+name: Supplemental somatosensory area, layer 5
+
+[Term]
+id: MBA:1091
+name: Lobules IV-V
+
+[Term]
+id: MBA:1092
+name: external medullary lamina of the thalamus
+synonym: "external medullary lamina" EXACT []
+synonym: "lamella medullaris externa" EXACT []
+synonym: "lamina medullaris externa thalami" EXACT []
+synonym: "lamina medullaris externa" EXACT []
+synonym: "lamina medullaris lateralis thalami" EXACT []
+synonym: "lamina medullaris thalami externa" EXACT []
+
+[Term]
+id: MBA:1093
+name: Pontine reticular nucleus, caudal part
+synonym: "pontine reticular nucleus, caudal part" EXACT []
+
+[Term]
+id: MBA:1094
+name: Primary somatosensory area, lower limb, layer 4
+
+[Term]
+id: MBA:1095
+name: preculminate fissure
+
+[Term]
+id: MBA:1096
+name: Anteromedial nucleus, dorsal part
+
+[Term]
+id: MBA:1097
+name: Hypothalamus
+synonym: "preoptico-hypothalamic area" EXACT []
+synonym: "preoptico-hypothalamic region" EXACT []
+
+[Term]
+id: MBA:1098
+name: Medullary reticular nucleus, dorsal part
+
+[Term]
+id: MBA:1099
+name: fornix system
+
+[Term]
+id: MBA:11
+name: posterolateral fissure
+synonym: "dorsolateral fissure of cerebellum" EXACT []
+synonym: "posterolateral fissure of cerebellum" EXACT []
+synonym: "prenodular fissure" EXACT []
+synonym: "prenodular sulcus" EXACT []
+synonym: "uvulonodular fissure" EXACT []
+
+[Term]
+id: MBA:110
+name: Paraventricular hypothalamic nucleus, parvicellular division, periventricular part
+
+[Term]
+id: MBA:1100
+name: Pretectal region
+synonym: "area pretectalis" EXACT []
+synonym: "nuclei pretectales" EXACT []
+synonym: "pretectal area" EXACT []
+synonym: "pretectal nuclei" EXACT []
+synonym: "pretectum" EXACT []
+
+[Term]
+id: MBA:1101
+name: Agranular insular area, dorsal part, layer 5
+
+[Term]
+id: MBA:1102
+name: Primary somatosensory area, mouth, layer 6a
+
+[Term]
+id: MBA:1103
+name: primary fissure
+synonym: "fissura preclivalis" EXACT []
+synonym: "fissura prima cerebelli" EXACT []
+synonym: "fissura prima" EXACT []
+synonym: "fissura superior anterior" EXACT []
+synonym: "preclival fissure" EXACT []
+synonym: "primary sulcus of cerebellum" EXACT []
+
+[Term]
+id: MBA:1104
+name: Anteromedial nucleus, ventral part
+
+[Term]
+id: MBA:1105
+name: Intercalated amygdalar nucleus
+synonym: "intercalated amygdaloid nuclei" EXACT []
+synonym: "intercalated amygdaloid nucleus" EXACT []
+synonym: "intercalated masses of nucleus amygdaloideus" EXACT []
+synonym: "intercalated nuclei of amygdala" EXACT []
+synonym: "intercalated nucleus of the amygdala" EXACT []
+synonym: "massa intercalata of amygdala" EXACT []
+synonym: "massa intercalata" EXACT []
+
+[Term]
+id: MBA:1106
+name: Visceral area, layer 2/3
+
+[Term]
+id: MBA:1107
+name: Medullary reticular nucleus, ventral part
+
+[Term]
+id: MBA:1108
+name: genu of corpus callosum
+synonym: "corpus callosum genu" EXACT []
+
+[Term]
+id: MBA:1109
+name: Parastrial nucleus
+
+[Term]
+id: MBA:111
+name: Agranular insular area, posterior part
+
+[Term]
+id: MBA:1110
+name: Supramammillary nucleus, lateral part
+
+[Term]
+id: MBA:1111
+name: Primary somatosensory area, trunk, layer 5
+
+[Term]
+id: MBA:1112
+name: posterior superior fissure
+synonym: "fissura post clivalis" EXACT []
+synonym: "post-clival fissure" EXACT []
+synonym: "postclival fissure" EXACT []
+synonym: "posterior superior fissure of cerebellum" EXACT []
+synonym: "postlunate fissure" EXACT []
+synonym: "superior posterior cerebellar fissure" EXACT []
+
+[Term]
+id: MBA:1113
+name: Interanterodorsal nucleus of the thalamus
+
+[Term]
+id: MBA:1114
+name: Anterolateral visual area, layer 4
+
+[Term]
+id: MBA:1116
+name: genu of the facial nerve
+synonym: "genu nervi facialis" EXACT []
+synonym: "internal genu of facial nerve" NARROW []
+
+[Term]
+id: MBA:1117
+name: Pons, behavioral state related
+
+[Term]
+id: MBA:1118
+name: Supramammillary nucleus, medial part
+
+[Term]
+id: MBA:1119
+name: prepyramidal fissure
+synonym: "fissura inferior anterior" EXACT []
+synonym: "fissura parafloccularis" EXACT []
+synonym: "fissura praepyramidalis" EXACT []
+synonym: "fissura prebiventralis cerebelli" EXACT []
+synonym: "fissura prepyramidalis cerebelli" EXACT []
+synonym: "fissura prepyramidalis" EXACT []
+synonym: "prebiventral fissure of cerebellum" EXACT []
+synonym: "prepyramidal fissure of cerebellum" EXACT []
+synonym: "prepyramidal sulcus" EXACT []
+
+[Term]
+id: MBA:112
+name: Granular lamina of the cochlear nuclei
+
+[Term]
+id: MBA:1120
+name: Interanteromedial nucleus of the thalamus
+
+[Term]
+id: MBA:1121
+name: Entorhinal area, lateral part, layer 1
+
+[Term]
+id: MBA:1123
+name: inferior cerebellar peduncle
+synonym: "corpus restiforme" EXACT []
+synonym: "restiform body" EXACT []
+
+[Term]
+id: MBA:1124
+name: Suprachiasmatic preoptic nucleus
+
+[Term]
+id: MBA:1125
+name: Orbital area, ventrolateral part, layer 5
+
+[Term]
+id: MBA:1126
+name: Tuberomammillary nucleus, dorsal part
+synonym: "tuberomammillary nucleus dorsal part" EXACT []
+
+[Term]
+id: MBA:1127
+name: Temporal association areas, layer 2/3
+
+[Term]
+id: MBA:1128
+name: Primary somatosensory area, lower limb, layer 5
+
+[Term]
+id: MBA:1129
+name: Interbrain
+synonym: "between brain" EXACT []
+synonym: "interbrain" EXACT []
+synonym: "mature diencephalon" EXACT []
+synonym: "thalamencephalon" EXACT []
+
+[Term]
+id: MBA:113
+name: Primary somatosensory area, lower limb, layer 2/3
+
+[Term]
+id: MBA:1131
+name: intermediate nerve
+synonym: "sensory component of the VIIth (facial) nerve" EXACT []
+
+[Term]
+id: MBA:1132
+name: Pons, sensory related
+
+[Term]
+id: MBA:1133
+name: Entorhinal area, medial part, ventral zone, layer 5/6
+
+[Term]
+id: MBA:1139
+name: Nucleus of the lateral olfactory tract, layer 3
+
+[Term]
+id: MBA:114
+name: Superior olivary complex, lateral part
+synonym: "accessory olivary nucleus" EXACT []
+synonym: "accessory superior olivary nucleus" EXACT []
+synonym: "accessory superior olive" EXACT []
+synonym: "lateral superior olive" EXACT []
+synonym: "LSON" EXACT []
+synonym: "superior olivary nucleus, lateral part" EXACT []
+synonym: "superior olive lateral part" EXACT []
+
+[Term]
+id: MBA:1140
+name: Postpiriform transition area, layers 1
+
+[Term]
+id: MBA:1141
+name: Postpiriform transition area, layers 2
+
+[Term]
+id: MBA:1142
+name: Postpiriform transition area, layers 3
+
+[Term]
+id: MBA:1143
+name: Cerebellar cortex, granular layer
+synonym: "cerebellar granular layer" EXACT []
+synonym: "cerebellar granule cell layer" EXACT []
+synonym: "cerebellar granule layer" EXACT []
+synonym: "cerebellum granule cell layer" EXACT []
+synonym: "cerebellum granule layer" EXACT []
+synonym: "granule cell layer of cerebellar cortex" EXACT []
+synonym: "stratum granulosum cerebelli" EXACT []
+synonym: "stratum granulosum corticis cerebelli" EXACT []
+
+[Term]
+id: MBA:1144
+name: Cerebellar cortex, molecular layer
+synonym: "cerebellar molecular layer" EXACT []
+synonym: "cerebellum molecular cell layer" EXACT []
+synonym: "cerebellum molecular layer" EXACT []
+synonym: "stratum moleculare corticis cerebelli" EXACT []
+
+[Term]
+id: MBA:1145
+name: Cerebellar cortex, Purkinje layer
+synonym: "cerebellar Purkinje cell layer" EXACT []
+synonym: "cerebellum Purkinje cell layer" EXACT []
+synonym: "cerebellum Purkinje layer" EXACT []
+synonym: "Purkinje cell layer" EXACT []
+
+[Term]
+id: MBA:115
+name: Trochlear nucleus
+synonym: "fourth cranial nerve nucleus" EXACT []
+synonym: "motor nucleus IV" EXACT []
+synonym: "nIV" EXACT []
+synonym: "nucleus nervi trochlearis" EXACT []
+synonym: "nucleus of trochlear nerve" EXACT []
+synonym: "trochlear IV nucleus" EXACT []
+synonym: "trochlear motor nucleus" EXACT []
+
+[Term]
+id: MBA:116
+name: choroid fissure
+synonym: "choroidal fissure of lateral ventricle" EXACT []
+synonym: "lateral ventricle choroid fissure" EXACT []
+synonym: "ventricular system choroid fissure" EXACT []
+
+[Term]
+id: MBA:117
+name: optic chiasm
+synonym: "chiasma opticum" EXACT []
+synonym: "decussation of optic nerve fibers" EXACT []
+synonym: "optic chiasm" EXACT []
+
+[Term]
+id: MBA:118
+name: Periventricular hypothalamic nucleus, intermediate part
+synonym: "hPe" EXACT []
+synonym: "intermediate periventricular nucleus of hypothalamus" EXACT []
+synonym: "periventricular nucleus at the tuberal level" EXACT []
+
+[Term]
+id: MBA:119
+name: Agranular insular area, ventral part
+
+[Term]
+id: MBA:12
+name: Interfascicular nucleus raphe
+
+[Term]
+id: MBA:120
+name: Agranular insular area, posterior part, layer 1
+
+[Term]
+id: MBA:121
+name: Lateral visual area, layer 6b
+
+[Term]
+id: MBA:122
+name: Superior olivary complex, periolivary region
+synonym: "nuclei periolivares" EXACT []
+synonym: "peri-olivary nuclei" EXACT []
+synonym: "peri-olivary nucleus" EXACT []
+
+[Term]
+id: MBA:123
+name: Koelliker-Fuse subnucleus
+
+[Term]
+id: MBA:124
+name: interventricular foramen
+synonym: "foramen interventriculare" EXACT []
+synonym: "foramen Monroi" EXACT []
+synonym: "interventricular foramen" EXACT []
+synonym: "interventricular foramina" EXACT []
+
+[Term]
+id: MBA:125
+name: optic tract
+synonym: "optic lemniscus" EXACT []
+
+[Term]
+id: MBA:126
+name: Periventricular hypothalamic nucleus, posterior part
+synonym: "griseum periventriculare hypothalami" EXACT []
+synonym: "nucleus periventricularis posterior" EXACT []
+synonym: "periventricular hypothalamic nucleus, posterior part" EXACT []
+synonym: "periventricular nucleus, posterior subdivision" EXACT []
+synonym: "posterior paraventricular nucleus" EXACT []
+synonym: "posterior periventricular hypothalamic nucleus" EXACT []
+synonym: "posterior periventricular nucleus of hypothalamus" EXACT []
+synonym: "posterior periventricular nucleus of the hypothalamus" EXACT []
+synonym: "posterior periventricular nucleus" EXACT []
+
+[Term]
+id: MBA:127
+name: Anteromedial nucleus
+synonym: "anteromedial nucleus of the thalamus" EXACT []
+synonym: "anteromedial nucleus" EXACT []
+synonym: "anteromedial thalamic nucleus" EXACT []
+synonym: "nucleus anterior medialis thalami" EXACT []
+synonym: "nucleus anterior medialis" EXACT []
+synonym: "nucleus anterior thalami medialis" EXACT []
+synonym: "nucleus anteromedialis (hassler)" EXACT []
+synonym: "nucleus anteromedialis thalami" EXACT []
+synonym: "nucleus thalamicus anteromedialis" EXACT []
+
+[Term]
+id: MBA:128
+name: Midbrain reticular nucleus
+synonym: "midbrain reticular formation nucleus" EXACT []
+synonym: "midbrain reticular nucleus" EXACT []
+
+[Term]
+id: MBA:129
+name: third ventricle
+synonym: "3rd ventricle" EXACT []
+synonym: "diencephalic vesicle" NARROW []
+synonym: "ventriculus diencephali" EXACT []
+
+[Term]
+id: MBA:12993
+name: Somatosensory areas, layer 1
+
+[Term]
+id: MBA:12994
+name: Somatosensory areas, layer 2/3
+
+[Term]
+id: MBA:12995
+name: Somatosensory areas, layer 4
+
+[Term]
+id: MBA:12996
+name: Somatosensory areas, layer 5
+
+[Term]
+id: MBA:12997
+name: Somatosensory areas, layer 6a
+
+[Term]
+id: MBA:12998
+name: Somatosensory areas, layer 6b
+
+[Term]
+id: MBA:130
+name: Superior central nucleus raphe, medial part
+
+[Term]
+id: MBA:131
+name: Lateral amygdalar nucleus
+synonym: "lateral nucleus of amygdala" EXACT []
+synonym: "lateral principal nucleus of amygdala" EXACT []
+
+[Term]
+id: MBA:132
+name: Prelimbic area, layer 6b
+
+[Term]
+id: MBA:133
+name: Periventricular hypothalamic nucleus, preoptic part
+synonym: "nucleus preopticus periventricularis" EXACT []
+synonym: "periventricular preoptic nucleus" EXACT []
+synonym: "preoptic periventricular hypothalamic nucleus" EXACT []
+
+[Term]
+id: MBA:134
+name: pallidotegmental fascicle
+synonym: "pallidotegmental tract" EXACT []
+
+[Term]
+id: MBA:135
+name: Nucleus ambiguus
+synonym: "ambiguus nucleus" EXACT []
+
+[Term]
+id: MBA:136
+name: Intermediate reticular nucleus
+
+[Term]
+id: MBA:137
+name: Superior central nucleus raphe, lateral part
+
+[Term]
+id: MBA:138
+name: Lateral group of the dorsal thalamus
+synonym: "lateral group of nuclei" EXACT []
+synonym: "lateral group of the dorsal thalamus" EXACT []
+synonym: "lateral nuclear group of dorsal thalamus" EXACT []
+synonym: "lateral nuclear group of thalamus" EXACT []
+synonym: "lateral nuclear group" EXACT []
+synonym: "lateral nucleus of thalamus" EXACT []
+synonym: "lateral thalamic group" EXACT []
+synonym: "lateral thalamic nuclei" EXACT []
+synonym: "lateral thalamic nucleus" EXACT []
+synonym: "nuclei laterales thalami" EXACT []
+synonym: "nucleus lateralis thalami" EXACT []
+
+[Term]
+id: MBA:139
+name: Entorhinal area, lateral part, layer 5
+
+[Term]
+id: MBA:14
+name: internal medullary lamina of the thalamus
+synonym: "envelope (involucrum medial) (Hassler)" EXACT []
+synonym: "internal medullary lamina of thalamus" EXACT []
+synonym: "internal medullary lamina" EXACT []
+synonym: "lamina medullaris interna thalami" EXACT []
+synonym: "lamina medullaris interna" EXACT []
+synonym: "lamina medullaris medialis thalami" EXACT []
+synonym: "lamina medullaris thalami interna" EXACT []
+
+[Term]
+id: MBA:140
+name: cerebral aqueduct
+synonym: "aqueduct (Sylvius)" EXACT []
+synonym: "aqueduct of midbrain" EXACT []
+synonym: "aqueduct of Sylvius" EXACT []
+synonym: "aqueductus mesencephali" EXACT []
+synonym: "cerebral aquaduct" EXACT []
+synonym: "cerebral aqueduct of Sylvius" EXACT []
+synonym: "cerebral aqueduct" EXACT []
+synonym: "medial tectal ventricle" EXACT []
+synonym: "mesencephalic duct" EXACT []
+synonym: "mesencephalic ventricle" EXACT []
+synonym: "midbrain cerebral aqueduct" EXACT []
+synonym: "midbrain ventricle" EXACT []
+synonym: "Sylvian aqueduct" EXACT []
+synonym: "tectal ventricle" EXACT []
+
+[Term]
+id: MBA:141
+name: Periventricular region
+
+[Term]
+id: MBA:142
+name: pallidothalmic pathway
+
+[Term]
+id: MBA:143
+name: Nucleus ambiguus, ventral division
+
+[Term]
+id: MBA:144
+name: Olfactory tubercle, layers 1-3
+
+[Term]
+id: MBA:145
+name: fourth ventricle
+synonym: "rhombencephalic vesicle" NARROW []
+synonym: "ventricle IV" EXACT []
+
+[Term]
+id: MBA:146
+name: Pontine reticular nucleus
+synonym: "pontine reticular formation nucleus" EXACT []
+
+[Term]
+id: MBA:147
+name: Locus ceruleus
+synonym: "blue nucleus" EXACT []
+synonym: "caerulean nucleus" EXACT []
+synonym: "locus caeruleus" EXACT []
+synonym: "locus coeruleu" EXACT []
+synonym: "locus coeruleus" EXACT []
+synonym: "nucleus caeruleus" EXACT []
+synonym: "nucleus of locus caeruleus" EXACT []
+synonym: "nucleus pigmentosus pontis" EXACT []
+synonym: "substantia ferruginea" EXACT []
+
+[Term]
+id: MBA:148
+name: Gustatory areas, layer 4
+
+[Term]
+id: MBA:149
+name: Paraventricular nucleus of the thalamus
+synonym: "nuclei paraventriculares thalami" EXACT []
+synonym: "paraventricular gray" EXACT []
+synonym: "paraventricular nuclei of thalamus" EXACT []
+synonym: "paraventricular thalamic nucleus" EXACT []
+
+[Term]
+id: MBA:15
+name: Parataenial nucleus
+synonym: "nucleus parataenialis" EXACT []
+synonym: "parataenial nucleus" EXACT []
+synonym: "paratenial thalamic nucleus" EXACT []
+
+[Term]
+id: MBA:150
+name: periventricular bundle of the hypothalamus
+
+[Term]
+id: MBA:151
+name: Accessory olfactory bulb
+synonym: "accessory (vomeronasal) bulb" EXACT []
+synonym: "olfactory bulb accessory nucleus" EXACT []
+
+[Term]
+id: MBA:152
+name: Piriform area, layers 1-3
+
+[Term]
+id: MBA:153
+name: lateral recess
+synonym: "recessus lateralis (ventriculi quarti)" EXACT []
+
+[Term]
+id: MBA:154
+name: Perihypoglossal nuclei
+
+[Term]
+id: MBA:155
+name: Lateral dorsal nucleus of thalamus
+synonym: "dorsal thalamus, lateral group" EXACT []
+synonym: "lateral dorsal nucleus of thalamus" EXACT []
+synonym: "lateral dorsal thalamic nucleus" EXACT []
+synonym: "laterodorsal nucleus nucleus of thalamus" EXACT []
+synonym: "laterodorsal nucleus thalamic nucleus" EXACT []
+synonym: "laterodorsal nucleus, superficial part" EXACT []
+synonym: "laterodorsal thalamic nucleus" EXACT []
+synonym: "nucleus dorsalis lateralis thalami" EXACT []
+synonym: "nucleus dorsalis superficialis (hassler)" EXACT []
+synonym: "nucleus dorsolateralis thalami" EXACT []
+synonym: "nucleus lateralis dorsalis of thalamus" EXACT []
+synonym: "nucleus lateralis dorsalis thalami" EXACT []
+synonym: "nucleus lateralis dorsalis" EXACT []
+synonym: "nucleus lateralis thalami dorsalis" EXACT []
+
+[Term]
+id: MBA:156
+name: Dorsal auditory area, layer 6a
+
+[Term]
+id: MBA:157
+name: Periventricular zone
+synonym: "hypothalamus periventricular zone" EXACT []
+synonym: "zona periventricularis hypothalamicae" EXACT []
+
+[Term]
+id: MBA:158
+name: posterior commissure
+synonym: "caudal commissure" EXACT []
+synonym: "epithalamic commissure" EXACT []
+
+[Term]
+id: MBA:159
+name: Anterior olfactory nucleus
+synonym: "nucleus retrobulbaris [a8]" EXACT []
+synonym: "retrobulbar nucleus [a8]" EXACT []
+
+[Term]
+id: MBA:16
+name: Layer 6b, isocortex
+
+[Term]
+id: MBA:160
+name: Anterior olfactory nucleus, layer 1
+
+[Term]
+id: MBA:161
+name: Nucleus intercalatus
+synonym: "intercalated nucleus of medulla" EXACT []
+synonym: "nucleus intercalatus of medulla" EXACT []
+synonym: "nucleus of staderini" EXACT []
+synonym: "nucleus staderini" EXACT []
+
+[Term]
+id: MBA:162
+name: Laterodorsal tegmental nucleus
+synonym: "lateroposterior tegmental nucleus" EXACT []
+synonym: "nucleus tegmentalis posterolateralis" EXACT []
+
+[Term]
+id: MBA:163
+name: Agranular insular area, posterior part, layer 2/3
+
+[Term]
+id: MBA:164
+name: central canal, spinal cord/medulla
+synonym: "canalis centralis" EXACT []
+synonym: "central canal of spinal cord" EXACT []
+synonym: "central canal" EXACT []
+synonym: "spinal cord central canal" EXACT []
+synonym: "ventricle of spinal cord" EXACT []
+
+[Term]
+id: MBA:165
+name: Midbrain raphe nuclei
+synonym: "midbrain raphe nuclei" EXACT []
+synonym: "midbrain raphe" EXACT []
+synonym: "nuclei raphes tegmenti mesencephali" EXACT []
+synonym: "raphe nuclei of tegmentum of midbrain" EXACT []
+synonym: "set of raphe nuclei of tegmentum of midbrain" EXACT []
+
+[Term]
+id: MBA:166
+name: premammillary commissure
+
+[Term]
+id: MBA:167
+name: Anterior olfactory nucleus, dorsal part
+
+[Term]
+id: MBA:168
+name: Anterior olfactory nucleus, layer 2
+
+[Term]
+id: MBA:169
+name: Nucleus prepositus
+synonym: "nucleus praepositus" EXACT []
+synonym: "prepositus hypoglossal nucleus" EXACT []
+synonym: "prepositus nucleus" EXACT []
+
+[Term]
+id: MBA:17
+name: Superior colliculus, motor related, intermediate white layer
+
+[Term]
+id: MBA:170
+name: Dorsal part of the lateral geniculate complex
+synonym: "lateral geniculate complex, dorsal part" EXACT []
+synonym: "lateral geniculate nucleus, dorsal part" EXACT []
+synonym: "nucleus dorsalis corporis geniculati lateralis" EXACT []
+synonym: "nucleus geniculatus lateralis pars dorsalis" EXACT []
+
+[Term]
+id: MBA:171
+name: Prelimbic area, layer 1
+
+[Term]
+id: MBA:173
+name: Retrochiasmatic area
+synonym: "retrochiasmatic region" EXACT []
+
+[Term]
+id: MBA:174
+name: preoptic commissure
+synonym: "POC" EXACT []
+synonym: "post optic commissure" EXACT []
+synonym: "post-optic commissure" EXACT []
+
+[Term]
+id: MBA:175
+name: Anterior olfactory nucleus, external part
+
+[Term]
+id: MBA:177
+name: Nucleus of Roller
+synonym: "nucleus of roller" EXACT []
+synonym: "Roller's nucleus" EXACT []
+
+[Term]
+id: MBA:178
+name: Ventral part of the lateral geniculate complex
+synonym: "corpus geniculatum externum, nucleus accessorius" EXACT []
+synonym: "corpus geniculatum laterale, pars oralis" EXACT []
+synonym: "dorsal_nucleus_of_lateral_geniculate_body" EXACT []
+synonym: "griseum praegeniculatum" EXACT []
+synonym: "lateral geniculate complex, ventral part (kolliker)" EXACT []
+synonym: "lateral geniculate complex, ventral part" EXACT []
+synonym: "lateral geniculate nucleus, ventral part" EXACT []
+synonym: "nucleus corporis geniculati lateralis, pars ventralis" EXACT []
+synonym: "nucleus praegeniculatus" EXACT []
+synonym: "nucleus pregeniculatum" EXACT []
+synonym: "nucleus pregeniculatus" EXACT []
+synonym: "nucleus ventralis corporis geniculati lateralis" EXACT []
+synonym: "praegeniculatum" EXACT []
+synonym: "pregeniculate nucleus" EXACT []
+synonym: "ventral part of the lateral geniculate complex" EXACT []
+
+[Term]
+id: MBA:179
+name: Anterior cingulate area, layer 6a
+
+[Term]
+id: MBA:18
+name: nodular fissure
+
+[Term]
+id: MBA:180
+name: Gustatory areas, layer 2/3
+
+[Term]
+id: MBA:181
+name: Nucleus of reunions
+synonym: "medioventral nucleus" EXACT []
+synonym: "nucleus reuniens" EXACT []
+synonym: "reuniens thalamic nucleus" EXACT []
+
+[Term]
+id: MBA:182
+name: propriohypothalamic pathways
+
+[Term]
+id: MBA:182305689
+name: Primary somatosensory area, unassigned
+
+[Term]
+id: MBA:182305693
+name: Primary somatosensory area, unassigned, layer 1
+
+[Term]
+id: MBA:182305697
+name: Primary somatosensory area, unassigned, layer 2/3
+
+[Term]
+id: MBA:182305701
+name: Primary somatosensory area, unassigned, layer 4
+
+[Term]
+id: MBA:182305705
+name: Primary somatosensory area, unassigned, layer 5
+
+[Term]
+id: MBA:182305709
+name: Primary somatosensory area, unassigned, layer 6a
+
+[Term]
+id: MBA:182305713
+name: Primary somatosensory area, unassigned, layer 6b
+
+[Term]
+id: MBA:183
+name: Anterior olfactory nucleus, lateral part
+
+[Term]
+id: MBA:184
+name: Frontal pole, cerebral cortex
+synonym: "polus frontalis" EXACT []
+
+[Term]
+id: MBA:185
+name: Parapyramidal nucleus, deep part
+
+[Term]
+id: MBA:186
+name: Lateral habenula
+synonym: "lateral habenula" EXACT []
+synonym: "nucleus habenulae lateralis" EXACT []
+synonym: "nucleus habenularis lateralis epithalami" EXACT []
+synonym: "nucleus habenularis lateralis" EXACT []
+
+[Term]
+id: MBA:187
+name: Gustatory areas, layer 5
+
+[Term]
+id: MBA:188
+name: Accessory olfactory bulb, glomerular layer
+synonym: "accessory olfactory bulb, glomerular layer" EXACT []
+synonym: "AOB, glomerular layer" EXACT []
+
+[Term]
+id: MBA:189
+name: Rhomboid nucleus
+synonym: "rhomboid nucleus" EXACT []
+synonym: "rhomboid thalamic nucleus" EXACT []
+
+[Term]
+id: MBA:19
+name: Induseum griseum
+synonym: "indusium griseum" EXACT []
+
+[Term]
+id: MBA:190
+name: pyramid
+synonym: "corticospinal fibers" EXACT []
+synonym: "fasciculus cerebro-spinalis" EXACT []
+synonym: "fasciculus pyramidalis" EXACT []
+synonym: "fibrae corticospinales" EXACT []
+synonym: "pyramid (Willis)" EXACT []
+synonym: "tractus cortico-spinalis" EXACT []
+synonym: "tractus corticospinalis" EXACT []
+synonym: "tractus pyramidalis" EXACT []
+
+[Term]
+id: MBA:191
+name: Anterior olfactory nucleus, medial part
+
+[Term]
+id: MBA:192
+name: Cortical amygdalar area, anterior part, layer 1
+
+[Term]
+id: MBA:193
+name: Parapyramidal nucleus, superficial part
+
+[Term]
+id: MBA:194
+name: Lateral hypothalamic area
+synonym: "area hypothalamica lateralis" EXACT []
+synonym: "lateral division of hypothalamus" EXACT []
+synonym: "lateral group of hypothalamic nuclei" EXACT []
+synonym: "lateral hypothalamic group" EXACT []
+synonym: "lateral hypothalamic region" EXACT []
+synonym: "lateral hypothalamic zone (Crosby)" EXACT []
+
+[Term]
+id: MBA:195
+name: Prelimbic area, layer 2
+
+[Term]
+id: MBA:196
+name: Accessory olfactory bulb, granular layer
+synonym: "accessory olfactory bulb, granular layer" EXACT []
+synonym: "AOB, granular layer" EXACT []
+
+[Term]
+id: MBA:197
+name: Rostral linear nucleus raphe
+synonym: "anterior linear nucleus" EXACT []
+synonym: "RLi" EXACT []
+
+[Term]
+id: MBA:198
+name: pyramidal decussation
+synonym: "corticospinal decussation" EXACT []
+synonym: "decussatio pyramidum medullae oblongatae" EXACT []
+synonym: "decussatio pyramidum" EXACT []
+synonym: "decussation of corticospinal tract" EXACT []
+synonym: "decussation of pyramidal tract fibers" EXACT []
+synonym: "decussation of pyramids of medulla" EXACT []
+synonym: "decussation of pyramids" EXACT []
+synonym: "decussation of the pyramidal tract" EXACT []
+synonym: "motor decussation of medulla" EXACT []
+synonym: "motor decussation" EXACT []
+synonym: "pyramidal decussation (pourfour du petit)" EXACT []
+synonym: "pyramidal tract decussation" EXACT []
+
+[Term]
+id: MBA:199
+name: Anterior olfactory nucleus, posteroventral part
+
+[Term]
+id: MBA:2
+name: Primary somatosensory area, mouth, layer 6b
+
+[Term]
+id: MBA:20
+name: Entorhinal area, lateral part, layer 2
+
+[Term]
+id: MBA:200
+name: Cortical amygdalar area, anterior part, layer 2
+
+[Term]
+id: MBA:201
+name: Primary somatosensory area, barrel field, layer 2/3
+
+[Term]
+id: MBA:202
+name: Medial vestibular nucleus
+synonym: "chief vestibular nucleus" EXACT []
+synonym: "dorsal vestibular nucleus" EXACT []
+synonym: "nucleus of schwalbe" EXACT []
+synonym: "nucleus triangularis" EXACT []
+synonym: "principal vestibular nucleus" EXACT []
+synonym: "schwalbe's nucleus" EXACT []
+synonym: "triangular nucleus" EXACT []
+
+[Term]
+id: MBA:203
+name: Linear nucleus of the medulla
+
+[Term]
+id: MBA:204
+name: Accessory olfactory bulb, mitral layer
+synonym: "accessory olfactory bulb, mitral layer" EXACT []
+
+[Term]
+id: MBA:205
+name: retriculospinal tract, lateral part
+
+[Term]
+id: MBA:206
+name: Nucleus raphe magnus
+synonym: "magnus raphe nucleus" EXACT []
+synonym: "nucleus raphes magnus" EXACT []
+synonym: "raphe magnus nucleus" EXACT []
+
+[Term]
+id: MBA:207
+name: Area postrema
+
+[Term]
+id: MBA:208
+name: Cortical amygdalar area, anterior part, layer 3
+
+[Term]
+id: MBA:209
+name: Lateral vestibular nucleus
+synonym: "Deiter's nucleus" EXACT []
+synonym: "Deiters' nucleus" EXACT []
+synonym: "lateral nucleus of Deiters" EXACT []
+synonym: "nucleus of Deiters" EXACT []
+
+[Term]
+id: MBA:21
+name: lateral olfactory tract, general
+
+[Term]
+id: MBA:210
+name: Lateral mammillary nucleus
+synonym: "lateral mammillary hypothalamic nucleus" EXACT []
+synonym: "lateral nucleus of mammillary body" EXACT []
+synonym: "nucleus mammillaris lateralis" EXACT []
+
+[Term]
+id: MBA:211
+name: Anterior cingulate area, dorsal part, layer 2/3
+
+[Term]
+id: MBA:212
+name: Main olfactory bulb, glomerular layer
+synonym: "olfactory bulb main glomerulus" EXACT []
+synonym: "stratum glomerulosum bulbi olfactorii" EXACT []
+
+[Term]
+id: MBA:213
+name: retriculospinal tract, medial part
+
+[Term]
+id: MBA:214
+name: Red nucleus
+synonym: "nucleus ruber" EXACT []
+
+[Term]
+id: MBA:215
+name: Anterior pretectal nucleus
+
+[Term]
+id: MBA:216
+name: Cortical amygdalar area, posterior part, lateral zone, layer 1
+
+[Term]
+id: MBA:217
+name: Superior vestibular nucleus
+synonym: "nucleus of Bechterew" EXACT []
+
+[Term]
+id: MBA:218
+name: Lateral posterior nucleus of the thalamus
+synonym: "lateral posterior nucleus of thalamus" EXACT []
+synonym: "lateral posterior nucleus of the thalamus" EXACT []
+synonym: "lateral posterior nucleus" EXACT []
+synonym: "lateral posterior thalamic nucleus" EXACT []
+synonym: "laterodorsal nucleus, caudal part" EXACT []
+synonym: "nucleus dorso-caudalis" EXACT []
+synonym: "nucleus dorsocaudalis (hassler)" EXACT []
+synonym: "nucleus lateralis posterior thalami" EXACT []
+synonym: "nucleus lateralis posterior" EXACT []
+synonym: "nucleus lateralis thalami posterior" EXACT []
+synonym: "posterior lateral nucleus of thalamus" EXACT []
+
+[Term]
+id: MBA:219
+name: Somatomotor areas, Layer 2/3
+
+[Term]
+id: MBA:22
+name: Posterior parietal association areas
+
+[Term]
+id: MBA:220
+name: Main olfactory bulb, granule layer
+synonym: "olfactory bulb main granule cell layer" EXACT []
+
+[Term]
+id: MBA:221
+name: rubroreticular tract
+
+[Term]
+id: MBA:222
+name: Nucleus raphe obscurus
+synonym: "nucleus raphes obscurus" EXACT []
+synonym: "obscurus raphe nucleus" EXACT []
+synonym: "raphe obscurus nucleus" EXACT []
+
+[Term]
+id: MBA:223
+name: Arcuate hypothalamic nucleus
+synonym: "arcuate hypothalamic nucleus" EXACT []
+synonym: "arcuate nucleus" EXACT []
+synonym: "arcuate nucleus-2" EXACT []
+synonym: "arcuate periventricular nucleus" EXACT []
+synonym: "infundibular hypothalamic nucleus" EXACT []
+synonym: "infundibular nucleus" EXACT []
+synonym: "infundibular periventricular nucleus" EXACT []
+synonym: "nucleus arcuatus" EXACT []
+
+[Term]
+id: MBA:224
+name: Cortical amygdalar area, posterior part, lateral zone, layer 2
+
+[Term]
+id: MBA:225
+name: Spinal vestibular nucleus
+synonym: "descending vestibular nucleus" EXACT []
+synonym: "spinal vestibular nucleus" EXACT []
+
+[Term]
+id: MBA:226
+name: Lateral preoptic area
+synonym: "lateral preoptic area" EXACT []
+synonym: "lateral preoptic hypothalamic nucleus" EXACT []
+
+[Term]
+id: MBA:227
+name: Anterior cingulate area, layer 6b
+
+[Term]
+id: MBA:228
+name: Main olfactory bulb, inner plexiform layer
+synonym: "internal plexiform layer" EXACT []
+
+[Term]
+id: MBA:229
+name: sensory root of the trigeminal nerve
+synonym: "radix sensoria (nervus trigeminus [v])" EXACT []
+synonym: "radix sensoria nervus trigemini" EXACT []
+
+[Term]
+id: MBA:23
+name: Anterior amygdalar area
+synonym: "anterior amygaloid area" EXACT []
+synonym: "anterior amygdalar area" EXACT []
+
+[Term]
+id: MBA:230
+name: Nucleus raphe pallidus
+synonym: "nucleus raphes pallidus" EXACT []
+synonym: "pallidal raphe nucleus" EXACT []
+synonym: "raphe pallidus nucleus" EXACT []
+
+[Term]
+id: MBA:231
+name: Anterior tegmental nucleus
+
+[Term]
+id: MBA:232
+name: Cortical amygdalar area, posterior part, lateral zone, layer 3
+
+[Term]
+id: MBA:233
+name: Anterolateral visual area, layer 5
+
+[Term]
+id: MBA:234
+name: Temporal association areas, layer 4
+
+[Term]
+id: MBA:235
+name: Lateral reticular nucleus
+synonym: "lateral reticular nucleus (medulla)" EXACT []
+
+[Term]
+id: MBA:236
+name: Main olfactory bulb, mitral layer
+
+[Term]
+id: MBA:237
+name: solitary tract
+synonym: "respiratory bundle of Gierke" EXACT []
+
+[Term]
+id: MBA:238
+name: Nucleus raphe pontis
+synonym: "raphe of pons" EXACT []
+synonym: "raphe pontis" EXACT []
+
+[Term]
+id: MBA:239
+name: Anterior group of the dorsal thalamus
+synonym: "anterior nuclear group of thalamus" EXACT []
+synonym: "anterior nuclear group" EXACT []
+synonym: "anterior nuclei of thalamus" EXACT []
+synonym: "anterior nucleus of thalamus" EXACT []
+synonym: "anterior thalamic group" EXACT []
+synonym: "anterior thalamic nuclei" EXACT []
+synonym: "anterior thalamus" EXACT []
+synonym: "nuclei anterior thalami" EXACT []
+synonym: "nuclei anteriores (thalami)" EXACT []
+synonym: "nuclei anteriores thalami" EXACT []
+synonym: "nuclei thalamicus anterior" EXACT []
+
+[Term]
+id: MBA:240
+name: Cortical amygdalar area, posterior part, medial zone, layer 1
+
+[Term]
+id: MBA:241
+name: Posterior parietal association areas, layer 2/3
+
+[Term]
+id: MBA:242
+name: Lateral septal nucleus
+synonym: "lateral parolfactory nucleus" EXACT []
+synonym: "lateral septal nucleus (cajal)" EXACT []
+synonym: "lateral septum nucleus" EXACT []
+synonym: "lateral septum" EXACT []
+
+[Term]
+id: MBA:243
+name: Dorsal auditory area, layer 6b
+
+[Term]
+id: MBA:244
+name: Main olfactory bulb, outer plexiform layer
+
+[Term]
+id: MBA:245
+name: spinocervical tract
+
+[Term]
+id: MBA:246
+name: Midbrain reticular nucleus, retrorubral area
+synonym: "midbrain reticular nucleus, retrorubral area" EXACT []
+
+[Term]
+id: MBA:247
+name: Auditory areas
+
+[Term]
+id: MBA:248
+name: Cortical amygdalar area, posterior part, medial zone, layer 2
+
+[Term]
+id: MBA:249
+name: Posterior auditory area, layer 6a
+
+[Term]
+id: MBA:25
+name: simple fissure
+
+[Term]
+id: MBA:250
+name: Lateral septal nucleus, caudal (caudodorsal) part
+
+[Term]
+id: MBA:251
+name: Primary auditory area, layer 2/3
+
+[Term]
+id: MBA:252
+name: Dorsal auditory area, layer 5
+
+[Term]
+id: MBA:253
+name: spinohypothalamic pathway
+
+[Term]
+id: MBA:254
+name: Retrosplenial area
+
+[Term]
+id: MBA:255
+name: Anteroventral nucleus of thalamus
+synonym: "anterior ventral nucleus of thalamus" EXACT []
+synonym: "anteroprincipal thalamic nucleus" EXACT []
+synonym: "anteroventral nucleus of thalamus" EXACT []
+synonym: "anteroventral nucleus of the thalamus" EXACT []
+synonym: "anteroventral nucleus" EXACT []
+synonym: "anteroventral thalamic nucleus" EXACT []
+synonym: "nucleus anterior thalami ventralis" EXACT []
+synonym: "nucleus anterior ventralis" EXACT []
+synonym: "nucleus anteroinferior" EXACT []
+synonym: "nucleus anteroventralis thalami" EXACT []
+synonym: "nucleus anteroventralis" EXACT []
+synonym: "nucleus thalamicus anteroprincipalis" EXACT []
+synonym: "nucleus thalamicus anteroventralis" EXACT []
+
+[Term]
+id: MBA:256
+name: Cortical amygdalar area, posterior part, medial zone, layer 3
+
+[Term]
+id: MBA:257
+name: posteromedial visual area, layer 6a
+
+[Term]
+id: MBA:258
+name: Lateral septal nucleus, rostral (rostroventral) part
+
+[Term]
+id: MBA:259
+name: Entorhinal area, medial part, ventral zone, layer 1
+
+[Term]
+id: MBA:26
+name: Superior colliculus, motor related, deep gray layer
+
+[Term]
+id: MBA:260
+name: Nucleus of the lateral olfactory tract, molecular layer
+
+[Term]
+id: MBA:261
+name: spino-olivary pathway
+synonym: "helweg's tract" EXACT []
+
+[Term]
+id: MBA:262
+name: Reticular nucleus of the thalamus
+synonym: "nucleus reticularis thalami" EXACT []
+synonym: "reticular nuclear group" EXACT []
+synonym: "reticular nucleus of thalamus" EXACT []
+synonym: "reticular nucleus of the thalamus" EXACT []
+synonym: "reticular nucleus-2" EXACT []
+synonym: "reticular thalamic nucleus" EXACT []
+
+[Term]
+id: MBA:263
+name: Anteroventral preoptic nucleus
+
+[Term]
+id: MBA:264
+name: Orbital area, layer 1
+
+[Term]
+id: MBA:266
+name: Lateral septal nucleus, ventral part
+
+[Term]
+id: MBA:267
+name: Dorsal peduncular area, layer 6a
+
+[Term]
+id: MBA:268
+name: Nucleus of the lateral olfactory tract, pyramidal layer
+
+[Term]
+id: MBA:269
+name: Posterolateral visual area, layer 2/3
+
+[Term]
+id: MBA:27
+name: Intergeniculate leaflet of the lateral geniculate complex
+
+[Term]
+id: MBA:270
+name: spinoreticular pathway
+
+[Term]
+id: MBA:271
+name: Nucleus sagulum
+
+[Term]
+id: MBA:272
+name: Anteroventral periventricular nucleus
+
+[Term]
+id: MBA:274
+name: Retrosplenial area, dorsal part, layer 6a
+
+[Term]
+id: MBA:275
+name: Lateral septal complex
+synonym: "lateral septal area" EXACT []
+
+[Term]
+id: MBA:276
+name: Piriform area, molecular layer
+
+[Term]
+id: MBA:277
+name: spinotectal pathway
+synonym: "pons of varolius spinothalamic tract of medulla" EXACT []
+synonym: "pons of varolius spinothalamic tract" EXACT []
+synonym: "pons spinothalamic tract of medulla" EXACT []
+synonym: "pons spinothalamic tract" EXACT []
+synonym: "spinothalamic tract of medulla of pons of varolius" EXACT []
+synonym: "spinothalamic tract of medulla of pons" EXACT []
+synonym: "spinothalamic tract of pons of varolius" EXACT []
+
+[Term]
+id: MBA:278
+name: Striatum-like amygdalar nuclei
+
+[Term]
+id: MBA:279
+name: Retrosplenial area, lateral agranular part, layer 6b
+
+[Term]
+id: MBA:28
+name: Entorhinal area, lateral part, layer 6a
+
+[Term]
+id: MBA:280
+name: Barrington's nucleus
+synonym: "nucleus of Barrington" EXACT []
+
+[Term]
+id: MBA:281
+name: Anteromedial visual area, layer 1
+
+[Term]
+id: MBA:283
+name: Lateral tegmental nucleus
+
+[Term]
+id: MBA:284
+name: Piriform area, pyramidal layer
+
+[Term]
+id: MBA:285
+name: spinotelenchephalic pathway
+
+[Term]
+id: MBA:286
+name: Suprachiasmatic nucleus
+synonym: "suprachiasmatic nucleus of hypothalamus" EXACT []
+
+[Term]
+id: MBA:287
+name: Bed nucleus of the anterior commissure
+synonym: "anterior commissure nucleus" EXACT []
+synonym: "bed nucleus of anterior commissure" EXACT []
+synonym: "nucleus of commissura anterior" EXACT []
+
+[Term]
+id: MBA:288
+name: Orbital area, ventrolateral part, layer 2/3
+
+[Term]
+id: MBA:289
+name: Temporal association areas, layer 5
+
+[Term]
+id: MBA:29
+name: lateral spinothalamic tract
+
+[Term]
+id: MBA:290
+name: Hypothalamic lateral zone
+synonym: "hypothalamus lateral zone" EXACT []
+synonym: "zona lateralis hypothalamicae" EXACT []
+
+[Term]
+id: MBA:291
+name: Piriform area, polymorph layer
+
+[Term]
+id: MBA:292
+name: Bed nucleus of the accessory olfactory tract
+
+[Term]
+id: MBA:293
+name: spinovestibular pathway
+
+[Term]
+id: MBA:294
+name: Superior colliculus, motor related
+
+[Term]
+id: MBA:295
+name: Basolateral amygdalar nucleus
+synonym: "basolateral amygaloid nucleus" EXACT []
+synonym: "basolateral amygdalar nucleus" EXACT []
+synonym: "basolateral amygdaloid nucleus" EXACT []
+synonym: "basolateral nucleus (de olmos)" EXACT []
+synonym: "intermediate principal nucleus" EXACT []
+synonym: "nucleus amygdalae basalis lateralis" EXACT []
+
+[Term]
+id: MBA:296
+name: Anterior cingulate area, ventral part, layer 2/3
+
+[Term]
+id: MBA:297
+name: Taenia tecta, dorsal part, layers 1-4
+
+[Term]
+id: MBA:298
+name: Magnocellular nucleus
+
+[Term]
+id: MBA:299
+name: Somatomotor areas, Layer 5
+
+[Term]
+id: MBA:3
+name: secondary fissure
+synonym: "fissura postpyramidalis cerebelli" EXACT []
+synonym: "post-pyramidal fissure of cerebellum" EXACT []
+synonym: "postpyramidal fissure" EXACT []
+synonym: "secondary fissure of cerebellum" EXACT []
+
+[Term]
+id: MBA:30
+name: Periventricular hypothalamic nucleus, anterior part
+synonym: "anterior paraventricular nucleus" EXACT []
+synonym: "ventral paraventricular nucleus of thalamus" EXACT []
+
+[Term]
+id: MBA:300
+name: Ventral part of the lateral geniculate complex, lateral zone
+
+[Term]
+id: MBA:301
+name: stria terminalis
+synonym: "semicircular stria" EXACT []
+synonym: "terminal stria" EXACT []
+
+[Term]
+id: MBA:302
+name: Superior colliculus, sensory related
+
+[Term]
+id: MBA:303
+name: Basolateral amygdalar nucleus, anterior part
+
+[Term]
+id: MBA:304
+name: Prelimbic area, layer 2/3
+
+[Term]
+id: MBA:304325711
+name: retina
+synonym: "inner layer of eyeball" EXACT []
+synonym: "retina of camera-type eye" EXACT []
+synonym: "tunica interna of eyeball" EXACT []
+
+[Term]
+id: MBA:305
+name: Primary visual area, layer 6b
+
+[Term]
+id: MBA:306
+name: Taenia tecta, ventral part, layers 1-3
+
+[Term]
+id: MBA:307
+name: Magnocellular reticular nucleus
+
+[Term]
+id: MBA:308
+name: Posterior parietal association areas, layer 6a
+
+[Term]
+id: MBA:309
+name: striatonigral pathway
+
+[Term]
+id: MBA:31
+name: Anterior cingulate area
+synonym: "area 24 of Brodmann" EXACT []
+synonym: "area 24 of Brodmann-1909" EXACT []
+synonym: "area cingularis anterior ventralis" EXACT []
+synonym: "B09-24" EXACT []
+synonym: "BA24" EXACT []
+synonym: "Brodmann (1909) area 24" EXACT []
+synonym: "Brodmann area 24" EXACT []
+synonym: "ventral anterior cingulate" EXACT []
+
+[Term]
+id: MBA:310
+name: Septofimbrial nucleus
+synonym: "nucleus septofibrialis" EXACT []
+synonym: "scattered nucleus of the septum" EXACT []
+
+[Term]
+id: MBA:311
+name: Basolateral amygdalar nucleus, posterior part
+
+[Term]
+id: MBA:312
+name: Entorhinal area, lateral part, layer 4/5
+
+[Term]
+id: MBA:312782546
+name: Anterior area
+
+[Term]
+id: MBA:312782550
+name: Anterior area, layer 1
+
+[Term]
+id: MBA:312782554
+name: Anterior area, layer 2/3
+
+[Term]
+id: MBA:312782558
+name: Anterior area, layer 4
+
+[Term]
+id: MBA:312782562
+name: Anterior area, layer 5
+
+[Term]
+id: MBA:312782566
+name: Anterior area, layer 6a
+
+[Term]
+id: MBA:312782570
+name: Anterior area, layer 6b
+
+[Term]
+id: MBA:312782574
+name: Laterointermediate area
+
+[Term]
+id: MBA:312782578
+name: Laterointermediate area, layer 1
+
+[Term]
+id: MBA:312782582
+name: Laterointermediate area, layer 2/3
+
+[Term]
+id: MBA:312782586
+name: Laterointermediate area, layer 4
+
+[Term]
+id: MBA:312782590
+name: Laterointermediate area, layer 5
+
+[Term]
+id: MBA:312782594
+name: Laterointermediate area, layer 6a
+
+[Term]
+id: MBA:312782598
+name: Laterointermediate area, layer 6b
+
+[Term]
+id: MBA:312782604
+name: Rostrolateral area, layer 1
+
+[Term]
+id: MBA:312782608
+name: Rostrolateral area, layer 2/3
+
+[Term]
+id: MBA:312782612
+name: Rostrolateral area, layer 4
+
+[Term]
+id: MBA:312782616
+name: Rostrolateral area, layer 5
+
+[Term]
+id: MBA:312782620
+name: Rostrolateral area, layer 6a
+
+[Term]
+id: MBA:312782624
+name: Rostrolateral area, layer 6b
+
+[Term]
+id: MBA:312782628
+name: Postrhinal area
+
+[Term]
+id: MBA:312782632
+name: Postrhinal area, layer 1
+
+[Term]
+id: MBA:312782636
+name: Postrhinal area, layer 2/3
+
+[Term]
+id: MBA:312782640
+name: Postrhinal area, layer 4
+
+[Term]
+id: MBA:312782644
+name: Postrhinal area, layer 5
+
+[Term]
+id: MBA:312782648
+name: Postrhinal area, layer 6a
+
+[Term]
+id: MBA:312782652
+name: Postrhinal area, layer 6b
+
+[Term]
+id: MBA:313
+name: Midbrain
+
+[Term]
+id: MBA:314
+name: Agranular insular area, posterior part, layer 6a
+
+[Term]
+id: MBA:315
+name: Isocortex
+synonym: "cerebral neocortex" EXACT []
+synonym: "homogenetic cortex" EXACT []
+synonym: "homotypical cortex" EXACT []
+synonym: "isocortex (sensu lato)" EXACT []
+synonym: "isocortex" NARROW []
+synonym: "neocortex (isocortex)" EXACT []
+synonym: "neopallial cortex" EXACT []
+synonym: "neopallium" EXACT []
+
+[Term]
+id: MBA:316
+name: Ventral part of the lateral geniculate complex, medial zone
+
+[Term]
+id: MBA:317
+name: subthalamic fascicle
+
+[Term]
+id: MBA:318
+name: Supragenual nucleus
+
+[Term]
+id: MBA:319
+name: Basomedial amygdalar nucleus
+synonym: "basomedial amygdalar nucleus" EXACT []
+synonym: "basomedial amygdaloid nucleus" EXACT []
+synonym: "medial basal nucleus of amygdala" EXACT []
+synonym: "medial division of basal nucleus" EXACT []
+synonym: "nucleus amygdalae basalis medialis" EXACT []
+
+[Term]
+id: MBA:320
+name: Primary motor area, Layer 1
+
+[Term]
+id: MBA:321
+name: Subgeniculate nucleus
+
+[Term]
+id: MBA:322
+name: Primary somatosensory area
+synonym: "primary somatosensory cortex (area S1, areas 3,1,2)" EXACT []
+synonym: "somatosensory area 1" EXACT []
+
+[Term]
+id: MBA:323
+name: Midbrain, motor related
+
+[Term]
+id: MBA:324
+name: Entorhinal area, medial part, ventral zone, layer 2
+
+[Term]
+id: MBA:325
+name: Suprageniculate nucleus
+synonym: "nucleus suprageniculatus" EXACT []
+synonym: "suprageniculate nucleus" EXACT []
+synonym: "suprageniculate thalamic nucleus" EXACT []
+
+[Term]
+id: MBA:326
+name: superior cerebelar peduncles
+
+[Term]
+id: MBA:327
+name: Basomedial amygdalar nucleus, anterior part
+
+[Term]
+id: MBA:328
+name: Agranular insular area, dorsal part, layer 2/3
+
+[Term]
+id: MBA:329
+name: Primary somatosensory area, barrel field
+
+[Term]
+id: MBA:33
+name: Primary visual area, layer 6a
+
+[Term]
+id: MBA:330
+name: Retrosplenial area, dorsal part, layer 6b
+
+[Term]
+id: MBA:331
+name: Mammillary body
+synonym: "corpus mamillare" EXACT []
+
+[Term]
+id: MBA:332
+name: Accessory supraoptic group
+
+[Term]
+id: MBA:333
+name: Septohippocampal nucleus
+
+[Term]
+id: MBA:334
+name: Basomedial amygdalar nucleus, posterior part
+
+[Term]
+id: MBA:335
+name: Perirhinal area, layer 6a
+
+[Term]
+id: MBA:336
+name: superior colliculus commissure
+synonym: "anterior colliculus commissure" EXACT []
+synonym: "anterior corpus quadrigeminum commissure" EXACT []
+synonym: "commissure of anterior colliculus" EXACT []
+synonym: "commissure of anterior corpus quadrigeminum" EXACT []
+synonym: "commissure of cranial colliculus" EXACT []
+synonym: "commissure of optic tectum" EXACT []
+synonym: "commissure of superior colliculi" EXACT []
+synonym: "cranial colliculus commissure" EXACT []
+synonym: "intertectal commissure" EXACT []
+synonym: "optic tectum commissure" EXACT []
+synonym: "superior colliculus commissure" EXACT []
+
+[Term]
+id: MBA:337
+name: Primary somatosensory area, lower limb
+
+[Term]
+id: MBA:338
+name: Subfornical organ
+
+[Term]
+id: MBA:339
+name: Midbrain, sensory related
+
+[Term]
+id: MBA:34
+name: intercrural fissure
+
+[Term]
+id: MBA:340
+name: Posterior parietal association areas, layer 6b
+
+[Term]
+id: MBA:341
+name: supramammillary decussation
+synonym: "commissure of forel" EXACT []
+synonym: "commissure y" EXACT []
+synonym: "decussation supramamilaris" EXACT []
+synonym: "postmammillary decussation" EXACT []
+synonym: "supramammillary decussation" EXACT []
+
+[Term]
+id: MBA:342
+name: Substantia innominata
+synonym: "innominate substance" EXACT []
+synonym: "nucleus of substantia innominata" EXACT []
+
+[Term]
+id: MBA:343
+name: Brain stem
+synonym: "brain stem" EXACT []
+synonym: "truncus encephali" EXACT []
+
+[Term]
+id: MBA:344
+name: Agranular insular area, posterior part, layer 5
+
+[Term]
+id: MBA:345
+name: Primary somatosensory area, mouth
+
+[Term]
+id: MBA:346
+name: Primary somatosensory area, layer 2/3
+
+[Term]
+id: MBA:347
+name: Subparaventricular zone
+
+[Term]
+id: MBA:348
+name: Midbrain, behavioral state related
+
+[Term]
+id: MBA:349
+name: supraoptic commissures
+
+[Term]
+id: MBA:35
+name: Oculomotor nucleus
+synonym: "nucleus nervi oculomotorii" EXACT []
+synonym: "nucleus of oculomotor nerve" EXACT []
+synonym: "nucleus of oculomotor nuclear complex" EXACT []
+synonym: "nucleus of third cranial nerve" EXACT []
+synonym: "oculomotor III nuclear complex" EXACT []
+synonym: "oculomotor III nucleus" EXACT []
+synonym: "oculomotor nucleus" EXACT []
+synonym: "OM" EXACT []
+synonym: "third cranial nerve nucleus" EXACT []
+
+[Term]
+id: MBA:350
+name: Subceruleus nucleus
+synonym: "nucleus subcaeruleus" EXACT []
+synonym: "subcaerulean nucleus" EXACT []
+synonym: "subceruleus nucleus" EXACT []
+synonym: "subcoeruleus nucleus" EXACT []
+
+[Term]
+id: MBA:351
+name: Bed nuclei of the stria terminalis
+synonym: "bed nuclei of the stria terminalis" EXACT []
+synonym: "bed nucleus of the stria terminalis" EXACT []
+synonym: "bed nucleus stria terminalis (Johnson)" EXACT []
+synonym: "bed nucleus striae terminalis" EXACT []
+synonym: "intercalate nucleus of stria terminalis" EXACT []
+synonym: "interstitial nucleus of stria terminalis" EXACT []
+synonym: "nuclei of stria terminalis" EXACT []
+synonym: "nucleus of stria terminalis" EXACT []
+synonym: "nucleus striae terminalis" EXACT []
+synonym: "stria terminalis nucleus" EXACT []
+
+[Term]
+id: MBA:352
+name: Orbital area, layer 5
+
+[Term]
+id: MBA:353
+name: Primary somatosensory area, nose
+
+[Term]
+id: MBA:354
+name: Medulla
+synonym: "bulbus" EXACT []
+
+[Term]
+id: MBA:355
+name: Agranular insular area, posterior part, layer 6b
+
+[Term]
+id: MBA:356
+name: Preparasubthalamic nucleus
+
+[Term]
+id: MBA:357
+name: tectothalamic pathway
+synonym: "tectothalamic fibers" EXACT []
+
+[Term]
+id: MBA:358
+name: Sublaterodorsal nucleus
+
+[Term]
+id: MBA:359
+name: Bed nuclei of the stria terminalis, anterior division
+synonym: "anterior nuclei of stria terminalis" EXACT []
+synonym: "bed nuclei of the stria terminalis, anterior division" EXACT []
+
+[Term]
+id: MBA:36
+name: Gustatory areas, layer 1
+
+[Term]
+id: MBA:360
+name: Dorsal peduncular area, layer 2/3
+
+[Term]
+id: MBA:361
+name: Primary somatosensory area, trunk
+
+[Term]
+id: MBA:362
+name: Mediodorsal nucleus of thalamus
+synonym: "dorsal medial nucleus of thalamus" EXACT []
+synonym: "dorsomedial nucleus of thalamus" EXACT []
+synonym: "medial dorsal nucleus of thalamus" EXACT []
+synonym: "medial dorsal thalamic nucleus" EXACT []
+synonym: "medial nuclear group of thalamus" EXACT []
+synonym: "mediodorsal nucleus of thalamus" EXACT []
+synonym: "mediodorsal thalamic nucleus" EXACT []
+synonym: "nucleus dorsomedialis thalami" EXACT []
+
+[Term]
+id: MBA:363
+name: Prelimbic area, layer 5
+
+[Term]
+id: MBA:364
+name: Parasubthalamic nucleus
+
+[Term]
+id: MBA:365
+name: thalamic peduncles
+synonym: "thalamic peduncle" EXACT []
+
+[Term]
+id: MBA:366
+name: Submedial nucleus of the thalamus
+synonym: "gelatinosus thalamic nucleus" EXACT []
+synonym: "nucleus submedialis thalami" EXACT []
+synonym: "nucleus submedius thalami" EXACT []
+synonym: "submedial nucleus of thalamus" EXACT []
+synonym: "submedial nucleus thalamus" EXACT []
+synonym: "submedial nucleus" EXACT []
+synonym: "submedial thalamic nucleus" EXACT []
+
+[Term]
+id: MBA:367
+name: Bed nuclei of the stria terminalis, posterior division
+synonym: "bed nuclei of the stria terminalis, posterior division" EXACT []
+synonym: "posterior nuclei of stria terminalis" EXACT []
+
+[Term]
+id: MBA:368
+name: Perirhinal area, layer 6b
+
+[Term]
+id: MBA:369
+name: Primary somatosensory area, upper limb
+
+[Term]
+id: MBA:37
+name: longitudinal association bundle
+
+[Term]
+id: MBA:370
+name: Medulla, motor related
+
+[Term]
+id: MBA:371
+name: Entorhinal area, medial part, ventral zone, layer 3
+
+[Term]
+id: MBA:372
+name: Infracerebellar nucleus
+
+[Term]
+id: MBA:373
+name: trigeminocerebellar tract
+
+[Term]
+id: MBA:374
+name: Substantia nigra, compact part
+synonym: "compact part of substantia nigra" EXACT []
+synonym: "pars compacta substantiae nigrae" EXACT []
+synonym: "pars compacta" EXACT []
+synonym: "SNpc" EXACT []
+synonym: "substantia nigra compact part" EXACT []
+synonym: "substantia nigra compacta" EXACT []
+synonym: "substantia nigra, compact part" EXACT []
+
+[Term]
+id: MBA:375
+name: Ammon's horn
+synonym: "ammon gyrus" EXACT []
+synonym: "ammon horn" EXACT []
+synonym: "Ammon's horn" EXACT []
+synonym: "hippocampus major" EXACT []
+synonym: "hippocampus proper" EXACT []
+synonym: "hippocampus proprius" EXACT []
+
+[Term]
+id: MBA:376
+name: Cortical amygdalar area, posterior part, lateral zone, layers 1-3
+
+[Term]
+id: MBA:377
+name: Posterolateral visual area, layer 6a
+
+[Term]
+id: MBA:378
+name: Supplemental somatosensory area
+synonym: "somatosensory area 2" EXACT []
+
+[Term]
+id: MBA:379
+name: Medulla, behavioral state related
+
+[Term]
+id: MBA:38
+name: Paraventricular hypothalamic nucleus
+synonym: "filiform nucleus" EXACT []
+synonym: "paraventricular hypothalamic nucleus" EXACT []
+synonym: "paraventricular nucleus" EXACT []
+
+[Term]
+id: MBA:380
+name: cuneate fascicle
+synonym: "cuneatus tract" EXACT []
+
+[Term]
+id: MBA:381
+name: Substantia nigra, reticular part
+synonym: "nucleus substantiae nigrae, Pars reticularis" EXACT []
+synonym: "pars reticularis substantiae nigrae" EXACT []
+synonym: "pars reticularis" EXACT []
+synonym: "pars reticulata" EXACT []
+synonym: "reticular part of substantia nigra" EXACT []
+synonym: "substantia nigra, pars diffusa" EXACT []
+synonym: "substantia nigra, reticular part" EXACT []
+
+[Term]
+id: MBA:382
+name: Field CA1
+synonym: "CA1 field of Ammon's horn" EXACT []
+synonym: "CA1 field of cornu ammonis" EXACT []
+synonym: "CA1 field of hippocampus" EXACT []
+synonym: "CA1 field" EXACT []
+synonym: "CA1" EXACT []
+synonym: "cornu ammonis 1" EXACT []
+synonym: "hippocampus CA1" EXACT []
+synonym: "prosubiculum = distal ca1" EXACT []
+synonym: "regio i cornus ammonis" EXACT []
+synonym: "regio i hippocampi proprii" EXACT []
+synonym: "regio superior of the hippocampus" EXACT []
+synonym: "regio superior" EXACT []
+synonym: "region 1 of Ammon's horn" EXACT []
+synonym: "region i of ammon's horn" EXACT []
+synonym: "region i of hippocampus proper" EXACT []
+
+[Term]
+id: MBA:383
+name: Cortical amygdalar area, posterior part, medial zone, layers 1-3
+
+[Term]
+id: MBA:384
+name: trochlear nerve decussation
+synonym: "decussatio fibrarum nervorum trochlearium" EXACT []
+synonym: "decussation of trochlear nerve (IV)" EXACT []
+synonym: "decussation of trochlear nerve fibers" EXACT []
+synonym: "trochlear neural decussation" EXACT []
+
+[Term]
+id: MBA:385
+name: Primary visual area
+synonym: "area 17 of Brodmann-1909" EXACT []
+synonym: "b09-17" EXACT []
+synonym: "BA17" EXACT []
+synonym: "Brodmann (1909) area 17" EXACT []
+synonym: "Brodmann area 17" EXACT []
+synonym: "Brodmann area 17, striate" EXACT []
+synonym: "striate cortex" EXACT []
+
+[Term]
+id: MBA:386
+name: Medulla, sensory related
+
+[Term]
+id: MBA:387
+name: Entorhinal area, lateral part, layer 5/6
+
+[Term]
+id: MBA:388
+name: gracile fascicle
+synonym: "fasciculus gracilis" EXACT []
+synonym: "gracile fascicle" EXACT []
+synonym: "gracilis tract" EXACT []
+
+[Term]
+id: MBA:389
+name: ventral spinothalamic tract
+
+[Term]
+id: MBA:39
+name: Anterior cingulate area, dorsal part
+
+[Term]
+id: MBA:390
+name: Supraoptic nucleus
+synonym: "nucleus supraopticus" EXACT []
+synonym: "supra-optic nucleus" EXACT []
+synonym: "supraoptic nucleus of hypothalamus" EXACT []
+
+[Term]
+id: MBA:391
+name: Field CA1, stratum lacunosum-moleculare
+synonym: "CA1 part of stratum lacunosum moleculare" EXACT []
+synonym: "CA1 stratum lacunosum moleculare" EXACT []
+synonym: "lacunar-molecular layer of CA1 field" EXACT []
+synonym: "stratum lacunosum moleculare of the CA1 field" EXACT []
+
+[Term]
+id: MBA:392
+name: Nucleus of the lateral olfactory tract, layers 1-3
+
+[Term]
+id: MBA:393
+name: Posterolateral visual area, layer 6b
+
+[Term]
+id: MBA:394
+name: Anteromedial visual area
+
+[Term]
+id: MBA:395
+name: Medullary reticular nucleus
+synonym: "bulb reticular formation" EXACT []
+synonym: "bulbar reticular formation" EXACT []
+synonym: "medulla oblongata reticular formation" EXACT []
+synonym: "medulla oblonmgata reticular formation" EXACT []
+synonym: "medullary reticular nucleus" EXACT []
+synonym: "metepencephalon reticular formation" EXACT []
+synonym: "reticular formation of bulb" EXACT []
+synonym: "reticular formation of medulla oblongata" EXACT []
+synonym: "reticular formation of medulla oblonmgata" EXACT []
+synonym: "reticular formation of medulla" EXACT []
+synonym: "reticular formation of metepencephalon" EXACT []
+synonym: "rhombencephalic reticular formation" EXACT []
+
+[Term]
+id: MBA:396
+name: internal arcuate fibers
+synonym: "arcuate fibers medial lemniscus" EXACT []
+synonym: "fibrae arcuatae internae" EXACT []
+synonym: "internal arcuate fibers" EXACT []
+synonym: "internal arcuate fibres" EXACT []
+synonym: "internal arcuate tract" EXACT []
+
+[Term]
+id: MBA:397
+name: ventral tegmental decussation
+synonym: "anterior tegmental decussation" EXACT []
+synonym: "decussatio tegmentalis anterior" EXACT []
+synonym: "decussation of forel" EXACT []
+synonym: "ventral tegmental decussation of forel" EXACT []
+
+[Term]
+id: MBA:398
+name: Superior olivary complex
+synonym: "nucleus olivaris superior" EXACT []
+synonym: "superior olivary nuclei" EXACT []
+
+[Term]
+id: MBA:399
+name: Field CA1, stratum oriens
+synonym: "CA1 part of stratum oriens" EXACT []
+synonym: "CA1 stratum oriens" EXACT []
+synonym: "oriens layer of CA1 field" EXACT []
+synonym: "stratum oriens of the CA1 field" EXACT []
+
+[Term]
+id: MBA:4
+name: Inferior colliculus
+synonym: "caudal colliculus" EXACT []
+synonym: "inferior colliculi" EXACT []
+synonym: "posterior colliculus" EXACT []
+synonym: "posterior corpus quadrigeminum" EXACT []
+
+[Term]
+id: MBA:400
+name: Piriform-amygdalar area, layers 1-3
+
+[Term]
+id: MBA:401
+name: Anteromedial visual area, layer 4
+
+[Term]
+id: MBA:402
+name: Anterolateral visual area
+
+[Term]
+id: MBA:403
+name: Medial amygdalar nucleus
+
+[Term]
+id: MBA:404
+name: olivocerebellar tract
+
+[Term]
+id: MBA:405
+name: ventrolateral hypothalamic tract
+
+[Term]
+id: MBA:406
+name: Subparafascicular nucleus
+
+[Term]
+id: MBA:407
+name: Field CA1, pyramidal layer
+synonym: "CA1 part of stratum pyramidale hippocampi" EXACT []
+synonym: "CA1 stratum pyramidale hippocampi" EXACT []
+synonym: "field CA1, pyramidal layer" EXACT []
+synonym: "stratum pyramidale of CA1" EXACT []
+synonym: "stratum pyramidale of the CA1 field" EXACT []
+
+[Term]
+id: MBA:408
+name: Piriform-amygdalar area, molecular layer
+
+[Term]
+id: MBA:409
+name: Lateral visual area
+
+[Term]
+id: MBA:41
+name: posteromedial visual area, layer 2/3
+
+[Term]
+id: MBA:410
+name: reticulocerebellar tract
+
+[Term]
+id: MBA:411
+name: Medial amygdalar nucleus, anterodorsal part
+
+[Term]
+id: MBA:412
+name: Orbital area, lateral part, layer 2/3
+
+[Term]
+id: MBA:413
+name: vestibular nerve
+synonym: "vestibular root of acoustic nerve" EXACT []
+synonym: "vestibular root of eighth cranial nerve" EXACT []
+synonym: "vestibulocochlear VIII nerve vestibular component" EXACT []
+
+[Term]
+id: MBA:414
+name: Subparafascicular nucleus, magnocellular part
+
+[Term]
+id: MBA:415
+name: Field CA1, stratum radiatum
+synonym: "CA1 part of stratum radiatum" EXACT []
+synonym: "CA1 stratum radiatum" EXACT []
+synonym: "radiate layer of CA1 field" EXACT []
+synonym: "stratum radiatum of the CA1 field" EXACT []
+
+[Term]
+id: MBA:416
+name: Piriform-amygdalar area, pyramidal layer
+
+[Term]
+id: MBA:417
+name: Rostrolateral visual area
+
+[Term]
+id: MBA:418
+name: Medial amygdalar nucleus, anteroventral part
+
+[Term]
+id: MBA:419
+name: Entorhinal area, medial part, ventral zone, layer 4
+
+[Term]
+id: MBA:42
+name: Superior colliculus, motor related, deep white layer
+
+[Term]
+id: MBA:420
+name: precommissural fornix diagonal band
+
+[Term]
+id: MBA:421
+name: Lateral visual area, layer 1
+
+[Term]
+id: MBA:422
+name: Subparafascicular nucleus, parvicellular part
+
+[Term]
+id: MBA:423
+name: Field CA2
+synonym: "CA2 field of Ammon's horn" EXACT []
+synonym: "CA2 field of cornu ammonis" EXACT []
+synonym: "CA2 field of hippocampus" EXACT []
+synonym: "CA2 field" EXACT []
+synonym: "CA2" EXACT []
+synonym: "hippocampus CA2" EXACT []
+synonym: "regio ii cornus ammonis" EXACT []
+synonym: "regio ii hippocampi proprii" EXACT []
+synonym: "region 2 of Ammon's horn" EXACT []
+synonym: "region II of ammon's horn" EXACT []
+synonym: "region II of hippocampus proper" EXACT []
+
+[Term]
+id: MBA:424
+name: Piriform-amygdalar area, polymorph layer
+
+[Term]
+id: MBA:425
+name: Posterolateral visual area
+
+[Term]
+id: MBA:426
+name: Medial amygdalar nucleus, posterodorsal part
+
+[Term]
+id: MBA:427
+name: Ectorhinal area/Layer 2/3
+
+[Term]
+id: MBA:428
+name: medial corticohypothalmic tract
+
+[Term]
+id: MBA:429
+name: Spinal nucleus of the trigeminal, caudal part
+synonym: "caudal nucleus (kandell)" EXACT []
+synonym: "caudal nucleus" EXACT []
+synonym: "spinal trigeminal nucleus, caudal part" EXACT []
+
+[Term]
+id: MBA:43
+name: ansoparamedian fissure
+synonym: "ansoparamedian fissure" EXACT []
+synonym: "fissura ansoparamedianis" EXACT []
+synonym: "fissura lunogracilis" EXACT []
+synonym: "lunogracile fissure of cerebellum" EXACT []
+synonym: "lunogracile fissure" EXACT []
+
+[Term]
+id: MBA:430
+name: Retrosplenial area, ventral part, layer 2/3
+
+[Term]
+id: MBA:431
+name: Field CA2, stratum lacunosum-moleculare
+synonym: "CA2 part of stratum lacunosum moleculare" EXACT []
+synonym: "CA2 stratum lacunosum moleculare" EXACT []
+synonym: "lacunar-molecular layer of CA2 field" EXACT []
+synonym: "stratum lacunosum moleculare of the CA2 field" EXACT []
+
+[Term]
+id: MBA:432
+name: Nucleus circularis
+
+[Term]
+id: MBA:433
+name: Anteromedial visual area, layer 5
+
+[Term]
+id: MBA:434
+name: Retrosplenial area, dorsal part, layer 2/3
+
+[Term]
+id: MBA:435
+name: Medial amygdalar nucleus, posteroventral part
+
+[Term]
+id: MBA:436
+name: columns of the fornix
+synonym: "body of fornix of forebrain" EXACT []
+synonym: "body of fornix" EXACT []
+synonym: "column of fornix" EXACT []
+synonym: "columna fornicis" EXACT []
+synonym: "columns of fornix" EXACT []
+synonym: "fornix body" EXACT []
+
+[Term]
+id: MBA:437
+name: Spinal nucleus of the trigeminal, interpolar part
+
+[Term]
+id: MBA:438
+name: Field CA2, stratum oriens
+synonym: "CA2 part of stratum oriens" EXACT []
+synonym: "CA2 stratum oriens" EXACT []
+synonym: "oriens layer of CA2 field" EXACT []
+synonym: "stratum oriens of the CA2 field" EXACT []
+
+[Term]
+id: MBA:439
+name: Paraventricular hypothalamic nucleus, descending division, dorsal parvicellular part
+synonym: "paraventricular nucleus of the hypothalamus descending division - dorsal parvicellular part" EXACT []
+
+[Term]
+id: MBA:44
+name: Infralimbic area
+
+[Term]
+id: MBA:440
+name: Orbital area, lateral part, layer 6a
+
+[Term]
+id: MBA:441
+name: Anteromedial visual area, layer 6b
+
+[Term]
+id: MBA:442
+name: Retrosplenial area, dorsal part, layer 1
+
+[Term]
+id: MBA:443
+name: dorsal hippocampal commissure
+
+[Term]
+id: MBA:444
+name: Medial group of the dorsal thalamus
+
+[Term]
+id: MBA:445
+name: Spinal nucleus of the trigeminal, oral part
+
+[Term]
+id: MBA:446
+name: Field CA2, pyramidal layer
+synonym: "CA2 part of stratum pyramidale hippocampi" EXACT []
+synonym: "CA2 stratum pyramidale hippocampi" EXACT []
+synonym: "field CA2, pyramidal layer" EXACT []
+synonym: "stratum pyramidale of CA2" EXACT []
+synonym: "stratum pyramidale of the CA2 field" EXACT []
+
+[Term]
+id: MBA:447
+name: Paraventricular hypothalamic nucleus, descending division, forniceal part
+synonym: "paraventricular nucleus of the hypothalamus descending division - forniceal part" EXACT []
+
+[Term]
+id: MBA:448
+name: Orbital area, lateral part, layer 1
+
+[Term]
+id: MBA:449
+name: ventral hippocampal commissure
+
+[Term]
+id: MBA:45
+name: Spinal nucleus of the trigeminal, oral part, rostral dorsomedial part
+
+[Term]
+id: MBA:450
+name: Primary somatosensory area, upper limb, layer 1
+
+[Term]
+id: MBA:451
+name: Basolateral amygdalar nucleus, ventral part
+
+[Term]
+id: MBA:452
+name: Median preoptic nucleus
+
+[Term]
+id: MBA:453
+name: Somatosensory areas
+synonym: "somatic sensory cortex" EXACT []
+
+[Term]
+id: MBA:454
+name: Field CA2, stratum radiatum
+synonym: "CA2 part of stratum radiatum" EXACT []
+synonym: "CA2 stratum radiatum" EXACT []
+synonym: "radiate layer of CA2 field" EXACT []
+synonym: "stratum radiatum of the CA2 field" EXACT []
+
+[Term]
+id: MBA:455
+name: Paraventricular hypothalamic nucleus, descending division, lateral parvicellular part
+synonym: "paraventricular nucleus of the hypothalamus descending division - lateral parvicellular part" EXACT []
+
+[Term]
+id: MBA:456
+name: Posterior auditory area, layer 6b
+
+[Term]
+id: MBA:457
+name: Visual areas, layer 6a
+
+[Term]
+id: MBA:458
+name: Olfactory tubercle, molecular layer
+
+[Term]
+id: MBA:459
+name: accessory olfactory tract
+
+[Term]
+id: MBA:46
+name: mammillary related
+
+[Term]
+id: MBA:460
+name: Midbrain trigeminal nucleus
+synonym: "mesencephalic trigeminal nucleus" EXACT []
+synonym: "mesencephalic trigeminal V nucleus" EXACT []
+synonym: "nucleus of mesencephalic root of v" EXACT []
+synonym: "trigeminal mesencephalic nucleus" EXACT []
+synonym: "trigeminal nerve mesencepahlic nucleus" EXACT []
+synonym: "trigeminal V mesencephalic nucleus" EXACT []
+
+[Term]
+id: MBA:461
+name: Primary somatosensory area, trunk, layer 6b
+
+[Term]
+id: MBA:462
+name: Superior salivatory nucleus
+synonym: "superior salivary nucleus" EXACT []
+
+[Term]
+id: MBA:463
+name: Field CA3
+synonym: "CA3 field of Ammon's horn" EXACT []
+synonym: "CA3 field of cornu ammonis" EXACT []
+synonym: "CA3 field of hippocampus" EXACT []
+synonym: "CA3 field" EXACT []
+synonym: "CA3" EXACT []
+synonym: "hippocampus CA3" EXACT []
+synonym: "regio III cornus ammonis" EXACT []
+synonym: "regio III hippocampi proprii" EXACT []
+synonym: "regio inferior" EXACT []
+synonym: "region 3 of Ammon's horn" EXACT []
+synonym: "region III of ammon's horn" EXACT []
+synonym: "region III of hippocampus proper" EXACT []
+
+[Term]
+id: MBA:464
+name: Paraventricular hypothalamic nucleus, descending division, medial parvicellular part, ventral zone
+synonym: "paraventricular nucleus of the hypothalamus descending division - medial parvicellular part, ventral zone" EXACT []
+
+[Term]
+id: MBA:465
+name: Olfactory tubercle, pyramidal layer
+
+[Term]
+id: MBA:466
+name: alveus
+synonym: "alveus of hippocampus" EXACT []
+synonym: "alveus" EXACT []
+synonym: "neuraxis alveus" EXACT []
+
+[Term]
+id: MBA:467
+name: Hypothalamic medial zone
+synonym: "hypothalamus medial zone" EXACT []
+synonym: "zona medialis hypothalamicae" EXACT []
+
+[Term]
+id: MBA:468
+name: Entorhinal area, medial part, dorsal zone, layer 2a
+
+[Term]
+id: MBA:469
+name: posteromedial visual area, layer 6b
+
+[Term]
+id: MBA:47
+name: Paraventricular hypothalamic nucleus, magnocellular division, anterior magnocellular part
+synonym: "paraventricular nucleus of the hypothalamus magnocellular division - anterior magnocellular part" EXACT []
+
+[Term]
+id: MBA:470
+name: Subthalamic nucleus
+synonym: "body of Forel" EXACT []
+synonym: "body of Luys" EXACT []
+synonym: "Luys' nucleus" EXACT []
+synonym: "nucleus of corpus luysii" EXACT []
+synonym: "nucleus of Luys" EXACT []
+synonym: "nucleus subthalamicus" EXACT []
+synonym: "subthalamic nucleus (of Luys)" EXACT []
+
+[Term]
+id: MBA:471
+name: Field CA3, stratum lacunosum-moleculare
+synonym: "CA3 part of stratum lacunosum moleculare" EXACT []
+synonym: "CA3 stratum lacunosum moleculare" EXACT []
+synonym: "lacunar-molecular layer of CA3 field" EXACT []
+synonym: "stratum lacunosum moleculare of the CA3 field" EXACT []
+
+[Term]
+id: MBA:472
+name: Medial amygdalar nucleus, posterodorsal part, sublayer a
+
+[Term]
+id: MBA:473
+name: Olfactory tubercle, polymorph layer
+
+[Term]
+id: MBA:474
+name: angular path
+
+[Term]
+id: MBA:475
+name: Medial geniculate complex
+synonym: "corpus geniculatum mediale" EXACT []
+synonym: "medial geniculate complex" EXACT []
+synonym: "medial geniculate nuclei" EXACT []
+synonym: "medial geniculate nucleus" EXACT []
+synonym: "nuclei corporis geniculati medialis" EXACT []
+
+[Term]
+id: MBA:476
+name: Orbital area, layer 6a
+
+[Term]
+id: MBA:477
+name: Striatum
+synonym: "neostriatum" EXACT []
+synonym: "neuraxis striatum" EXACT []
+synonym: "striate nucleus" EXACT []
+synonym: "striatum of neuraxis" EXACT []
+synonym: "striatum" EXACT []
+
+[Term]
+id: MBA:478
+name: Primary somatosensory area, lower limb, layer 6a
+
+[Term]
+id: MBA:479
+name: Field CA3, stratum lucidum
+synonym: "CA3 stratum lucidum" EXACT []
+synonym: "stratum lucidum of the CA3 field" EXACT []
+
+[Term]
+id: MBA:48
+name: Anterior cingulate area, ventral part
+
+[Term]
+id: MBA:480
+name: Medial amygdalar nucleus, posterodorsal part, sublayer b
+
+[Term]
+id: MBA:481
+name: Islands of Calleja
+synonym: "Calleja island" EXACT []
+synonym: "islands of Calleja" EXACT []
+
+[Term]
+id: MBA:482
+name: brachium of the inferior colliculus
+synonym: "brachium of medial geniculate" EXACT []
+synonym: "inferior brachium" EXACT []
+synonym: "inferior collicular brachium" EXACT []
+synonym: "inferior colliculus brachium" EXACT []
+synonym: "inferior quadrigeminal brachium" EXACT []
+synonym: "peduncle of inferior colliculus" EXACT []
+
+[Term]
+id: MBA:483
+name: Medial habenula
+synonym: "medial habenula" EXACT []
+synonym: "nucleus habenulae medialis" EXACT []
+synonym: "nucleus habenularis medialis (hassler)" EXACT []
+synonym: "nucleus habenularis medialis epithalami" EXACT []
+synonym: "nucleus habenularis medialis" EXACT []
+
+[Term]
+id: MBA:484
+name: Orbital area, medial part, layer 1
+
+[Term]
+id: MBA:485
+name: Striatum dorsal region
+synonym: "striatum dorsal region" EXACT []
+
+[Term]
+id: MBA:486
+name: Field CA3, stratum oriens
+synonym: "CA3 part of stratum oriens" EXACT []
+synonym: "CA3 stratum oriens" EXACT []
+synonym: "oriens layer of CA3 field" EXACT []
+synonym: "stratum oriens of the CA3 field" EXACT []
+
+[Term]
+id: MBA:487
+name: Medial amygdalar nucleus, posterodorsal part, sublayer c
+
+[Term]
+id: MBA:488
+name: Orbital area, lateral part, layer 6b
+
+[Term]
+id: MBA:489
+name: Major island of Calleja
+synonym: "isla magna of calleja" EXACT []
+synonym: "major island of Calleja" EXACT []
+
+[Term]
+id: MBA:49
+name: intraparafloccular fissure
+
+[Term]
+id: MBA:490
+name: bulbocerebellar tract
+
+[Term]
+id: MBA:491
+name: Medial mammillary nucleus
+synonym: "internal mammillary nucleus" EXACT []
+synonym: "medial nucleus of mammillary body" EXACT []
+synonym: "nucleus mammillaris medialis" EXACT []
+
+[Term]
+id: MBA:492
+name: Orbital area, layer 2/3
+
+[Term]
+id: MBA:493
+name: Striatum ventral region
+synonym: "striatum ventral region" EXACT []
+
+[Term]
+id: MBA:494
+name: Superior colliculus, motor related, intermediate gray layer, sublayer a
+
+[Term]
+id: MBA:495
+name: Field CA3, pyramidal layer
+synonym: "CA3 part of stratum pyramidale hippocampi" EXACT []
+synonym: "CA3 stratum pyramidale hippocampi" EXACT []
+synonym: "field CA3, pyramidal layer" EXACT []
+synonym: "stratum pyramidale of CA3" EXACT []
+synonym: "stratum pyramidale of the CA3 field" EXACT []
+
+[Term]
+id: MBA:496
+name: Dorsal peduncular area, layer 1
+
+[Term]
+id: MBA:497
+name: Visual areas, layer 6b
+
+[Term]
+id: MBA:498
+name: Bed nuclei of the stria terminalis, anterior division, anteromedial area
+
+[Term]
+id: MBA:499
+name: cuneocerebellar tract
+synonym: "cuneocerebellar fibers" EXACT []
+
+[Term]
+id: MBA:50
+name: Precommissural nucleus
+
+[Term]
+id: MBA:500
+name: Somatomotor areas
+
+[Term]
+id: MBA:501
+name: posteromedial visual area, layer 4
+
+[Term]
+id: MBA:502
+name: Subiculum
+synonym: "subicular cortex" EXACT []
+synonym: "subiculum hippocampi" EXACT []
+
+[Term]
+id: MBA:503
+name: Superior colliculus, motor related, intermediate gray layer, sublayer b
+
+[Term]
+id: MBA:504
+name: Field CA3, stratum radiatum
+synonym: "CA3 part of stratum radiatum" EXACT []
+synonym: "CA3 stratum radiatum" EXACT []
+synonym: "radiate layer of CA3 field" EXACT []
+synonym: "stratum radiatum of the CA3 field" EXACT []
+
+[Term]
+id: MBA:505
+name: Bed nuclei of the stria terminalis, anterior division, dorsomedial nucleus
+
+[Term]
+id: MBA:506
+name: dorsal acoustic stria
+synonym: "posterior acoustic stria" EXACT []
+synonym: "stria cochlearis posterior" EXACT []
+
+[Term]
+id: MBA:507
+name: Main olfactory bulb
+
+[Term]
+id: MBA:508
+name: Entorhinal area, medial part, dorsal zone, layer 2b
+
+[Term]
+id: MBA:509
+name: Subiculum, dorsal part
+
+[Term]
+id: MBA:51
+name: Intralaminar nuclei of the dorsal thalamus
+synonym: "intralaminar nuclear complex" EXACT []
+synonym: "intralaminar nuclear group of thalamus" EXACT []
+synonym: "intralaminar nuclear group" EXACT []
+synonym: "intralaminar nuclei of thalamus" EXACT []
+synonym: "intralaminar thalamic nuclei" EXACT []
+synonym: "nonspecific thalamic system" EXACT []
+synonym: "nuclei intralaminares (thalami)" EXACT []
+synonym: "nuclei intralaminares thalami" EXACT []
+
+[Term]
+id: MBA:510
+name: Primary somatosensory area, lower limb, layer 6b
+
+[Term]
+id: MBA:511
+name: Superior colliculus, motor related, intermediate gray layer, sublayer c
+
+[Term]
+id: MBA:512
+name: Cerebellum
+synonym: "epencephalon-1" EXACT []
+
+[Term]
+id: MBA:513
+name: Bed nuclei of the stria terminalis, anterior division, fusiform nucleus
+synonym: "bed nuclei of the stria terminalis, anterior division, fusiform nucleus" EXACT []
+
+[Term]
+id: MBA:514
+name: dorsal column
+synonym: "dorsal column of spinal cord" EXACT []
+synonym: "dorsal column" EXACT []
+synonym: "posterior column" EXACT []
+synonym: "spinal cord posterior column" EXACT []
+
+[Term]
+id: MBA:515
+name: Medial preoptic nucleus
+synonym: "medial preoptic hypothalamic nucleus" EXACT []
+
+[Term]
+id: MBA:516
+name: Orbital area, layer 6b
+
+[Term]
+id: MBA:517
+name: Postpiriform transition area, layers 1-3
+
+[Term]
+id: MBA:518
+name: Subiculum, ventral part
+
+[Term]
+id: MBA:519
+name: Cerebellar nuclei
+synonym: "central nuclei" EXACT []
+synonym: "cerebellar nuclei" EXACT []
+synonym: "deep cerebellar nuclear complex" EXACT []
+synonym: "deep cerebellar nuclei" EXACT []
+synonym: "intracerebellar nuclei" EXACT []
+synonym: "intrinsic nuclei of cerebellum" EXACT []
+synonym: "nuclei cerebelli" EXACT []
+synonym: "roof nuclei-2" EXACT []
+
+[Term]
+id: MBA:52
+name: Entorhinal area, lateral part, layer 3
+
+[Term]
+id: MBA:520
+name: Ventral auditory area, layer 6a
+
+[Term]
+id: MBA:521
+name: Bed nuclei of the stria terminalis, anterior division, magnocellular nucleus
+synonym: "magnocellular nucleus" EXACT []
+
+[Term]
+id: MBA:522
+name: dorsal commissure of the spinal cord
+
+[Term]
+id: MBA:523
+name: Medial preoptic area
+synonym: "medial preoptic area" EXACT []
+
+[Term]
+id: MBA:524
+name: Orbital area, medial part, layer 2
+
+[Term]
+id: MBA:525
+name: Supramammillary nucleus
+
+[Term]
+id: MBA:526
+name: Entorhinal area, medial part, dorsal zone, layer 1
+
+[Term]
+id: MBA:527
+name: Dorsal auditory area, layer 1
+
+[Term]
+id: MBA:528
+name: Cerebellar cortex
+synonym: "cortex of cerebellar hemisphere" EXACT []
+
+[Term]
+id: MBA:529
+name: Bed nuclei of the stria terminalis, anterior division, ventral nucleus
+
+[Term]
+id: MBA:53
+name: Spinal nucleus of the trigeminal, oral part, middle dorsomedial part, dorsal zone
+
+[Term]
+id: MBA:530
+name: dorsal fornix
+
+[Term]
+id: MBA:531
+name: Medial pretectal area
+
+[Term]
+id: MBA:532
+name: Posterior parietal association areas, layer 1
+
+[Term]
+id: MBA:533
+name: posteromedial visual area
+
+[Term]
+id: MBA:534
+name: Supratrigeminal nucleus
+
+[Term]
+id: MBA:535
+name: Dorsal peduncular area, layer 2
+
+[Term]
+id: MBA:536
+name: Central amygdalar nucleus
+synonym: "central amygdala" EXACT []
+synonym: "central nucleus of amygda" EXACT []
+synonym: "central nucleus of amygdala" EXACT []
+
+[Term]
+id: MBA:537
+name: Bed nuclei of the stria terminalis, anterior division, anterolateral area
+
+[Term]
+id: MBA:538
+name: dorsal limb
+
+[Term]
+id: MBA:539
+name: Midbrain reticular nucleus, magnocellular part
+
+[Term]
+id: MBA:54
+name: medial forebrain bundle
+synonym: "medial forebrain fasciculus" EXACT []
+synonym: "telencephalic medial fasciculus" EXACT []
+
+[Term]
+id: MBA:540
+name: Perirhinal area, layer 1
+
+[Term]
+id: MBA:541
+name: Temporal association areas
+
+[Term]
+id: MBA:542
+name: Retrosplenial area, ventral part, layer 1
+
+[Term]
+id: MBA:543
+name: Entorhinal area, medial part, dorsal zone, layer 2
+
+[Term]
+id: MBA:544
+name: Central amygdalar nucleus, capsular part
+
+[Term]
+id: MBA:545
+name: Retrosplenial area, dorsal part, layer 4
+
+[Term]
+id: MBA:546
+name: Bed nuclei of the stria terminalis, anterior division, juxtacapsular nucleus
+
+[Term]
+id: MBA:547
+name: dorsal longitudinal fascicle
+synonym: "bundle of Schutz" EXACT []
+synonym: "fasciculus longitudinalis posterior" EXACT []
+synonym: "fasciculus of Schutz" EXACT []
+synonym: "posterior longitudinal fasciculus" EXACT []
+
+[Term]
+id: MBA:548
+name: Midbrain reticular nucleus, magnocellular part, general
+
+[Term]
+id: MBA:549
+name: Thalamus
+synonym: "wider thalamus" EXACT []
+
+[Term]
+id: MBA:55
+name: Paraventricular hypothalamic nucleus, parvicellular division, anterior parvicellular part
+
+[Term]
+id: MBA:550
+name: Entorhinal area, medial part, dorsal zone, layer 5/6
+
+[Term]
+id: MBA:551
+name: Central amygdalar nucleus, lateral part
+
+[Term]
+id: MBA:552
+name: Pontine reticular nucleus, ventral part
+synonym: "pontine reticular nucleus, rostral part" EXACT []
+
+[Term]
+id: MBA:553
+name: dorsal spinocerebellar tract
+synonym: "dorsal spinocerebellar tract" EXACT []
+synonym: "flechsig's tract" EXACT []
+
+[Term]
+id: MBA:554
+name: Bed nuclei of the stria terminalis, anterior division, oval nucleus
+synonym: "bed nuclei of the stria terminalis, anterior division, oval nucleus" EXACT []
+synonym: "oval nucleus" EXACT []
+
+[Term]
+id: MBA:555
+name: Midbrain reticular nucleus, parvicellular part
+
+[Term]
+id: MBA:556
+name: Infralimbic area, layer 2/3
+
+[Term]
+id: MBA:557
+name: Tuberomammillary nucleus
+synonym: "caudal magnocellular nucleus" EXACT []
+synonym: "mammilloinfundibular nucleus" EXACT []
+synonym: "mammiloinfundibular nucleus" EXACT []
+synonym: "TM" EXACT []
+synonym: "tuberomammillary hypothalamic nucleus" EXACT []
+synonym: "tuberomammillary nucleus" EXACT []
+
+[Term]
+id: MBA:558
+name: Primary somatosensory area, nose, layer 1
+
+[Term]
+id: MBA:559
+name: Central amygdalar nucleus, medial part
+
+[Term]
+id: MBA:56
+name: Nucleus accumbens
+synonym: "accumbens nucleus" EXACT []
+synonym: "colliculus of caudate nucleus" EXACT []
+synonym: "nucleus accumbens septi" EXACT []
+
+[Term]
+id: MBA:560
+name: Cochlear nucleus, subpedunclular granular region
+
+[Term]
+id: MBA:561
+name: Visual areas, layer 2/3
+
+[Term]
+id: MBA:562
+name: Bed nuclei of the stria terminalis, anterior division, rhomboid nucleus
+
+[Term]
+id: MBA:563
+name: dorsal tegmental tract
+
+[Term]
+id: MBA:564
+name: Medial septal nucleus
+synonym: "medial parolfactory nucleus" EXACT []
+synonym: "medial septum" NARROW []
+
+[Term]
+id: MBA:565
+name: posteromedial visual area, layer 5
+
+[Term]
+id: MBA:566
+name: Postpiriform transition area
+
+[Term]
+id: MBA:567
+name: Cerebrum
+synonym: "cerebrum" EXACT []
+synonym: "endbrain" EXACT []
+
+[Term]
+id: MBA:568
+name: Accessory abducens nucleus
+
+[Term]
+id: MBA:569
+name: Bed nuclei of the stria terminalis, posterior division, dorsal nucleus
+
+[Term]
+id: MBA:57
+name: paramedian sulcus
+
+[Term]
+id: MBA:570
+name: dorsolateral fascicle
+
+[Term]
+id: MBA:571
+name: Midline group of the dorsal thalamus
+synonym: "median nuclei of thalamus" EXACT []
+synonym: "midline nuclear group of thalamus" EXACT []
+synonym: "midline nuclear group" EXACT []
+synonym: "midline nuclei of thalamus" EXACT []
+synonym: "midline thalamic group" EXACT []
+synonym: "nuclei mediani (thalami)" EXACT []
+synonym: "nuclei mediani thalami" EXACT []
+synonym: "periventricular nuclei of thalamus" EXACT []
+
+[Term]
+id: MBA:572
+name: Anterior cingulate area, layer 1
+
+[Term]
+id: MBA:573
+name: Lateral visual area, layer 4
+
+[Term]
+id: MBA:574
+name: Tegmental reticular nucleus
+synonym: "nucleus reticularis tegmenti pontis" EXACT []
+synonym: "reticular tegmental nucleus" EXACT []
+synonym: "reticulotegmental nucleus of pons" EXACT []
+synonym: "tegmental reticular nucleus, pontine gray" EXACT []
+
+[Term]
+id: MBA:575
+name: Central lateral nucleus of the thalamus
+synonym: "central lateral nucleus of thalamus" EXACT []
+synonym: "central lateral thalamic nucleus" EXACT []
+synonym: "centrolateral thalamic nucleus" EXACT []
+synonym: "nucleus centralis lateralis of thalamus" EXACT []
+synonym: "nucleus centralis lateralis thalami" EXACT []
+
+[Term]
+id: MBA:576
+name: Accessory facial motor nucleus
+
+[Term]
+id: MBA:577
+name: Primary somatosensory area, upper limb, layer 4
+
+[Term]
+id: MBA:578
+name: Bed nuclei of the stria terminalis, posterior division, principal nucleus
+synonym: "bed nuclei of the stria terminalis, posterior division, principal nucleus" EXACT []
+
+[Term]
+id: MBA:579
+name: external capsule
+synonym: "external capsule" EXACT []
+
+[Term]
+id: MBA:58
+name: Medial terminal nucleus of the accessory optic tract
+synonym: "medial terminal nucleus of the accessory optic tract" EXACT []
+synonym: "nucleus accessorius medialis tractus optici" EXACT []
+
+[Term]
+id: MBA:580
+name: Nucleus of the brachium of the inferior colliculus
+
+[Term]
+id: MBA:581
+name: Triangular nucleus of septum
+synonym: "nucleus triangularis septi" EXACT []
+synonym: "triangular nucleus of septum" EXACT []
+synonym: "triangular nucleus septum (cajal)" EXACT []
+
+[Term]
+id: MBA:582
+name: Orbital area, medial part, layer 2/3
+
+[Term]
+id: MBA:583
+name: Claustrum
+synonym: "claustrum" EXACT []
+synonym: "dorsal claustrum" EXACT []
+synonym: "dorsal portion of claustrum" EXACT []
+
+[Term]
+id: MBA:584
+name: Cortical amygdalar area, posterior part, lateral zone, layers 1-2
+
+[Term]
+id: MBA:585
+name: Bed nuclei of the stria terminalis, posterior division, interfascicular nucleus
+
+[Term]
+id: MBA:586
+name: fasciculus proprius
+
+[Term]
+id: MBA:587
+name: Nucleus of Darkschewitsch
+synonym: "Darkshevich nucleus" EXACT []
+synonym: "Darkshevich's nucleus" EXACT []
+synonym: "nucleus of Darkschewitsch" EXACT []
+
+[Term]
+id: MBA:588
+name: Anterior cingulate area, ventral part, layer 1
+
+[Term]
+id: MBA:589
+name: Taenia tecta
+synonym: "taenia tecta" EXACT []
+synonym: "taenia tectum" EXACT []
+
+[Term]
+id: MBA:59
+name: Intermediodorsal nucleus of the thalamus
+
+[Term]
+id: MBA:590
+name: Retrosplenial area, ventral part, layer 6a
+
+[Term]
+id: MBA:591
+name: Central linear nucleus raphe
+
+[Term]
+id: MBA:592
+name: Cortical amygdalar area, posterior part, medial zone, layers 1-2
+
+[Term]
+id: MBA:593
+name: Primary visual area, layer 1
+
+[Term]
+id: MBA:594
+name: Bed nuclei of the stria terminalis, posterior division, transverse nucleus
+synonym: "bed nuclei of the stria terminalis, posterior division, transverse nucleus" EXACT []
+
+[Term]
+id: MBA:595
+name: fasciculus retroflexus
+synonym: "fasciculus retroflexus (Meynert)" EXACT []
+synonym: "fasciculus retroflexus" EXACT []
+synonym: "habenulointerpeduncular fasciculus" EXACT []
+synonym: "habenulopeduncular tract" EXACT []
+synonym: "Meynert's retroflex bundle" EXACT []
+synonym: "tractus habenulo-interpeduncularis" EXACT []
+
+[Term]
+id: MBA:596
+name: Diagonal band nucleus
+synonym: "diagonal band nucleus" EXACT []
+synonym: "nucleus of diagonal band (of Broca)" EXACT []
+synonym: "nucleus of the diagonal band of broca" EXACT []
+synonym: "olfactory area (roberts)" EXACT []
+
+[Term]
+id: MBA:597
+name: Taenia tecta, dorsal part
+
+[Term]
+id: MBA:598
+name: Ventral auditory area, layer 6b
+
+[Term]
+id: MBA:599
+name: Central medial nucleus of the thalamus
+synonym: "central medial nucleus of thalamus" EXACT []
+synonym: "central medial nucleus thalamus (rioch 1928)" EXACT []
+synonym: "central medial thalamic nucleus" EXACT []
+synonym: "nucleus centralis medialis thalami" EXACT []
+synonym: "nucleus centralis medialis" EXACT []
+
+[Term]
+id: MBA:6
+name: internal capsule
+synonym: "internal capsule radiations" EXACT []
+synonym: "internal capsule" EXACT []
+
+[Term]
+id: MBA:60
+name: Entorhinal area, lateral part, layer 6b
+
+[Term]
+id: MBA:600
+name: Dorsal auditory area, layer 2/3
+
+[Term]
+id: MBA:601
+name: Anterolateral visual area, layer 6a
+
+[Term]
+id: MBA:602
+name: Bed nuclei of the stria terminalis, posterior division, strial extension
+
+[Term]
+id: MBA:603
+name: fimbria
+synonym: "fimbria hippocampus" EXACT []
+synonym: "fimbria of hippocampus" EXACT []
+synonym: "fimbria of the fornix" EXACT []
+synonym: "fimbria-fornix" EXACT []
+synonym: "hippocampal fimbria" EXACT []
+synonym: "neuraxis fimbria" EXACT []
+
+[Term]
+id: MBA:604
+name: Nucleus incertus
+
+[Term]
+id: MBA:605
+name: Taenia tecta, ventral part
+
+[Term]
+id: MBA:606
+name: Retrosplenial area, ventral part, layer 2
+
+[Term]
+id: MBA:607
+name: Cochlear nuclei
+synonym: "cochlear nuclei" EXACT []
+
+[Term]
+id: MBA:608
+name: Orbital area, ventrolateral part, layer 6a
+
+[Term]
+id: MBA:609
+name: Subparafascicular area
+
+[Term]
+id: MBA:61
+name: Spinal nucleus of the trigeminal, oral part, middle dorsomedial part, ventral zone
+
+[Term]
+id: MBA:610
+name: Retrosplenial area, dorsal part, layer 5
+
+[Term]
+id: MBA:611
+name: habenular commissure
+synonym: "commissura habenularum" EXACT []
+synonym: "commissure habenularum" EXACT []
+
+[Term]
+id: MBA:612
+name: Nucleus of the lateral lemniscus
+synonym: "lateral lemniscus nuclei" EXACT []
+synonym: "lateral lemniscus nucleus" EXACT []
+synonym: "nuclei lemnisci lateralis" EXACT []
+
+[Term]
+id: MBA:613
+name: Lateral visual area, layer 5
+
+[Term]
+id: MBA:614
+name: Tuberal nucleus
+synonym: "lateral tuberal hypothalamic nuclei" EXACT []
+synonym: "lateral tuberal nuclear complex" EXACT []
+synonym: "lateral tuberal nuclei" EXACT []
+
+[Term]
+id: MBA:615
+name: Substantia nigra, lateral part
+synonym: "lateral part of substantia nigra" EXACT []
+synonym: "pars lateralis substantiae nigrae" EXACT []
+synonym: "pars lateralis" EXACT []
+synonym: "Substantia nigra, lateral part" EXACT []
+
+[Term]
+id: MBA:616
+name: Cuneiform nucleus
+synonym: "cunieform nucleus" EXACT []
+synonym: "parabigeminal area (mai)" EXACT []
+
+[Term]
+id: MBA:617
+name: Mediodorsal nucleus of the thalamus, central part
+synonym: "mediodorsal nucleus of the thalamus, central part" EXACT []
+
+[Term]
+id: MBA:618
+name: hippocampal commissures
+synonym: "commissura hippocampi" EXACT []
+synonym: "commissure of fornix of forebrain" EXACT []
+synonym: "delta fornicis" EXACT []
+synonym: "dorsal hippocampal commissure" EXACT []
+synonym: "fornical commissure" EXACT []
+synonym: "fornix commissure" EXACT []
+synonym: "hippocampus commissure" EXACT []
+
+[Term]
+id: MBA:619
+name: Nucleus of the lateral olfactory tract
+synonym: "lateral olfactory tract nucleus" EXACT []
+synonym: "NLOT" EXACT []
+synonym: "nucleus of the lateral olfactory tract (ganser)" EXACT []
+
+[Term]
+id: MBA:62
+name: medial longitudinal fascicle
+
+[Term]
+id: MBA:620
+name: Orbital area, medial part, layer 5
+
+[Term]
+id: MBA:621
+name: Motor nucleus of trigeminal
+synonym: "motor nucleus of cranial nerve v" EXACT []
+synonym: "motor nucleus of trigeminal nerve" EXACT []
+synonym: "motor nucleus V" EXACT []
+synonym: "motor trigeminal nucleus" EXACT []
+synonym: "nucleus motorius nervi trigemini" EXACT []
+synonym: "nV" EXACT []
+synonym: "trigeminal motor nuclei" EXACT []
+synonym: "trigeminal motor nucleus" EXACT []
+synonym: "trigeminal V motor nucleus" EXACT []
+
+[Term]
+id: MBA:622
+name: Retrosplenial area, ventral part, layer 6b
+
+[Term]
+id: MBA:623
+name: Cerebral nuclei
+synonym: "basal ganglia set" EXACT []
+synonym: "basal ganglia" EXACT []
+synonym: "basal nuclei (basal ganglia)" EXACT []
+synonym: "set of basal ganglia" EXACT []
+
+[Term]
+id: MBA:624
+name: Interpeduncular fossa
+
+[Term]
+id: MBA:625
+name: Primary somatosensory area, upper limb, layer 5
+
+[Term]
+id: MBA:626
+name: Mediodorsal nucleus of the thalamus, lateral part
+synonym: "mediodorsal nucleus of the thalamus, lateral part" EXACT []
+
+[Term]
+id: MBA:627
+name: hypothalamohypophysial tract
+
+[Term]
+id: MBA:628
+name: Nucleus of the optic tract
+synonym: "large-celled nucleus of optic tract" EXACT []
+synonym: "lentiform nucleus of pretectal area" EXACT []
+synonym: "nucleus of the optic tract" EXACT []
+synonym: "optic tract nucleus" EXACT []
+
+[Term]
+id: MBA:629
+name: Ventral anterior-lateral complex of the thalamus
+
+[Term]
+id: MBA:63
+name: Paraventricular hypothalamic nucleus, descending division
+synonym: "paraventricular nucleus of the hypothalamus descending division" EXACT []
+
+[Term]
+id: MBA:630
+name: Orbital area, lateral part, layer 5
+
+[Term]
+id: MBA:631
+name: Cortical amygdalar area
+synonym: "posterior cortical amygdaloid nucleus" EXACT []
+synonym: "posterior cortical nucleus of amygdala" EXACT []
+
+[Term]
+id: MBA:632
+name: Dentate gyrus, granule cell layer
+synonym: "DG granule cell layer" EXACT []
+synonym: "granular layer of dentate gyrus" EXACT []
+synonym: "stratum granulare gyri dentati" EXACT []
+
+[Term]
+id: MBA:633
+name: inferior colliculus commissure
+synonym: "caudal colliculus commissure" EXACT []
+synonym: "commissure of caudal colliculus" EXACT []
+synonym: "commissure of inferior colliculi" EXACT []
+synonym: "commissure of posterior colliculus" EXACT []
+synonym: "commissure of posterior corpus quadrigeminum" EXACT []
+synonym: "inferior collicular commissure" EXACT []
+synonym: "inferior colliculus commissure" EXACT []
+synonym: "posterior colliculus commissure" EXACT []
+synonym: "posterior corpus quadrigeminum commissure" EXACT []
+
+[Term]
+id: MBA:634
+name: Nucleus of the posterior commissure
+synonym: "Darkshevich nucleus" NARROW []
+synonym: "Darkshevich's nucleus" NARROW []
+synonym: "nucleus of Darkschewitsch" NARROW []
+synonym: "posterior commissure nucleus" EXACT []
+
+[Term]
+id: MBA:635
+name: Posterior parietal association areas, layer 4
+
+[Term]
+id: MBA:636
+name: Mediodorsal nucleus of the thalamus, medial part
+synonym: "dorsomedial thalamic nucleus, magnocellular part" EXACT []
+synonym: "magnocellular mediodorsal nucleus" EXACT []
+synonym: "magnocellular nucleus of medial dorsal nucleus of thalamus" EXACT []
+synonym: "magnocellular part of dorsomedial nucleus" EXACT []
+synonym: "magnocellular part of mediodorsal nucleus" EXACT []
+synonym: "nucleus medialis dorsalis, pars magnocellularis" EXACT []
+synonym: "nucleus medialis fibrosus (hassler)" EXACT []
+synonym: "nucleus medialis fibrosus" EXACT []
+synonym: "pars magnocellularis nuclei mediodorsalis thalami" EXACT []
+
+[Term]
+id: MBA:637
+name: Ventral group of the dorsal thalamus
+synonym: "dorsal thalamus, ventral group" EXACT []
+synonym: "nuclei ventrales thalami" EXACT []
+synonym: "ventral group of dorsal thalamus" EXACT []
+synonym: "ventral nuclear group of thalamus" EXACT []
+synonym: "ventral nuclear group" EXACT []
+synonym: "ventral nuclear mass" EXACT []
+synonym: "ventral nuclei of thalamus" EXACT []
+synonym: "ventral tier thalamic nuclei" EXACT []
+
+[Term]
+id: MBA:638
+name: Gustatory areas, layer 6a
+
+[Term]
+id: MBA:639
+name: Cortical amygdalar area, anterior part
+
+[Term]
+id: MBA:64
+name: Anterodorsal nucleus
+synonym: "anterior dorsal thalamic nucleus" EXACT []
+synonym: "anterodorsal nucleus of the thalamus" EXACT []
+synonym: "anterodorsal nucleus" EXACT []
+synonym: "anterodorsal thalamic nucleus" EXACT []
+synonym: "nucleus anterior dorsalis thalami" EXACT []
+synonym: "nucleus anterior dorsalis" EXACT []
+synonym: "nucleus anterior thalami dorsalis" EXACT []
+synonym: "nucleus anterodorsalis (hassler)" EXACT []
+synonym: "nucleus anterodorsalis thalami" EXACT []
+synonym: "nucleus anterodorsalis" EXACT []
+synonym: "nucleus anterosuperior" EXACT []
+synonym: "nucleus thalamicus anterodorsalis" EXACT []
+
+[Term]
+id: MBA:640
+name: Efferent vestibular nucleus
+
+[Term]
+id: MBA:641
+name: intermediate acoustic stria
+synonym: "commissure of held" EXACT []
+synonym: "intermediate acoustic stria (held)" EXACT []
+synonym: "intermediate acoustic stria of held" EXACT []
+
+[Term]
+id: MBA:642
+name: Nucleus of the trapezoid body
+synonym: "trapezoid nuclear complex" EXACT []
+
+[Term]
+id: MBA:643
+name: Posterior auditory area, layer 2/3
+
+[Term]
+id: MBA:644
+name: Somatomotor areas, Layer 6a
+
+[Term]
+id: MBA:645
+name: Vermal regions
+synonym: "cerebellum vermis" EXACT []
+synonym: "vermal parts of the cerebellum" EXACT []
+synonym: "vermal regions" EXACT []
+synonym: "vermis cerebelli [I-X]" EXACT []
+synonym: "vermis of cerebellum [I-X]" EXACT []
+synonym: "vermis of cerebellum" EXACT []
+
+[Term]
+id: MBA:646
+name: Dorsal peduncular area, layer 5
+
+[Term]
+id: MBA:647
+name: Cortical amygdalar area, posterior part
+
+[Term]
+id: MBA:648
+name: Primary motor area, Layer 5
+
+[Term]
+id: MBA:649
+name: Anterolateral visual area, layer 6b
+
+[Term]
+id: MBA:65
+name: parafloccular sulcus
+
+[Term]
+id: MBA:650
+name: juxtarestiform body
+
+[Term]
+id: MBA:651
+name: Nucleus of the solitary tract
+synonym: "nucleus of the tractus solitarius" EXACT []
+synonym: "nucleus of tractus solitarius" EXACT []
+synonym: "nucleus tractus solitarii medullae oblongatae" EXACT []
+synonym: "solitary nucleus" EXACT []
+synonym: "solitary tract nucleus" EXACT []
+
+[Term]
+id: MBA:652
+name: Paraventricular hypothalamic nucleus, magnocellular division, posterior magnocellular part, lateral zone
+
+[Term]
+id: MBA:653
+name: Abducens nucleus
+synonym: "abducens motor nuclei" EXACT []
+synonym: "abducens motor nucleus" EXACT []
+synonym: "abducens nerve nucleus" EXACT []
+synonym: "abducens VI nucleus" EXACT []
+synonym: "abducent nucleus" EXACT []
+synonym: "motor nucleus VI" EXACT []
+synonym: "nucleus nervi abducentis" EXACT []
+synonym: "nucleus of abducens nerve (VI)" EXACT []
+synonym: "nucleus of abducens nerve" EXACT []
+synonym: "nVI" EXACT []
+synonym: "sixth cranial nerve nucleus" EXACT []
+
+[Term]
+id: MBA:654
+name: Primary somatosensory area, nose, layer 4
+
+[Term]
+id: MBA:655
+name: Cortical amygdalar area, posterior part, lateral zone
+
+[Term]
+id: MBA:656
+name: Secondary motor area, layer 1
+
+[Term]
+id: MBA:657
+name: Primary somatosensory area, mouth, layer 2/3
+
+[Term]
+id: MBA:658
+name: lateral lemniscus
+synonym: "lateral fillet" EXACT []
+
+[Term]
+id: MBA:659
+name: Nucleus of the solitary tract, central part
+
+[Term]
+id: MBA:66
+name: Lateral terminal nucleus of the accessory optic tract
+synonym: "lateral terminal nucleus of the accessory optic tract" EXACT []
+synonym: "nucleus accessorius lateralis tractus optici" EXACT []
+
+[Term]
+id: MBA:660
+name: Paraventricular hypothalamic nucleus, magnocellular division, posterior magnocellular part, medial zone
+
+[Term]
+id: MBA:661
+name: Facial motor nucleus
+synonym: "branchiomotor nucleus of facial nerve" EXACT []
+synonym: "facial motor nucleus" EXACT []
+synonym: "facial nerve motor nucleus" EXACT []
+synonym: "motor nucleus of facial nerve" EXACT []
+synonym: "motor nucleus of VII" EXACT []
+synonym: "motor nucleus VII" EXACT []
+synonym: "nucleus motorius nervi facialis" EXACT []
+synonym: "nVII" EXACT []
+
+[Term]
+id: MBA:662
+name: Gustatory areas, layer 6b
+
+[Term]
+id: MBA:663
+name: Cortical amygdalar area, posterior part, medial zone
+
+[Term]
+id: MBA:664
+name: Entorhinal area, medial part, dorsal zone, layer 3
+
+[Term]
+id: MBA:665
+name: lateral olfactory tract, body
+synonym: "tractus olfactorius lateralis" EXACT []
+
+[Term]
+id: MBA:666
+name: Nucleus of the solitary tract, commissural part
+
+[Term]
+id: MBA:667
+name: Frontal pole, layer 2/3
+
+[Term]
+id: MBA:668
+name: Dorsomedial nucleus of the hypothalamus, anterior part
+
+[Term]
+id: MBA:669
+name: Visual areas
+
+[Term]
+id: MBA:67
+name: Interstitial nucleus of Cajal
+synonym: "interstitial nucleus of medial longitudinal fasciculus (Crosby)" EXACT []
+synonym: "interstitial nucleus of medial longitudinal fasciculus" EXACT []
+synonym: "NIC" EXACT []
+synonym: "nucleus interstitialis" EXACT []
+
+[Term]
+id: MBA:670
+name: Primary somatosensory area, trunk, layer 2/3
+
+[Term]
+id: MBA:671
+name: Retrosplenial area, lateral agranular part, layer 1
+
+[Term]
+id: MBA:672
+name: Caudoputamen
+synonym: "caudate putamen" EXACT []
+synonym: "caudateputamen" EXACT []
+synonym: "caudoputamen" EXACT []
+
+[Term]
+id: MBA:673
+name: mammillary peduncle
+synonym: "peduncle of mammillary body" EXACT []
+
+[Term]
+id: MBA:674
+name: Nucleus of the solitary tract, gelatinous part
+
+[Term]
+id: MBA:675
+name: Agranular insular area, ventral part, layer 6a
+
+[Term]
+id: MBA:676
+name: Dorsomedial nucleus of the hypothalamus, posterior part
+
+[Term]
+id: MBA:677
+name: Visceral area
+
+[Term]
+id: MBA:678
+name: Dorsal auditory area, layer 4
+
+[Term]
+id: MBA:679
+name: Superior central nucleus raphe
+synonym: "cell group b8" EXACT []
+synonym: "medial raphe nucleus" EXACT []
+synonym: "median nucleus of the raphe" EXACT []
+synonym: "MRN" EXACT []
+synonym: "nucleus raphes medianus" EXACT []
+synonym: "superior central nucleus raphe" EXACT []
+synonym: "superior central nucleus" EXACT []
+synonym: "superior central tegmental nucleus" EXACT []
+
+[Term]
+id: MBA:68
+name: Frontal pole, layer 1
+
+[Term]
+id: MBA:680
+name: Orbital area, ventrolateral part, layer 6b
+
+[Term]
+id: MBA:681
+name: mammillotegmental tract
+synonym: "Gudden tract" EXACT []
+synonym: "mammillotegmental fasciculus" EXACT []
+synonym: "mammillotegmental tract of hypothalamus" EXACT []
+synonym: "mammillotegmental tract" EXACT []
+synonym: "von Gudden's tract" EXACT []
+
+[Term]
+id: MBA:682
+name: Nucleus of the solitary tract, lateral part
+
+[Term]
+id: MBA:683
+name: Posterior parietal association areas, layer 5
+
+[Term]
+id: MBA:684
+name: Dorsomedial nucleus of the hypothalamus, ventral part
+
+[Term]
+id: MBA:685
+name: Ventral medial nucleus of the thalamus
+synonym: "nucleus ventralis lateralis thalami, pars medialis" EXACT []
+synonym: "nucleus ventrooralis medialis (hassler)" EXACT []
+synonym: "ventral lateral nucleus, medial part" EXACT []
+synonym: "ventral medial nucleus of thalamus" EXACT []
+synonym: "ventral medial nucleus" EXACT []
+synonym: "vMp (Macchi)" EXACT []
+
+[Term]
+id: MBA:686
+name: Primary somatosensory area, layer 6a
+
+[Term]
+id: MBA:687
+name: Retrosplenial area, ventral part, layer 5
+
+[Term]
+id: MBA:688
+name: Cerebral cortex
+synonym: "cortex of cerebral hemisphere" EXACT []
+
+[Term]
+id: MBA:689
+name: Ventrolateral preoptic nucleus
+synonym: "nucleus dorsointermedius externus magnocellularis (hassler)" EXACT []
+synonym: "nucleus lateralis intermedius mediodorsalis situs postremus" EXACT []
+synonym: "nucleus ventralis lateralis thalami, pars postrema" EXACT []
+synonym: "posterodorsal part of ventral lateral posterior nucleus (jones)" EXACT []
+synonym: "ventral lateral nucleus (pars postrema)" EXACT []
+synonym: "vLps" EXACT []
+
+[Term]
+id: MBA:69
+name: Spinal nucleus of the trigeminal, oral part, ventrolateral part
+
+[Term]
+id: MBA:690
+name: mammilothalmic tract
+
+[Term]
+id: MBA:691
+name: Nucleus of the solitary tract, medial part
+
+[Term]
+id: MBA:692
+name: Perirhinal area, layer 5
+
+[Term]
+id: MBA:693
+name: Ventromedial hypothalamic nucleus
+synonym: "ventromedial hypothalamic nucleus" EXACT []
+
+[Term]
+id: MBA:694
+name: Agranular insular area, ventral part, layer 2/3
+
+[Term]
+id: MBA:695
+name: Cortical plate
+synonym: "cerebral cortex cortical plate" EXACT []
+synonym: "future cortical layers II-VI" EXACT []
+synonym: "neocortex cortical plate" EXACT []
+
+[Term]
+id: MBA:696
+name: Posterior auditory area, layer 1
+
+[Term]
+id: MBA:697
+name: medial lemniscus
+
+[Term]
+id: MBA:698
+name: Olfactory areas
+
+[Term]
+id: MBA:699
+name: Agranular insular area, ventral part, layer 6b
+
+[Term]
+id: MBA:7
+name: Principal sensory nucleus of the trigeminal
+synonym: "chief sensory nucleus" EXACT []
+synonym: "main sensory nucleus of cranial nerve v" EXACT []
+synonym: "main sensory nucleus" EXACT []
+synonym: "principal sensory nucleus of trigeminal nerve" EXACT []
+synonym: "principal sensory nucleus" EXACT []
+synonym: "principal sensory trigeminal nucleus" EXACT []
+synonym: "principal trigeminal nucleus" EXACT []
+synonym: "superior trigeminal nucleus" EXACT []
+synonym: "superior trigeminal sensory nucleus" EXACT []
+synonym: "trigeminal nerve superior sensory nucleus" EXACT []
+synonym: "trigeminal V chief sensory nucleus" EXACT []
+synonym: "trigeminal V principal sensory nucleus" EXACT []
+
+[Term]
+id: MBA:70
+name: midbrain related
+
+[Term]
+id: MBA:700
+name: Anterior hypothalamic nucleus, anterior part
+synonym: "anterior nucleus of hypothalamus anterior part" EXACT []
+
+[Term]
+id: MBA:701
+name: Vestibular nuclei
+synonym: "nuclei vestibulares in medulla oblongata" EXACT []
+synonym: "vestibular nuclei in medulla oblongata" EXACT []
+synonym: "vestibular nuclei" EXACT []
+
+[Term]
+id: MBA:702
+name: Primary somatosensory area, nose, layer 5
+
+[Term]
+id: MBA:703
+name: Cortical subplate
+
+[Term]
+id: MBA:704
+name: Agranular insular area, ventral part, layer 1
+
+[Term]
+id: MBA:705
+name: midbrain tract of the trigeminal nerve
+synonym: "mesencephalic root of v" EXACT []
+synonym: "mesencephalic trigeminal tract" EXACT []
+
+[Term]
+id: MBA:706
+name: Olivary pretectal nucleus
+synonym: "nucleus praetectalis olivaris" EXACT []
+synonym: "olivary nucleus of superior colliculus" EXACT []
+synonym: "pretectal olivary nucleus" EXACT []
+
+[Term]
+id: MBA:707
+name: Infralimbic area, layer 1
+
+[Term]
+id: MBA:708
+name: Anterior hypothalamic nucleus, central part
+synonym: "anterior nucleus of hypothalamus central part" EXACT []
+
+[Term]
+id: MBA:709
+name: Ventral posterior complex of the thalamus
+synonym: "nucleus ventrales posteriores" EXACT []
+synonym: "nucleus ventralis posterior" EXACT []
+synonym: "ventral posterior nucleus" EXACT []
+synonym: "ventral posterior thalamic nucleus" EXACT []
+synonym: "ventrobasal complex" EXACT []
+synonym: "ventrobasal nucleus" EXACT []
+
+[Term]
+id: MBA:71
+name: Paraventricular hypothalamic nucleus, magnocellular division
+synonym: "paraventricular nucleus of the hypothalamus magnocellular division" EXACT []
+
+[Term]
+id: MBA:710
+name: abducens nerve
+synonym: "abducens nerve [VI]" EXACT []
+synonym: "abducens nerve tree" EXACT []
+synonym: "abducens VI nerve" EXACT []
+synonym: "abducent nerve [VI]" EXACT []
+synonym: "lateral rectus nerve" EXACT []
+synonym: "nervus abducens [VI]" EXACT []
+synonym: "nervus abducens" EXACT []
+synonym: "sixth cranial nerve" EXACT []
+
+[Term]
+id: MBA:711
+name: Cuneate nucleus
+synonym: "Burdach's nucleus" EXACT []
+synonym: "burdachs nucleus" EXACT []
+synonym: "cuneate" EXACT []
+
+[Term]
+id: MBA:712
+name: Entorhinal area, medial part, dorsal zone, layer 4
+
+[Term]
+id: MBA:713
+name: perforant path
+
+[Term]
+id: MBA:714
+name: Orbital area
+
+[Term]
+id: MBA:715
+name: Entorhinal area, lateral part, layer 2a
+
+[Term]
+id: MBA:716
+name: Anterior hypothalamic nucleus, dorsal part
+synonym: "anterior nucleus of hypothalamus dorsal part" EXACT []
+
+[Term]
+id: MBA:717
+name: accessory spinal nerve
+synonym: "accessory nerve [XI]" EXACT []
+synonym: "accessory nerve" EXACT []
+synonym: "accessory XI nerve" EXACT []
+synonym: "accessory XI" EXACT []
+synonym: "cervical accessory nerve" EXACT []
+synonym: "cranial nerve XI" EXACT []
+synonym: "eleventh cranial nerve" EXACT []
+synonym: "nervus accessorius [XI]" EXACT []
+synonym: "pars spinalis nervus accessorius" EXACT []
+synonym: "radix spinalis nervus accessorius" EXACT []
+synonym: "spinal accessory nerve tree" EXACT []
+synonym: "spinal accessory nerve" EXACT []
+synonym: "spinal part of accessory nerve" EXACT []
+synonym: "Willis' nerve" EXACT []
+
+[Term]
+id: MBA:718
+name: Ventral posterolateral nucleus of the thalamus
+synonym: "nucleus ventralis posterior lateralis thalami" EXACT []
+synonym: "nucleus ventralis posterolateralis thalami" EXACT []
+synonym: "nucleus ventralis posterolateralis" EXACT []
+synonym: "nucleus ventralis thalami posterior lateralis" EXACT []
+synonym: "posterolateral ventral nucleus of thalamus" EXACT []
+synonym: "posterolateral ventral nucleus of the thalamus" EXACT []
+synonym: "ventral posterolateral nucleus of thalamus" EXACT []
+synonym: "ventral posterolateral nucleus of the thalamus" EXACT []
+synonym: "ventral posterolateral thalamic nucleus" EXACT []
+
+[Term]
+id: MBA:719
+name: Primary somatosensory area, layer 6b
+
+[Term]
+id: MBA:72
+name: Anterodorsal preoptic nucleus
+
+[Term]
+id: MBA:720
+name: Dorsal column nuclei
+
+[Term]
+id: MBA:721
+name: Primary visual area, layer 4
+
+[Term]
+id: MBA:722
+name: periventricular bundle of the thalamus
+
+[Term]
+id: MBA:723
+name: Orbital area, lateral part
+
+[Term]
+id: MBA:724
+name: Anterior hypothalamic nucleus, posterior part
+synonym: "anterior nucleus of hypothalamus posterior part" EXACT []
+
+[Term]
+id: MBA:725
+name: Ventral posterolateral nucleus of the thalamus, parvicellular part
+
+[Term]
+id: MBA:726
+name: Dentate gyrus
+synonym: "area dentata" EXACT []
+synonym: "dentate area (dentate gyrus)" EXACT []
+synonym: "dentate gyrus" EXACT []
+synonym: "fascia dentata" NARROW []
+
+[Term]
+id: MBA:727
+name: Entorhinal area, medial part, dorsal zone, layer 5
+
+[Term]
+id: MBA:728
+name: arbor vitae
+
+[Term]
+id: MBA:729
+name: Temporal association areas, layer 6a
+
+[Term]
+id: MBA:73
+name: ventricular systems
+synonym: "CNS ventricular system" EXACT []
+synonym: "ventricular system of neuraxis" EXACT []
+synonym: "ventricular system" EXACT []
+
+[Term]
+id: MBA:730
+name: pineal stalk
+synonym: "epiphyseal stalk" EXACT []
+synonym: "pineal stalk" EXACT []
+
+[Term]
+id: MBA:731
+name: Orbital area, medial part
+
+[Term]
+id: MBA:732
+name: Medial mammillary nucleus, median part
+synonym: "medial mammillary nucleus (carpenter)" EXACT []
+synonym: "medial mammillary nucleus, medial part" EXACT []
+synonym: "medial mammillary nucleus, median part" EXACT []
+synonym: "medial subdivision of medial mammillary nucleus" EXACT []
+
+[Term]
+id: MBA:733
+name: Ventral posteromedial nucleus of the thalamus
+synonym: "arcuate nucleus of thalamus" EXACT []
+synonym: "arcuate nucleus of the thalamus" EXACT []
+synonym: "arcuate nucleus-3" EXACT []
+synonym: "nucleus arcuatus thalami" EXACT []
+synonym: "nucleus semilunaris thalami" EXACT []
+synonym: "nucleus ventralis posterior medialis thalami" EXACT []
+synonym: "nucleus ventralis posteromedialis thalami" EXACT []
+synonym: "nucleus ventralis posteromedialis" EXACT []
+synonym: "nucleus ventrocaudalis anterior internus (hassler)" EXACT []
+synonym: "posteromedial ventral nucleus of thalamus" EXACT []
+synonym: "posteromedial ventral nucleus of the thalamus" EXACT []
+synonym: "posteromedial ventral nucleus" EXACT []
+synonym: "semilunar nucleus" EXACT []
+synonym: "thalamic gustatory nucleus" EXACT []
+synonym: "ventral posterior medial nucleus of thalamus" EXACT []
+synonym: "ventral posterior medial nucleus" EXACT []
+synonym: "ventral posteromedial nucleus of thalamus" EXACT []
+synonym: "ventral posteromedial nucleus of the thalamus" EXACT []
+synonym: "ventral posteromedial thalamic nucleus" EXACT []
+synonym: "ventroposteromedial nucleus of the thalamus" EXACT []
+
+[Term]
+id: MBA:734
+name: Dentate gyrus crest
+
+[Term]
+id: MBA:735
+name: Primary auditory area, layer 1
+
+[Term]
+id: MBA:736
+name: central tegmental bundle
+
+[Term]
+id: MBA:737
+name: postcommissural fornix
+synonym: "fornix (entering Corpus mamillare)" EXACT []
+synonym: "postcommissural fornix" EXACT []
+
+[Term]
+id: MBA:738
+name: Orbital area, ventral part
+
+[Term]
+id: MBA:739
+name: Anterior cingulate area, layer 5
+
+[Term]
+id: MBA:74
+name: Lateral visual area, layer 6a
+
+[Term]
+id: MBA:740
+name: Medial preoptic nucleus, central part
+
+[Term]
+id: MBA:741
+name: Ventral posteromedial nucleus of the thalamus, parvicellular part
+synonym: "gustatory nucleus (thalamus)" EXACT []
+synonym: "gustatory thalamic nucleus" EXACT []
+synonym: "nucleus ventralis posterior medialis thalami, pars parvicellularis" EXACT []
+synonym: "pars parvicellularis nuclei ventralis posteromedialis thalami" EXACT []
+synonym: "parvicellular part of ventral posteromedial nucleus of thalamus" EXACT []
+synonym: "ventral posteromedial nucleus of thalamus, parvicellular part" EXACT []
+synonym: "ventral posteromedial nucleus, parvocellular part" EXACT []
+synonym: "ventral posteromedial thalamic nucleus, parvicellular part" EXACT []
+synonym: "ventroposteromedial nucleus of the thalamus, parvicellular part" EXACT []
+
+[Term]
+id: MBA:742
+name: Dentate gyrus crest, molecular layer
+
+[Term]
+id: MBA:743
+name: Entorhinal area, medial part, dorsal zone, layer 6
+
+[Term]
+id: MBA:744
+name: cerebellar commissure
+synonym: "commissura cerebelli" EXACT []
+synonym: "commissure of cerebellum" EXACT []
+
+[Term]
+id: MBA:745
+name: precommissural fornix, general
+
+[Term]
+id: MBA:746
+name: Orbital area, ventrolateral part
+
+[Term]
+id: MBA:747
+name: Infralimbic area, layer 2
+
+[Term]
+id: MBA:748
+name: Medial preoptic nucleus, lateral part
+
+[Term]
+id: MBA:749
+name: Ventral tegmental area
+synonym: "a10a" EXACT []
+synonym: "ventral tegmental area of tsai" EXACT []
+synonym: "ventral tegmental nucleus (tsai)" EXACT []
+synonym: "ventral tegmental nucleus of tsai" EXACT []
+
+[Term]
+id: MBA:75
+name: Dorsal terminal nucleus of the accessory optic tract
+synonym: "dorsal terminal nucleus of accessory optic tract" EXACT []
+synonym: "dorsal terminal nucleus of the accessory optic tract" EXACT []
+synonym: "nucleus accessorius posterior tractus optici" EXACT []
+synonym: "posterior accessory nucleus of optic tract" EXACT []
+synonym: "posterior terminal nucleus of accessory optic tract" EXACT []
+
+[Term]
+id: MBA:750
+name: Posterolateral visual area, layer 1
+
+[Term]
+id: MBA:751
+name: Dentate gyrus crest, polymorph layer
+
+[Term]
+id: MBA:752
+name: cerebellar peduncles
+synonym: "cerebellar peduncles and decussations" EXACT []
+synonym: "cerebellar peduncles set" EXACT []
+synonym: "cerebellar peduncles" EXACT []
+synonym: "cerebellum peduncles" EXACT []
+synonym: "pedunculi cerebellares" EXACT []
+
+[Term]
+id: MBA:753
+name: principal mammillary tract
+synonym: "principal mammillary fasciculus" EXACT []
+synonym: "principal mammillary tract" EXACT []
+synonym: "principle mamillary fasciculus" EXACT []
+
+[Term]
+id: MBA:754
+name: Olfactory tubercle
+synonym: "tuberculum olfactorium" EXACT []
+
+[Term]
+id: MBA:755
+name: Ventral auditory area, layer 2/3
+
+[Term]
+id: MBA:756
+name: Medial preoptic nucleus, medial part
+
+[Term]
+id: MBA:757
+name: Ventral tegmental nucleus
+synonym: "deep tegmental nucleus of Gudden" EXACT []
+synonym: "ventral raphe tegmental nucleus" EXACT []
+synonym: "ventral tegmental nuclei" EXACT []
+synonym: "ventral tegmental nucleus (gudden)" EXACT []
+synonym: "ventral tegmental nucleus of gudden" EXACT []
+
+[Term]
+id: MBA:758
+name: Dentate gyrus crest, granule cell layer
+
+[Term]
+id: MBA:759
+name: Posterior auditory area, layer 4
+
+[Term]
+id: MBA:76
+name: Interstitial nucleus of the vestibular nerve
+
+[Term]
+id: MBA:760
+name: cerebral nuclei related
+
+[Term]
+id: MBA:761
+name: Ventromedial hypothalamic nucleus, anterior part
+
+[Term]
+id: MBA:762
+name: propriohypothalamic pathways, dorsal
+
+[Term]
+id: MBA:763
+name: Vascular organ of the lamina terminalis
+synonym: "organum vasculosum lamina terminalis" EXACT []
+synonym: "organum vasculosum laminae terminalis" EXACT []
+synonym: "OVLT" EXACT []
+synonym: "prechiasmatic gland" EXACT []
+synonym: "vascular organ of lamina terminalis" EXACT []
+
+[Term]
+id: MBA:764
+name: Entorhinal area, lateral part, layer 2b
+
+[Term]
+id: MBA:765
+name: Nucleus x
+
+[Term]
+id: MBA:766
+name: Dentate gyrus lateral blade
+
+[Term]
+id: MBA:767
+name: Secondary motor area, layer 5
+
+[Term]
+id: MBA:768
+name: cerebrum related
+
+[Term]
+id: MBA:769
+name: Ventromedial hypothalamic nucleus, central part
+
+[Term]
+id: MBA:77
+name: Spinal nucleus of the trigeminal, oral part, caudal dorsomedial part
+
+[Term]
+id: MBA:770
+name: propriohypothalamic pathways, lateral
+
+[Term]
+id: MBA:771
+name: Pons
+synonym: "pons of Varolius" EXACT []
+synonym: "pons Varolii" EXACT []
+
+[Term]
+id: MBA:772
+name: Anterior cingulate area, ventral part, layer 5
+
+[Term]
+id: MBA:773
+name: Hypoglossal nucleus
+synonym: "hypoglossal nerve nucleus" EXACT []
+synonym: "hypoglossal nucleus" EXACT []
+synonym: "hypoglossal XII nucleus" EXACT []
+synonym: "nucleus nervi hypoglossi" EXACT []
+synonym: "nucleus of hypoglossal nerve" EXACT []
+synonym: "twelfth cranial nerve nucleus" EXACT []
+
+[Term]
+id: MBA:774
+name: Retrosplenial area, lateral agranular part, layer 5
+
+[Term]
+id: MBA:775
+name: Dentate gyrus lateral blade, molecular layer
+
+[Term]
+id: MBA:776
+name: corpus callosum
+
+[Term]
+id: MBA:777
+name: Ventromedial hypothalamic nucleus, dorsomedial part
+
+[Term]
+id: MBA:778
+name: Primary visual area, layer 5
+
+[Term]
+id: MBA:779
+name: propriohypothalamic pathways, medial
+
+[Term]
+id: MBA:78
+name: middle cerebellar peduncle
+synonym: "brachium pontis" EXACT []
+
+[Term]
+id: MBA:780
+name: Posterior amygdalar nucleus
+synonym: "posterior amygdalar nucleus" EXACT []
+
+[Term]
+id: MBA:781
+name: Nucleus y
+
+[Term]
+id: MBA:782
+name: Dentate gyrus lateral blade, polymorph layer
+
+[Term]
+id: MBA:783
+name: Agranular insular area, dorsal part, layer 6a
+
+[Term]
+id: MBA:784
+name: corticospinal tract
+synonym: "corticospinal fibers" EXACT []
+synonym: "fasciculus cerebro-spinalis" EXACT []
+synonym: "fasciculus pyramidalis" EXACT []
+synonym: "fibrae corticospinales" EXACT []
+synonym: "pyramid (Willis)" EXACT []
+synonym: "tractus cortico-spinalis" EXACT []
+synonym: "tractus corticospinalis" EXACT []
+synonym: "tractus pyramidalis" EXACT []
+
+[Term]
+id: MBA:785
+name: Ventromedial hypothalamic nucleus, ventrolateral part
+
+[Term]
+id: MBA:786
+name: Temporal association areas, layer 6b
+
+[Term]
+id: MBA:787
+name: propriohypothalamic pathways, ventral
+
+[Term]
+id: MBA:788
+name: Piriform-amygdalar area
+
+[Term]
+id: MBA:789
+name: Nucleus z
+
+[Term]
+id: MBA:79
+name: Paraventricular hypothalamic nucleus, magnocellular division, medial magnocellular part
+synonym: "paraventricular nucleus of the hypothalamus magnocellular division - medial magnocellular part" EXACT []
+
+[Term]
+id: MBA:790
+name: Dentate gyrus lateral blade, granule cell layer
+
+[Term]
+id: MBA:791
+name: Posterior auditory area, layer 5
+
+[Term]
+id: MBA:792
+name: dorsal roots
+
+[Term]
+id: MBA:793
+name: Primary somatosensory area, layer 1
+
+[Term]
+id: MBA:794
+name: spinal tract of the trigeminal nerve
+
+[Term]
+id: MBA:795
+name: Periaqueductal gray
+synonym: "anulus of cerebral aqueduct" EXACT []
+synonym: "central (periaqueductal) gray" EXACT []
+synonym: "midbrain periaqueductal grey" EXACT []
+synonym: "periaqueductal gray matter" EXACT []
+synonym: "periaqueductal gray of tegmentum" EXACT []
+synonym: "periaqueductal gray" EXACT []
+synonym: "periaqueductal grey matter" EXACT []
+synonym: "periaqueductal grey substance" EXACT []
+synonym: "periaqueductal grey" EXACT []
+
+[Term]
+id: MBA:796
+name: Dopaminergic A13 group
+
+[Term]
+id: MBA:797
+name: Zona incerta
+
+[Term]
+id: MBA:798
+name: facial nerve
+synonym: "branchiomeric cranial nerve" EXACT []
+synonym: "face nerve" EXACT []
+synonym: "Facial nerve [VII]" EXACT []
+synonym: "facial nerve tree" EXACT []
+synonym: "facial VII nerve" EXACT []
+synonym: "facial VII" EXACT []
+synonym: "nerve of face" EXACT []
+synonym: "nervus facialis [vii]" EXACT []
+synonym: "nervus facialis" EXACT []
+synonym: "seventh cranial nerve" EXACT []
+
+[Term]
+id: MBA:799
+name: Dentate gyrus medial blade
+
+[Term]
+id: MBA:8
+name: Basic cell groups and regions
+
+[Term]
+id: MBA:80
+name: Anterior hypothalamic area
+
+[Term]
+id: MBA:800
+name: Agranular insular area, ventral part, layer 5
+
+[Term]
+id: MBA:801
+name: Visual areas, layer 1
+
+[Term]
+id: MBA:802
+name: stria medullaris
+synonym: "stria habenularis" EXACT []
+synonym: "stria medullaris (wenzel - wenzel)" EXACT []
+synonym: "stria medullaris of thalamus" EXACT []
+synonym: "stria medullaris thalami" EXACT []
+synonym: "stria medullaris thalamica" EXACT []
+
+[Term]
+id: MBA:803
+name: Pallidum
+synonym: "neuraxis pallidum" EXACT []
+synonym: "pallidum of neuraxis" EXACT []
+
+[Term]
+id: MBA:804
+name: Fields of Forel
+
+[Term]
+id: MBA:805
+name: posteromedial visual area, layer 1
+
+[Term]
+id: MBA:806
+name: Supplemental somatosensory area, layer 2/3
+
+[Term]
+id: MBA:807
+name: Dentate gyrus medial blade, molecular layer
+
+[Term]
+id: MBA:808
+name: glossopharyngeal nerve
+synonym: "glossopharyngeal IX nerve" EXACT []
+synonym: "glossopharyngeal IX" EXACT []
+synonym: "glossopharyngeal nerve [IX]" EXACT []
+synonym: "glossopharyngeal nerve tree" EXACT []
+synonym: "nervus glossopharyngeus [ix]" EXACT []
+synonym: "nervus glossopharyngeus" EXACT []
+synonym: "ninth cranial nerve" EXACT []
+
+[Term]
+id: MBA:809
+name: Pallidum, caudal region
+
+[Term]
+id: MBA:81
+name: lateral ventricle
+synonym: "lateral ventricle" EXACT []
+synonym: "lateral ventricles" EXACT []
+synonym: "telencephalic ventricle" EXACT []
+synonym: "telencephalon lateral ventricle" EXACT []
+
+[Term]
+id: MBA:810
+name: Anterior cingulate area, ventral part, 6a
+
+[Term]
+id: MBA:811
+name: Inferior colliculus, central nucleus
+synonym: "chief nucleus of inferior colliculus" EXACT []
+synonym: "inferior colliculus, central nucleus" EXACT []
+synonym: "nucleus centralis colliculi inferioris" EXACT []
+synonym: "nucleus of inferior colliculus (Crosby)" EXACT []
+
+[Term]
+id: MBA:812
+name: superior cerebellar peduncle decussation
+synonym: "decussatio pedunculorum cerebellarium superiorum" EXACT []
+synonym: "decussation of brachium conjunctivum" EXACT []
+synonym: "decussation of superior cerebellar peduncles" EXACT []
+synonym: "superior cerebellar peduncle decussation" EXACT []
+synonym: "Wernekink's decussation" EXACT []
+
+[Term]
+id: MBA:813
+name: hypoglossal nerve
+synonym: "cranial nerve XII" EXACT []
+synonym: "Hypoglossal nerve [XII]" EXACT []
+synonym: "hypoglossal nerve tree" EXACT []
+synonym: "hypoglossal XII nerve" EXACT []
+synonym: "hypoglossal XII" EXACT []
+synonym: "nervus hypoglossus [xii]" EXACT []
+synonym: "twelfth cranial nerve" EXACT []
+
+[Term]
+id: MBA:814
+name: Dorsal peduncular area
+
+[Term]
+id: MBA:815
+name: Dentate gyrus medial blade, polymorph layer
+
+[Term]
+id: MBA:816
+name: Primary auditory area, layer 4
+
+[Term]
+id: MBA:817
+name: supraoptic commissures, anterior
+
+[Term]
+id: MBA:818
+name: Pallidum, dorsal region
+synonym: "globus pallidus dorsal part" EXACT []
+
+[Term]
+id: MBA:819
+name: Anterior cingulate area, ventral part, 6b
+
+[Term]
+id: MBA:82
+name: Nucleus of the lateral lemniscus, dorsal part
+synonym: "dorsal nucleus of the lateral lemniscus" EXACT []
+synonym: "nucleus of the lateral lemniscus, dorsal part" EXACT []
+synonym: "nucleus posterior lemnisci lateralis" EXACT []
+synonym: "posterior nucleus of lateral lemniscus" EXACT []
+
+[Term]
+id: MBA:820
+name: Inferior colliculus, dorsal nucleus
+synonym: "cortex of inferior colliculus" EXACT []
+synonym: "nucleus pericentralis colliculi inferioris" EXACT []
+
+[Term]
+id: MBA:821
+name: Primary visual area, layer 2/3
+
+[Term]
+id: MBA:822
+name: Retrohippocampal region
+synonym: "retrohippocampal cortex" EXACT []
+
+[Term]
+id: MBA:823
+name: Dentate gyrus medial blade, granule cell layer
+
+[Term]
+id: MBA:824
+name: hypothalamus related
+
+[Term]
+id: MBA:825
+name: supraoptic commissures, dorsal
+synonym: "commissura supraoptica dorsalis" EXACT []
+synonym: "commissure of Meynert" EXACT []
+synonym: "dorsal supra-optic commissure" EXACT []
+synonym: "dorsal supraoptic commissure (of ganser)" EXACT []
+synonym: "dorsal supraoptic commissure" EXACT []
+synonym: "dorsal supraoptic decussation (of ganser)" EXACT []
+synonym: "dorsal supraoptic decussation (of Meynert)" EXACT []
+synonym: "dorsal supraoptic decussation of Meynert" EXACT []
+synonym: "ganser's commissure" EXACT []
+synonym: "Meynert's commissure" EXACT []
+synonym: "supraoptic commissure of Meynert" EXACT []
+synonym: "supraoptic commissures, dorsal" EXACT []
+
+[Term]
+id: MBA:826
+name: Pallidum, medial region
+
+[Term]
+id: MBA:827
+name: Infralimbic area, layer 5
+
+[Term]
+id: MBA:828
+name: Inferior colliculus, external nucleus
+synonym: "nucleus externus colliculi inferioris" EXACT []
+synonym: "nucleus lateralis colliculi inferioris" EXACT []
+
+[Term]
+id: MBA:829
+name: Subiculum, dorsal part, molecular layer
+
+[Term]
+id: MBA:83
+name: Inferior olivary complex
+synonym: "inferior olivary nuclear complex" EXACT []
+synonym: "inferior olive" EXACT []
+synonym: "oliva" EXACT []
+
+[Term]
+id: MBA:830
+name: Dorsomedial nucleus of the hypothalamus
+synonym: "dorsomedial hypothalamic nucleus" EXACT []
+synonym: "dorsomedial nucleus of dorsal hypothalamus" EXACT []
+synonym: "dorsomedial nucleus of intermediate hypothalamus" EXACT []
+
+[Term]
+id: MBA:831
+name: Agranular insular area, dorsal part, layer 6b
+
+[Term]
+id: MBA:832
+name: oculomotor nerve
+synonym: "nervus oculomotorius [III]" EXACT []
+synonym: "nervus oculomotorius" EXACT []
+synonym: "oculomotor III nerve" EXACT []
+synonym: "oculomotor III" EXACT []
+synonym: "oculomotor nerve [III]" EXACT []
+synonym: "oculomotor nerve tree" EXACT []
+synonym: "third cranial nerve" EXACT []
+
+[Term]
+id: MBA:833
+name: supraoptic commissures, ventral
+synonym: "commissura supraoptica ventralis" EXACT []
+synonym: "commissure of Gudden" EXACT []
+synonym: "Gudden commissure" EXACT []
+synonym: "Gudden's commissure" EXACT []
+synonym: "supraoptic commissures, ventral" EXACT []
+synonym: "ventral supra-optic commissure" EXACT []
+synonym: "ventral supraoptic commissure (of Meynert)" EXACT []
+synonym: "ventral supraoptic decussation" EXACT []
+synonym: "von Gudden's commissure" EXACT []
+synonym: "VSOX" EXACT []
+
+[Term]
+id: MBA:834
+name: Superior colliculus, zonal layer
+synonym: "lamina colliculi superioris I" EXACT []
+synonym: "lamina I of superior colliculus" EXACT []
+synonym: "layer I of superior colliculus" EXACT []
+synonym: "stratum zonale colliculi superioris" EXACT []
+synonym: "stratum zonale of midbrain" EXACT []
+synonym: "stratum zonale of superior colliculus" EXACT []
+
+[Term]
+id: MBA:835
+name: Pallidum, ventral region
+synonym: "globus pallidus ventral part" EXACT []
+synonym: "ventral pallidum" EXACT []
+
+[Term]
+id: MBA:836
+name: Ectorhinal area/Layer 1
+
+[Term]
+id: MBA:837
+name: Subiculum, dorsal part, stratum radiatum
+
+[Term]
+id: MBA:838
+name: Primary somatosensory area, nose, layer 2/3
+
+[Term]
+id: MBA:839
+name: Dorsal motor nucleus of the vagus nerve
+synonym: "dorsal efferent nucleus of vagus" EXACT []
+synonym: "dorsal motor nucleus of the vagus (vagal nucleus)" EXACT []
+synonym: "dorsal motor nucleus of vagus X nerve" EXACT []
+synonym: "dorsal vagal nucleus" EXACT []
+synonym: "nucleus alaris" EXACT []
+
+[Term]
+id: MBA:84
+name: Prelimbic area, layer 6a
+
+[Term]
+id: MBA:840
+name: olfactory nerve
+synonym: "first cranial nerve" EXACT []
+synonym: "nervus olfactorius [i]" EXACT []
+synonym: "olfactory i nerve" EXACT []
+synonym: "olfactory I" EXACT []
+synonym: "Olfactory nerve [I]" EXACT []
+
+[Term]
+id: MBA:841
+name: trapezoid body
+
+[Term]
+id: MBA:842
+name: Superior colliculus, superficial gray layer
+synonym: "lamina colliculi superioris ii" EXACT []
+synonym: "lamina II of superior colliculus" EXACT []
+synonym: "layer II of superior colliculus" EXACT []
+synonym: "outer gray layer of superior colliculus" EXACT []
+synonym: "stratum cinereum" EXACT []
+synonym: "stratum griseum superficiale colliculi superioris" EXACT []
+synonym: "stratum griseum superficiale of superior colliculus" EXACT []
+synonym: "stratum griseum superficiale" EXACT []
+synonym: "superficial gray layer of superior colliculus" EXACT []
+synonym: "superficial grey layer of superior colliculus" EXACT []
+synonym: "superior colliculus superficial gray layer" EXACT []
+
+[Term]
+id: MBA:843
+name: Parasubiculum
+synonym: "parasubicular area" EXACT []
+synonym: "parasubicular cortex (parasubiculum)" EXACT []
+synonym: "parasubiculum" EXACT []
+
+[Term]
+id: MBA:844
+name: Primary motor area, Layer 6a
+
+[Term]
+id: MBA:845
+name: Subiculum, dorsal part, pyramidal layer
+
+[Term]
+id: MBA:846
+name: Dentate nucleus
+synonym: "dentate cerebellar nucleus" EXACT []
+synonym: "lateral cerebellar nucleus" EXACT []
+synonym: "lateral nucleus of cerebellum" EXACT []
+
+[Term]
+id: MBA:847
+name: Primary auditory area, layer 5
+
+[Term]
+id: MBA:848
+name: optic nerve
+synonym: "02 optic nerve" EXACT []
+synonym: "cranial II" EXACT []
+synonym: "nervus opticus [II]" EXACT []
+synonym: "nervus opticus" EXACT []
+synonym: "optic II nerve" EXACT []
+synonym: "optic II" EXACT []
+synonym: "optic nerve [II]" EXACT []
+synonym: "second cranial nerve" EXACT []
+
+[Term]
+id: MBA:849
+name: Visceral area, layer 6b
+
+[Term]
+id: MBA:85
+name: spinocerebellar tract
+
+[Term]
+id: MBA:850
+name: uncinate fascicle
+
+[Term]
+id: MBA:851
+name: Superior colliculus, optic layer
+synonym: "lamina colliculi superioris iii" EXACT []
+synonym: "lamina III of superior colliculus" EXACT []
+synonym: "layer III of superior colliculus" EXACT []
+synonym: "optic layer of superior colliculus" EXACT []
+synonym: "optic layer" EXACT []
+synonym: "stratum opticum colliculi superioris" EXACT []
+
+[Term]
+id: MBA:852
+name: Parvicellular reticular nucleus
+synonym: "nucleus reticularis parvocellularis" EXACT []
+synonym: "parvicellular reticular nucleus" EXACT []
+synonym: "parvocellular reticular nucleus" EXACT []
+
+[Term]
+id: MBA:853
+name: Subiculum, ventral part, molecular layer
+
+[Term]
+id: MBA:854
+name: Primary somatosensory area, upper limb, layer 2/3
+
+[Term]
+id: MBA:855
+name: retriculospinal tract
+
+[Term]
+id: MBA:856
+name: Thalamus, polymodal association cortex related
+
+[Term]
+id: MBA:857
+name: Visceral area, layer 6a
+
+[Term]
+id: MBA:858
+name: ventral commissure of the spinal cord
+synonym: "anterior white commissure of spinal cord" EXACT []
+synonym: "anterior white commissure" EXACT []
+synonym: "spinal cord anterior commissure" EXACT []
+synonym: "ventral spinal commissure" EXACT []
+synonym: "ventral white column" EXACT []
+synonym: "ventral white commissure of spinal cord" EXACT []
+
+[Term]
+id: MBA:859
+name: Parasolitary nucleus
+synonym: "nucleus fasciculus solitarius" EXACT []
+synonym: "nucleus juxtasolitarius" EXACT []
+
+[Term]
+id: MBA:86
+name: middle thalamic commissure
+
+[Term]
+id: MBA:860
+name: Parabrachial nucleus, lateral division, central lateral part
+
+[Term]
+id: MBA:861
+name: Subiculum, ventral part, stratum radiatum
+
+[Term]
+id: MBA:862
+name: Supplemental somatosensory area, layer 6a
+
+[Term]
+id: MBA:863
+name: rubrospinal tract
+synonym: "Monakow's tract" EXACT []
+synonym: "rubrospinal tract (Monakow)" EXACT []
+
+[Term]
+id: MBA:864
+name: Thalamus, sensory-motor cortex related
+
+[Term]
+id: MBA:865
+name: Primary somatosensory area, layer 4
+
+[Term]
+id: MBA:866
+name: ventral spinocerebellar tract
+synonym: "gower's tract" EXACT []
+synonym: "gowers' tract" EXACT []
+synonym: "ventral spinocerebellar tract" EXACT []
+
+[Term]
+id: MBA:867
+name: Parabrachial nucleus
+
+[Term]
+id: MBA:868
+name: Parabrachial nucleus, lateral division, dorsal lateral part
+
+[Term]
+id: MBA:869
+name: Posterolateral visual area, layer 4
+
+[Term]
+id: MBA:87
+name: Paraventricular hypothalamic nucleus, parvicellular division, medial parvicellular part, dorsal zone
+
+[Term]
+id: MBA:870
+name: Subiculum, ventral part, pyramidal layer
+
+[Term]
+id: MBA:871
+name: spinothalamic tract
+
+[Term]
+id: MBA:872
+name: Dorsal nucleus raphe
+synonym: "cell group b7" EXACT []
+synonym: "dorsal nucleus of the raphe" EXACT []
+synonym: "dorsal nucleus raphe" EXACT []
+synonym: "dorsal raphe" EXACT []
+synonym: "inferior raphe nucleus" EXACT []
+synonym: "nucleus raphes dorsalis" EXACT []
+synonym: "nucleus raphes posterior" EXACT []
+synonym: "posterior raphe nucleus" EXACT []
+
+[Term]
+id: MBA:873
+name: Supplemental somatosensory area, layer 1
+
+[Term]
+id: MBA:874
+name: Parabigeminal nucleus
+synonym: "nucleus parabigeminalis" EXACT []
+
+[Term]
+id: MBA:875
+name: Parabrachial nucleus, lateral division, external lateral part
+
+[Term]
+id: MBA:876
+name: accessory optic tract
+
+[Term]
+id: MBA:877
+name: tectospinal pathway
+synonym: "Held's bundle" EXACT []
+synonym: "tectospinal pathway" EXACT []
+
+[Term]
+id: MBA:878
+name: Primary somatosensory area, mouth, layer 1
+
+[Term]
+id: MBA:879
+name: Retrosplenial area, dorsal part
+
+[Term]
+id: MBA:88
+name: Anterior hypothalamic nucleus
+synonym: "anterior hypothalamic nucleus" EXACT []
+synonym: "area hypothalamica rostralis" EXACT []
+synonym: "fundamental gray substance" EXACT []
+synonym: "parvocellular nucleus of hypothalamus" EXACT []
+
+[Term]
+id: MBA:880
+name: Dorsal tegmental nucleus
+synonym: "dorsal tegmental nucleus (Gudden)" EXACT []
+synonym: "dorsal tegmental nucleus of gudden" EXACT []
+synonym: "gudden nucleus" EXACT []
+synonym: "nucleus tegmentalis dorsalis" EXACT []
+synonym: "nucleus tegmentalis posterior" EXACT []
+synonym: "posterior tegmental nucleus" EXACT []
+synonym: "von Gudden's nucleus" EXACT []
+
+[Term]
+id: MBA:881
+name: Parabrachial nucleus, lateral division
+
+[Term]
+id: MBA:882
+name: Primary motor area, Layer 6b
+
+[Term]
+id: MBA:883
+name: Parabrachial nucleus, lateral division, superior lateral part
+
+[Term]
+id: MBA:884
+name: amygdalar capsule
+
+[Term]
+id: MBA:885
+name: terminal nerve
+synonym: "cranial nerve 0" EXACT []
+synonym: "cranial nerve zero" EXACT []
+synonym: "nervus terminalis" EXACT []
+synonym: "terminalis nerve" EXACT []
+
+[Term]
+id: MBA:886
+name: Retrosplenial area, ventral part
+
+[Term]
+id: MBA:887
+name: Efferent cochlear group
+
+[Term]
+id: MBA:888
+name: Perirhinal area, layer 2/3
+
+[Term]
+id: MBA:889
+name: Primary somatosensory area, nose, layer 6a
+
+[Term]
+id: MBA:89
+name: rhinocele
+
+[Term]
+id: MBA:890
+name: Parabrachial nucleus, medial division
+
+[Term]
+id: MBA:891
+name: Parabrachial nucleus, lateral division, ventral lateral part
+
+[Term]
+id: MBA:892
+name: ansa peduncularis
+synonym: "ansa peduncularis in thalamo" EXACT []
+synonym: "ansa peduncularis in thalamus" EXACT []
+synonym: "peduncular loop" EXACT []
+
+[Term]
+id: MBA:893
+name: Supplemental somatosensory area, layer 6b
+
+[Term]
+id: MBA:894
+name: Retrosplenial area, lateral agranular part
+
+[Term]
+id: MBA:895
+name: Ectorhinal area
+
+[Term]
+id: MBA:896
+name: thalamus related
+
+[Term]
+id: MBA:897
+name: Visceral area, layer 1
+
+[Term]
+id: MBA:898
+name: Pontine central gray
+synonym: "central gray of pons" EXACT []
+synonym: "griseum centrale pontis" EXACT []
+synonym: "pontine central gray" EXACT []
+
+[Term]
+id: MBA:899
+name: Parabrachial nucleus, medial division, external medial part
+
+[Term]
+id: MBA:9
+name: Primary somatosensory area, trunk, layer 6a
+
+[Term]
+id: MBA:90
+name: Nucleus of the lateral lemniscus, horizontal part
+synonym: "nucleus of the lateral lemniscus, horizontal part" EXACT []
+
+[Term]
+id: MBA:900
+name: anterior commissure, olfactory limb
+synonym: "anterior commissure pars anterior" EXACT []
+synonym: "anterior commissure, anterior part" EXACT []
+synonym: "anterior part of anterior commissure" EXACT []
+synonym: "commissura anterior, crus anterius" EXACT []
+synonym: "commissura anterior, pars anterior" EXACT []
+synonym: "commissura anterior, pars olfactoria" EXACT []
+synonym: "commissura rostralis, pars anterior" EXACT []
+synonym: "olfactory limb of anterior commissure" EXACT []
+synonym: "olfactory part of anterior commissure" EXACT []
+synonym: "pars anterior commissurae anterioris" EXACT []
+synonym: "pars olfactoria commissurae anterioris" EXACT []
+
+[Term]
+id: MBA:901
+name: trigeminal nerve
+synonym: "fifth cranial nerve" EXACT []
+synonym: "nervus trigeminus [v]" EXACT []
+synonym: "nervus trigeminus" EXACT []
+synonym: "trigeminal nerve [V]" EXACT []
+synonym: "trigeminal nerve tree" EXACT []
+synonym: "trigeminal v nerve" EXACT []
+synonym: "trigeminal V" EXACT []
+
+[Term]
+id: MBA:902
+name: Posterolateral visual area, layer 5
+
+[Term]
+id: MBA:903
+name: External cuneate nucleus
+synonym: "external cuneate nucleus" EXACT []
+synonym: "lateral cuneate nucleus" EXACT []
+synonym: "nucleus of corpus restiforme" EXACT []
+
+[Term]
+id: MBA:904
+name: Medial septal complex
+
+[Term]
+id: MBA:905
+name: Anterolateral visual area, layer 2/3
+
+[Term]
+id: MBA:906
+name: Retrosplenial area, lateral agranular part, layer 6a
+
+[Term]
+id: MBA:907
+name: Paracentral nucleus
+synonym: "nucleus centralis lateralis superior (kusama)" EXACT []
+synonym: "nucleus paracentral thalami" EXACT []
+synonym: "nucleus paracentral" EXACT []
+synonym: "nucleus paracentralis thalami" EXACT []
+synonym: "paracentral nucleus of thalamus" EXACT []
+synonym: "paracentral nucleus thalamus (gurdjian 1927)" EXACT []
+synonym: "paracentral thalamic nucleus" EXACT []
+
+[Term]
+id: MBA:908
+name: anterior commissure, temporal limb
+synonym: "anterior commissure pars posterior" EXACT []
+synonym: "anterior commissure temporal limb" EXACT []
+synonym: "anterior commissure, posterior part" EXACT []
+synonym: "commissura anterior, crus posterius" EXACT []
+synonym: "commissura anterior, pars posterior" EXACT []
+synonym: "commissura rostralis, pars posterior" EXACT []
+synonym: "pars posterior commissurae anterioris" EXACT []
+synonym: "temporal limb of anterior commissure" EXACT []
+
+[Term]
+id: MBA:909
+name: Entorhinal area
+synonym: "entorhinal area" EXACT []
+
+[Term]
+id: MBA:91
+name: Interposed nucleus
+
+[Term]
+id: MBA:910
+name: Orbital area, medial part, layer 6a
+
+[Term]
+id: MBA:911
+name: trochlear nerve
+synonym: "cranial nerve IV" EXACT []
+synonym: "fourth cranial nerve" EXACT []
+synonym: "nervus trochlearis [IV]" EXACT []
+synonym: "superior oblique nerve" EXACT []
+synonym: "trochlear IV nerve" EXACT []
+synonym: "trochlear nerve [IV]" EXACT []
+synonym: "trochlear nerve tree" EXACT []
+
+[Term]
+id: MBA:912
+name: Lingula (I)
+synonym: "lingula (I)" EXACT []
+synonym: "lingula of anterior cerebellum vermis" EXACT []
+synonym: "lingula of cerebellum" EXACT []
+synonym: "lobule I of cerebellum vermis" EXACT []
+synonym: "neuraxis lingula" EXACT []
+synonym: "vermic lobule I" EXACT []
+
+[Term]
+id: MBA:913
+name: Visual areas, layer 4
+
+[Term]
+id: MBA:914
+name: Posterodorsal preoptic nucleus
+
+[Term]
+id: MBA:915
+name: Parabrachial nucleus, medial division, medial medial part
+
+[Term]
+id: MBA:916
+name: brachium of the superior colliculus
+synonym: "superior brachium" EXACT []
+synonym: "superior collicular brachium" EXACT []
+synonym: "superior colliculus brachium" EXACT []
+synonym: "superior quadrigeminal brachium" EXACT []
+
+[Term]
+id: MBA:917
+name: vagus nerve
+synonym: "nervus vagus [x]" EXACT []
+synonym: "tenth cranial nerve" EXACT []
+synonym: "Vagus nerve [X]" EXACT []
+synonym: "vagus nerve tree" EXACT []
+synonym: "vagus X nerve" EXACT []
+synonym: "vagus" EXACT []
+
+[Term]
+id: MBA:918
+name: Entorhinal area, lateral part
+synonym: "entorhinal area, lateral part" EXACT []
+
+[Term]
+id: MBA:919
+name: Anterior cingulate area, dorsal part, layer 6a
+
+[Term]
+id: MBA:92
+name: Entorhinal area, lateral part, layer 4
+
+[Term]
+id: MBA:920
+name: Central lobule
+synonym: "central lobule of cerebellum [II and III]" EXACT []
+synonym: "central lobule of cerebellum" EXACT []
+synonym: "lobulus centralis cerebelli [ii et iii]" EXACT []
+
+[Term]
+id: MBA:921
+name: Primary somatosensory area, layer 5
+
+[Term]
+id: MBA:922
+name: Perirhinal area
+synonym: "perirhinal area" EXACT []
+synonym: "perirhinal cortex" EXACT []
+
+[Term]
+id: MBA:923
+name: Parabrachial nucleus, medial division, ventral medial part
+
+[Term]
+id: MBA:924
+name: cerebal peduncle
+synonym: "cerebral peduncle" EXACT []
+synonym: "peduncle of midbrain" EXACT []
+synonym: "pedunculus cerebri" EXACT []
+
+[Term]
+id: MBA:925
+name: ventral roots
+
+[Term]
+id: MBA:926
+name: Entorhinal area, medial part, dorsal zone
+synonym: "entorhinal area, medial part, dorsal zone" EXACT []
+
+[Term]
+id: MBA:927
+name: Anterior cingulate area, dorsal part, layer 6b
+
+[Term]
+id: MBA:928
+name: Culmen
+synonym: "neuraxis culmen" EXACT []
+
+[Term]
+id: MBA:929
+name: Primary somatosensory area, nose, layer 6b
+
+[Term]
+id: MBA:93
+name: motor root of the trigeminal nerve
+synonym: "motor branch of trigeminal nerve" EXACT []
+synonym: "motor root of nervus v" EXACT []
+synonym: "radix motoria (Nervus trigeminus [V])" EXACT []
+synonym: "radix motoria nervus trigemini" EXACT []
+
+[Term]
+id: MBA:930
+name: Parafascicular nucleus
+synonym: "nuclei parafasciculares thalami" EXACT []
+synonym: "nucleus parafascicularis (hassler)" EXACT []
+synonym: "nucleus parafascicularis thalami" EXACT []
+synonym: "nucleus parafascicularis" EXACT []
+synonym: "parafascicular nucleus (vogt)" EXACT []
+synonym: "parafascicular nucleus of thalamus" EXACT []
+synonym: "parafascicular nucleus of the thalamus" EXACT []
+synonym: "parafascicular thalamic nucleus" EXACT []
+
+[Term]
+id: MBA:931
+name: Pontine gray
+synonym: "pontine gray" EXACT []
+synonym: "pontine nuclear complex" EXACT []
+synonym: "pontine nuclear group" EXACT []
+synonym: "pontine nuclei" EXACT []
+synonym: "pontine nucleus" EXACT []
+
+[Term]
+id: MBA:932
+name: cervicothalamic tract
+
+[Term]
+id: MBA:933
+name: vestibulocochlear nerve
+synonym: "acoustic nerve (Crosby)" EXACT []
+synonym: "acoustic nerve" EXACT []
+synonym: "acoustic VIII nerve" EXACT []
+synonym: "CN-VIII" EXACT []
+synonym: "cochlear-vestibular nerve" EXACT []
+synonym: "cochleovestibular nerve" EXACT []
+synonym: "cranial nerve VIII" EXACT []
+synonym: "eighth cranial nerve" EXACT []
+synonym: "nervus vestibulocochlearis [viii]" EXACT []
+synonym: "stato-acoustic nerve" EXACT []
+synonym: "Vestibulocochlear nerve [VIII]" EXACT []
+synonym: "vestibulocochlear nerve tree" EXACT []
+synonym: "vestibulocochlear VIII nerve" EXACT []
+synonym: "VIII nerve" EXACT []
+synonym: "VIIIth cranial nerve" EXACT []
+
+[Term]
+id: MBA:934
+name: Entorhinal area, medial part, ventral zone
+synonym: "entorhinal area, medial part, ventral zone" EXACT []
+
+[Term]
+id: MBA:935
+name: Anterior cingulate area, dorsal part, layer 1
+
+[Term]
+id: MBA:936
+name: Declive (VI)
+synonym: "declive (VI)" EXACT []
+synonym: "declive of cerebellum" EXACT []
+synonym: "declive of vermis of cerebellum" EXACT []
+synonym: "lobule VI (declive and simplex lobule)" EXACT []
+synonym: "lobule VI of cerebellum vermis" EXACT []
+synonym: "neuraxis declive" EXACT []
+synonym: "vermic lobule vi" EXACT []
+
+[Term]
+id: MBA:937
+name: Visual areas, layer 5
+
+[Term]
+id: MBA:938
+name: Paragigantocellular reticular nucleus
+
+[Term]
+id: MBA:939
+name: Nucleus ambiguus, dorsal division
+
+[Term]
+id: MBA:94
+name: Paraventricular hypothalamic nucleus, parvicellular division
+synonym: "paraventricular nucleus of the hypothalamus parvicellular division" EXACT []
+
+[Term]
+id: MBA:940
+name: cingulum bundle
+synonym: "cingulum bundle" EXACT []
+
+[Term]
+id: MBA:941
+name: vestibulospinal pathway
+synonym: "vestibulo-spinal tract" EXACT []
+
+[Term]
+id: MBA:942
+name: Endopiriform nucleus
+synonym: "endopiriform nucleus" EXACT []
+synonym: "Layer 4 of piriform cortex" EXACT []
+synonym: "layer IV of piriform cortex" EXACT []
+
+[Term]
+id: MBA:943
+name: Primary motor area, Layer 2/3
+
+[Term]
+id: MBA:944
+name: Folium-tuber vermis (VII)
+synonym: "folium lobule" NARROW []
+synonym: "folium of cerebellum" EXACT []
+synonym: "folium of vermis of cerebellum" EXACT []
+synonym: "folium-tuber vermis (VII)" EXACT []
+synonym: "lobule VII of cerebellum vermis" EXACT []
+synonym: "neuraxis folium" EXACT []
+synonym: "vermic lobule VII" EXACT []
+
+[Term]
+id: MBA:945
+name: Primary somatosensory area, upper limb, layer 6a
+
+[Term]
+id: MBA:946
+name: Posterior hypothalamic nucleus
+synonym: "area hypothalamica posterior" EXACT []
+synonym: "posterior hypothalamic area" EXACT []
+synonym: "posterior hypothalamic nucleus" EXACT []
+
+[Term]
+id: MBA:947
+name: Somatomotor areas, Layer 6b
+
+[Term]
+id: MBA:948
+name: cochlear nerve
+synonym: "auditory nerve" EXACT []
+synonym: "cochlear root of acoustic nerve" EXACT []
+synonym: "cochlear root of eighth cranial nerve" EXACT []
+synonym: "vestibulocochlear VIII nerve cochlear component" EXACT []
+
+[Term]
+id: MBA:949
+name: vomeronasal nerve
+
+[Term]
+id: MBA:95
+name: Agranular insular area
+
+[Term]
+id: MBA:950
+name: Primary somatosensory area, mouth, layer 4
+
+[Term]
+id: MBA:951
+name: Pyramus (VIII)
+synonym: "cerebellum lobule VIII" EXACT []
+synonym: "lobule VIII of cerebellum vermis" EXACT []
+synonym: "neuraxis pyramis" EXACT []
+synonym: "neuraxis pyramus" EXACT []
+synonym: "pyramis of vermis of cerebellum" EXACT []
+synonym: "pyramis" EXACT []
+synonym: "pyramus (VIII)" EXACT []
+synonym: "pyramus of cerebellum" EXACT []
+synonym: "pyramus of vermis of cerebellum" EXACT []
+synonym: "vermic lobule VIII" EXACT []
+
+[Term]
+id: MBA:952
+name: Endopiriform nucleus, dorsal part
+
+[Term]
+id: MBA:953
+name: Pineal body
+synonym: "corpus pineale" EXACT []
+synonym: "glandula pinealis" EXACT []
+synonym: "pineal gland" EXACT []
+synonym: "pineal organ" EXACT []
+
+[Term]
+id: MBA:954
+name: Primary auditory area, layer 6a
+
+[Term]
+id: MBA:955
+name: Lateral reticular nucleus, magnocellular part
+
+[Term]
+id: MBA:956
+name: corpus callosum, anterior forceps
+
+[Term]
+id: MBA:957
+name: Uvula (IX)
+synonym: "cerebellar posterior vermis lobule IX" EXACT []
+synonym: "lobule IX of cerebellar posterior vermis" EXACT []
+synonym: "lobule IX of cerebellum vermis" EXACT []
+synonym: "neuraxis uvula" EXACT []
+synonym: "uvula (IX)" EXACT []
+synonym: "uvula [vermis]" EXACT []
+synonym: "uvula of cerebellum" EXACT []
+synonym: "uvula of vermis of cerebellum" EXACT []
+synonym: "vermic lobule IX" EXACT []
+
+[Term]
+id: MBA:958
+name: Epithalamus
+
+[Term]
+id: MBA:959
+name: Ventral auditory area, layer 1
+
+[Term]
+id: MBA:96
+name: Dorsal cochlear nucleus
+synonym: "dorsal cochlear nucleus" EXACT []
+synonym: "dorsal division of cochlear nucleus" EXACT []
+synonym: "posterior cochlear nucleus" EXACT []
+synonym: "tuberculum acousticum" EXACT []
+
+[Term]
+id: MBA:960
+name: cerebellum related fiber tracts
+
+[Term]
+id: MBA:961
+name: Piriform area
+synonym: "(pre-)piriform cortex" EXACT []
+synonym: "gyrus olfactorius lateralis" EXACT []
+synonym: "lateral olfactory gyrus" EXACT []
+synonym: "piriform cortex (price)" EXACT []
+synonym: "piriform olfactory cortex" EXACT []
+synonym: "prepiriform cortex" EXACT []
+synonym: "prepyriform cortex" EXACT []
+synonym: "pyriform area" EXACT []
+
+[Term]
+id: MBA:962
+name: Secondary motor area, layer 2/3
+
+[Term]
+id: MBA:963
+name: Lateral reticular nucleus, parvicellular part
+
+[Term]
+id: MBA:964
+name: corpus callosum, extreme capsule
+
+[Term]
+id: MBA:965
+name: Retrosplenial area, lateral agranular part, layer 2/3
+
+[Term]
+id: MBA:966
+name: Endopiriform nucleus, ventral part
+
+[Term]
+id: MBA:967
+name: cranial nerves
+synonym: "cranial neural tree organ" EXACT []
+
+[Term]
+id: MBA:968
+name: Nodulus (X)
+synonym: "lobule X of cerebellum vermis" EXACT []
+synonym: "neuraxis nodulus" EXACT []
+synonym: "nodulus (X)" EXACT []
+synonym: "nodulus of cerebellum" EXACT []
+synonym: "nodulus of vermis of cerebellum" EXACT []
+synonym: "vermic lobule X" EXACT []
+
+[Term]
+id: MBA:969
+name: Orbital area, ventrolateral part, layer 1
+
+[Term]
+id: MBA:97
+name: Temporal association areas, layer 1
+
+[Term]
+id: MBA:970
+name: Paragigantocellular reticular nucleus, dorsal part
+synonym: "dorsal paragigantocellular reticular nucleus" EXACT []
+synonym: "paragigantocellular nucleus, dorsal part" EXACT []
+synonym: "posterior paragigantocellular reticular nucleus" EXACT []
+
+[Term]
+id: MBA:971
+name: corpus callosum, posterior forceps
+
+[Term]
+id: MBA:972
+name: Prelimbic area
+synonym: "area 32 of Brodmann" EXACT []
+synonym: "area 32 of Brodmann-1909" EXACT []
+synonym: "area cingularis anterior dorsalis" EXACT []
+synonym: "B09-32" EXACT []
+synonym: "Brodmann (1909) area 32" EXACT []
+synonym: "Brodmann area 32" EXACT []
+synonym: "Brodmann area 32, dorsal anterior cingulate" EXACT []
+synonym: "Prelimbic area" EXACT []
+
+[Term]
+id: MBA:973
+name: Lateral visual area, layer 2/3
+
+[Term]
+id: MBA:974
+name: Primary somatosensory area, mouth, layer 5
+
+[Term]
+id: MBA:975
+name: Edinger-Westphal nucleus
+synonym: "accessory oculomotor nucleus" EXACT []
+synonym: "Edinger-Westphal nucleus" EXACT []
+synonym: "edinger-westphal nucleus" EXACT []
+synonym: "nucleus Edinger-Westphal" EXACT []
+
+[Term]
+id: MBA:976
+name: Lobule II
+synonym: "lobule II of cerebellum vermis" EXACT []
+synonym: "lobule II" EXACT []
+synonym: "vermic lobule II" EXACT []
+
+[Term]
+id: MBA:977
+name: Ectorhinal area/Layer 6a
+
+[Term]
+id: MBA:978
+name: Paragigantocellular reticular nucleus, lateral part
+synonym: "lateral paragigantocellular reticular nucleus" EXACT []
+synonym: "paragigantocellular nucleus, lateral part" EXACT []
+
+[Term]
+id: MBA:979
+name: corpus callosum, rostrum
+
+[Term]
+id: MBA:98
+name: subependymal zone
+synonym: "adult subventricular zone" EXACT []
+synonym: "brain subventricular zone" EXACT []
+synonym: "postnatal subventricular zone" EXACT []
+synonym: "SEZ" EXACT []
+synonym: "subventricular zone of brain" EXACT []
+synonym: "subventricular zone" EXACT []
+synonym: "SVZ" EXACT []
+
+[Term]
+id: MBA:980
+name: Dorsal premammillary nucleus
+
+[Term]
+id: MBA:981
+name: Primary somatosensory area, barrel field, layer 1
+
+[Term]
+id: MBA:982
+name: Fasciola cinerea
+synonym: "retrosplenial gyrus of hippocampus" EXACT []
+
+[Term]
+id: MBA:983
+name: lateral forebrain bundle system
+
+[Term]
+id: MBA:984
+name: Lobule III
+synonym: "lobule III of cerebellum vermis" EXACT []
+synonym: "lobule III" EXACT []
+synonym: "vermic lobule III" EXACT []
+
+[Term]
+id: MBA:985
+name: Primary motor area
+synonym: "motor cortex" EXACT []
+
+[Term]
+id: MBA:986
+name: corpus callosum, splenium
+synonym: "corpus callosum splenium" EXACT []
+synonym: "corpus callosum, splenium" EXACT []
+
+[Term]
+id: MBA:987
+name: Pons, motor related
+
+[Term]
+id: MBA:988
+name: Ectorhinal area/Layer 5
+
+[Term]
+id: MBA:989
+name: Fastigial nucleus
+synonym: "medial (fastigial) nucleus" EXACT []
+synonym: "medial cerebellar nucleus" EXACT []
+synonym: "nucleus fastigii" EXACT []
+synonym: "roof nucleus-1" EXACT []
+
+[Term]
+id: MBA:99
+name: Nucleus of the lateral lemniscus, ventral part
+synonym: "anterior nucleus of lateral lemniscus" EXACT []
+synonym: "nucleus anterior lemnisci lateralis" EXACT []
+synonym: "nucleus of the lateral lemniscus, ventral part" EXACT []
+synonym: "ventral nucleus of the lateral lemniscus" EXACT []
+
+[Term]
+id: MBA:990
+name: Ventral auditory area, layer 4
+
+[Term]
+id: MBA:991
+name: medial forebrain bundle system
+
+[Term]
+id: MBA:992
+name: Lobule IV
+synonym: "lobule IV of cerebellum vermis" EXACT []
+synonym: "vermic lobule IV" EXACT []
+
+[Term]
+id: MBA:993
+name: Secondary motor area
+synonym: "premotor cortex (area 6)" EXACT []
+
+[Term]
+id: MBA:994
+name: corticobulbar tract
+
+[Term]
+id: MBA:995
+name: Paramedian reticular nucleus
+synonym: "ventral paramedian reticular nucleus" EXACT []
+
+[Term]
+id: MBA:996
+name: Agranular insular area, dorsal part, layer 1
+
+[Term]
+id: MBA:997
+name: allen brain atlas parcellation root
+
+[Term]
+id: MBA:998
+name: Fundus of striatum
+synonym: "fundus striati" EXACT []
+
+[Term]
+id: MBA:999
+name: Entorhinal area, lateral part, layer 2/3
+
