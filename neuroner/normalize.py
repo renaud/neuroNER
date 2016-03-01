@@ -14,10 +14,10 @@ Cleans up raw Sherlok annotations
 in: raw Sherlok output
 out: only keep ontologyIds and if none is present concatenate the type and text
 '''
-
 def clean_annotations(n, orig_neuron_str = None):
     clean = []
-    filt_attrib_list = ['Neuron', 'PreNeuron', 'PostNeuron', 'Electrophysiology', 'ProteinTrigger']
+    #filt_attrib_list = ['Neuron', 'PreNeuron', 'PostNeuron', 'Electrophysiology', 'ProteinTrigger']
+    filt_attrib_list = ['Neuron', 'PreNeuron', 'PostNeuron', 'Electrophysiology']
     for (begin, end, txt, type_, props) in n:
         if 'ontologyId' in props:
             clean.append((begin, end, props[u'ontologyId']))
@@ -38,6 +38,8 @@ def clean_annotations(n, orig_neuron_str = None):
                     if 'UNKN' in c[2]:
                         new_clean.remove(c)
                     if 'HBP_NEUROTRANSMITTER' in c[2]:
+                        new_clean.remove(c)
+                    if 'Function' in c[2]:
                         new_clean.remove(c)
             except Exception:
                 continue
@@ -68,23 +70,36 @@ def clean_annotations(n, orig_neuron_str = None):
 
         clean = sorted(clean, key= lambda tup: tup[0])
 
-    clean = [c[2] for c in clean]
-
     # convert projection annotations to new ontology
     proj_annots = [22,113,7322,7323,7324,7325]
     proj_annot_strs = ['HBP_PROJECTION:%s' % p for p in proj_annots]
     region_annot_strs = ['UNKN_REGION:%s' % p for p in proj_annots]
     new_clean = clean
     for i,c in enumerate(clean):
+        term = c[2]
         for j,p in enumerate(region_annot_strs):
-            if c == p:
-                new_clean[i] = proj_annot_strs[j]
+            if term == p:
+                new_clean[i][2] = proj_annot_strs[j]
     clean = new_clean
 
-    # filter out neuron triggers because not meaningful
-    clean = [c for c in clean if 'NeuronTrigger' not in c]
+    ret_dict_list = []
+    for c in clean:
+        temp_dict = {}
+        temp_dict['begin'] = c[0]
+        temp_dict['end'] = c[1]
+        temp_dict['onto_id'] = c[2]
 
-    return clean
+        onto_term = c[2]
+        d = get_onto_info(onto_term)
+        temp_dict['onto_name'] = d['name']
+        temp_dict['onto_acronym'] = d['acronym']
+        if orig_neuron_str:
+            temp_dict['orig_str'] = orig_neuron_str[c[0]:c[1]]
+
+        ret_dict_list.append(temp_dict)
+
+    return ret_dict_list
+
 
 onto_root = os.path.dirname(sys.modules['neuroner'].__file__) + '/resources/bluima/neuroner/'
 assert os.path.exists(onto_root), 'could not find onto_root at ' + onto_root
@@ -133,3 +148,16 @@ def normalize_annots(onto_list, shorten = False):
             new_term = re.sub('^\w+:', '', l)
             normalized_term.append(new_term)
     return ' '.join(normalized_term)
+
+
+
+def get_onto_info(onto_term):
+    """Convenience function for turning a neuroNER ontology list back into ontology names or acronyms
+    """
+    ret_dict = {'name': None, 'acronym': None}
+    if onto_term in big_onto:
+        d = big_onto[onto_term]
+        ret_dict['name'] = big_onto[onto_term]['name']
+        if 'acronym' in big_onto[onto_term]:
+            ret_dict['acronym'] = big_onto[onto_term]['acronym'][0]
+    return ret_dict
