@@ -2,7 +2,8 @@ format-version: 1.2
 date: 29:02:2016 08:14
 saved-by: tom
 auto-generated-by: obo_io
-ontology: enbr-syns.obo
+default-namespace: ABA_REGION
+ontology: Allen_Brain_Atlas_Brain_Regions
 
 [Term]
 id: ABA_REGION:1
