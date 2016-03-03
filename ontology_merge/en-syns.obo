@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 29:02:2016 08:14
+date: 03:03:2016 22:21
 saved-by: tom
 auto-generated-by: obo_io
 ontology: en-syns.obo
@@ -8,6 +8,7 @@ ontology: en-syns.obo
 id: MBA:1
 name: Tuberomammillary nucleus, ventral part
 synonym: "tuberomammillary nucleus ventral part" EXACT []
+synonym: "tuberomammillary nucleus ventral part" EXACT [from label]
 
 [Term]
 id: MBA:10
@@ -19,14 +20,17 @@ name: Interpeduncular nucleus
 synonym: "interpeduncular ganglion" EXACT []
 synonym: "interpeduncular nuclei" EXACT []
 synonym: "interpeduncular nucleus of midbrain" EXACT []
+synonym: "interpeduncular nucleus" EXACT [from label]
 
 [Term]
 id: MBA:1000
 name: extrapyramidal fiber systems
+synonym: "extrapyramidal tract system" EXACT [from label]
 
 [Term]
 id: MBA:1001
 name: Lobule V
+synonym: "cerebellum vermis lobule V" EXACT [from label]
 synonym: "lobule V (culmen and quadrangular lobule, posterior part)" EXACT []
 synonym: "lobule V of cerebellum vermis" EXACT []
 synonym: "lobule V" EXACT []
@@ -43,6 +47,7 @@ name: corticopontine tract
 [Term]
 id: MBA:1004
 name: Ventral premammillary nucleus
+synonym: "ventral premammillary nucleus" EXACT [from label]
 
 [Term]
 id: MBA:1005
@@ -57,6 +62,7 @@ id: MBA:1007
 name: Simple lobule
 synonym: "hemispheric lobule VI" EXACT []
 synonym: "lobule h vi of larsell" EXACT []
+synonym: "lobule simplex" EXACT [from label]
 synonym: "lobulus quadrangularis pars caudalis/posterior" EXACT []
 synonym: "lobulus quadrangularis pars inferoposterior" EXACT []
 synonym: "lobulus quadrangularis posterior cerebelli [H VI]" EXACT []
@@ -77,6 +83,7 @@ id: MBA:1008
 name: Geniculate group, dorsal thalamus
 synonym: "geniculate group of the dorsal thalamus" EXACT []
 synonym: "geniculate thalamic group" EXACT []
+synonym: "metathalamus" EXACT [from label]
 synonym: "nuclei metathalami" EXACT []
 
 [Term]
@@ -89,6 +96,7 @@ name: Ventral cochlear nucleus
 synonym: "anterior cochlear nucleus" EXACT []
 synonym: "c1281209" EXACT []
 synonym: "ventral cochlear nucleus" EXACT []
+synonym: "ventral cochlear nucleus" EXACT [from label]
 
 [Term]
 id: MBA:1010
@@ -115,12 +123,14 @@ id: MBA:1016
 name: olfactory nerve layer of main olfactory bulb
 synonym: "olfactory bulb main olfactory nerve layer" EXACT []
 synonym: "olfactory bulb olfactory nerve layer" EXACT []
+synonym: "olfactory bulb outer nerve layer" EXACT [from label]
 
 [Term]
 id: MBA:1017
 name: Ansiform lobule
 synonym: "ansiform lobule of cerebellum [hVIIa]" EXACT []
 synonym: "ansiform lobule of cerebellum" EXACT []
+synonym: "ansiform lobule" EXACT [from label]
 synonym: "lobuli semilunares cerebelli" EXACT []
 synonym: "lobulus ansiformis cerebelli [h vii a]" EXACT []
 synonym: "lobulus ansiformis cerebelli" EXACT []
@@ -135,6 +145,7 @@ id: MBA:1019
 name: corticospinal tract, crossed
 synonym: "corticospinal tract, crossed" EXACT []
 synonym: "crossed pyramidal tract" EXACT []
+synonym: "lateral corticospinal tract" EXACT [from label]
 synonym: "lateral pyramidal tract" EXACT []
 synonym: "pyramidal tract, crossed" EXACT []
 
@@ -145,6 +156,7 @@ synonym: "comb bundle" EXACT []
 synonym: "nigrostriatal bundle" EXACT []
 synonym: "nigrostriatal fibers" EXACT []
 synonym: "nigrostriatal tract" EXACT []
+synonym: "nigrostriatal tract" EXACT [from label]
 
 [Term]
 id: MBA:1020
@@ -154,6 +166,7 @@ synonym: "nuclei posteriores thalami" EXACT []
 synonym: "posterior complex of thalamus" EXACT []
 synonym: "posterior complex of the thalamus" EXACT []
 synonym: "posterior nuclear complex of thalamus" EXACT []
+synonym: "posterior nuclear complex of thalamus" EXACT [from label]
 synonym: "posterior nuclear complex" EXACT []
 synonym: "posterior nuclear group of thalamus" EXACT []
 synonym: "posterior nucleus of dorsal thalamus" EXACT []
@@ -175,6 +188,7 @@ synonym: "globus pallidus external segment" EXACT []
 synonym: "globus pallidus externus" EXACT []
 synonym: "globus pallidus lateralis" EXACT []
 synonym: "globus pallidus, lateral segment" EXACT []
+synonym: "lateral globus pallidus" EXACT [from label]
 synonym: "lateral pallidal segment" EXACT []
 synonym: "lateral pallidum" EXACT []
 synonym: "lateral part of globus pallidus" EXACT []
@@ -203,6 +217,7 @@ synonym: "paramedian 1 (hVII)" EXACT []
 synonym: "paramedian lobule [h vii b]" EXACT []
 synonym: "paramedian lobule [HVIIB]" EXACT []
 synonym: "paramedian lobule [hVIIIb]" EXACT []
+synonym: "paramedian lobule" EXACT [from label]
 
 [Term]
 id: MBA:1026
@@ -221,6 +236,7 @@ synonym: "anterior tract of turck" EXACT []
 synonym: "bundle of Turck" EXACT []
 synonym: "column of Turck" EXACT []
 synonym: "corticospinal tract, uncrossed" EXACT []
+synonym: "ventral corticospinal tract" EXACT [from label]
 
 [Term]
 id: MBA:1029
@@ -230,6 +246,7 @@ name: Posterior limiting nucleus of the thalamus
 id: MBA:103
 name: Paraventricular hypothalamic nucleus, magnocellular division, posterior magnocellular part
 synonym: "paraventricular nucleus of the hypothalamus magnocellular division - posterior magnocellular part" EXACT []
+synonym: "paraventricular nucleus of the hypothalamus magnocellular division - posterior magnocellular part" EXACT [from label]
 
 [Term]
 id: MBA:1030
@@ -248,6 +265,7 @@ synonym: "globus pallidus, medial segment" EXACT []
 synonym: "internal globus pallidus" EXACT []
 synonym: "internal pallidum" EXACT []
 synonym: "internal part of globus pallidus" EXACT []
+synonym: "medial globus pallidus" EXACT [from label]
 synonym: "medial pallidal segment" EXACT []
 synonym: "medial part of globus pallidus" EXACT []
 synonym: "medial segment of globus pallidus" EXACT []
@@ -262,6 +280,7 @@ name: grooves of the cerebral cortex
 [Term]
 id: MBA:1033
 name: Copula pyramidis
+synonym: "copula pyramidis" EXACT [from label]
 
 [Term]
 id: MBA:1034
@@ -276,6 +295,7 @@ id: MBA:1036
 name: corticotectal tract
 synonym: "corticotectal fibers" EXACT []
 synonym: "corticotectal fibres" EXACT []
+synonym: "corticotectal tract" EXACT [from label]
 synonym: "fibrae corticotectales" EXACT []
 
 [Term]
@@ -291,6 +311,7 @@ id: MBA:1039
 name: Gracile nucleus
 synonym: "Goll's nucleus" EXACT []
 synonym: "golls nucleus" EXACT []
+synonym: "gracile nucleus" EXACT [from label]
 synonym: "nucleus gracilis" EXACT []
 
 [Term]
@@ -309,6 +330,7 @@ synonym: "hemispheric lobule IX" EXACT []
 synonym: "neuraxis paraflocculus" EXACT []
 synonym: "parafloccular lobule of cerebellum" EXACT []
 synonym: "paraflocculus of cerebellum" EXACT []
+synonym: "paraflocculus" EXACT [from label]
 synonym: "tonsil (HXI)" EXACT []
 synonym: "tonsilla" EXACT []
 
@@ -324,6 +346,7 @@ name: crossed tectospinal pathway
 id: MBA:1044
 name: Peripeduncular nucleus
 synonym: "peripeduncular nucleus of pons" EXACT []
+synonym: "peripeduncular nucleus" EXACT [from label]
 
 [Term]
 id: MBA:1045
@@ -341,6 +364,7 @@ name: Primary somatosensory area, barrel field, layer 4
 id: MBA:1048
 name: Gigantocellular reticular nucleus
 synonym: "gigantocellular group" EXACT []
+synonym: "gigantocellular nucleus" EXACT [from label]
 synonym: "gigantocellular reticular nuclei" EXACT []
 synonym: "gigantocellular reticular nucleus" EXACT []
 synonym: "nucleus gigantocellularis" EXACT []
@@ -349,6 +373,7 @@ synonym: "nucleus gigantocellularis" EXACT []
 id: MBA:1049
 name: Flocculus
 synonym: "flocculus of cerebellum" EXACT []
+synonym: "flocculus" EXACT [from label]
 synonym: "neuraxis flocculus" EXACT []
 
 [Term]
@@ -357,6 +382,7 @@ name: Superior olivary complex, medial part
 synonym: "chief nucleus of superior olive" EXACT []
 synonym: "chief superior olivary nucleus" EXACT []
 synonym: "main superior olivary nucleus" EXACT []
+synonym: "medial superior olivary nucleus" EXACT [from label]
 synonym: "medial superior olive" EXACT []
 synonym: "principal superior olivary nucleus" EXACT []
 synonym: "superior olivary nucleus, medial part" EXACT []
@@ -375,6 +401,7 @@ id: MBA:1052
 name: Pedunculopontine nucleus
 synonym: "peduncular pontine nucleus" EXACT []
 synonym: "pedunculopontine nucleus" EXACT []
+synonym: "pedunculopontine tegmental nucleus" EXACT [from label]
 
 [Term]
 id: MBA:1053
@@ -391,6 +418,7 @@ name: endorhinal groove
 [Term]
 id: MBA:1056
 name: Crus 1
+synonym: "ansiform lobule crus I" EXACT [from label]
 synonym: "crus I of the ansiform lobule (HVII)" EXACT []
 synonym: "crus primum lobuli ansiformis cerebelli [h vii a]" EXACT []
 synonym: "first crus of ansiform lobule of cerebellum [hVIIa]" EXACT []
@@ -420,6 +448,7 @@ id: MBA:106
 name: Inferior salivatory nucleus
 synonym: "inferior salivary nucleus" EXACT []
 synonym: "inferior salivatary nucleus" EXACT []
+synonym: "inferior salivatory nucleus" EXACT [from label]
 
 [Term]
 id: MBA:1060
@@ -428,6 +457,7 @@ name: doral tegmental decussation
 [Term]
 id: MBA:1061
 name: Posterior pretectal nucleus
+synonym: "posterior pretectal nucleus" EXACT [from label]
 
 [Term]
 id: MBA:1062
@@ -438,11 +468,13 @@ id: MBA:1063
 name: hippocampal fissure
 synonym: "dentate fissure" EXACT []
 synonym: "hippocampal fissure" EXACT []
+synonym: "hippocampal sulcus" EXACT [from label]
 synonym: "sulcus hippocampi" EXACT []
 
 [Term]
 id: MBA:1064
 name: Crus 2
+synonym: "ansiform lobule crus II" EXACT [from label]
 synonym: "crus II of the ansiform lobule (HVII)" EXACT []
 synonym: "crus secundum lobuli ansiformis cerebelli [h vii a" EXACT []
 synonym: "hemispheric lobule viibi" EXACT []
@@ -458,6 +490,7 @@ synonym: "semilunar lobule-2 (inferior)" EXACT []
 [Term]
 id: MBA:1065
 name: Hindbrain
+synonym: "hindbrain" EXACT [from label]
 
 [Term]
 id: MBA:1066
@@ -472,6 +505,7 @@ id: MBA:10671
 name: Median eminence
 synonym: "eminentia mediana hypothalami" EXACT []
 synonym: "median eminence of hypothalamus" EXACT []
+synonym: "median eminence of neurohypophysis" EXACT [from label]
 synonym: "median eminence of posterior lobe of pituitary gland" EXACT []
 synonym: "median eminence of tuber cinereum" EXACT []
 synonym: "median eminence" EXACT []
@@ -615,6 +649,7 @@ name: Presubiculum, layer 3
 [Term]
 id: MBA:10702
 name: Dentate gyrus, subgranular zone
+synonym: "dentate gyrus subgranular zone" EXACT [from label]
 synonym: "subgranular zone of dentate gyrus" EXACT []
 synonym: "subgranular zone" EXACT []
 
@@ -622,12 +657,14 @@ synonym: "subgranular zone" EXACT []
 id: MBA:10703
 name: Dentate gyrus, molecular layer
 synonym: "dentate gyrus molecular layer" EXACT []
+synonym: "dentate gyrus molecular layer" EXACT [from label]
 synonym: "molecular layer of dentate gyrus" EXACT []
 synonym: "stratum moleculare gyri dentati" EXACT []
 
 [Term]
 id: MBA:10704
 name: Dentate gyrus, polymorph layer
+synonym: "dentate gyrus polymorphic layer" EXACT [from label]
 
 [Term]
 id: MBA:10705
@@ -655,6 +692,7 @@ name: rhinal fissure
 synonym: "fissura rhinalis" EXACT []
 synonym: "rhinal fissuer (turner, rezius)" EXACT []
 synonym: "rhinal fissure" EXACT []
+synonym: "rhinal sulcus" EXACT [from label]
 synonym: "sulcus rhinalis" EXACT []
 
 [Term]
@@ -700,6 +738,7 @@ name: Lobule V, molecular layer
 [Term]
 id: MBA:1072
 name: Medial geniculate complex, dorsal part
+synonym: "dorsal nucleus of medial geniculate body" EXACT [from label]
 synonym: "dorsal nucleus of medial geniculate complex" EXACT []
 synonym: "medial geniculate complex, dorsal part" EXACT []
 synonym: "medial geniculate nucleus, dorsal part" EXACT []
@@ -752,6 +791,7 @@ name: Pyramus (VIII), granular layer
 id: MBA:1073
 name: Hemispheric regions
 synonym: "cerebellar hemisphere" EXACT []
+synonym: "cerebellar hemisphere" EXACT [from label]
 synonym: "cerebellum hemisphere" EXACT []
 synonym: "hemisphere of cerebellum [H II - H X]" EXACT []
 synonym: "hemisphere of cerebellum" EXACT []
@@ -810,6 +850,7 @@ name: Perireunensis nucleus
 id: MBA:1078
 name: rhinal incisure
 synonym: "riMLF" EXACT []
+synonym: "rostral interstitial nucleus of medial longitudinal fasciculus" EXACT [from label]
 synonym: "rostral interstitial nucleus of MLF" EXACT []
 
 [Term]
@@ -823,6 +864,7 @@ synonym: "nucleus geniculatus medialis fasciculosis (Hassler)" EXACT []
 synonym: "nucleus geniculatus medialis fasciculosus (hassler)" EXACT []
 synonym: "nucleus geniculatus medialis pars ventralis" EXACT []
 synonym: "nucleus ventralis corporis geniculati medialis" EXACT []
+synonym: "ventral nucleus of medial geniculate body" EXACT [from label]
 synonym: "ventral nucleus of medial geniculate complex" EXACT []
 synonym: "ventral principal nucleus of medial geniculate body" EXACT []
 
@@ -830,6 +872,7 @@ synonym: "ventral principal nucleus of medial geniculate body" EXACT []
 id: MBA:108
 name: choroid plexus
 synonym: "chorioid plexus" EXACT []
+synonym: "choroid plexus" EXACT [from label]
 synonym: "plexus choroideus" EXACT []
 
 [Term]
@@ -853,6 +896,7 @@ id: MBA:1084
 name: Presubiculum
 synonym: "presubicular cortex (presubiculum)" EXACT []
 synonym: "presubiculum (Cajal)" EXACT []
+synonym: "presubiculum" EXACT [from label]
 
 [Term]
 id: MBA:1085
@@ -870,6 +914,7 @@ synonym: "fissura praecentralis" EXACT []
 synonym: "fissura precentralis cerebelli" EXACT []
 synonym: "post-lingual fissure of cerebellum" EXACT []
 synonym: "postlingual fissure" EXACT []
+synonym: "precentral fissure of cerebellum" EXACT [from label]
 synonym: "precentral fissure" EXACT []
 
 [Term]
@@ -877,6 +922,7 @@ id: MBA:1088
 name: Medial geniculate complex, medial part
 synonym: "corpus geniculatus mediale, pars magnocelluaris" EXACT []
 synonym: "magnocelluar nucleus of medial geniculate complex" EXACT []
+synonym: "magnocellular nucleus of medial geniculate body" EXACT [from label]
 synonym: "medial division of medial geniculate body" EXACT []
 synonym: "medial geniculate complex, medial part" EXACT []
 synonym: "medial geniculate nucleus, medial part" EXACT []
@@ -889,6 +935,7 @@ synonym: "nucleus geniculatus medialis, pars magnocelluaris" EXACT []
 [Term]
 id: MBA:1089
 name: Hippocampal formation
+synonym: "hippocampal formation" EXACT [from label]
 synonym: "hippocampus (Crosby)" EXACT []
 synonym: "hippocampus" NARROW []
 
@@ -907,6 +954,7 @@ name: Lobules IV-V
 [Term]
 id: MBA:1092
 name: external medullary lamina of the thalamus
+synonym: "external medullary lamina of thalamus" EXACT [from label]
 synonym: "external medullary lamina" EXACT []
 synonym: "lamella medullaris externa" EXACT []
 synonym: "lamina medullaris externa thalami" EXACT []
@@ -917,6 +965,7 @@ synonym: "lamina medullaris thalami externa" EXACT []
 [Term]
 id: MBA:1093
 name: Pontine reticular nucleus, caudal part
+synonym: "caudal pontine reticular nucleus" EXACT [from label]
 synonym: "pontine reticular nucleus, caudal part" EXACT []
 
 [Term]
@@ -934,6 +983,7 @@ name: Anteromedial nucleus, dorsal part
 [Term]
 id: MBA:1097
 name: Hypothalamus
+synonym: "hypothalamus" EXACT [from label]
 synonym: "preoptico-hypothalamic area" EXACT []
 synonym: "preoptico-hypothalamic region" EXACT []
 
@@ -950,6 +1000,7 @@ id: MBA:11
 name: posterolateral fissure
 synonym: "dorsolateral fissure of cerebellum" EXACT []
 synonym: "posterolateral fissure of cerebellum" EXACT []
+synonym: "posterolateral fissure of cerebellum" EXACT [from label]
 synonym: "prenodular fissure" EXACT []
 synonym: "prenodular sulcus" EXACT []
 synonym: "uvulonodular fissure" EXACT []
@@ -965,6 +1016,7 @@ synonym: "area pretectalis" EXACT []
 synonym: "nuclei pretectales" EXACT []
 synonym: "pretectal area" EXACT []
 synonym: "pretectal nuclei" EXACT []
+synonym: "pretectal region" EXACT [from label]
 synonym: "pretectum" EXACT []
 
 [Term]
@@ -983,6 +1035,7 @@ synonym: "fissura prima cerebelli" EXACT []
 synonym: "fissura prima" EXACT []
 synonym: "fissura superior anterior" EXACT []
 synonym: "preclival fissure" EXACT []
+synonym: "primary fissure of cerebellum" EXACT [from label]
 synonym: "primary sulcus of cerebellum" EXACT []
 
 [Term]
@@ -993,6 +1046,7 @@ name: Anteromedial nucleus, ventral part
 id: MBA:1105
 name: Intercalated amygdalar nucleus
 synonym: "intercalated amygdaloid nuclei" EXACT []
+synonym: "intercalated amygdaloid nuclei" EXACT [from label]
 synonym: "intercalated amygdaloid nucleus" EXACT []
 synonym: "intercalated masses of nucleus amygdaloideus" EXACT []
 synonym: "intercalated nuclei of amygdala" EXACT []
@@ -1012,6 +1066,7 @@ name: Medullary reticular nucleus, ventral part
 id: MBA:1108
 name: genu of corpus callosum
 synonym: "corpus callosum genu" EXACT []
+synonym: "genu of corpus callosum" EXACT [from label]
 
 [Term]
 id: MBA:1109
@@ -1036,6 +1091,7 @@ synonym: "fissura post clivalis" EXACT []
 synonym: "post-clival fissure" EXACT []
 synonym: "postclival fissure" EXACT []
 synonym: "posterior superior fissure of cerebellum" EXACT []
+synonym: "posterior superior fissure of cerebellum" EXACT [from label]
 synonym: "postlunate fissure" EXACT []
 synonym: "superior posterior cerebellar fissure" EXACT []
 
@@ -1051,6 +1107,7 @@ name: Anterolateral visual area, layer 4
 id: MBA:1116
 name: genu of the facial nerve
 synonym: "genu nervi facialis" EXACT []
+synonym: "genu of facial nerve" EXACT [from label]
 synonym: "internal genu of facial nerve" NARROW []
 
 [Term]
@@ -1072,6 +1129,7 @@ synonym: "fissura prepyramidalis cerebelli" EXACT []
 synonym: "fissura prepyramidalis" EXACT []
 synonym: "prebiventral fissure of cerebellum" EXACT []
 synonym: "prepyramidal fissure of cerebellum" EXACT []
+synonym: "prepyramidal fissure of cerebellum" EXACT [from label]
 synonym: "prepyramidal sulcus" EXACT []
 
 [Term]
@@ -1090,6 +1148,7 @@ name: Entorhinal area, lateral part, layer 1
 id: MBA:1123
 name: inferior cerebellar peduncle
 synonym: "corpus restiforme" EXACT []
+synonym: "inferior cerebellar peduncle" EXACT [from label]
 synonym: "restiform body" EXACT []
 
 [Term]
@@ -1104,6 +1163,7 @@ name: Orbital area, ventrolateral part, layer 5
 id: MBA:1126
 name: Tuberomammillary nucleus, dorsal part
 synonym: "tuberomammillary nucleus dorsal part" EXACT []
+synonym: "tuberomammillary nucleus dorsal part" EXACT [from label]
 
 [Term]
 id: MBA:1127
@@ -1117,6 +1177,7 @@ name: Primary somatosensory area, lower limb, layer 5
 id: MBA:1129
 name: Interbrain
 synonym: "between brain" EXACT []
+synonym: "diencephalon" EXACT [from label]
 synonym: "interbrain" EXACT []
 synonym: "mature diencephalon" EXACT []
 synonym: "thalamencephalon" EXACT []
@@ -1129,6 +1190,7 @@ name: Primary somatosensory area, lower limb, layer 2/3
 id: MBA:1131
 name: intermediate nerve
 synonym: "sensory component of the VIIth (facial) nerve" EXACT []
+synonym: "sensory root of facial nerve" EXACT [from label]
 
 [Term]
 id: MBA:1132
@@ -1148,6 +1210,7 @@ name: Superior olivary complex, lateral part
 synonym: "accessory olivary nucleus" EXACT []
 synonym: "accessory superior olivary nucleus" EXACT []
 synonym: "accessory superior olive" EXACT []
+synonym: "lateral superior olivary nucleus" EXACT [from label]
 synonym: "lateral superior olive" EXACT []
 synonym: "LSON" EXACT []
 synonym: "superior olivary nucleus, lateral part" EXACT []
@@ -1173,6 +1236,7 @@ synonym: "cerebellar granule cell layer" EXACT []
 synonym: "cerebellar granule layer" EXACT []
 synonym: "cerebellum granule cell layer" EXACT []
 synonym: "cerebellum granule layer" EXACT []
+synonym: "granular layer of cerebellar cortex" EXACT [from label]
 synonym: "granule cell layer of cerebellar cortex" EXACT []
 synonym: "stratum granulosum cerebelli" EXACT []
 synonym: "stratum granulosum corticis cerebelli" EXACT []
@@ -1183,6 +1247,7 @@ name: Cerebellar cortex, molecular layer
 synonym: "cerebellar molecular layer" EXACT []
 synonym: "cerebellum molecular cell layer" EXACT []
 synonym: "cerebellum molecular layer" EXACT []
+synonym: "molecular layer of cerebellar cortex" EXACT [from label]
 synonym: "stratum moleculare corticis cerebelli" EXACT []
 
 [Term]
@@ -1191,6 +1256,7 @@ name: Cerebellar cortex, Purkinje layer
 synonym: "cerebellar Purkinje cell layer" EXACT []
 synonym: "cerebellum Purkinje cell layer" EXACT []
 synonym: "cerebellum Purkinje layer" EXACT []
+synonym: "Purkinje cell layer of cerebellar cortex" EXACT [from label]
 synonym: "Purkinje cell layer" EXACT []
 
 [Term]
@@ -1203,6 +1269,7 @@ synonym: "nucleus nervi trochlearis" EXACT []
 synonym: "nucleus of trochlear nerve" EXACT []
 synonym: "trochlear IV nucleus" EXACT []
 synonym: "trochlear motor nucleus" EXACT []
+synonym: "trochlear nucleus" EXACT [from label]
 
 [Term]
 id: MBA:116
@@ -1210,6 +1277,7 @@ name: choroid fissure
 synonym: "choroidal fissure of lateral ventricle" EXACT []
 synonym: "lateral ventricle choroid fissure" EXACT []
 synonym: "ventricular system choroid fissure" EXACT []
+synonym: "ventricular system choroidal fissure" EXACT [from label]
 
 [Term]
 id: MBA:117
@@ -1217,12 +1285,14 @@ name: optic chiasm
 synonym: "chiasma opticum" EXACT []
 synonym: "decussation of optic nerve fibers" EXACT []
 synonym: "optic chiasm" EXACT []
+synonym: "optic chiasma" EXACT [from label]
 
 [Term]
 id: MBA:118
 name: Periventricular hypothalamic nucleus, intermediate part
 synonym: "hPe" EXACT []
 synonym: "intermediate periventricular nucleus of hypothalamus" EXACT []
+synonym: "intermediate periventricular nucleus" EXACT [from label]
 synonym: "periventricular nucleus at the tuberal level" EXACT []
 
 [Term]
@@ -1232,6 +1302,7 @@ name: Agranular insular area, ventral part
 [Term]
 id: MBA:12
 name: Interfascicular nucleus raphe
+synonym: "interfascicular linear nucleus" EXACT [from label]
 
 [Term]
 id: MBA:120
@@ -1247,6 +1318,7 @@ name: Superior olivary complex, periolivary region
 synonym: "nuclei periolivares" EXACT []
 synonym: "peri-olivary nuclei" EXACT []
 synonym: "peri-olivary nucleus" EXACT []
+synonym: "periolivary nucleus" EXACT [from label]
 
 [Term]
 id: MBA:123
@@ -1257,6 +1329,7 @@ id: MBA:124
 name: interventricular foramen
 synonym: "foramen interventriculare" EXACT []
 synonym: "foramen Monroi" EXACT []
+synonym: "interventricular foramen of CNS" EXACT [from label]
 synonym: "interventricular foramen" EXACT []
 synonym: "interventricular foramina" EXACT []
 
@@ -1264,6 +1337,7 @@ synonym: "interventricular foramina" EXACT []
 id: MBA:125
 name: optic tract
 synonym: "optic lemniscus" EXACT []
+synonym: "optic tract" EXACT [from label]
 
 [Term]
 id: MBA:126
@@ -1277,10 +1351,12 @@ synonym: "posterior periventricular hypothalamic nucleus" EXACT []
 synonym: "posterior periventricular nucleus of hypothalamus" EXACT []
 synonym: "posterior periventricular nucleus of the hypothalamus" EXACT []
 synonym: "posterior periventricular nucleus" EXACT []
+synonym: "posterior periventricular nucleus" EXACT [from label]
 
 [Term]
 id: MBA:127
 name: Anteromedial nucleus
+synonym: "anteromedial nucleus of thalamus" EXACT [from label]
 synonym: "anteromedial nucleus of the thalamus" EXACT []
 synonym: "anteromedial nucleus" EXACT []
 synonym: "anteromedial thalamic nucleus" EXACT []
@@ -1296,12 +1372,14 @@ id: MBA:128
 name: Midbrain reticular nucleus
 synonym: "midbrain reticular formation nucleus" EXACT []
 synonym: "midbrain reticular nucleus" EXACT []
+synonym: "nucleus of midbrain reticular formation" EXACT [from label]
 
 [Term]
 id: MBA:129
 name: third ventricle
 synonym: "3rd ventricle" EXACT []
 synonym: "diencephalic vesicle" NARROW []
+synonym: "third ventricle" EXACT [from label]
 synonym: "ventriculus diencephali" EXACT []
 
 [Term]
@@ -1335,6 +1413,7 @@ name: Superior central nucleus raphe, medial part
 [Term]
 id: MBA:131
 name: Lateral amygdalar nucleus
+synonym: "lateral amygdaloid nucleus" EXACT [from label]
 synonym: "lateral nucleus of amygdala" EXACT []
 synonym: "lateral principal nucleus of amygdala" EXACT []
 
@@ -1348,20 +1427,24 @@ name: Periventricular hypothalamic nucleus, preoptic part
 synonym: "nucleus preopticus periventricularis" EXACT []
 synonym: "periventricular preoptic nucleus" EXACT []
 synonym: "preoptic periventricular hypothalamic nucleus" EXACT []
+synonym: "preoptic periventricular nucleus" EXACT [from label]
 
 [Term]
 id: MBA:134
 name: pallidotegmental fascicle
+synonym: "pallidotegmental fasciculus" EXACT [from label]
 synonym: "pallidotegmental tract" EXACT []
 
 [Term]
 id: MBA:135
 name: Nucleus ambiguus
 synonym: "ambiguus nucleus" EXACT []
+synonym: "nucleus ambiguus" EXACT [from label]
 
 [Term]
 id: MBA:136
 name: Intermediate reticular nucleus
+synonym: "intermediate reticular nucleus" EXACT [from label]
 
 [Term]
 id: MBA:137
@@ -1374,6 +1457,7 @@ synonym: "lateral group of nuclei" EXACT []
 synonym: "lateral group of the dorsal thalamus" EXACT []
 synonym: "lateral nuclear group of dorsal thalamus" EXACT []
 synonym: "lateral nuclear group of thalamus" EXACT []
+synonym: "lateral nuclear group of thalamus" EXACT [from label]
 synonym: "lateral nuclear group" EXACT []
 synonym: "lateral nucleus of thalamus" EXACT []
 synonym: "lateral thalamic group" EXACT []
@@ -1391,6 +1475,7 @@ id: MBA:14
 name: internal medullary lamina of the thalamus
 synonym: "envelope (involucrum medial) (Hassler)" EXACT []
 synonym: "internal medullary lamina of thalamus" EXACT []
+synonym: "internal medullary lamina of thalamus" EXACT [from label]
 synonym: "internal medullary lamina" EXACT []
 synonym: "lamina medullaris interna thalami" EXACT []
 synonym: "lamina medullaris interna" EXACT []
@@ -1411,6 +1496,7 @@ synonym: "medial tectal ventricle" EXACT []
 synonym: "mesencephalic duct" EXACT []
 synonym: "mesencephalic ventricle" EXACT []
 synonym: "midbrain cerebral aqueduct" EXACT []
+synonym: "midbrain cerebral aqueduct" EXACT [from label]
 synonym: "midbrain ventricle" EXACT []
 synonym: "Sylvian aqueduct" EXACT []
 synonym: "tectal ventricle" EXACT []
@@ -1434,12 +1520,14 @@ name: Olfactory tubercle, layers 1-3
 [Term]
 id: MBA:145
 name: fourth ventricle
+synonym: "fourth ventricle" EXACT [from label]
 synonym: "rhombencephalic vesicle" NARROW []
 synonym: "ventricle IV" EXACT []
 
 [Term]
 id: MBA:146
 name: Pontine reticular nucleus
+synonym: "nucleus of pontine reticular formation" EXACT [from label]
 synonym: "pontine reticular formation nucleus" EXACT []
 
 [Term]
@@ -1448,6 +1536,7 @@ name: Locus ceruleus
 synonym: "blue nucleus" EXACT []
 synonym: "caerulean nucleus" EXACT []
 synonym: "locus caeruleus" EXACT []
+synonym: "locus ceruleus" EXACT [from label]
 synonym: "locus coeruleu" EXACT []
 synonym: "locus coeruleus" EXACT []
 synonym: "nucleus caeruleus" EXACT []
@@ -1465,6 +1554,7 @@ name: Paraventricular nucleus of the thalamus
 synonym: "nuclei paraventriculares thalami" EXACT []
 synonym: "paraventricular gray" EXACT []
 synonym: "paraventricular nuclei of thalamus" EXACT []
+synonym: "paraventricular nucleus of thalamus" EXACT [from label]
 synonym: "paraventricular thalamic nucleus" EXACT []
 
 [Term]
@@ -1472,6 +1562,7 @@ id: MBA:15
 name: Parataenial nucleus
 synonym: "nucleus parataenialis" EXACT []
 synonym: "parataenial nucleus" EXACT []
+synonym: "paratenial nucleus" EXACT [from label]
 synonym: "paratenial thalamic nucleus" EXACT []
 
 [Term]
@@ -1482,6 +1573,7 @@ name: periventricular bundle of the hypothalamus
 id: MBA:151
 name: Accessory olfactory bulb
 synonym: "accessory (vomeronasal) bulb" EXACT []
+synonym: "accessory olfactory bulb" EXACT [from label]
 synonym: "olfactory bulb accessory nucleus" EXACT []
 
 [Term]
@@ -1491,6 +1583,7 @@ name: Piriform area, layers 1-3
 [Term]
 id: MBA:153
 name: lateral recess
+synonym: "lateral recess of fourth ventricle" EXACT [from label]
 synonym: "recessus lateralis (ventriculi quarti)" EXACT []
 
 [Term]
@@ -1502,6 +1595,7 @@ id: MBA:155
 name: Lateral dorsal nucleus of thalamus
 synonym: "dorsal thalamus, lateral group" EXACT []
 synonym: "lateral dorsal nucleus of thalamus" EXACT []
+synonym: "lateral dorsal nucleus" EXACT [from label]
 synonym: "lateral dorsal thalamic nucleus" EXACT []
 synonym: "laterodorsal nucleus nucleus of thalamus" EXACT []
 synonym: "laterodorsal nucleus thalamic nucleus" EXACT []
@@ -1523,6 +1617,7 @@ name: Dorsal auditory area, layer 6a
 id: MBA:157
 name: Periventricular zone
 synonym: "hypothalamus periventricular zone" EXACT []
+synonym: "periventricular zone of hypothalamus" EXACT [from label]
 synonym: "zona periventricularis hypothalamicae" EXACT []
 
 [Term]
@@ -1530,10 +1625,12 @@ id: MBA:158
 name: posterior commissure
 synonym: "caudal commissure" EXACT []
 synonym: "epithalamic commissure" EXACT []
+synonym: "posterior commissure" EXACT [from label]
 
 [Term]
 id: MBA:159
 name: Anterior olfactory nucleus
+synonym: "anterior olfactory nucleus" EXACT [from label]
 synonym: "nucleus retrobulbaris [a8]" EXACT []
 synonym: "retrobulbar nucleus [a8]" EXACT []
 
@@ -1550,12 +1647,14 @@ id: MBA:161
 name: Nucleus intercalatus
 synonym: "intercalated nucleus of medulla" EXACT []
 synonym: "nucleus intercalatus of medulla" EXACT []
+synonym: "nucleus intercalatus" EXACT [from label]
 synonym: "nucleus of staderini" EXACT []
 synonym: "nucleus staderini" EXACT []
 
 [Term]
 id: MBA:162
 name: Laterodorsal tegmental nucleus
+synonym: "laterodorsal tegmental nucleus" EXACT [from label]
 synonym: "lateroposterior tegmental nucleus" EXACT []
 synonym: "nucleus tegmentalis posterolateralis" EXACT []
 
@@ -1568,6 +1667,7 @@ id: MBA:164
 name: central canal, spinal cord/medulla
 synonym: "canalis centralis" EXACT []
 synonym: "central canal of spinal cord" EXACT []
+synonym: "central canal of spinal cord" EXACT [from label]
 synonym: "central canal" EXACT []
 synonym: "spinal cord central canal" EXACT []
 synonym: "ventricle of spinal cord" EXACT []
@@ -1576,6 +1676,7 @@ synonym: "ventricle of spinal cord" EXACT []
 id: MBA:165
 name: Midbrain raphe nuclei
 synonym: "midbrain raphe nuclei" EXACT []
+synonym: "midbrain raphe nuclei" EXACT [from label]
 synonym: "midbrain raphe" EXACT []
 synonym: "nuclei raphes tegmenti mesencephali" EXACT []
 synonym: "raphe nuclei of tegmentum of midbrain" EXACT []
@@ -1597,6 +1698,7 @@ name: Anterior olfactory nucleus, layer 2
 id: MBA:169
 name: Nucleus prepositus
 synonym: "nucleus praepositus" EXACT []
+synonym: "nucleus prepositus" EXACT [from label]
 synonym: "prepositus hypoglossal nucleus" EXACT []
 synonym: "prepositus nucleus" EXACT []
 
@@ -1607,6 +1709,7 @@ name: Superior colliculus, motor related, intermediate white layer
 [Term]
 id: MBA:170
 name: Dorsal part of the lateral geniculate complex
+synonym: "dorsal lateral geniculate nucleus" EXACT [from label]
 synonym: "lateral geniculate complex, dorsal part" EXACT []
 synonym: "lateral geniculate nucleus, dorsal part" EXACT []
 synonym: "nucleus dorsalis corporis geniculati lateralis" EXACT []
@@ -1619,6 +1722,7 @@ name: Prelimbic area, layer 1
 [Term]
 id: MBA:173
 name: Retrochiasmatic area
+synonym: "retrochiasmatic area" EXACT [from label]
 synonym: "retrochiasmatic region" EXACT []
 
 [Term]
@@ -1627,6 +1731,7 @@ name: preoptic commissure
 synonym: "POC" EXACT []
 synonym: "post optic commissure" EXACT []
 synonym: "post-optic commissure" EXACT []
+synonym: "postoptic commissure" EXACT [from label]
 
 [Term]
 id: MBA:175
@@ -1637,6 +1742,7 @@ id: MBA:177
 name: Nucleus of Roller
 synonym: "nucleus of roller" EXACT []
 synonym: "Roller's nucleus" EXACT []
+synonym: "sublingual nucleus" EXACT [from label]
 
 [Term]
 id: MBA:178
@@ -1655,6 +1761,7 @@ synonym: "nucleus pregeniculatus" EXACT []
 synonym: "nucleus ventralis corporis geniculati lateralis" EXACT []
 synonym: "praegeniculatum" EXACT []
 synonym: "pregeniculate nucleus" EXACT []
+synonym: "ventral lateral geniculate nucleus" EXACT [from label]
 synonym: "ventral part of the lateral geniculate complex" EXACT []
 
 [Term]
@@ -1674,6 +1781,7 @@ id: MBA:181
 name: Nucleus of reunions
 synonym: "medioventral nucleus" EXACT []
 synonym: "nucleus reuniens" EXACT []
+synonym: "reuniens nucleus" EXACT [from label]
 synonym: "reuniens thalamic nucleus" EXACT []
 
 [Term]
@@ -1715,6 +1823,7 @@ name: Anterior olfactory nucleus, lateral part
 [Term]
 id: MBA:184
 name: Frontal pole, cerebral cortex
+synonym: "frontal pole" EXACT [from label]
 synonym: "polus frontalis" EXACT []
 
 [Term]
@@ -1725,6 +1834,7 @@ name: Parapyramidal nucleus, deep part
 id: MBA:186
 name: Lateral habenula
 synonym: "lateral habenula" EXACT []
+synonym: "lateral habenular nucleus" EXACT [from label]
 synonym: "nucleus habenulae lateralis" EXACT []
 synonym: "nucleus habenularis lateralis epithalami" EXACT []
 synonym: "nucleus habenularis lateralis" EXACT []
@@ -1736,6 +1846,7 @@ name: Gustatory areas, layer 5
 [Term]
 id: MBA:188
 name: Accessory olfactory bulb, glomerular layer
+synonym: "accessory olfactory bulb glomerular layer" EXACT [from label]
 synonym: "accessory olfactory bulb, glomerular layer" EXACT []
 synonym: "AOB, glomerular layer" EXACT []
 
@@ -1744,16 +1855,19 @@ id: MBA:189
 name: Rhomboid nucleus
 synonym: "rhomboid nucleus" EXACT []
 synonym: "rhomboid thalamic nucleus" EXACT []
+synonym: "rhomboidal nucleus" EXACT [from label]
 
 [Term]
 id: MBA:19
 name: Induseum griseum
+synonym: "induseum griseum" EXACT [from label]
 synonym: "indusium griseum" EXACT []
 
 [Term]
 id: MBA:190
 name: pyramid
 synonym: "corticospinal fibers" EXACT []
+synonym: "corticospinal tract" EXACT [from label]
 synonym: "fasciculus cerebro-spinalis" EXACT []
 synonym: "fasciculus pyramidalis" EXACT []
 synonym: "fibrae corticospinales" EXACT []
@@ -1780,6 +1894,7 @@ name: Lateral hypothalamic area
 synonym: "area hypothalamica lateralis" EXACT []
 synonym: "lateral division of hypothalamus" EXACT []
 synonym: "lateral group of hypothalamic nuclei" EXACT []
+synonym: "lateral hypothalamic area" EXACT [from label]
 synonym: "lateral hypothalamic group" EXACT []
 synonym: "lateral hypothalamic region" EXACT []
 synonym: "lateral hypothalamic zone (Crosby)" EXACT []
@@ -1791,6 +1906,7 @@ name: Prelimbic area, layer 2
 [Term]
 id: MBA:196
 name: Accessory olfactory bulb, granular layer
+synonym: "accessory olfactory bulb granule cell layer" EXACT [from label]
 synonym: "accessory olfactory bulb, granular layer" EXACT []
 synonym: "AOB, granular layer" EXACT []
 
@@ -1799,6 +1915,7 @@ id: MBA:197
 name: Rostral linear nucleus raphe
 synonym: "anterior linear nucleus" EXACT []
 synonym: "RLi" EXACT []
+synonym: "rostral linear nucleus" EXACT [from label]
 
 [Term]
 id: MBA:198
@@ -1814,6 +1931,7 @@ synonym: "decussation of the pyramidal tract" EXACT []
 synonym: "motor decussation of medulla" EXACT []
 synonym: "motor decussation" EXACT []
 synonym: "pyramidal decussation (pourfour du petit)" EXACT []
+synonym: "pyramidal decussation" EXACT [from label]
 synonym: "pyramidal tract decussation" EXACT []
 
 [Term]
@@ -1841,6 +1959,7 @@ id: MBA:202
 name: Medial vestibular nucleus
 synonym: "chief vestibular nucleus" EXACT []
 synonym: "dorsal vestibular nucleus" EXACT []
+synonym: "medial vestibular nucleus" EXACT [from label]
 synonym: "nucleus of schwalbe" EXACT []
 synonym: "nucleus triangularis" EXACT []
 synonym: "principal vestibular nucleus" EXACT []
@@ -1854,6 +1973,7 @@ name: Linear nucleus of the medulla
 [Term]
 id: MBA:204
 name: Accessory olfactory bulb, mitral layer
+synonym: "accessory olfactory bulb mitral cell layer" EXACT [from label]
 synonym: "accessory olfactory bulb, mitral layer" EXACT []
 
 [Term]
@@ -1864,12 +1984,14 @@ name: retriculospinal tract, lateral part
 id: MBA:206
 name: Nucleus raphe magnus
 synonym: "magnus raphe nucleus" EXACT []
+synonym: "nucleus raphe magnus" EXACT [from label]
 synonym: "nucleus raphes magnus" EXACT []
 synonym: "raphe magnus nucleus" EXACT []
 
 [Term]
 id: MBA:207
 name: Area postrema
+synonym: "area postrema" EXACT [from label]
 
 [Term]
 id: MBA:208
@@ -1881,6 +2003,7 @@ name: Lateral vestibular nucleus
 synonym: "Deiter's nucleus" EXACT []
 synonym: "Deiters' nucleus" EXACT []
 synonym: "lateral nucleus of Deiters" EXACT []
+synonym: "lateral vestibular nucleus" EXACT [from label]
 synonym: "nucleus of Deiters" EXACT []
 
 [Term]
@@ -1891,6 +2014,7 @@ name: lateral olfactory tract, general
 id: MBA:210
 name: Lateral mammillary nucleus
 synonym: "lateral mammillary hypothalamic nucleus" EXACT []
+synonym: "lateral mammillary nucleus" EXACT [from label]
 synonym: "lateral nucleus of mammillary body" EXACT []
 synonym: "nucleus mammillaris lateralis" EXACT []
 
@@ -1901,6 +2025,7 @@ name: Anterior cingulate area, dorsal part, layer 2/3
 [Term]
 id: MBA:212
 name: Main olfactory bulb, glomerular layer
+synonym: "olfactory bulb glomerular layer" EXACT [from label]
 synonym: "olfactory bulb main glomerulus" EXACT []
 synonym: "stratum glomerulosum bulbi olfactorii" EXACT []
 
@@ -1912,6 +2037,7 @@ name: retriculospinal tract, medial part
 id: MBA:214
 name: Red nucleus
 synonym: "nucleus ruber" EXACT []
+synonym: "red nucleus" EXACT [from label]
 
 [Term]
 id: MBA:215
@@ -1925,11 +2051,13 @@ name: Cortical amygdalar area, posterior part, lateral zone, layer 1
 id: MBA:217
 name: Superior vestibular nucleus
 synonym: "nucleus of Bechterew" EXACT []
+synonym: "superior vestibular nucleus" EXACT [from label]
 
 [Term]
 id: MBA:218
 name: Lateral posterior nucleus of the thalamus
 synonym: "lateral posterior nucleus of thalamus" EXACT []
+synonym: "lateral posterior nucleus of thalamus" EXACT [from label]
 synonym: "lateral posterior nucleus of the thalamus" EXACT []
 synonym: "lateral posterior nucleus" EXACT []
 synonym: "lateral posterior thalamic nucleus" EXACT []
@@ -1952,6 +2080,7 @@ name: Posterior parietal association areas
 [Term]
 id: MBA:220
 name: Main olfactory bulb, granule layer
+synonym: "olfactory bulb granule cell layer" EXACT [from label]
 synonym: "olfactory bulb main granule cell layer" EXACT []
 
 [Term]
@@ -1961,6 +2090,7 @@ name: rubroreticular tract
 [Term]
 id: MBA:222
 name: Nucleus raphe obscurus
+synonym: "nucleus raphe obscurus" EXACT [from label]
 synonym: "nucleus raphes obscurus" EXACT []
 synonym: "obscurus raphe nucleus" EXACT []
 synonym: "raphe obscurus nucleus" EXACT []
@@ -1969,6 +2099,7 @@ synonym: "raphe obscurus nucleus" EXACT []
 id: MBA:223
 name: Arcuate hypothalamic nucleus
 synonym: "arcuate hypothalamic nucleus" EXACT []
+synonym: "arcuate nucleus of hypothalamus" EXACT [from label]
 synonym: "arcuate nucleus" EXACT []
 synonym: "arcuate nucleus-2" EXACT []
 synonym: "arcuate periventricular nucleus" EXACT []
@@ -1985,6 +2116,7 @@ name: Cortical amygdalar area, posterior part, lateral zone, layer 2
 id: MBA:225
 name: Spinal vestibular nucleus
 synonym: "descending vestibular nucleus" EXACT []
+synonym: "inferior vestibular nucleus" EXACT [from label]
 synonym: "spinal vestibular nucleus" EXACT []
 
 [Term]
@@ -1992,6 +2124,7 @@ id: MBA:226
 name: Lateral preoptic area
 synonym: "lateral preoptic area" EXACT []
 synonym: "lateral preoptic hypothalamic nucleus" EXACT []
+synonym: "lateral preoptic nucleus" EXACT [from label]
 
 [Term]
 id: MBA:227
@@ -2001,22 +2134,26 @@ name: Anterior cingulate area, layer 6b
 id: MBA:228
 name: Main olfactory bulb, inner plexiform layer
 synonym: "internal plexiform layer" EXACT []
+synonym: "olfactory bulb internal plexiform layer" EXACT [from label]
 
 [Term]
 id: MBA:229
 name: sensory root of the trigeminal nerve
 synonym: "radix sensoria (nervus trigeminus [v])" EXACT []
 synonym: "radix sensoria nervus trigemini" EXACT []
+synonym: "sensory root of trigeminal nerve" EXACT [from label]
 
 [Term]
 id: MBA:23
 name: Anterior amygdalar area
 synonym: "anterior amygaloid area" EXACT []
 synonym: "anterior amygdalar area" EXACT []
+synonym: "anterior amygdaloid area" EXACT [from label]
 
 [Term]
 id: MBA:230
 name: Nucleus raphe pallidus
+synonym: "nucleus raphe pallidus" EXACT [from label]
 synonym: "nucleus raphes pallidus" EXACT []
 synonym: "pallidal raphe nucleus" EXACT []
 synonym: "raphe pallidus nucleus" EXACT []
@@ -2024,6 +2161,7 @@ synonym: "raphe pallidus nucleus" EXACT []
 [Term]
 id: MBA:231
 name: Anterior tegmental nucleus
+synonym: "anterior tegmental nucleus" EXACT [from label]
 
 [Term]
 id: MBA:232
@@ -2041,6 +2179,7 @@ name: Temporal association areas, layer 4
 id: MBA:235
 name: Lateral reticular nucleus
 synonym: "lateral reticular nucleus (medulla)" EXACT []
+synonym: "lateral reticular nucleus" EXACT [from label]
 
 [Term]
 id: MBA:236
@@ -2050,10 +2189,12 @@ name: Main olfactory bulb, mitral layer
 id: MBA:237
 name: solitary tract
 synonym: "respiratory bundle of Gierke" EXACT []
+synonym: "solitary tract" EXACT [from label]
 
 [Term]
 id: MBA:238
 name: Nucleus raphe pontis
+synonym: "pontine raphe nucleus" EXACT [from label]
 synonym: "raphe of pons" EXACT []
 synonym: "raphe pontis" EXACT []
 
@@ -2062,6 +2203,7 @@ id: MBA:239
 name: Anterior group of the dorsal thalamus
 synonym: "anterior nuclear group of thalamus" EXACT []
 synonym: "anterior nuclear group" EXACT []
+synonym: "anterior nuclear group" EXACT [from label]
 synonym: "anterior nuclei of thalamus" EXACT []
 synonym: "anterior nucleus of thalamus" EXACT []
 synonym: "anterior thalamic group" EXACT []
@@ -2085,6 +2227,7 @@ id: MBA:242
 name: Lateral septal nucleus
 synonym: "lateral parolfactory nucleus" EXACT []
 synonym: "lateral septal nucleus (cajal)" EXACT []
+synonym: "lateral septal nucleus" EXACT [from label]
 synonym: "lateral septum nucleus" EXACT []
 synonym: "lateral septum" EXACT []
 
@@ -2104,10 +2247,12 @@ name: spinocervical tract
 id: MBA:246
 name: Midbrain reticular nucleus, retrorubral area
 synonym: "midbrain reticular nucleus, retrorubral area" EXACT []
+synonym: "retrorubral area" EXACT [from label]
 
 [Term]
 id: MBA:247
 name: Auditory areas
+synonym: "auditory cortex" EXACT [from label]
 
 [Term]
 id: MBA:248
@@ -2140,6 +2285,7 @@ name: spinohypothalamic pathway
 [Term]
 id: MBA:254
 name: Retrosplenial area
+synonym: "retrosplenial region" EXACT [from label]
 
 [Term]
 id: MBA:255
@@ -2147,6 +2293,7 @@ name: Anteroventral nucleus of thalamus
 synonym: "anterior ventral nucleus of thalamus" EXACT []
 synonym: "anteroprincipal thalamic nucleus" EXACT []
 synonym: "anteroventral nucleus of thalamus" EXACT []
+synonym: "anteroventral nucleus of thalamus" EXACT [from label]
 synonym: "anteroventral nucleus of the thalamus" EXACT []
 synonym: "anteroventral nucleus" EXACT []
 synonym: "anteroventral thalamic nucleus" EXACT []
@@ -2186,6 +2333,7 @@ name: Nucleus of the lateral olfactory tract, molecular layer
 id: MBA:261
 name: spino-olivary pathway
 synonym: "helweg's tract" EXACT []
+synonym: "spino-olivary tract" EXACT [from label]
 
 [Term]
 id: MBA:262
@@ -2196,6 +2344,7 @@ synonym: "reticular nucleus of thalamus" EXACT []
 synonym: "reticular nucleus of the thalamus" EXACT []
 synonym: "reticular nucleus-2" EXACT []
 synonym: "reticular thalamic nucleus" EXACT []
+synonym: "thalamic reticular nucleus" EXACT [from label]
 
 [Term]
 id: MBA:263
@@ -2236,6 +2385,7 @@ name: Nucleus sagulum
 [Term]
 id: MBA:272
 name: Anteroventral periventricular nucleus
+synonym: "anteroventral periventricular nucleus" EXACT [from label]
 
 [Term]
 id: MBA:274
@@ -2245,6 +2395,7 @@ name: Retrosplenial area, dorsal part, layer 6a
 id: MBA:275
 name: Lateral septal complex
 synonym: "lateral septal area" EXACT []
+synonym: "lateral septal complex" EXACT [from label]
 
 [Term]
 id: MBA:276
@@ -2260,6 +2411,7 @@ synonym: "pons spinothalamic tract" EXACT []
 synonym: "spinothalamic tract of medulla of pons of varolius" EXACT []
 synonym: "spinothalamic tract of medulla of pons" EXACT []
 synonym: "spinothalamic tract of pons of varolius" EXACT []
+synonym: "spinothalamic tract of pons" EXACT [from label]
 
 [Term]
 id: MBA:278
@@ -2276,6 +2428,7 @@ name: Entorhinal area, lateral part, layer 6a
 [Term]
 id: MBA:280
 name: Barrington's nucleus
+synonym: "Barrington's nucleus" EXACT [from label]
 synonym: "nucleus of Barrington" EXACT []
 
 [Term]
@@ -2298,12 +2451,14 @@ name: spinotelenchephalic pathway
 id: MBA:286
 name: Suprachiasmatic nucleus
 synonym: "suprachiasmatic nucleus of hypothalamus" EXACT []
+synonym: "suprachiasmatic nucleus" EXACT [from label]
 
 [Term]
 id: MBA:287
 name: Bed nucleus of the anterior commissure
 synonym: "anterior commissure nucleus" EXACT []
 synonym: "bed nucleus of anterior commissure" EXACT []
+synonym: "nucleus of anterior commissure" EXACT [from label]
 synonym: "nucleus of commissura anterior" EXACT []
 
 [Term]
@@ -2322,6 +2477,7 @@ name: lateral spinothalamic tract
 id: MBA:290
 name: Hypothalamic lateral zone
 synonym: "hypothalamus lateral zone" EXACT []
+synonym: "lateral zone of hypothalamus" EXACT [from label]
 synonym: "zona lateralis hypothalamicae" EXACT []
 
 [Term]
@@ -2343,6 +2499,7 @@ name: Superior colliculus, motor related
 [Term]
 id: MBA:295
 name: Basolateral amygdalar nucleus
+synonym: "basal amygdaloid nucleus" EXACT [from label]
 synonym: "basolateral amygaloid nucleus" EXACT []
 synonym: "basolateral amygdalar nucleus" EXACT []
 synonym: "basolateral amygdaloid nucleus" EXACT []
@@ -2373,10 +2530,12 @@ synonym: "fissura postpyramidalis cerebelli" EXACT []
 synonym: "post-pyramidal fissure of cerebellum" EXACT []
 synonym: "postpyramidal fissure" EXACT []
 synonym: "secondary fissure of cerebellum" EXACT []
+synonym: "secondary fissure of cerebellum" EXACT [from label]
 
 [Term]
 id: MBA:30
 name: Periventricular hypothalamic nucleus, anterior part
+synonym: "anterior paraventricular nucleus of thalamus" EXACT [from label]
 synonym: "anterior paraventricular nucleus" EXACT []
 synonym: "ventral paraventricular nucleus of thalamus" EXACT []
 
@@ -2388,6 +2547,7 @@ name: Ventral part of the lateral geniculate complex, lateral zone
 id: MBA:301
 name: stria terminalis
 synonym: "semicircular stria" EXACT []
+synonym: "stria terminalis" EXACT [from label]
 synonym: "terminal stria" EXACT []
 
 [Term]
@@ -2407,6 +2567,7 @@ id: MBA:304325711
 name: retina
 synonym: "inner layer of eyeball" EXACT []
 synonym: "retina of camera-type eye" EXACT []
+synonym: "retina" EXACT [from label]
 synonym: "tunica interna of eyeball" EXACT []
 
 [Term]
@@ -2438,6 +2599,7 @@ synonym: "area cingularis anterior ventralis" EXACT []
 synonym: "B09-24" EXACT []
 synonym: "BA24" EXACT []
 synonym: "Brodmann (1909) area 24" EXACT []
+synonym: "Brodmann (1909) area 24" EXACT [from label]
 synonym: "Brodmann area 24" EXACT []
 synonym: "ventral anterior cingulate" EXACT []
 
@@ -2446,6 +2608,7 @@ id: MBA:310
 name: Septofimbrial nucleus
 synonym: "nucleus septofibrialis" EXACT []
 synonym: "scattered nucleus of the septum" EXACT []
+synonym: "septofimbrial nucleus" EXACT [from label]
 
 [Term]
 id: MBA:311
@@ -2566,6 +2729,7 @@ name: Postrhinal area, layer 6b
 [Term]
 id: MBA:313
 name: Midbrain
+synonym: "midbrain" EXACT [from label]
 
 [Term]
 id: MBA:314
@@ -2580,6 +2744,7 @@ synonym: "homotypical cortex" EXACT []
 synonym: "isocortex (sensu lato)" EXACT []
 synonym: "isocortex" NARROW []
 synonym: "neocortex (isocortex)" EXACT []
+synonym: "neocortex" EXACT [from label]
 synonym: "neopallial cortex" EXACT []
 synonym: "neopallium" EXACT []
 
@@ -2590,6 +2755,7 @@ name: Ventral part of the lateral geniculate complex, medial zone
 [Term]
 id: MBA:317
 name: subthalamic fascicle
+synonym: "subthalamic fasciculus" EXACT [from label]
 
 [Term]
 id: MBA:318
@@ -2602,6 +2768,7 @@ synonym: "basomedial amygdalar nucleus" EXACT []
 synonym: "basomedial amygdaloid nucleus" EXACT []
 synonym: "medial basal nucleus of amygdala" EXACT []
 synonym: "medial division of basal nucleus" EXACT []
+synonym: "medial part of basal amygdaloid nucleus" EXACT [from label]
 synonym: "nucleus amygdalae basalis medialis" EXACT []
 
 [Term]
@@ -2616,6 +2783,7 @@ name: Subgeniculate nucleus
 id: MBA:322
 name: Primary somatosensory area
 synonym: "primary somatosensory cortex (area S1, areas 3,1,2)" EXACT []
+synonym: "primary somatosensory cortex" EXACT [from label]
 synonym: "somatosensory area 1" EXACT []
 
 [Term]
@@ -2630,6 +2798,7 @@ name: Entorhinal area, medial part, ventral zone, layer 2
 id: MBA:325
 name: Suprageniculate nucleus
 synonym: "nucleus suprageniculatus" EXACT []
+synonym: "suprageniculate nucleus of thalamus" EXACT [from label]
 synonym: "suprageniculate nucleus" EXACT []
 synonym: "suprageniculate thalamic nucleus" EXACT []
 
@@ -2648,6 +2817,7 @@ name: Agranular insular area, dorsal part, layer 2/3
 [Term]
 id: MBA:329
 name: Primary somatosensory area, barrel field
+synonym: "barrel cortex" EXACT [from label]
 
 [Term]
 id: MBA:33
@@ -2661,6 +2831,7 @@ name: Retrosplenial area, dorsal part, layer 6b
 id: MBA:331
 name: Mammillary body
 synonym: "corpus mamillare" EXACT []
+synonym: "mammillary body" EXACT [from label]
 
 [Term]
 id: MBA:332
@@ -2669,6 +2840,7 @@ name: Accessory supraoptic group
 [Term]
 id: MBA:333
 name: Septohippocampal nucleus
+synonym: "septohippocampal nucleus" EXACT [from label]
 
 [Term]
 id: MBA:334
@@ -2688,6 +2860,7 @@ synonym: "commissure of anterior corpus quadrigeminum" EXACT []
 synonym: "commissure of cranial colliculus" EXACT []
 synonym: "commissure of optic tectum" EXACT []
 synonym: "commissure of superior colliculi" EXACT []
+synonym: "commissure of superior colliculus" EXACT [from label]
 synonym: "cranial colliculus commissure" EXACT []
 synonym: "intertectal commissure" EXACT []
 synonym: "optic tectum commissure" EXACT []
@@ -2700,6 +2873,7 @@ name: Primary somatosensory area, lower limb
 [Term]
 id: MBA:338
 name: Subfornical organ
+synonym: "subfornical organ" EXACT [from label]
 
 [Term]
 id: MBA:339
@@ -2720,6 +2894,7 @@ synonym: "commissure of forel" EXACT []
 synonym: "commissure y" EXACT []
 synonym: "decussation supramamilaris" EXACT []
 synonym: "postmammillary decussation" EXACT []
+synonym: "supramammillary commissure" EXACT [from label]
 synonym: "supramammillary decussation" EXACT []
 
 [Term]
@@ -2727,11 +2902,13 @@ id: MBA:342
 name: Substantia innominata
 synonym: "innominate substance" EXACT []
 synonym: "nucleus of substantia innominata" EXACT []
+synonym: "substantia innominata" EXACT [from label]
 
 [Term]
 id: MBA:343
 name: Brain stem
 synonym: "brain stem" EXACT []
+synonym: "brainstem" EXACT [from label]
 synonym: "truncus encephali" EXACT []
 
 [Term]
@@ -2749,6 +2926,7 @@ name: Primary somatosensory area, layer 2/3
 [Term]
 id: MBA:347
 name: Subparaventricular zone
+synonym: "subparaventricular zone" EXACT [from label]
 
 [Term]
 id: MBA:348
@@ -2767,6 +2945,7 @@ synonym: "nucleus of oculomotor nuclear complex" EXACT []
 synonym: "nucleus of third cranial nerve" EXACT []
 synonym: "oculomotor III nuclear complex" EXACT []
 synonym: "oculomotor III nucleus" EXACT []
+synonym: "oculomotor nuclear complex" EXACT [from label]
 synonym: "oculomotor nucleus" EXACT []
 synonym: "OM" EXACT []
 synonym: "third cranial nerve nucleus" EXACT []
@@ -2775,6 +2954,7 @@ synonym: "third cranial nerve nucleus" EXACT []
 id: MBA:350
 name: Subceruleus nucleus
 synonym: "nucleus subcaeruleus" EXACT []
+synonym: "nucleus subceruleus" EXACT [from label]
 synonym: "subcaerulean nucleus" EXACT []
 synonym: "subceruleus nucleus" EXACT []
 synonym: "subcoeruleus nucleus" EXACT []
@@ -2783,6 +2963,7 @@ synonym: "subcoeruleus nucleus" EXACT []
 id: MBA:351
 name: Bed nuclei of the stria terminalis
 synonym: "bed nuclei of the stria terminalis" EXACT []
+synonym: "bed nucleus of stria terminalis" EXACT [from label]
 synonym: "bed nucleus of the stria terminalis" EXACT []
 synonym: "bed nucleus stria terminalis (Johnson)" EXACT []
 synonym: "bed nucleus striae terminalis" EXACT []
@@ -2805,6 +2986,7 @@ name: Primary somatosensory area, nose
 id: MBA:354
 name: Medulla
 synonym: "bulbus" EXACT []
+synonym: "medulla oblongata" EXACT [from label]
 
 [Term]
 id: MBA:355
@@ -2818,6 +3000,7 @@ name: Preparasubthalamic nucleus
 id: MBA:357
 name: tectothalamic pathway
 synonym: "tectothalamic fibers" EXACT []
+synonym: "tectothalamic tract" EXACT [from label]
 
 [Term]
 id: MBA:358
@@ -2826,6 +3009,7 @@ name: Sublaterodorsal nucleus
 [Term]
 id: MBA:359
 name: Bed nuclei of the stria terminalis, anterior division
+synonym: "anterior division of bed nuclei of stria terminalis" EXACT [from label]
 synonym: "anterior nuclei of stria terminalis" EXACT []
 synonym: "bed nuclei of the stria terminalis, anterior division" EXACT []
 
@@ -2847,6 +3031,7 @@ name: Mediodorsal nucleus of thalamus
 synonym: "dorsal medial nucleus of thalamus" EXACT []
 synonym: "dorsomedial nucleus of thalamus" EXACT []
 synonym: "medial dorsal nucleus of thalamus" EXACT []
+synonym: "medial dorsal nucleus of thalamus" EXACT [from label]
 synonym: "medial dorsal thalamic nucleus" EXACT []
 synonym: "medial nuclear group of thalamus" EXACT []
 synonym: "mediodorsal nucleus of thalamus" EXACT []
@@ -2864,6 +3049,7 @@ name: Parasubthalamic nucleus
 [Term]
 id: MBA:365
 name: thalamic peduncles
+synonym: "peduncle of thalamus" EXACT [from label]
 synonym: "thalamic peduncle" EXACT []
 
 [Term]
@@ -2873,6 +3059,7 @@ synonym: "gelatinosus thalamic nucleus" EXACT []
 synonym: "nucleus submedialis thalami" EXACT []
 synonym: "nucleus submedius thalami" EXACT []
 synonym: "submedial nucleus of thalamus" EXACT []
+synonym: "submedial nucleus of thalamus" EXACT [from label]
 synonym: "submedial nucleus thalamus" EXACT []
 synonym: "submedial nucleus" EXACT []
 synonym: "submedial thalamic nucleus" EXACT []
@@ -2881,6 +3068,7 @@ synonym: "submedial thalamic nucleus" EXACT []
 id: MBA:367
 name: Bed nuclei of the stria terminalis, posterior division
 synonym: "bed nuclei of the stria terminalis, posterior division" EXACT []
+synonym: "posterior division of bed nuclei of stria terminalis" EXACT [from label]
 synonym: "posterior nuclei of stria terminalis" EXACT []
 
 [Term]
@@ -2920,6 +3108,7 @@ synonym: "pars compacta" EXACT []
 synonym: "SNpc" EXACT []
 synonym: "substantia nigra compact part" EXACT []
 synonym: "substantia nigra compacta" EXACT []
+synonym: "substantia nigra pars compacta" EXACT [from label]
 synonym: "substantia nigra, compact part" EXACT []
 
 [Term]
@@ -2928,6 +3117,7 @@ name: Ammon's horn
 synonym: "ammon gyrus" EXACT []
 synonym: "ammon horn" EXACT []
 synonym: "Ammon's horn" EXACT []
+synonym: "Ammon's horn" EXACT [from label]
 synonym: "hippocampus major" EXACT []
 synonym: "hippocampus proper" EXACT []
 synonym: "hippocampus proprius" EXACT []
@@ -2943,6 +3133,7 @@ name: Posterolateral visual area, layer 6a
 [Term]
 id: MBA:378
 name: Supplemental somatosensory area
+synonym: "secondary somatosensory cortex" EXACT [from label]
 synonym: "somatosensory area 2" EXACT []
 
 [Term]
@@ -2954,11 +3145,13 @@ id: MBA:38
 name: Paraventricular hypothalamic nucleus
 synonym: "filiform nucleus" EXACT []
 synonym: "paraventricular hypothalamic nucleus" EXACT []
+synonym: "paraventricular nucleus of hypothalamus" EXACT [from label]
 synonym: "paraventricular nucleus" EXACT []
 
 [Term]
 id: MBA:380
 name: cuneate fascicle
+synonym: "cuneate fasciculus" EXACT [from label]
 synonym: "cuneatus tract" EXACT []
 
 [Term]
@@ -2969,6 +3162,7 @@ synonym: "pars reticularis substantiae nigrae" EXACT []
 synonym: "pars reticularis" EXACT []
 synonym: "pars reticulata" EXACT []
 synonym: "reticular part of substantia nigra" EXACT []
+synonym: "substantia nigra pars reticulata" EXACT [from label]
 synonym: "substantia nigra, pars diffusa" EXACT []
 synonym: "substantia nigra, reticular part" EXACT []
 
@@ -2978,6 +3172,7 @@ name: Field CA1
 synonym: "CA1 field of Ammon's horn" EXACT []
 synonym: "CA1 field of cornu ammonis" EXACT []
 synonym: "CA1 field of hippocampus" EXACT []
+synonym: "CA1 field of hippocampus" EXACT [from label]
 synonym: "CA1 field" EXACT []
 synonym: "CA1" EXACT []
 synonym: "cornu ammonis 1" EXACT []
@@ -3001,6 +3196,7 @@ name: trochlear nerve decussation
 synonym: "decussatio fibrarum nervorum trochlearium" EXACT []
 synonym: "decussation of trochlear nerve (IV)" EXACT []
 synonym: "decussation of trochlear nerve fibers" EXACT []
+synonym: "decussation of trochlear nerve" EXACT [from label]
 synonym: "trochlear neural decussation" EXACT []
 
 [Term]
@@ -3012,6 +3208,7 @@ synonym: "BA17" EXACT []
 synonym: "Brodmann (1909) area 17" EXACT []
 synonym: "Brodmann area 17" EXACT []
 synonym: "Brodmann area 17, striate" EXACT []
+synonym: "primary visual cortex" EXACT [from label]
 synonym: "striate cortex" EXACT []
 
 [Term]
@@ -3027,6 +3224,7 @@ id: MBA:388
 name: gracile fascicle
 synonym: "fasciculus gracilis" EXACT []
 synonym: "gracile fascicle" EXACT []
+synonym: "gracile fasciculus" EXACT [from label]
 synonym: "gracilis tract" EXACT []
 
 [Term]
@@ -3043,12 +3241,14 @@ name: Supraoptic nucleus
 synonym: "nucleus supraopticus" EXACT []
 synonym: "supra-optic nucleus" EXACT []
 synonym: "supraoptic nucleus of hypothalamus" EXACT []
+synonym: "supraoptic nucleus" EXACT [from label]
 
 [Term]
 id: MBA:391
 name: Field CA1, stratum lacunosum-moleculare
 synonym: "CA1 part of stratum lacunosum moleculare" EXACT []
 synonym: "CA1 stratum lacunosum moleculare" EXACT []
+synonym: "CA1 stratum lacunosum moleculare" EXACT [from label]
 synonym: "lacunar-molecular layer of CA1 field" EXACT []
 synonym: "stratum lacunosum moleculare of the CA1 field" EXACT []
 
@@ -3071,6 +3271,7 @@ synonym: "bulb reticular formation" EXACT []
 synonym: "bulbar reticular formation" EXACT []
 synonym: "medulla oblongata reticular formation" EXACT []
 synonym: "medulla oblonmgata reticular formation" EXACT []
+synonym: "medullary reticular formation" EXACT [from label]
 synonym: "medullary reticular nucleus" EXACT []
 synonym: "metepencephalon reticular formation" EXACT []
 synonym: "reticular formation of bulb" EXACT []
@@ -3085,6 +3286,7 @@ id: MBA:396
 name: internal arcuate fibers
 synonym: "arcuate fibers medial lemniscus" EXACT []
 synonym: "fibrae arcuatae internae" EXACT []
+synonym: "internal arcuate fiber bundle" EXACT [from label]
 synonym: "internal arcuate fibers" EXACT []
 synonym: "internal arcuate fibres" EXACT []
 synonym: "internal arcuate tract" EXACT []
@@ -3096,11 +3298,13 @@ synonym: "anterior tegmental decussation" EXACT []
 synonym: "decussatio tegmentalis anterior" EXACT []
 synonym: "decussation of forel" EXACT []
 synonym: "ventral tegmental decussation of forel" EXACT []
+synonym: "ventral tegmental decussation" EXACT [from label]
 
 [Term]
 id: MBA:398
 name: Superior olivary complex
 synonym: "nucleus olivaris superior" EXACT []
+synonym: "superior olivary complex" EXACT [from label]
 synonym: "superior olivary nuclei" EXACT []
 
 [Term]
@@ -3108,6 +3312,7 @@ id: MBA:399
 name: Field CA1, stratum oriens
 synonym: "CA1 part of stratum oriens" EXACT []
 synonym: "CA1 stratum oriens" EXACT []
+synonym: "CA1 stratum oriens" EXACT [from label]
 synonym: "oriens layer of CA1 field" EXACT []
 synonym: "stratum oriens of the CA1 field" EXACT []
 
@@ -3116,6 +3321,7 @@ id: MBA:4
 name: Inferior colliculus
 synonym: "caudal colliculus" EXACT []
 synonym: "inferior colliculi" EXACT []
+synonym: "inferior colliculus" EXACT [from label]
 synonym: "posterior colliculus" EXACT []
 synonym: "posterior corpus quadrigeminum" EXACT []
 
@@ -3134,10 +3340,12 @@ name: Anterolateral visual area
 [Term]
 id: MBA:403
 name: Medial amygdalar nucleus
+synonym: "cerebral hemisphere" EXACT [from label]
 
 [Term]
 id: MBA:404
 name: olivocerebellar tract
+synonym: "olivocerebellar tract" EXACT [from label]
 
 [Term]
 id: MBA:405
@@ -3146,6 +3354,7 @@ name: ventrolateral hypothalamic tract
 [Term]
 id: MBA:406
 name: Subparafascicular nucleus
+synonym: "subparafascicular nucleus" EXACT [from label]
 
 [Term]
 id: MBA:407
@@ -3153,6 +3362,7 @@ name: Field CA1, pyramidal layer
 synonym: "CA1 part of stratum pyramidale hippocampi" EXACT []
 synonym: "CA1 stratum pyramidale hippocampi" EXACT []
 synonym: "field CA1, pyramidal layer" EXACT []
+synonym: "pyramidal layer of CA1" EXACT [from label]
 synonym: "stratum pyramidale of CA1" EXACT []
 synonym: "stratum pyramidale of the CA1 field" EXACT []
 
@@ -3183,6 +3393,7 @@ name: Orbital area, lateral part, layer 2/3
 [Term]
 id: MBA:413
 name: vestibular nerve
+synonym: "vestibular nerve" EXACT [from label]
 synonym: "vestibular root of acoustic nerve" EXACT []
 synonym: "vestibular root of eighth cranial nerve" EXACT []
 synonym: "vestibulocochlear VIII nerve vestibular component" EXACT []
@@ -3196,6 +3407,7 @@ id: MBA:415
 name: Field CA1, stratum radiatum
 synonym: "CA1 part of stratum radiatum" EXACT []
 synonym: "CA1 stratum radiatum" EXACT []
+synonym: "CA1 stratum radiatum" EXACT [from label]
 synonym: "radiate layer of CA1 field" EXACT []
 synonym: "stratum radiatum of the CA1 field" EXACT []
 
@@ -3237,6 +3449,7 @@ name: Field CA2
 synonym: "CA2 field of Ammon's horn" EXACT []
 synonym: "CA2 field of cornu ammonis" EXACT []
 synonym: "CA2 field of hippocampus" EXACT []
+synonym: "CA2 field of hippocampus" EXACT [from label]
 synonym: "CA2 field" EXACT []
 synonym: "CA2" EXACT []
 synonym: "hippocampus CA2" EXACT []
@@ -3271,11 +3484,13 @@ id: MBA:429
 name: Spinal nucleus of the trigeminal, caudal part
 synonym: "caudal nucleus (kandell)" EXACT []
 synonym: "caudal nucleus" EXACT []
+synonym: "caudal part of spinal trigeminal nucleus" EXACT [from label]
 synonym: "spinal trigeminal nucleus, caudal part" EXACT []
 
 [Term]
 id: MBA:43
 name: ansoparamedian fissure
+synonym: "ansoparamedian fissure of cerebellum" EXACT [from label]
 synonym: "ansoparamedian fissure" EXACT []
 synonym: "fissura ansoparamedianis" EXACT []
 synonym: "fissura lunogracilis" EXACT []
@@ -3291,12 +3506,14 @@ id: MBA:431
 name: Field CA2, stratum lacunosum-moleculare
 synonym: "CA2 part of stratum lacunosum moleculare" EXACT []
 synonym: "CA2 stratum lacunosum moleculare" EXACT []
+synonym: "CA2 stratum lacunosum moleculare" EXACT [from label]
 synonym: "lacunar-molecular layer of CA2 field" EXACT []
 synonym: "stratum lacunosum moleculare of the CA2 field" EXACT []
 
 [Term]
 id: MBA:432
 name: Nucleus circularis
+synonym: "circular nucleus of antherior hypothalamic nucleus" EXACT [from label]
 
 [Term]
 id: MBA:433
@@ -3315,6 +3532,7 @@ id: MBA:436
 name: columns of the fornix
 synonym: "body of fornix of forebrain" EXACT []
 synonym: "body of fornix" EXACT []
+synonym: "body of fornix" EXACT [from label]
 synonym: "column of fornix" EXACT []
 synonym: "columna fornicis" EXACT []
 synonym: "columns of fornix" EXACT []
@@ -3323,12 +3541,14 @@ synonym: "fornix body" EXACT []
 [Term]
 id: MBA:437
 name: Spinal nucleus of the trigeminal, interpolar part
+synonym: "interpolar part of spinal trigeminal nucleus" EXACT [from label]
 
 [Term]
 id: MBA:438
 name: Field CA2, stratum oriens
 synonym: "CA2 part of stratum oriens" EXACT []
 synonym: "CA2 stratum oriens" EXACT []
+synonym: "CA2 stratum oriens" EXACT [from label]
 synonym: "oriens layer of CA2 field" EXACT []
 synonym: "stratum oriens of the CA2 field" EXACT []
 
@@ -3336,6 +3556,7 @@ synonym: "stratum oriens of the CA2 field" EXACT []
 id: MBA:439
 name: Paraventricular hypothalamic nucleus, descending division, dorsal parvicellular part
 synonym: "paraventricular nucleus of the hypothalamus descending division - dorsal parvicellular part" EXACT []
+synonym: "paraventricular nucleus of the hypothalamus descending division - dorsal parvicellular part" EXACT [from label]
 
 [Term]
 id: MBA:44
@@ -3364,6 +3585,7 @@ name: Medial group of the dorsal thalamus
 [Term]
 id: MBA:445
 name: Spinal nucleus of the trigeminal, oral part
+synonym: "oral part of spinal trigeminal nucleus" EXACT [from label]
 
 [Term]
 id: MBA:446
@@ -3371,6 +3593,7 @@ name: Field CA2, pyramidal layer
 synonym: "CA2 part of stratum pyramidale hippocampi" EXACT []
 synonym: "CA2 stratum pyramidale hippocampi" EXACT []
 synonym: "field CA2, pyramidal layer" EXACT []
+synonym: "pyramidal layer of CA2" EXACT [from label]
 synonym: "stratum pyramidale of CA2" EXACT []
 synonym: "stratum pyramidale of the CA2 field" EXACT []
 
@@ -3378,6 +3601,7 @@ synonym: "stratum pyramidale of the CA2 field" EXACT []
 id: MBA:447
 name: Paraventricular hypothalamic nucleus, descending division, forniceal part
 synonym: "paraventricular nucleus of the hypothalamus descending division - forniceal part" EXACT []
+synonym: "paraventricular nucleus of the hypothalamus descending division - forniceal part" EXACT [from label]
 
 [Term]
 id: MBA:448
@@ -3402,17 +3626,20 @@ name: Basolateral amygdalar nucleus, ventral part
 [Term]
 id: MBA:452
 name: Median preoptic nucleus
+synonym: "median preoptic nucleus" EXACT [from label]
 
 [Term]
 id: MBA:453
 name: Somatosensory areas
 synonym: "somatic sensory cortex" EXACT []
+synonym: "somatosensory cortex" EXACT [from label]
 
 [Term]
 id: MBA:454
 name: Field CA2, stratum radiatum
 synonym: "CA2 part of stratum radiatum" EXACT []
 synonym: "CA2 stratum radiatum" EXACT []
+synonym: "CA2 stratum radiatum" EXACT [from label]
 synonym: "radiate layer of CA2 field" EXACT []
 synonym: "stratum radiatum of the CA2 field" EXACT []
 
@@ -3420,6 +3647,7 @@ synonym: "stratum radiatum of the CA2 field" EXACT []
 id: MBA:455
 name: Paraventricular hypothalamic nucleus, descending division, lateral parvicellular part
 synonym: "paraventricular nucleus of the hypothalamus descending division - lateral parvicellular part" EXACT []
+synonym: "paraventricular nucleus of the hypothalamus descending division - lateral parvicellular part" EXACT [from label]
 
 [Term]
 id: MBA:456
@@ -3444,6 +3672,7 @@ name: mammillary related
 [Term]
 id: MBA:460
 name: Midbrain trigeminal nucleus
+synonym: "mesencephalic nucleus of trigeminal nerve" EXACT [from label]
 synonym: "mesencephalic trigeminal nucleus" EXACT []
 synonym: "mesencephalic trigeminal V nucleus" EXACT []
 synonym: "nucleus of mesencephalic root of v" EXACT []
@@ -3459,6 +3688,7 @@ name: Primary somatosensory area, trunk, layer 6b
 id: MBA:462
 name: Superior salivatory nucleus
 synonym: "superior salivary nucleus" EXACT []
+synonym: "superior salivatory nucleus" EXACT [from label]
 
 [Term]
 id: MBA:463
@@ -3466,6 +3696,7 @@ name: Field CA3
 synonym: "CA3 field of Ammon's horn" EXACT []
 synonym: "CA3 field of cornu ammonis" EXACT []
 synonym: "CA3 field of hippocampus" EXACT []
+synonym: "CA3 field of hippocampus" EXACT [from label]
 synonym: "CA3 field" EXACT []
 synonym: "CA3" EXACT []
 synonym: "hippocampus CA3" EXACT []
@@ -3480,6 +3711,7 @@ synonym: "region III of hippocampus proper" EXACT []
 id: MBA:464
 name: Paraventricular hypothalamic nucleus, descending division, medial parvicellular part, ventral zone
 synonym: "paraventricular nucleus of the hypothalamus descending division - medial parvicellular part, ventral zone" EXACT []
+synonym: "paraventricular nucleus of the hypothalamus descending division - medial parvicellular part, ventral zone" EXACT [from label]
 
 [Term]
 id: MBA:465
@@ -3490,12 +3722,14 @@ id: MBA:466
 name: alveus
 synonym: "alveus of hippocampus" EXACT []
 synonym: "alveus" EXACT []
+synonym: "hippocampus alveus" EXACT [from label]
 synonym: "neuraxis alveus" EXACT []
 
 [Term]
 id: MBA:467
 name: Hypothalamic medial zone
 synonym: "hypothalamus medial zone" EXACT []
+synonym: "medial zone of hypothalamus" EXACT [from label]
 synonym: "zona medialis hypothalamicae" EXACT []
 
 [Term]
@@ -3510,6 +3744,7 @@ name: posteromedial visual area, layer 6b
 id: MBA:47
 name: Paraventricular hypothalamic nucleus, magnocellular division, anterior magnocellular part
 synonym: "paraventricular nucleus of the hypothalamus magnocellular division - anterior magnocellular part" EXACT []
+synonym: "paraventricular nucleus of the hypothalamus magnocellular division - anterior magnocellular part" EXACT [from label]
 
 [Term]
 id: MBA:470
@@ -3521,12 +3756,14 @@ synonym: "nucleus of corpus luysii" EXACT []
 synonym: "nucleus of Luys" EXACT []
 synonym: "nucleus subthalamicus" EXACT []
 synonym: "subthalamic nucleus (of Luys)" EXACT []
+synonym: "subthalamic nucleus" EXACT [from label]
 
 [Term]
 id: MBA:471
 name: Field CA3, stratum lacunosum-moleculare
 synonym: "CA3 part of stratum lacunosum moleculare" EXACT []
 synonym: "CA3 stratum lacunosum moleculare" EXACT []
+synonym: "CA3 stratum lacunosum moleculare" EXACT [from label]
 synonym: "lacunar-molecular layer of CA3 field" EXACT []
 synonym: "stratum lacunosum moleculare of the CA3 field" EXACT []
 
@@ -3546,6 +3783,7 @@ name: angular path
 id: MBA:475
 name: Medial geniculate complex
 synonym: "corpus geniculatum mediale" EXACT []
+synonym: "medial geniculate body" EXACT [from label]
 synonym: "medial geniculate complex" EXACT []
 synonym: "medial geniculate nuclei" EXACT []
 synonym: "medial geniculate nucleus" EXACT []
@@ -3563,6 +3801,7 @@ synonym: "neuraxis striatum" EXACT []
 synonym: "striate nucleus" EXACT []
 synonym: "striatum of neuraxis" EXACT []
 synonym: "striatum" EXACT []
+synonym: "striatum" EXACT [from label]
 
 [Term]
 id: MBA:478
@@ -3572,6 +3811,7 @@ name: Primary somatosensory area, lower limb, layer 6a
 id: MBA:479
 name: Field CA3, stratum lucidum
 synonym: "CA3 stratum lucidum" EXACT []
+synonym: "CA3 stratum lucidum" EXACT [from label]
 synonym: "stratum lucidum of the CA3 field" EXACT []
 
 [Term]
@@ -3586,11 +3826,13 @@ name: Medial amygdalar nucleus, posterodorsal part, sublayer b
 id: MBA:481
 name: Islands of Calleja
 synonym: "Calleja island" EXACT []
+synonym: "island of Calleja" EXACT [from label]
 synonym: "islands of Calleja" EXACT []
 
 [Term]
 id: MBA:482
 name: brachium of the inferior colliculus
+synonym: "brachium of inferior colliculus" EXACT [from label]
 synonym: "brachium of medial geniculate" EXACT []
 synonym: "inferior brachium" EXACT []
 synonym: "inferior collicular brachium" EXACT []
@@ -3602,6 +3844,7 @@ synonym: "peduncle of inferior colliculus" EXACT []
 id: MBA:483
 name: Medial habenula
 synonym: "medial habenula" EXACT []
+synonym: "medial habenular nucleus" EXACT [from label]
 synonym: "nucleus habenulae medialis" EXACT []
 synonym: "nucleus habenularis medialis (hassler)" EXACT []
 synonym: "nucleus habenularis medialis epithalami" EXACT []
@@ -3614,6 +3857,7 @@ name: Orbital area, medial part, layer 1
 [Term]
 id: MBA:485
 name: Striatum dorsal region
+synonym: "dorsal striatum" EXACT [from label]
 synonym: "striatum dorsal region" EXACT []
 
 [Term]
@@ -3621,6 +3865,7 @@ id: MBA:486
 name: Field CA3, stratum oriens
 synonym: "CA3 part of stratum oriens" EXACT []
 synonym: "CA3 stratum oriens" EXACT []
+synonym: "CA3 stratum oriens" EXACT [from label]
 synonym: "oriens layer of CA3 field" EXACT []
 synonym: "stratum oriens of the CA3 field" EXACT []
 
@@ -3636,6 +3881,7 @@ name: Orbital area, lateral part, layer 6b
 id: MBA:489
 name: Major island of Calleja
 synonym: "isla magna of calleja" EXACT []
+synonym: "isla magna of Calleja" EXACT [from label]
 synonym: "major island of Calleja" EXACT []
 
 [Term]
@@ -3650,6 +3896,7 @@ name: bulbocerebellar tract
 id: MBA:491
 name: Medial mammillary nucleus
 synonym: "internal mammillary nucleus" EXACT []
+synonym: "medial mammillary nucleus" EXACT [from label]
 synonym: "medial nucleus of mammillary body" EXACT []
 synonym: "nucleus mammillaris medialis" EXACT []
 
@@ -3661,6 +3908,7 @@ name: Orbital area, layer 2/3
 id: MBA:493
 name: Striatum ventral region
 synonym: "striatum ventral region" EXACT []
+synonym: "ventral striatum" EXACT [from label]
 
 [Term]
 id: MBA:494
@@ -3672,6 +3920,7 @@ name: Field CA3, pyramidal layer
 synonym: "CA3 part of stratum pyramidale hippocampi" EXACT []
 synonym: "CA3 stratum pyramidale hippocampi" EXACT []
 synonym: "field CA3, pyramidal layer" EXACT []
+synonym: "pyramidal layer of CA3" EXACT [from label]
 synonym: "stratum pyramidale of CA3" EXACT []
 synonym: "stratum pyramidale of the CA3 field" EXACT []
 
@@ -3691,6 +3940,7 @@ name: Bed nuclei of the stria terminalis, anterior division, anteromedial area
 id: MBA:499
 name: cuneocerebellar tract
 synonym: "cuneocerebellar fibers" EXACT []
+synonym: "cuneocerebellar tract" EXACT [from label]
 
 [Term]
 id: MBA:50
@@ -3709,6 +3959,7 @@ id: MBA:502
 name: Subiculum
 synonym: "subicular cortex" EXACT []
 synonym: "subiculum hippocampi" EXACT []
+synonym: "subiculum" EXACT [from label]
 
 [Term]
 id: MBA:503
@@ -3719,6 +3970,7 @@ id: MBA:504
 name: Field CA3, stratum radiatum
 synonym: "CA3 part of stratum radiatum" EXACT []
 synonym: "CA3 stratum radiatum" EXACT []
+synonym: "CA3 stratum radiatum" EXACT [from label]
 synonym: "radiate layer of CA3 field" EXACT []
 synonym: "stratum radiatum of the CA3 field" EXACT []
 
@@ -3729,12 +3981,14 @@ name: Bed nuclei of the stria terminalis, anterior division, dorsomedial nucleus
 [Term]
 id: MBA:506
 name: dorsal acoustic stria
+synonym: "dorsal acoustic stria" EXACT [from label]
 synonym: "posterior acoustic stria" EXACT []
 synonym: "stria cochlearis posterior" EXACT []
 
 [Term]
 id: MBA:507
 name: Main olfactory bulb
+synonym: "main olfactory bulb" EXACT [from label]
 
 [Term]
 id: MBA:508
@@ -3750,6 +4004,7 @@ name: Intralaminar nuclei of the dorsal thalamus
 synonym: "intralaminar nuclear complex" EXACT []
 synonym: "intralaminar nuclear group of thalamus" EXACT []
 synonym: "intralaminar nuclear group" EXACT []
+synonym: "intralaminar nuclear group" EXACT [from label]
 synonym: "intralaminar nuclei of thalamus" EXACT []
 synonym: "intralaminar thalamic nuclei" EXACT []
 synonym: "nonspecific thalamic system" EXACT []
@@ -3767,12 +4022,14 @@ name: Superior colliculus, motor related, intermediate gray layer, sublayer c
 [Term]
 id: MBA:512
 name: Cerebellum
+synonym: "cerebellum" EXACT [from label]
 synonym: "epencephalon-1" EXACT []
 
 [Term]
 id: MBA:513
 name: Bed nuclei of the stria terminalis, anterior division, fusiform nucleus
 synonym: "bed nuclei of the stria terminalis, anterior division, fusiform nucleus" EXACT []
+synonym: "fusiform nucleus of stria terminalis" EXACT [from label]
 
 [Term]
 id: MBA:514
@@ -3780,12 +4037,14 @@ name: dorsal column
 synonym: "dorsal column of spinal cord" EXACT []
 synonym: "dorsal column" EXACT []
 synonym: "posterior column" EXACT []
+synonym: "spinal cord dorsal column" EXACT [from label]
 synonym: "spinal cord posterior column" EXACT []
 
 [Term]
 id: MBA:515
 name: Medial preoptic nucleus
 synonym: "medial preoptic hypothalamic nucleus" EXACT []
+synonym: "medial preoptic nucleus" EXACT [from label]
 
 [Term]
 id: MBA:516
@@ -3803,6 +4062,7 @@ name: Subiculum, ventral part
 id: MBA:519
 name: Cerebellar nuclei
 synonym: "central nuclei" EXACT []
+synonym: "cerebellar nuclear complex" EXACT [from label]
 synonym: "cerebellar nuclei" EXACT []
 synonym: "deep cerebellar nuclear complex" EXACT []
 synonym: "deep cerebellar nuclei" EXACT []
@@ -3822,6 +4082,7 @@ name: Ventral auditory area, layer 6a
 [Term]
 id: MBA:521
 name: Bed nuclei of the stria terminalis, anterior division, magnocellular nucleus
+synonym: "magnocellular nucleus of stria terminalis" EXACT [from label]
 synonym: "magnocellular nucleus" EXACT []
 
 [Term]
@@ -3832,6 +4093,7 @@ name: dorsal commissure of the spinal cord
 id: MBA:523
 name: Medial preoptic area
 synonym: "medial preoptic area" EXACT []
+synonym: "medial preoptic region" EXACT [from label]
 
 [Term]
 id: MBA:524
@@ -3840,6 +4102,7 @@ name: Orbital area, medial part, layer 2
 [Term]
 id: MBA:525
 name: Supramammillary nucleus
+synonym: "supramammillary nucleus" EXACT [from label]
 
 [Term]
 id: MBA:526
@@ -3852,6 +4115,7 @@ name: Dorsal auditory area, layer 1
 [Term]
 id: MBA:528
 name: Cerebellar cortex
+synonym: "cerebellar cortex" EXACT [from label]
 synonym: "cortex of cerebellar hemisphere" EXACT []
 
 [Term]
@@ -3890,6 +4154,7 @@ name: Dorsal peduncular area, layer 2
 id: MBA:536
 name: Central amygdalar nucleus
 synonym: "central amygdala" EXACT []
+synonym: "central amygdaloid nucleus" EXACT [from label]
 synonym: "central nucleus of amygda" EXACT []
 synonym: "central nucleus of amygdala" EXACT []
 
@@ -3908,6 +4173,7 @@ name: Midbrain reticular nucleus, magnocellular part
 [Term]
 id: MBA:54
 name: medial forebrain bundle
+synonym: "medial forebrain bundle" EXACT [from label]
 synonym: "medial forebrain fasciculus" EXACT []
 synonym: "telencephalic medial fasciculus" EXACT []
 
@@ -3918,6 +4184,7 @@ name: Perirhinal area, layer 1
 [Term]
 id: MBA:541
 name: Temporal association areas
+synonym: "temporal cortex association area" EXACT [from label]
 
 [Term]
 id: MBA:542
@@ -3943,6 +4210,7 @@ name: Bed nuclei of the stria terminalis, anterior division, juxtacapsular nucle
 id: MBA:547
 name: dorsal longitudinal fascicle
 synonym: "bundle of Schutz" EXACT []
+synonym: "dorsal longitudinal fasciculus" EXACT [from label]
 synonym: "fasciculus longitudinalis posterior" EXACT []
 synonym: "fasciculus of Schutz" EXACT []
 synonym: "posterior longitudinal fasciculus" EXACT []
@@ -3954,6 +4222,7 @@ name: Midbrain reticular nucleus, magnocellular part, general
 [Term]
 id: MBA:549
 name: Thalamus
+synonym: "dorsal plus ventral thalamus" EXACT [from label]
 synonym: "wider thalamus" EXACT []
 
 [Term]
@@ -3971,6 +4240,7 @@ name: Central amygdalar nucleus, lateral part
 [Term]
 id: MBA:552
 name: Pontine reticular nucleus, ventral part
+synonym: "oral pontine reticular nucleus" EXACT [from label]
 synonym: "pontine reticular nucleus, rostral part" EXACT []
 
 [Term]
@@ -3978,11 +4248,13 @@ id: MBA:553
 name: dorsal spinocerebellar tract
 synonym: "dorsal spinocerebellar tract" EXACT []
 synonym: "flechsig's tract" EXACT []
+synonym: "posterior spinocerebellar tract" EXACT [from label]
 
 [Term]
 id: MBA:554
 name: Bed nuclei of the stria terminalis, anterior division, oval nucleus
 synonym: "bed nuclei of the stria terminalis, anterior division, oval nucleus" EXACT []
+synonym: "oval nucleus of stria terminalis" EXACT [from label]
 synonym: "oval nucleus" EXACT []
 
 [Term]
@@ -4002,6 +4274,7 @@ synonym: "mammiloinfundibular nucleus" EXACT []
 synonym: "TM" EXACT []
 synonym: "tuberomammillary hypothalamic nucleus" EXACT []
 synonym: "tuberomammillary nucleus" EXACT []
+synonym: "tuberomammillary nucleus" EXACT [from label]
 
 [Term]
 id: MBA:558
@@ -4017,6 +4290,7 @@ name: Nucleus accumbens
 synonym: "accumbens nucleus" EXACT []
 synonym: "colliculus of caudate nucleus" EXACT []
 synonym: "nucleus accumbens septi" EXACT []
+synonym: "nucleus accumbens" EXACT [from label]
 
 [Term]
 id: MBA:560
@@ -4038,6 +4312,7 @@ name: dorsal tegmental tract
 id: MBA:564
 name: Medial septal nucleus
 synonym: "medial parolfactory nucleus" EXACT []
+synonym: "medial septal nucleus" EXACT [from label]
 synonym: "medial septum" NARROW []
 
 [Term]
@@ -4053,6 +4328,7 @@ id: MBA:567
 name: Cerebrum
 synonym: "cerebrum" EXACT []
 synonym: "endbrain" EXACT []
+synonym: "telencephalon" EXACT [from label]
 
 [Term]
 id: MBA:568
@@ -4076,6 +4352,7 @@ name: Midline group of the dorsal thalamus
 synonym: "median nuclei of thalamus" EXACT []
 synonym: "midline nuclear group of thalamus" EXACT []
 synonym: "midline nuclear group" EXACT []
+synonym: "midline nuclear group" EXACT [from label]
 synonym: "midline nuclei of thalamus" EXACT []
 synonym: "midline thalamic group" EXACT []
 synonym: "nuclei mediani (thalami)" EXACT []
@@ -4096,12 +4373,14 @@ name: Tegmental reticular nucleus
 synonym: "nucleus reticularis tegmenti pontis" EXACT []
 synonym: "reticular tegmental nucleus" EXACT []
 synonym: "reticulotegmental nucleus of pons" EXACT []
+synonym: "reticulotegmental nucleus" EXACT [from label]
 synonym: "tegmental reticular nucleus, pontine gray" EXACT []
 
 [Term]
 id: MBA:575
 name: Central lateral nucleus of the thalamus
 synonym: "central lateral nucleus of thalamus" EXACT []
+synonym: "central lateral nucleus" EXACT [from label]
 synonym: "central lateral thalamic nucleus" EXACT []
 synonym: "centrolateral thalamic nucleus" EXACT []
 synonym: "nucleus centralis lateralis of thalamus" EXACT []
@@ -4119,15 +4398,18 @@ name: Primary somatosensory area, upper limb, layer 4
 id: MBA:578
 name: Bed nuclei of the stria terminalis, posterior division, principal nucleus
 synonym: "bed nuclei of the stria terminalis, posterior division, principal nucleus" EXACT []
+synonym: "principal nucleus of stria terminalis" EXACT [from label]
 
 [Term]
 id: MBA:579
 name: external capsule
+synonym: "external capsule of telencephalon" EXACT [from label]
 synonym: "external capsule" EXACT []
 
 [Term]
 id: MBA:58
 name: Medial terminal nucleus of the accessory optic tract
+synonym: "medial accessory nucleus of optic tract" EXACT [from label]
 synonym: "medial terminal nucleus of the accessory optic tract" EXACT []
 synonym: "nucleus accessorius medialis tractus optici" EXACT []
 
@@ -4141,6 +4423,7 @@ name: Triangular nucleus of septum
 synonym: "nucleus triangularis septi" EXACT []
 synonym: "triangular nucleus of septum" EXACT []
 synonym: "triangular nucleus septum (cajal)" EXACT []
+synonym: "triangular septal nucleus" EXACT [from label]
 
 [Term]
 id: MBA:582
@@ -4149,6 +4432,7 @@ name: Orbital area, medial part, layer 2/3
 [Term]
 id: MBA:583
 name: Claustrum
+synonym: "claustrum of brain" EXACT [from label]
 synonym: "claustrum" EXACT []
 synonym: "dorsal claustrum" EXACT []
 synonym: "dorsal portion of claustrum" EXACT []
@@ -4171,6 +4455,7 @@ name: Nucleus of Darkschewitsch
 synonym: "Darkshevich nucleus" EXACT []
 synonym: "Darkshevich's nucleus" EXACT []
 synonym: "nucleus of Darkschewitsch" EXACT []
+synonym: "ventral nucleus of posterior commissure" EXACT [from label]
 
 [Term]
 id: MBA:588
@@ -4180,6 +4465,7 @@ name: Anterior cingulate area, ventral part, layer 1
 id: MBA:589
 name: Taenia tecta
 synonym: "taenia tecta" EXACT []
+synonym: "taenia tectum of brain" EXACT [from label]
 synonym: "taenia tectum" EXACT []
 
 [Term]
@@ -4206,12 +4492,14 @@ name: Primary visual area, layer 1
 id: MBA:594
 name: Bed nuclei of the stria terminalis, posterior division, transverse nucleus
 synonym: "bed nuclei of the stria terminalis, posterior division, transverse nucleus" EXACT []
+synonym: "transverse nucleus of stria terminalis" EXACT [from label]
 
 [Term]
 id: MBA:595
 name: fasciculus retroflexus
 synonym: "fasciculus retroflexus (Meynert)" EXACT []
 synonym: "fasciculus retroflexus" EXACT []
+synonym: "habenulo-interpeduncular tract" EXACT [from label]
 synonym: "habenulointerpeduncular fasciculus" EXACT []
 synonym: "habenulopeduncular tract" EXACT []
 synonym: "Meynert's retroflex bundle" EXACT []
@@ -4222,6 +4510,7 @@ id: MBA:596
 name: Diagonal band nucleus
 synonym: "diagonal band nucleus" EXACT []
 synonym: "nucleus of diagonal band (of Broca)" EXACT []
+synonym: "nucleus of diagonal band" EXACT [from label]
 synonym: "nucleus of the diagonal band of broca" EXACT []
 synonym: "olfactory area (roberts)" EXACT []
 
@@ -4238,6 +4527,7 @@ id: MBA:599
 name: Central medial nucleus of the thalamus
 synonym: "central medial nucleus of thalamus" EXACT []
 synonym: "central medial nucleus thalamus (rioch 1928)" EXACT []
+synonym: "central medial nucleus" EXACT [from label]
 synonym: "central medial thalamic nucleus" EXACT []
 synonym: "nucleus centralis medialis thalami" EXACT []
 synonym: "nucleus centralis medialis" EXACT []
@@ -4245,6 +4535,7 @@ synonym: "nucleus centralis medialis" EXACT []
 [Term]
 id: MBA:6
 name: internal capsule
+synonym: "internal capsule of telencephalon" EXACT [from label]
 synonym: "internal capsule radiations" EXACT []
 synonym: "internal capsule" EXACT []
 
@@ -4272,6 +4563,7 @@ synonym: "fimbria of hippocampus" EXACT []
 synonym: "fimbria of the fornix" EXACT []
 synonym: "fimbria-fornix" EXACT []
 synonym: "hippocampal fimbria" EXACT []
+synonym: "hippocampus fimbria" EXACT [from label]
 synonym: "neuraxis fimbria" EXACT []
 
 [Term]
@@ -4289,6 +4581,7 @@ name: Retrosplenial area, ventral part, layer 2
 [Term]
 id: MBA:607
 name: Cochlear nuclei
+synonym: "cochlear nuclear complex" EXACT [from label]
 synonym: "cochlear nuclei" EXACT []
 
 [Term]
@@ -4312,6 +4605,7 @@ id: MBA:611
 name: habenular commissure
 synonym: "commissura habenularum" EXACT []
 synonym: "commissure habenularum" EXACT []
+synonym: "habenular commissure" EXACT [from label]
 
 [Term]
 id: MBA:612
@@ -4319,6 +4613,7 @@ name: Nucleus of the lateral lemniscus
 synonym: "lateral lemniscus nuclei" EXACT []
 synonym: "lateral lemniscus nucleus" EXACT []
 synonym: "nuclei lemnisci lateralis" EXACT []
+synonym: "nucleus of lateral lemniscus" EXACT [from label]
 
 [Term]
 id: MBA:613
@@ -4330,6 +4625,7 @@ name: Tuberal nucleus
 synonym: "lateral tuberal hypothalamic nuclei" EXACT []
 synonym: "lateral tuberal nuclear complex" EXACT []
 synonym: "lateral tuberal nuclei" EXACT []
+synonym: "lateral tuberal nucleus" EXACT [from label]
 
 [Term]
 id: MBA:615
@@ -4337,17 +4633,20 @@ name: Substantia nigra, lateral part
 synonym: "lateral part of substantia nigra" EXACT []
 synonym: "pars lateralis substantiae nigrae" EXACT []
 synonym: "pars lateralis" EXACT []
+synonym: "substantia nigra pars lateralis" EXACT [from label]
 synonym: "Substantia nigra, lateral part" EXACT []
 
 [Term]
 id: MBA:616
 name: Cuneiform nucleus
+synonym: "cuneiform nucleus" EXACT [from label]
 synonym: "cunieform nucleus" EXACT []
 synonym: "parabigeminal area (mai)" EXACT []
 
 [Term]
 id: MBA:617
 name: Mediodorsal nucleus of the thalamus, central part
+synonym: "central part of mediodorsal nucleus of the thalamus" EXACT [from label]
 synonym: "mediodorsal nucleus of the thalamus, central part" EXACT []
 
 [Term]
@@ -4359,6 +4658,7 @@ synonym: "delta fornicis" EXACT []
 synonym: "dorsal hippocampal commissure" EXACT []
 synonym: "fornical commissure" EXACT []
 synonym: "fornix commissure" EXACT []
+synonym: "hippocampal commissure" EXACT [from label]
 synonym: "hippocampus commissure" EXACT []
 
 [Term]
@@ -4366,11 +4666,13 @@ id: MBA:619
 name: Nucleus of the lateral olfactory tract
 synonym: "lateral olfactory tract nucleus" EXACT []
 synonym: "NLOT" EXACT []
+synonym: "nucleus of lateral olfactory tract" EXACT [from label]
 synonym: "nucleus of the lateral olfactory tract (ganser)" EXACT []
 
 [Term]
 id: MBA:62
 name: medial longitudinal fascicle
+synonym: "medial longitudinal fasciculus" EXACT [from label]
 
 [Term]
 id: MBA:620
@@ -4381,6 +4683,7 @@ id: MBA:621
 name: Motor nucleus of trigeminal
 synonym: "motor nucleus of cranial nerve v" EXACT []
 synonym: "motor nucleus of trigeminal nerve" EXACT []
+synonym: "motor nucleus of trigeminal nerve" EXACT [from label]
 synonym: "motor nucleus V" EXACT []
 synonym: "motor trigeminal nucleus" EXACT []
 synonym: "nucleus motorius nervi trigemini" EXACT []
@@ -4399,6 +4702,7 @@ name: Cerebral nuclei
 synonym: "basal ganglia set" EXACT []
 synonym: "basal ganglia" EXACT []
 synonym: "basal nuclei (basal ganglia)" EXACT []
+synonym: "collection of basal ganglia" EXACT [from label]
 synonym: "set of basal ganglia" EXACT []
 
 [Term]
@@ -4412,6 +4716,7 @@ name: Primary somatosensory area, upper limb, layer 5
 [Term]
 id: MBA:626
 name: Mediodorsal nucleus of the thalamus, lateral part
+synonym: "lateral part of mediodorsal nucleus of the thalamus" EXACT [from label]
 synonym: "mediodorsal nucleus of the thalamus, lateral part" EXACT []
 
 [Term]
@@ -4423,6 +4728,7 @@ id: MBA:628
 name: Nucleus of the optic tract
 synonym: "large-celled nucleus of optic tract" EXACT []
 synonym: "lentiform nucleus of pretectal area" EXACT []
+synonym: "nucleus of optic tract" EXACT [from label]
 synonym: "nucleus of the optic tract" EXACT []
 synonym: "optic tract nucleus" EXACT []
 
@@ -4434,6 +4740,7 @@ name: Ventral anterior-lateral complex of the thalamus
 id: MBA:63
 name: Paraventricular hypothalamic nucleus, descending division
 synonym: "paraventricular nucleus of the hypothalamus descending division" EXACT []
+synonym: "paraventricular nucleus of the hypothalamus descending division" EXACT [from label]
 
 [Term]
 id: MBA:630
@@ -4442,12 +4749,14 @@ name: Orbital area, lateral part, layer 5
 [Term]
 id: MBA:631
 name: Cortical amygdalar area
+synonym: "cortical amygdaloid nucleus" EXACT [from label]
 synonym: "posterior cortical amygdaloid nucleus" EXACT []
 synonym: "posterior cortical nucleus of amygdala" EXACT []
 
 [Term]
 id: MBA:632
 name: Dentate gyrus, granule cell layer
+synonym: "dentate gyrus granule cell layer" EXACT [from label]
 synonym: "DG granule cell layer" EXACT []
 synonym: "granular layer of dentate gyrus" EXACT []
 synonym: "stratum granulare gyri dentati" EXACT []
@@ -4458,6 +4767,7 @@ name: inferior colliculus commissure
 synonym: "caudal colliculus commissure" EXACT []
 synonym: "commissure of caudal colliculus" EXACT []
 synonym: "commissure of inferior colliculi" EXACT []
+synonym: "commissure of inferior colliculus" EXACT [from label]
 synonym: "commissure of posterior colliculus" EXACT []
 synonym: "commissure of posterior corpus quadrigeminum" EXACT []
 synonym: "inferior collicular commissure" EXACT []
@@ -4471,6 +4781,7 @@ name: Nucleus of the posterior commissure
 synonym: "Darkshevich nucleus" NARROW []
 synonym: "Darkshevich's nucleus" NARROW []
 synonym: "nucleus of Darkschewitsch" NARROW []
+synonym: "nucleus of posterior commissure" EXACT [from label]
 synonym: "posterior commissure nucleus" EXACT []
 
 [Term]
@@ -4484,6 +4795,7 @@ synonym: "dorsomedial thalamic nucleus, magnocellular part" EXACT []
 synonym: "magnocellular mediodorsal nucleus" EXACT []
 synonym: "magnocellular nucleus of medial dorsal nucleus of thalamus" EXACT []
 synonym: "magnocellular part of dorsomedial nucleus" EXACT []
+synonym: "magnocellular part of medial dorsal nucleus" EXACT [from label]
 synonym: "magnocellular part of mediodorsal nucleus" EXACT []
 synonym: "nucleus medialis dorsalis, pars magnocellularis" EXACT []
 synonym: "nucleus medialis fibrosus (hassler)" EXACT []
@@ -4498,6 +4810,7 @@ synonym: "nuclei ventrales thalami" EXACT []
 synonym: "ventral group of dorsal thalamus" EXACT []
 synonym: "ventral nuclear group of thalamus" EXACT []
 synonym: "ventral nuclear group" EXACT []
+synonym: "ventral nuclear group" EXACT [from label]
 synonym: "ventral nuclear mass" EXACT []
 synonym: "ventral nuclei of thalamus" EXACT []
 synonym: "ventral tier thalamic nuclei" EXACT []
@@ -4514,6 +4827,7 @@ name: Cortical amygdalar area, anterior part
 id: MBA:64
 name: Anterodorsal nucleus
 synonym: "anterior dorsal thalamic nucleus" EXACT []
+synonym: "anterodorsal nucleus of thalamus" EXACT [from label]
 synonym: "anterodorsal nucleus of the thalamus" EXACT []
 synonym: "anterodorsal nucleus" EXACT []
 synonym: "anterodorsal thalamic nucleus" EXACT []
@@ -4536,10 +4850,12 @@ name: intermediate acoustic stria
 synonym: "commissure of held" EXACT []
 synonym: "intermediate acoustic stria (held)" EXACT []
 synonym: "intermediate acoustic stria of held" EXACT []
+synonym: "intermediate acoustic stria" EXACT [from label]
 
 [Term]
 id: MBA:642
 name: Nucleus of the trapezoid body
+synonym: "nucleus of trapezoid body" EXACT [from label]
 synonym: "trapezoid nuclear complex" EXACT []
 
 [Term]
@@ -4553,6 +4869,7 @@ name: Somatomotor areas, Layer 6a
 [Term]
 id: MBA:645
 name: Vermal regions
+synonym: "cerebellar vermis" EXACT [from label]
 synonym: "cerebellum vermis" EXACT []
 synonym: "vermal parts of the cerebellum" EXACT []
 synonym: "vermal regions" EXACT []
@@ -4583,10 +4900,12 @@ name: parafloccular sulcus
 [Term]
 id: MBA:650
 name: juxtarestiform body
+synonym: "juxtarestiform body" EXACT [from label]
 
 [Term]
 id: MBA:651
 name: Nucleus of the solitary tract
+synonym: "nucleus of solitary tract" EXACT [from label]
 synonym: "nucleus of the tractus solitarius" EXACT []
 synonym: "nucleus of tractus solitarius" EXACT []
 synonym: "nucleus tractus solitarii medullae oblongatae" EXACT []
@@ -4603,6 +4922,7 @@ name: Abducens nucleus
 synonym: "abducens motor nuclei" EXACT []
 synonym: "abducens motor nucleus" EXACT []
 synonym: "abducens nerve nucleus" EXACT []
+synonym: "abducens nucleus" EXACT [from label]
 synonym: "abducens VI nucleus" EXACT []
 synonym: "abducent nucleus" EXACT []
 synonym: "motor nucleus VI" EXACT []
@@ -4632,6 +4952,7 @@ name: Primary somatosensory area, mouth, layer 2/3
 id: MBA:658
 name: lateral lemniscus
 synonym: "lateral fillet" EXACT []
+synonym: "lateral lemniscus" EXACT [from label]
 
 [Term]
 id: MBA:659
@@ -4640,6 +4961,7 @@ name: Nucleus of the solitary tract, central part
 [Term]
 id: MBA:66
 name: Lateral terminal nucleus of the accessory optic tract
+synonym: "lateral accessory nucleus of optic tract" EXACT [from label]
 synonym: "lateral terminal nucleus of the accessory optic tract" EXACT []
 synonym: "nucleus accessorius lateralis tractus optici" EXACT []
 
@@ -4652,6 +4974,7 @@ id: MBA:661
 name: Facial motor nucleus
 synonym: "branchiomotor nucleus of facial nerve" EXACT []
 synonym: "facial motor nucleus" EXACT []
+synonym: "facial motor nucleus" EXACT [from label]
 synonym: "facial nerve motor nucleus" EXACT []
 synonym: "motor nucleus of facial nerve" EXACT []
 synonym: "motor nucleus of VII" EXACT []
@@ -4674,6 +4997,7 @@ name: Entorhinal area, medial part, dorsal zone, layer 3
 [Term]
 id: MBA:665
 name: lateral olfactory tract, body
+synonym: "lateral olfactory stria" EXACT [from label]
 synonym: "tractus olfactorius lateralis" EXACT []
 
 [Term]
@@ -4691,10 +5015,12 @@ name: Dorsomedial nucleus of the hypothalamus, anterior part
 [Term]
 id: MBA:669
 name: Visual areas
+synonym: "visual cortex" EXACT [from label]
 
 [Term]
 id: MBA:67
 name: Interstitial nucleus of Cajal
+synonym: "interstitial nucleus of Cajal" EXACT [from label]
 synonym: "interstitial nucleus of medial longitudinal fasciculus (Crosby)" EXACT []
 synonym: "interstitial nucleus of medial longitudinal fasciculus" EXACT []
 synonym: "NIC" EXACT []
@@ -4712,17 +5038,20 @@ name: Retrosplenial area, lateral agranular part, layer 1
 id: MBA:672
 name: Caudoputamen
 synonym: "caudate putamen" EXACT []
+synonym: "caudate-putamen" EXACT [from label]
 synonym: "caudateputamen" EXACT []
 synonym: "caudoputamen" EXACT []
 
 [Term]
 id: MBA:673
 name: mammillary peduncle
+synonym: "mammillary peduncle" EXACT [from label]
 synonym: "peduncle of mammillary body" EXACT []
 
 [Term]
 id: MBA:674
 name: Nucleus of the solitary tract, gelatinous part
+synonym: "gelatinous nucleus of solitary tract" EXACT [from label]
 
 [Term]
 id: MBA:675
@@ -4746,6 +5075,7 @@ name: Superior central nucleus raphe
 synonym: "cell group b8" EXACT []
 synonym: "medial raphe nucleus" EXACT []
 synonym: "median nucleus of the raphe" EXACT []
+synonym: "median raphe nucleus" EXACT [from label]
 synonym: "MRN" EXACT []
 synonym: "nucleus raphes medianus" EXACT []
 synonym: "superior central nucleus raphe" EXACT []
@@ -4764,6 +5094,7 @@ name: Orbital area, ventrolateral part, layer 6b
 id: MBA:681
 name: mammillotegmental tract
 synonym: "Gudden tract" EXACT []
+synonym: "mammillotegmental axonal tract" EXACT [from label]
 synonym: "mammillotegmental fasciculus" EXACT []
 synonym: "mammillotegmental tract of hypothalamus" EXACT []
 synonym: "mammillotegmental tract" EXACT []
@@ -4784,6 +5115,7 @@ name: Dorsomedial nucleus of the hypothalamus, ventral part
 [Term]
 id: MBA:685
 name: Ventral medial nucleus of the thalamus
+synonym: "medial part of ventral lateral nucleus" EXACT [from label]
 synonym: "nucleus ventralis lateralis thalami, pars medialis" EXACT []
 synonym: "nucleus ventrooralis medialis (hassler)" EXACT []
 synonym: "ventral lateral nucleus, medial part" EXACT []
@@ -4802,6 +5134,7 @@ name: Retrosplenial area, ventral part, layer 5
 [Term]
 id: MBA:688
 name: Cerebral cortex
+synonym: "cerebral cortex" EXACT [from label]
 synonym: "cortex of cerebral hemisphere" EXACT []
 
 [Term]
@@ -4810,6 +5143,7 @@ name: Ventrolateral preoptic nucleus
 synonym: "nucleus dorsointermedius externus magnocellularis (hassler)" EXACT []
 synonym: "nucleus lateralis intermedius mediodorsalis situs postremus" EXACT []
 synonym: "nucleus ventralis lateralis thalami, pars postrema" EXACT []
+synonym: "pars postrema of ventral lateral nucleus" EXACT [from label]
 synonym: "posterodorsal part of ventral lateral posterior nucleus (jones)" EXACT []
 synonym: "ventral lateral nucleus (pars postrema)" EXACT []
 synonym: "vLps" EXACT []
@@ -4825,6 +5159,7 @@ name: mammilothalmic tract
 [Term]
 id: MBA:691
 name: Nucleus of the solitary tract, medial part
+synonym: "medial nucleus of solitary tract" EXACT [from label]
 
 [Term]
 id: MBA:692
@@ -4834,6 +5169,7 @@ name: Perirhinal area, layer 5
 id: MBA:693
 name: Ventromedial hypothalamic nucleus
 synonym: "ventromedial hypothalamic nucleus" EXACT []
+synonym: "ventromedial nucleus of hypothalamus" EXACT [from label]
 
 [Term]
 id: MBA:694
@@ -4843,6 +5179,7 @@ name: Agranular insular area, ventral part, layer 2/3
 id: MBA:695
 name: Cortical plate
 synonym: "cerebral cortex cortical plate" EXACT []
+synonym: "cortical plate" EXACT [from label]
 synonym: "future cortical layers II-VI" EXACT []
 synonym: "neocortex cortical plate" EXACT []
 
@@ -4853,6 +5190,7 @@ name: Posterior auditory area, layer 1
 [Term]
 id: MBA:697
 name: medial lemniscus
+synonym: "medial lemniscus" EXACT [from label]
 
 [Term]
 id: MBA:698
@@ -4869,6 +5207,7 @@ synonym: "chief sensory nucleus" EXACT []
 synonym: "main sensory nucleus of cranial nerve v" EXACT []
 synonym: "main sensory nucleus" EXACT []
 synonym: "principal sensory nucleus of trigeminal nerve" EXACT []
+synonym: "principal sensory nucleus of trigeminal nerve" EXACT [from label]
 synonym: "principal sensory nucleus" EXACT []
 synonym: "principal sensory trigeminal nucleus" EXACT []
 synonym: "principal trigeminal nucleus" EXACT []
@@ -4886,11 +5225,13 @@ name: midbrain related
 id: MBA:700
 name: Anterior hypothalamic nucleus, anterior part
 synonym: "anterior nucleus of hypothalamus anterior part" EXACT []
+synonym: "anterior nucleus of hypothalamus anterior part" EXACT [from label]
 
 [Term]
 id: MBA:701
 name: Vestibular nuclei
 synonym: "nuclei vestibulares in medulla oblongata" EXACT []
+synonym: "vestibular nuclear complex" EXACT [from label]
 synonym: "vestibular nuclei in medulla oblongata" EXACT []
 synonym: "vestibular nuclei" EXACT []
 
@@ -4910,6 +5251,7 @@ name: Agranular insular area, ventral part, layer 1
 id: MBA:705
 name: midbrain tract of the trigeminal nerve
 synonym: "mesencephalic root of v" EXACT []
+synonym: "mesencephalic tract of trigeminal nerve" EXACT [from label]
 synonym: "mesencephalic trigeminal tract" EXACT []
 
 [Term]
@@ -4917,6 +5259,7 @@ id: MBA:706
 name: Olivary pretectal nucleus
 synonym: "nucleus praetectalis olivaris" EXACT []
 synonym: "olivary nucleus of superior colliculus" EXACT []
+synonym: "olivary pretectal nucleus" EXACT [from label]
 synonym: "pretectal olivary nucleus" EXACT []
 
 [Term]
@@ -4927,12 +5270,14 @@ name: Infralimbic area, layer 1
 id: MBA:708
 name: Anterior hypothalamic nucleus, central part
 synonym: "anterior nucleus of hypothalamus central part" EXACT []
+synonym: "anterior nucleus of hypothalamus central part" EXACT [from label]
 
 [Term]
 id: MBA:709
 name: Ventral posterior complex of the thalamus
 synonym: "nucleus ventrales posteriores" EXACT []
 synonym: "nucleus ventralis posterior" EXACT []
+synonym: "ventral posterior nucleus of thalamus" EXACT [from label]
 synonym: "ventral posterior nucleus" EXACT []
 synonym: "ventral posterior thalamic nucleus" EXACT []
 synonym: "ventrobasal complex" EXACT []
@@ -4942,12 +5287,14 @@ synonym: "ventrobasal nucleus" EXACT []
 id: MBA:71
 name: Paraventricular hypothalamic nucleus, magnocellular division
 synonym: "paraventricular nucleus of the hypothalamus magnocellular division" EXACT []
+synonym: "paraventricular nucleus of the hypothalamus magnocellular division" EXACT [from label]
 
 [Term]
 id: MBA:710
 name: abducens nerve
 synonym: "abducens nerve [VI]" EXACT []
 synonym: "abducens nerve tree" EXACT []
+synonym: "abducens nerve" EXACT [from label]
 synonym: "abducens VI nerve" EXACT []
 synonym: "abducent nerve [VI]" EXACT []
 synonym: "lateral rectus nerve" EXACT []
@@ -4960,6 +5307,7 @@ id: MBA:711
 name: Cuneate nucleus
 synonym: "Burdach's nucleus" EXACT []
 synonym: "burdachs nucleus" EXACT []
+synonym: "cuneate nucleus" EXACT [from label]
 synonym: "cuneate" EXACT []
 
 [Term]
@@ -4969,6 +5317,7 @@ name: Entorhinal area, medial part, dorsal zone, layer 4
 [Term]
 id: MBA:713
 name: perforant path
+synonym: "perforant path" EXACT [from label]
 
 [Term]
 id: MBA:714
@@ -4982,6 +5331,7 @@ name: Entorhinal area, lateral part, layer 2a
 id: MBA:716
 name: Anterior hypothalamic nucleus, dorsal part
 synonym: "anterior nucleus of hypothalamus dorsal part" EXACT []
+synonym: "anterior nucleus of hypothalamus dorsal part" EXACT [from label]
 
 [Term]
 id: MBA:717
@@ -4989,6 +5339,7 @@ name: accessory spinal nerve
 synonym: "accessory nerve [XI]" EXACT []
 synonym: "accessory nerve" EXACT []
 synonym: "accessory XI nerve" EXACT []
+synonym: "accessory XI nerve" EXACT [from label]
 synonym: "accessory XI" EXACT []
 synonym: "cervical accessory nerve" EXACT []
 synonym: "cranial nerve XI" EXACT []
@@ -5012,6 +5363,7 @@ synonym: "posterolateral ventral nucleus of thalamus" EXACT []
 synonym: "posterolateral ventral nucleus of the thalamus" EXACT []
 synonym: "ventral posterolateral nucleus of thalamus" EXACT []
 synonym: "ventral posterolateral nucleus of the thalamus" EXACT []
+synonym: "ventral posterolateral nucleus" EXACT [from label]
 synonym: "ventral posterolateral thalamic nucleus" EXACT []
 
 [Term]
@@ -5025,6 +5377,7 @@ name: Anterodorsal preoptic nucleus
 [Term]
 id: MBA:720
 name: Dorsal column nuclei
+synonym: "dorsal column nucleus" EXACT [from label]
 
 [Term]
 id: MBA:721
@@ -5042,6 +5395,7 @@ name: Orbital area, lateral part
 id: MBA:724
 name: Anterior hypothalamic nucleus, posterior part
 synonym: "anterior nucleus of hypothalamus posterior part" EXACT []
+synonym: "anterior nucleus of hypothalamus posterior part" EXACT [from label]
 
 [Term]
 id: MBA:725
@@ -5052,6 +5406,7 @@ id: MBA:726
 name: Dentate gyrus
 synonym: "area dentata" EXACT []
 synonym: "dentate area (dentate gyrus)" EXACT []
+synonym: "dentate gyrus of hippocampal formation" EXACT [from label]
 synonym: "dentate gyrus" EXACT []
 synonym: "fascia dentata" NARROW []
 
@@ -5071,6 +5426,7 @@ name: Temporal association areas, layer 6a
 id: MBA:73
 name: ventricular systems
 synonym: "CNS ventricular system" EXACT []
+synonym: "ventricular system of central nervous system" EXACT [from label]
 synonym: "ventricular system of neuraxis" EXACT []
 synonym: "ventricular system" EXACT []
 
@@ -5078,6 +5434,7 @@ synonym: "ventricular system" EXACT []
 id: MBA:730
 name: pineal stalk
 synonym: "epiphyseal stalk" EXACT []
+synonym: "pineal gland stalk" EXACT [from label]
 synonym: "pineal stalk" EXACT []
 
 [Term]
@@ -5090,6 +5447,7 @@ name: Medial mammillary nucleus, median part
 synonym: "medial mammillary nucleus (carpenter)" EXACT []
 synonym: "medial mammillary nucleus, medial part" EXACT []
 synonym: "medial mammillary nucleus, median part" EXACT []
+synonym: "medial part of medial mammillary nucleus" EXACT [from label]
 synonym: "medial subdivision of medial mammillary nucleus" EXACT []
 
 [Term]
@@ -5112,6 +5470,7 @@ synonym: "thalamic gustatory nucleus" EXACT []
 synonym: "ventral posterior medial nucleus of thalamus" EXACT []
 synonym: "ventral posterior medial nucleus" EXACT []
 synonym: "ventral posteromedial nucleus of thalamus" EXACT []
+synonym: "ventral posteromedial nucleus of thalamus" EXACT [from label]
 synonym: "ventral posteromedial nucleus of the thalamus" EXACT []
 synonym: "ventral posteromedial thalamic nucleus" EXACT []
 synonym: "ventroposteromedial nucleus of the thalamus" EXACT []
@@ -5132,6 +5491,7 @@ name: central tegmental bundle
 id: MBA:737
 name: postcommissural fornix
 synonym: "fornix (entering Corpus mamillare)" EXACT []
+synonym: "postcommissural fornix of brain" EXACT [from label]
 synonym: "postcommissural fornix" EXACT []
 
 [Term]
@@ -5158,6 +5518,7 @@ synonym: "gustatory thalamic nucleus" EXACT []
 synonym: "nucleus ventralis posterior medialis thalami, pars parvicellularis" EXACT []
 synonym: "pars parvicellularis nuclei ventralis posteromedialis thalami" EXACT []
 synonym: "parvicellular part of ventral posteromedial nucleus of thalamus" EXACT []
+synonym: "parvicellular part of ventral posteromedial nucleus" EXACT [from label]
 synonym: "ventral posteromedial nucleus of thalamus, parvicellular part" EXACT []
 synonym: "ventral posteromedial nucleus, parvocellular part" EXACT []
 synonym: "ventral posteromedial thalamic nucleus, parvicellular part" EXACT []
@@ -5174,6 +5535,7 @@ name: Entorhinal area, medial part, dorsal zone, layer 6
 [Term]
 id: MBA:744
 name: cerebellar commissure
+synonym: "cerebellar commissure" EXACT [from label]
 synonym: "commissura cerebelli" EXACT []
 synonym: "commissure of cerebellum" EXACT []
 
@@ -5198,12 +5560,14 @@ id: MBA:749
 name: Ventral tegmental area
 synonym: "a10a" EXACT []
 synonym: "ventral tegmental area of tsai" EXACT []
+synonym: "ventral tegmental area" EXACT [from label]
 synonym: "ventral tegmental nucleus (tsai)" EXACT []
 synonym: "ventral tegmental nucleus of tsai" EXACT []
 
 [Term]
 id: MBA:75
 name: Dorsal terminal nucleus of the accessory optic tract
+synonym: "dorsal accessory nucleus of optic tract" EXACT [from label]
 synonym: "dorsal terminal nucleus of accessory optic tract" EXACT []
 synonym: "dorsal terminal nucleus of the accessory optic tract" EXACT []
 synonym: "nucleus accessorius posterior tractus optici" EXACT []
@@ -5224,12 +5588,14 @@ name: cerebellar peduncles
 synonym: "cerebellar peduncles and decussations" EXACT []
 synonym: "cerebellar peduncles set" EXACT []
 synonym: "cerebellar peduncles" EXACT []
+synonym: "cerebellar peduncular complex" EXACT [from label]
 synonym: "cerebellum peduncles" EXACT []
 synonym: "pedunculi cerebellares" EXACT []
 
 [Term]
 id: MBA:753
 name: principal mammillary tract
+synonym: "mammillary princeps fasciculus" EXACT [from label]
 synonym: "principal mammillary fasciculus" EXACT []
 synonym: "principal mammillary tract" EXACT []
 synonym: "principle mamillary fasciculus" EXACT []
@@ -5237,6 +5603,7 @@ synonym: "principle mamillary fasciculus" EXACT []
 [Term]
 id: MBA:754
 name: Olfactory tubercle
+synonym: "olfactory tubercle" EXACT [from label]
 synonym: "tuberculum olfactorium" EXACT []
 
 [Term]
@@ -5255,6 +5622,7 @@ synonym: "ventral raphe tegmental nucleus" EXACT []
 synonym: "ventral tegmental nuclei" EXACT []
 synonym: "ventral tegmental nucleus (gudden)" EXACT []
 synonym: "ventral tegmental nucleus of gudden" EXACT []
+synonym: "ventral tegmental nucleus" EXACT [from label]
 
 [Term]
 id: MBA:758
@@ -5287,6 +5655,7 @@ synonym: "organum vasculosum lamina terminalis" EXACT []
 synonym: "organum vasculosum laminae terminalis" EXACT []
 synonym: "OVLT" EXACT []
 synonym: "prechiasmatic gland" EXACT []
+synonym: "supraoptic crest" EXACT [from label]
 synonym: "vascular organ of lamina terminalis" EXACT []
 
 [Term]
@@ -5326,6 +5695,7 @@ id: MBA:771
 name: Pons
 synonym: "pons of Varolius" EXACT []
 synonym: "pons Varolii" EXACT []
+synonym: "pons" EXACT [from label]
 
 [Term]
 id: MBA:772
@@ -5336,6 +5706,7 @@ id: MBA:773
 name: Hypoglossal nucleus
 synonym: "hypoglossal nerve nucleus" EXACT []
 synonym: "hypoglossal nucleus" EXACT []
+synonym: "hypoglossal nucleus" EXACT [from label]
 synonym: "hypoglossal XII nucleus" EXACT []
 synonym: "nucleus nervi hypoglossi" EXACT []
 synonym: "nucleus of hypoglossal nerve" EXACT []
@@ -5352,6 +5723,7 @@ name: Dentate gyrus lateral blade, molecular layer
 [Term]
 id: MBA:776
 name: corpus callosum
+synonym: "corpus callosum" EXACT [from label]
 
 [Term]
 id: MBA:777
@@ -5369,11 +5741,13 @@ name: propriohypothalamic pathways, medial
 id: MBA:78
 name: middle cerebellar peduncle
 synonym: "brachium pontis" EXACT []
+synonym: "middle cerebellar peduncle" EXACT [from label]
 
 [Term]
 id: MBA:780
 name: Posterior amygdalar nucleus
 synonym: "posterior amygdalar nucleus" EXACT []
+synonym: "posterior amygdaloid nucleus" EXACT [from label]
 
 [Term]
 id: MBA:781
@@ -5391,6 +5765,7 @@ name: Agranular insular area, dorsal part, layer 6a
 id: MBA:784
 name: corticospinal tract
 synonym: "corticospinal fibers" EXACT []
+synonym: "corticospinal tract" EXACT [from label]
 synonym: "fasciculus cerebro-spinalis" EXACT []
 synonym: "fasciculus pyramidalis" EXACT []
 synonym: "fibrae corticospinales" EXACT []
@@ -5423,6 +5798,7 @@ name: Nucleus z
 id: MBA:79
 name: Paraventricular hypothalamic nucleus, magnocellular division, medial magnocellular part
 synonym: "paraventricular nucleus of the hypothalamus magnocellular division - medial magnocellular part" EXACT []
+synonym: "paraventricular nucleus of the hypothalamus magnocellular division - medial magnocellular part" EXACT [from label]
 
 [Term]
 id: MBA:790
@@ -5443,12 +5819,14 @@ name: Primary somatosensory area, layer 1
 [Term]
 id: MBA:794
 name: spinal tract of the trigeminal nerve
+synonym: "spinal trigeminal tract" EXACT [from label]
 
 [Term]
 id: MBA:795
 name: Periaqueductal gray
 synonym: "anulus of cerebral aqueduct" EXACT []
 synonym: "central (periaqueductal) gray" EXACT []
+synonym: "central gray substance of midbrain" EXACT [from label]
 synonym: "midbrain periaqueductal grey" EXACT []
 synonym: "periaqueductal gray matter" EXACT []
 synonym: "periaqueductal gray of tegmentum" EXACT []
@@ -5464,6 +5842,7 @@ name: Dopaminergic A13 group
 [Term]
 id: MBA:797
 name: Zona incerta
+synonym: "zona incerta" EXACT [from label]
 
 [Term]
 id: MBA:798
@@ -5472,6 +5851,7 @@ synonym: "branchiomeric cranial nerve" EXACT []
 synonym: "face nerve" EXACT []
 synonym: "Facial nerve [VII]" EXACT []
 synonym: "facial nerve tree" EXACT []
+synonym: "facial nerve" EXACT [from label]
 synonym: "facial VII nerve" EXACT []
 synonym: "facial VII" EXACT []
 synonym: "nerve of face" EXACT []
@@ -5507,12 +5887,14 @@ synonym: "stria medullaris (wenzel - wenzel)" EXACT []
 synonym: "stria medullaris of thalamus" EXACT []
 synonym: "stria medullaris thalami" EXACT []
 synonym: "stria medullaris thalamica" EXACT []
+synonym: "stria medullaris" EXACT [from label]
 
 [Term]
 id: MBA:803
 name: Pallidum
 synonym: "neuraxis pallidum" EXACT []
 synonym: "pallidum of neuraxis" EXACT []
+synonym: "pallidum" EXACT [from label]
 
 [Term]
 id: MBA:804
@@ -5537,6 +5919,7 @@ synonym: "glossopharyngeal IX nerve" EXACT []
 synonym: "glossopharyngeal IX" EXACT []
 synonym: "glossopharyngeal nerve [IX]" EXACT []
 synonym: "glossopharyngeal nerve tree" EXACT []
+synonym: "glossopharyngeal nerve" EXACT [from label]
 synonym: "nervus glossopharyngeus [ix]" EXACT []
 synonym: "nervus glossopharyngeus" EXACT []
 synonym: "ninth cranial nerve" EXACT []
@@ -5551,6 +5934,7 @@ name: lateral ventricle
 synonym: "lateral ventricle" EXACT []
 synonym: "lateral ventricles" EXACT []
 synonym: "telencephalic ventricle" EXACT []
+synonym: "telencephalic ventricle" EXACT [from label]
 synonym: "telencephalon lateral ventricle" EXACT []
 
 [Term]
@@ -5560,6 +5944,7 @@ name: Anterior cingulate area, ventral part, 6a
 [Term]
 id: MBA:811
 name: Inferior colliculus, central nucleus
+synonym: "central nucleus of inferior colliculus" EXACT [from label]
 synonym: "chief nucleus of inferior colliculus" EXACT []
 synonym: "inferior colliculus, central nucleus" EXACT []
 synonym: "nucleus centralis colliculi inferioris" EXACT []
@@ -5570,6 +5955,7 @@ id: MBA:812
 name: superior cerebellar peduncle decussation
 synonym: "decussatio pedunculorum cerebellarium superiorum" EXACT []
 synonym: "decussation of brachium conjunctivum" EXACT []
+synonym: "decussation of superior cerebellar peduncle" EXACT [from label]
 synonym: "decussation of superior cerebellar peduncles" EXACT []
 synonym: "superior cerebellar peduncle decussation" EXACT []
 synonym: "Wernekink's decussation" EXACT []
@@ -5580,6 +5966,7 @@ name: hypoglossal nerve
 synonym: "cranial nerve XII" EXACT []
 synonym: "Hypoglossal nerve [XII]" EXACT []
 synonym: "hypoglossal nerve tree" EXACT []
+synonym: "hypoglossal nerve" EXACT [from label]
 synonym: "hypoglossal XII nerve" EXACT []
 synonym: "hypoglossal XII" EXACT []
 synonym: "nervus hypoglossus [xii]" EXACT []
@@ -5604,6 +5991,7 @@ name: supraoptic commissures, anterior
 [Term]
 id: MBA:818
 name: Pallidum, dorsal region
+synonym: "dorsal pallidum" EXACT [from label]
 synonym: "globus pallidus dorsal part" EXACT []
 
 [Term]
@@ -5613,6 +6001,7 @@ name: Anterior cingulate area, ventral part, 6b
 [Term]
 id: MBA:82
 name: Nucleus of the lateral lemniscus, dorsal part
+synonym: "dorsal nucleus of lateral lemniscus" EXACT [from label]
 synonym: "dorsal nucleus of the lateral lemniscus" EXACT []
 synonym: "nucleus of the lateral lemniscus, dorsal part" EXACT []
 synonym: "nucleus posterior lemnisci lateralis" EXACT []
@@ -5623,6 +6012,7 @@ id: MBA:820
 name: Inferior colliculus, dorsal nucleus
 synonym: "cortex of inferior colliculus" EXACT []
 synonym: "nucleus pericentralis colliculi inferioris" EXACT []
+synonym: "pericentral nucleus of inferior colliculus" EXACT [from label]
 
 [Term]
 id: MBA:821
@@ -5632,6 +6022,7 @@ name: Primary visual area, layer 2/3
 id: MBA:822
 name: Retrohippocampal region
 synonym: "retrohippocampal cortex" EXACT []
+synonym: "retrohippocampal region" EXACT [from label]
 
 [Term]
 id: MBA:823
@@ -5652,6 +6043,7 @@ synonym: "dorsal supraoptic commissure" EXACT []
 synonym: "dorsal supraoptic decussation (of ganser)" EXACT []
 synonym: "dorsal supraoptic decussation (of Meynert)" EXACT []
 synonym: "dorsal supraoptic decussation of Meynert" EXACT []
+synonym: "dorsal supraoptic decussation" EXACT [from label]
 synonym: "ganser's commissure" EXACT []
 synonym: "Meynert's commissure" EXACT []
 synonym: "supraoptic commissure of Meynert" EXACT []
@@ -5668,6 +6060,7 @@ name: Infralimbic area, layer 5
 [Term]
 id: MBA:828
 name: Inferior colliculus, external nucleus
+synonym: "external nucleus of inferior colliculus" EXACT [from label]
 synonym: "nucleus externus colliculi inferioris" EXACT []
 synonym: "nucleus lateralis colliculi inferioris" EXACT []
 
@@ -5678,6 +6071,7 @@ name: Subiculum, dorsal part, molecular layer
 [Term]
 id: MBA:83
 name: Inferior olivary complex
+synonym: "inferior olivary complex" EXACT [from label]
 synonym: "inferior olivary nuclear complex" EXACT []
 synonym: "inferior olive" EXACT []
 synonym: "oliva" EXACT []
@@ -5687,6 +6081,7 @@ id: MBA:830
 name: Dorsomedial nucleus of the hypothalamus
 synonym: "dorsomedial hypothalamic nucleus" EXACT []
 synonym: "dorsomedial nucleus of dorsal hypothalamus" EXACT []
+synonym: "dorsomedial nucleus of hypothalamus" EXACT [from label]
 synonym: "dorsomedial nucleus of intermediate hypothalamus" EXACT []
 
 [Term]
@@ -5702,6 +6097,7 @@ synonym: "oculomotor III nerve" EXACT []
 synonym: "oculomotor III" EXACT []
 synonym: "oculomotor nerve [III]" EXACT []
 synonym: "oculomotor nerve tree" EXACT []
+synonym: "oculomotor nerve" EXACT [from label]
 synonym: "third cranial nerve" EXACT []
 
 [Term]
@@ -5715,6 +6111,7 @@ synonym: "supraoptic commissures, ventral" EXACT []
 synonym: "ventral supra-optic commissure" EXACT []
 synonym: "ventral supraoptic commissure (of Meynert)" EXACT []
 synonym: "ventral supraoptic decussation" EXACT []
+synonym: "ventral supraoptic decussation" EXACT [from label]
 synonym: "von Gudden's commissure" EXACT []
 synonym: "VSOX" EXACT []
 
@@ -5727,12 +6124,14 @@ synonym: "layer I of superior colliculus" EXACT []
 synonym: "stratum zonale colliculi superioris" EXACT []
 synonym: "stratum zonale of midbrain" EXACT []
 synonym: "stratum zonale of superior colliculus" EXACT []
+synonym: "zonal layer of superior colliculus" EXACT [from label]
 
 [Term]
 id: MBA:835
 name: Pallidum, ventral region
 synonym: "globus pallidus ventral part" EXACT []
 synonym: "ventral pallidum" EXACT []
+synonym: "ventral pallidum" EXACT [from label]
 
 [Term]
 id: MBA:836
@@ -5751,6 +6150,7 @@ id: MBA:839
 name: Dorsal motor nucleus of the vagus nerve
 synonym: "dorsal efferent nucleus of vagus" EXACT []
 synonym: "dorsal motor nucleus of the vagus (vagal nucleus)" EXACT []
+synonym: "dorsal motor nucleus of vagus nerve" EXACT [from label]
 synonym: "dorsal motor nucleus of vagus X nerve" EXACT []
 synonym: "dorsal vagal nucleus" EXACT []
 synonym: "nucleus alaris" EXACT []
@@ -5767,10 +6167,12 @@ synonym: "nervus olfactorius [i]" EXACT []
 synonym: "olfactory i nerve" EXACT []
 synonym: "olfactory I" EXACT []
 synonym: "Olfactory nerve [I]" EXACT []
+synonym: "olfactory nerve" EXACT [from label]
 
 [Term]
 id: MBA:841
 name: trapezoid body
+synonym: "trapezoid body" EXACT [from label]
 
 [Term]
 id: MBA:842
@@ -5786,6 +6188,7 @@ synonym: "stratum griseum superficiale" EXACT []
 synonym: "superficial gray layer of superior colliculus" EXACT []
 synonym: "superficial grey layer of superior colliculus" EXACT []
 synonym: "superior colliculus superficial gray layer" EXACT []
+synonym: "superior colliculus superficial gray layer" EXACT [from label]
 
 [Term]
 id: MBA:843
@@ -5793,6 +6196,7 @@ name: Parasubiculum
 synonym: "parasubicular area" EXACT []
 synonym: "parasubicular cortex (parasubiculum)" EXACT []
 synonym: "parasubiculum" EXACT []
+synonym: "parasubiculum" EXACT [from label]
 
 [Term]
 id: MBA:844
@@ -5806,6 +6210,7 @@ name: Subiculum, dorsal part, pyramidal layer
 id: MBA:846
 name: Dentate nucleus
 synonym: "dentate cerebellar nucleus" EXACT []
+synonym: "dentate nucleus" EXACT [from label]
 synonym: "lateral cerebellar nucleus" EXACT []
 synonym: "lateral nucleus of cerebellum" EXACT []
 
@@ -5818,6 +6223,7 @@ id: MBA:848
 name: optic nerve
 synonym: "02 optic nerve" EXACT []
 synonym: "cranial II" EXACT []
+synonym: "cranial nerve II" EXACT [from label]
 synonym: "nervus opticus [II]" EXACT []
 synonym: "nervus opticus" EXACT []
 synonym: "optic II nerve" EXACT []
@@ -5832,6 +6238,7 @@ name: Visceral area, layer 6b
 [Term]
 id: MBA:85
 name: spinocerebellar tract
+synonym: "spinocerebellar tract" EXACT [from label]
 
 [Term]
 id: MBA:850
@@ -5846,6 +6253,7 @@ synonym: "layer III of superior colliculus" EXACT []
 synonym: "optic layer of superior colliculus" EXACT []
 synonym: "optic layer" EXACT []
 synonym: "stratum opticum colliculi superioris" EXACT []
+synonym: "superficial white layer of superior colliculus" EXACT [from label]
 
 [Term]
 id: MBA:852
@@ -5853,6 +6261,7 @@ name: Parvicellular reticular nucleus
 synonym: "nucleus reticularis parvocellularis" EXACT []
 synonym: "parvicellular reticular nucleus" EXACT []
 synonym: "parvocellular reticular nucleus" EXACT []
+synonym: "parvocellular reticular nucleus" EXACT [from label]
 
 [Term]
 id: MBA:853
@@ -5880,6 +6289,7 @@ name: ventral commissure of the spinal cord
 synonym: "anterior white commissure of spinal cord" EXACT []
 synonym: "anterior white commissure" EXACT []
 synonym: "spinal cord anterior commissure" EXACT []
+synonym: "spinal cord ventral commissure" EXACT [from label]
 synonym: "ventral spinal commissure" EXACT []
 synonym: "ventral white column" EXACT []
 synonym: "ventral white commissure of spinal cord" EXACT []
@@ -5889,6 +6299,7 @@ id: MBA:859
 name: Parasolitary nucleus
 synonym: "nucleus fasciculus solitarius" EXACT []
 synonym: "nucleus juxtasolitarius" EXACT []
+synonym: "parasolitary nucleus" EXACT [from label]
 
 [Term]
 id: MBA:86
@@ -5911,6 +6322,7 @@ id: MBA:863
 name: rubrospinal tract
 synonym: "Monakow's tract" EXACT []
 synonym: "rubrospinal tract (Monakow)" EXACT []
+synonym: "rubrospinal tract" EXACT [from label]
 
 [Term]
 id: MBA:864
@@ -5923,6 +6335,7 @@ name: Primary somatosensory area, layer 4
 [Term]
 id: MBA:866
 name: ventral spinocerebellar tract
+synonym: "anterior spinocerebellar tract" EXACT [from label]
 synonym: "gower's tract" EXACT []
 synonym: "gowers' tract" EXACT []
 synonym: "ventral spinocerebellar tract" EXACT []
@@ -5930,6 +6343,7 @@ synonym: "ventral spinocerebellar tract" EXACT []
 [Term]
 id: MBA:867
 name: Parabrachial nucleus
+synonym: "parabrachial nucleus" EXACT [from label]
 
 [Term]
 id: MBA:868
@@ -5950,6 +6364,7 @@ name: Subiculum, ventral part, pyramidal layer
 [Term]
 id: MBA:871
 name: spinothalamic tract
+synonym: "spinothalamic tract" EXACT [from label]
 
 [Term]
 id: MBA:872
@@ -5957,6 +6372,7 @@ name: Dorsal nucleus raphe
 synonym: "cell group b7" EXACT []
 synonym: "dorsal nucleus of the raphe" EXACT []
 synonym: "dorsal nucleus raphe" EXACT []
+synonym: "dorsal raphe nucleus" EXACT [from label]
 synonym: "dorsal raphe" EXACT []
 synonym: "inferior raphe nucleus" EXACT []
 synonym: "nucleus raphes dorsalis" EXACT []
@@ -5971,6 +6387,7 @@ name: Supplemental somatosensory area, layer 1
 id: MBA:874
 name: Parabigeminal nucleus
 synonym: "nucleus parabigeminalis" EXACT []
+synonym: "parabigeminal nucleus" EXACT [from label]
 
 [Term]
 id: MBA:875
@@ -5979,12 +6396,14 @@ name: Parabrachial nucleus, lateral division, external lateral part
 [Term]
 id: MBA:876
 name: accessory optic tract
+synonym: "accessory optic tract" EXACT [from label]
 
 [Term]
 id: MBA:877
 name: tectospinal pathway
 synonym: "Held's bundle" EXACT []
 synonym: "tectospinal pathway" EXACT []
+synonym: "tectospinal tract" EXACT [from label]
 
 [Term]
 id: MBA:878
@@ -5998,6 +6417,7 @@ name: Retrosplenial area, dorsal part
 id: MBA:88
 name: Anterior hypothalamic nucleus
 synonym: "anterior hypothalamic nucleus" EXACT []
+synonym: "anterior nucleus of hypothalamus" EXACT [from label]
 synonym: "area hypothalamica rostralis" EXACT []
 synonym: "fundamental gray substance" EXACT []
 synonym: "parvocellular nucleus of hypothalamus" EXACT []
@@ -6007,6 +6427,7 @@ id: MBA:880
 name: Dorsal tegmental nucleus
 synonym: "dorsal tegmental nucleus (Gudden)" EXACT []
 synonym: "dorsal tegmental nucleus of gudden" EXACT []
+synonym: "dorsal tegmental nucleus" EXACT [from label]
 synonym: "gudden nucleus" EXACT []
 synonym: "nucleus tegmentalis dorsalis" EXACT []
 synonym: "nucleus tegmentalis posterior" EXACT []
@@ -6016,6 +6437,7 @@ synonym: "von Gudden's nucleus" EXACT []
 [Term]
 id: MBA:881
 name: Parabrachial nucleus, lateral division
+synonym: "lateral parabrachial nucleus" EXACT [from label]
 
 [Term]
 id: MBA:882
@@ -6035,11 +6457,13 @@ name: terminal nerve
 synonym: "cranial nerve 0" EXACT []
 synonym: "cranial nerve zero" EXACT []
 synonym: "nervus terminalis" EXACT []
+synonym: "terminal nerve" EXACT [from label]
 synonym: "terminalis nerve" EXACT []
 
 [Term]
 id: MBA:886
 name: Retrosplenial area, ventral part
+synonym: "retrosplenial granular cortex" EXACT [from label]
 
 [Term]
 id: MBA:887
@@ -6060,6 +6484,7 @@ name: rhinocele
 [Term]
 id: MBA:890
 name: Parabrachial nucleus, medial division
+synonym: "medial parabrachial nucleus" EXACT [from label]
 
 [Term]
 id: MBA:891
@@ -6070,6 +6495,7 @@ id: MBA:892
 name: ansa peduncularis
 synonym: "ansa peduncularis in thalamo" EXACT []
 synonym: "ansa peduncularis in thalamus" EXACT []
+synonym: "ansa peduncularis" EXACT [from label]
 synonym: "peduncular loop" EXACT []
 
 [Term]
@@ -6096,6 +6522,7 @@ name: Visceral area, layer 1
 id: MBA:898
 name: Pontine central gray
 synonym: "central gray of pons" EXACT []
+synonym: "central gray substance of pons" EXACT [from label]
 synonym: "griseum centrale pontis" EXACT []
 synonym: "pontine central gray" EXACT []
 
@@ -6110,11 +6537,13 @@ name: Primary somatosensory area, trunk, layer 6a
 [Term]
 id: MBA:90
 name: Nucleus of the lateral lemniscus, horizontal part
+synonym: "intermediate nucleus of lateral lemniscus" EXACT [from label]
 synonym: "nucleus of the lateral lemniscus, horizontal part" EXACT []
 
 [Term]
 id: MBA:900
 name: anterior commissure, olfactory limb
+synonym: "anterior commissure anterior part" EXACT [from label]
 synonym: "anterior commissure pars anterior" EXACT []
 synonym: "anterior commissure, anterior part" EXACT []
 synonym: "anterior part of anterior commissure" EXACT []
@@ -6135,6 +6564,7 @@ synonym: "nervus trigeminus [v]" EXACT []
 synonym: "nervus trigeminus" EXACT []
 synonym: "trigeminal nerve [V]" EXACT []
 synonym: "trigeminal nerve tree" EXACT []
+synonym: "trigeminal nerve" EXACT [from label]
 synonym: "trigeminal v nerve" EXACT []
 synonym: "trigeminal V" EXACT []
 
@@ -6145,6 +6575,7 @@ name: Posterolateral visual area, layer 5
 [Term]
 id: MBA:903
 name: External cuneate nucleus
+synonym: "accessory cuneate nucleus" EXACT [from label]
 synonym: "external cuneate nucleus" EXACT []
 synonym: "lateral cuneate nucleus" EXACT []
 synonym: "nucleus of corpus restiforme" EXACT []
@@ -6152,6 +6583,7 @@ synonym: "nucleus of corpus restiforme" EXACT []
 [Term]
 id: MBA:904
 name: Medial septal complex
+synonym: "medial septal complex" EXACT [from label]
 
 [Term]
 id: MBA:905
@@ -6170,6 +6602,7 @@ synonym: "nucleus paracentral" EXACT []
 synonym: "nucleus paracentralis thalami" EXACT []
 synonym: "paracentral nucleus of thalamus" EXACT []
 synonym: "paracentral nucleus thalamus (gurdjian 1927)" EXACT []
+synonym: "paracentral nucleus" EXACT [from label]
 synonym: "paracentral thalamic nucleus" EXACT []
 
 [Term]
@@ -6182,12 +6615,14 @@ synonym: "commissura anterior, crus posterius" EXACT []
 synonym: "commissura anterior, pars posterior" EXACT []
 synonym: "commissura rostralis, pars posterior" EXACT []
 synonym: "pars posterior commissurae anterioris" EXACT []
+synonym: "posterior part of anterior commissure" EXACT [from label]
 synonym: "temporal limb of anterior commissure" EXACT []
 
 [Term]
 id: MBA:909
 name: Entorhinal area
 synonym: "entorhinal area" EXACT []
+synonym: "entorhinal cortex" EXACT [from label]
 
 [Term]
 id: MBA:91
@@ -6207,10 +6642,12 @@ synonym: "superior oblique nerve" EXACT []
 synonym: "trochlear IV nerve" EXACT []
 synonym: "trochlear nerve [IV]" EXACT []
 synonym: "trochlear nerve tree" EXACT []
+synonym: "trochlear nerve" EXACT [from label]
 
 [Term]
 id: MBA:912
 name: Lingula (I)
+synonym: "cerebellum vermis lobule I" EXACT [from label]
 synonym: "lingula (I)" EXACT []
 synonym: "lingula of anterior cerebellum vermis" EXACT []
 synonym: "lingula of cerebellum" EXACT []
@@ -6233,6 +6670,7 @@ name: Parabrachial nucleus, medial division, medial medial part
 [Term]
 id: MBA:916
 name: brachium of the superior colliculus
+synonym: "brachium of superior colliculus" EXACT [from label]
 synonym: "superior brachium" EXACT []
 synonym: "superior collicular brachium" EXACT []
 synonym: "superior colliculus brachium" EXACT []
@@ -6245,6 +6683,7 @@ synonym: "nervus vagus [x]" EXACT []
 synonym: "tenth cranial nerve" EXACT []
 synonym: "Vagus nerve [X]" EXACT []
 synonym: "vagus nerve tree" EXACT []
+synonym: "vagus nerve" EXACT [from label]
 synonym: "vagus X nerve" EXACT []
 synonym: "vagus" EXACT []
 
@@ -6252,6 +6691,7 @@ synonym: "vagus" EXACT []
 id: MBA:918
 name: Entorhinal area, lateral part
 synonym: "entorhinal area, lateral part" EXACT []
+synonym: "lateral entorhinal cortex" EXACT [from label]
 
 [Term]
 id: MBA:919
@@ -6266,6 +6706,7 @@ id: MBA:920
 name: Central lobule
 synonym: "central lobule of cerebellum [II and III]" EXACT []
 synonym: "central lobule of cerebellum" EXACT []
+synonym: "central lobule" EXACT [from label]
 synonym: "lobulus centralis cerebelli [ii et iii]" EXACT []
 
 [Term]
@@ -6277,6 +6718,7 @@ id: MBA:922
 name: Perirhinal area
 synonym: "perirhinal area" EXACT []
 synonym: "perirhinal cortex" EXACT []
+synonym: "perirhinal cortex" EXACT [from label]
 
 [Term]
 id: MBA:923
@@ -6286,6 +6728,7 @@ name: Parabrachial nucleus, medial division, ventral medial part
 id: MBA:924
 name: cerebal peduncle
 synonym: "cerebral peduncle" EXACT []
+synonym: "cerebral peduncle" EXACT [from label]
 synonym: "peduncle of midbrain" EXACT []
 synonym: "pedunculus cerebri" EXACT []
 
@@ -6296,6 +6739,7 @@ name: ventral roots
 [Term]
 id: MBA:926
 name: Entorhinal area, medial part, dorsal zone
+synonym: "dorsal zone of medial entorhinal cortex" EXACT [from label]
 synonym: "entorhinal area, medial part, dorsal zone" EXACT []
 
 [Term]
@@ -6305,6 +6749,7 @@ name: Anterior cingulate area, dorsal part, layer 6b
 [Term]
 id: MBA:928
 name: Culmen
+synonym: "cerebellum culmen" EXACT [from label]
 synonym: "neuraxis culmen" EXACT []
 
 [Term]
@@ -6316,6 +6761,7 @@ id: MBA:93
 name: motor root of the trigeminal nerve
 synonym: "motor branch of trigeminal nerve" EXACT []
 synonym: "motor root of nervus v" EXACT []
+synonym: "motor root of trigeminal nerve" EXACT [from label]
 synonym: "radix motoria (Nervus trigeminus [V])" EXACT []
 synonym: "radix motoria nervus trigemini" EXACT []
 
@@ -6329,6 +6775,7 @@ synonym: "nucleus parafascicularis" EXACT []
 synonym: "parafascicular nucleus (vogt)" EXACT []
 synonym: "parafascicular nucleus of thalamus" EXACT []
 synonym: "parafascicular nucleus of the thalamus" EXACT []
+synonym: "parafascicular nucleus" EXACT [from label]
 synonym: "parafascicular thalamic nucleus" EXACT []
 
 [Term]
@@ -6337,6 +6784,7 @@ name: Pontine gray
 synonym: "pontine gray" EXACT []
 synonym: "pontine nuclear complex" EXACT []
 synonym: "pontine nuclear group" EXACT []
+synonym: "pontine nuclear group" EXACT [from label]
 synonym: "pontine nuclei" EXACT []
 synonym: "pontine nucleus" EXACT []
 
@@ -6359,6 +6807,7 @@ synonym: "nervus vestibulocochlearis [viii]" EXACT []
 synonym: "stato-acoustic nerve" EXACT []
 synonym: "Vestibulocochlear nerve [VIII]" EXACT []
 synonym: "vestibulocochlear nerve tree" EXACT []
+synonym: "vestibulocochlear nerve" EXACT [from label]
 synonym: "vestibulocochlear VIII nerve" EXACT []
 synonym: "VIII nerve" EXACT []
 synonym: "VIIIth cranial nerve" EXACT []
@@ -6367,6 +6816,7 @@ synonym: "VIIIth cranial nerve" EXACT []
 id: MBA:934
 name: Entorhinal area, medial part, ventral zone
 synonym: "entorhinal area, medial part, ventral zone" EXACT []
+synonym: "ventral zone of medial entorhinal cortex" EXACT [from label]
 
 [Term]
 id: MBA:935
@@ -6375,6 +6825,7 @@ name: Anterior cingulate area, dorsal part, layer 1
 [Term]
 id: MBA:936
 name: Declive (VI)
+synonym: "cerebellum vermis lobule VI" EXACT [from label]
 synonym: "declive (VI)" EXACT []
 synonym: "declive of cerebellum" EXACT []
 synonym: "declive of vermis of cerebellum" EXACT []
@@ -6390,6 +6841,7 @@ name: Visual areas, layer 5
 [Term]
 id: MBA:938
 name: Paragigantocellular reticular nucleus
+synonym: "paragigantocellular nucleus" EXACT [from label]
 
 [Term]
 id: MBA:939
@@ -6399,21 +6851,25 @@ name: Nucleus ambiguus, dorsal division
 id: MBA:94
 name: Paraventricular hypothalamic nucleus, parvicellular division
 synonym: "paraventricular nucleus of the hypothalamus parvicellular division" EXACT []
+synonym: "paraventricular nucleus of the hypothalamus parvicellular division" EXACT [from label]
 
 [Term]
 id: MBA:940
 name: cingulum bundle
 synonym: "cingulum bundle" EXACT []
+synonym: "cingulum of brain" EXACT [from label]
 
 [Term]
 id: MBA:941
 name: vestibulospinal pathway
 synonym: "vestibulo-spinal tract" EXACT []
+synonym: "vestibulospinal tract" EXACT [from label]
 
 [Term]
 id: MBA:942
 name: Endopiriform nucleus
 synonym: "endopiriform nucleus" EXACT []
+synonym: "endopiriform nucleus" EXACT [from label]
 synonym: "Layer 4 of piriform cortex" EXACT []
 synonym: "layer IV of piriform cortex" EXACT []
 
@@ -6424,6 +6880,7 @@ name: Primary motor area, Layer 2/3
 [Term]
 id: MBA:944
 name: Folium-tuber vermis (VII)
+synonym: "cerebellum vermis lobule VII" EXACT [from label]
 synonym: "folium lobule" NARROW []
 synonym: "folium of cerebellum" EXACT []
 synonym: "folium of vermis of cerebellum" EXACT []
@@ -6442,6 +6899,7 @@ name: Posterior hypothalamic nucleus
 synonym: "area hypothalamica posterior" EXACT []
 synonym: "posterior hypothalamic area" EXACT []
 synonym: "posterior hypothalamic nucleus" EXACT []
+synonym: "posterior nucleus of hypothalamus" EXACT [from label]
 
 [Term]
 id: MBA:947
@@ -6451,6 +6909,7 @@ name: Somatomotor areas, Layer 6b
 id: MBA:948
 name: cochlear nerve
 synonym: "auditory nerve" EXACT []
+synonym: "cochlear nerve" EXACT [from label]
 synonym: "cochlear root of acoustic nerve" EXACT []
 synonym: "cochlear root of eighth cranial nerve" EXACT []
 synonym: "vestibulocochlear VIII nerve cochlear component" EXACT []
@@ -6458,6 +6917,7 @@ synonym: "vestibulocochlear VIII nerve cochlear component" EXACT []
 [Term]
 id: MBA:949
 name: vomeronasal nerve
+synonym: "vomeronasal nerve" EXACT [from label]
 
 [Term]
 id: MBA:95
@@ -6471,6 +6931,7 @@ name: Primary somatosensory area, mouth, layer 4
 id: MBA:951
 name: Pyramus (VIII)
 synonym: "cerebellum lobule VIII" EXACT []
+synonym: "cerebellum vermis lobule VIII" EXACT [from label]
 synonym: "lobule VIII of cerebellum vermis" EXACT []
 synonym: "neuraxis pyramis" EXACT []
 synonym: "neuraxis pyramus" EXACT []
@@ -6490,6 +6951,7 @@ id: MBA:953
 name: Pineal body
 synonym: "corpus pineale" EXACT []
 synonym: "glandula pinealis" EXACT []
+synonym: "pineal body" EXACT [from label]
 synonym: "pineal gland" EXACT []
 synonym: "pineal organ" EXACT []
 
@@ -6509,6 +6971,7 @@ name: corpus callosum, anterior forceps
 id: MBA:957
 name: Uvula (IX)
 synonym: "cerebellar posterior vermis lobule IX" EXACT []
+synonym: "cerebellum vermis lobule IX" EXACT [from label]
 synonym: "lobule IX of cerebellar posterior vermis" EXACT []
 synonym: "lobule IX of cerebellum vermis" EXACT []
 synonym: "neuraxis uvula" EXACT []
@@ -6521,6 +6984,7 @@ synonym: "vermic lobule IX" EXACT []
 [Term]
 id: MBA:958
 name: Epithalamus
+synonym: "epithalamus" EXACT [from label]
 
 [Term]
 id: MBA:959
@@ -6530,6 +6994,7 @@ name: Ventral auditory area, layer 1
 id: MBA:96
 name: Dorsal cochlear nucleus
 synonym: "dorsal cochlear nucleus" EXACT []
+synonym: "dorsal cochlear nucleus" EXACT [from label]
 synonym: "dorsal division of cochlear nucleus" EXACT []
 synonym: "posterior cochlear nucleus" EXACT []
 synonym: "tuberculum acousticum" EXACT []
@@ -6547,6 +7012,7 @@ synonym: "lateral olfactory gyrus" EXACT []
 synonym: "piriform cortex (price)" EXACT []
 synonym: "piriform olfactory cortex" EXACT []
 synonym: "prepiriform cortex" EXACT []
+synonym: "prepyriform area" EXACT [from label]
 synonym: "prepyriform cortex" EXACT []
 synonym: "pyriform area" EXACT []
 
@@ -6573,11 +7039,13 @@ name: Endopiriform nucleus, ventral part
 [Term]
 id: MBA:967
 name: cranial nerves
+synonym: "cranial nerve" EXACT [from label]
 synonym: "cranial neural tree organ" EXACT []
 
 [Term]
 id: MBA:968
 name: Nodulus (X)
+synonym: "cerebellum vermis lobule X" EXACT [from label]
 synonym: "lobule X of cerebellum vermis" EXACT []
 synonym: "neuraxis nodulus" EXACT []
 synonym: "nodulus (X)" EXACT []
@@ -6596,6 +7064,7 @@ name: Temporal association areas, layer 1
 [Term]
 id: MBA:970
 name: Paragigantocellular reticular nucleus, dorsal part
+synonym: "dorsal paragigantocellular nucleus" EXACT [from label]
 synonym: "dorsal paragigantocellular reticular nucleus" EXACT []
 synonym: "paragigantocellular nucleus, dorsal part" EXACT []
 synonym: "posterior paragigantocellular reticular nucleus" EXACT []
@@ -6612,6 +7081,7 @@ synonym: "area 32 of Brodmann-1909" EXACT []
 synonym: "area cingularis anterior dorsalis" EXACT []
 synonym: "B09-32" EXACT []
 synonym: "Brodmann (1909) area 32" EXACT []
+synonym: "Brodmann (1909) area 32" EXACT [from label]
 synonym: "Brodmann area 32" EXACT []
 synonym: "Brodmann area 32, dorsal anterior cingulate" EXACT []
 synonym: "Prelimbic area" EXACT []
@@ -6631,10 +7101,12 @@ synonym: "accessory oculomotor nucleus" EXACT []
 synonym: "Edinger-Westphal nucleus" EXACT []
 synonym: "edinger-westphal nucleus" EXACT []
 synonym: "nucleus Edinger-Westphal" EXACT []
+synonym: "parvocellular oculomotor nucleus" EXACT [from label]
 
 [Term]
 id: MBA:976
 name: Lobule II
+synonym: "cerebellum vermis lobule II" EXACT [from label]
 synonym: "lobule II of cerebellum vermis" EXACT []
 synonym: "lobule II" EXACT []
 synonym: "vermic lobule II" EXACT []
@@ -6646,12 +7118,14 @@ name: Ectorhinal area/Layer 6a
 [Term]
 id: MBA:978
 name: Paragigantocellular reticular nucleus, lateral part
+synonym: "lateral paragigantocellular nucleus" EXACT [from label]
 synonym: "lateral paragigantocellular reticular nucleus" EXACT []
 synonym: "paragigantocellular nucleus, lateral part" EXACT []
 
 [Term]
 id: MBA:979
 name: corpus callosum, rostrum
+synonym: "rostrum of corpus callosum" EXACT [from label]
 
 [Term]
 id: MBA:98
@@ -6659,6 +7133,7 @@ name: subependymal zone
 synonym: "adult subventricular zone" EXACT []
 synonym: "brain subventricular zone" EXACT []
 synonym: "postnatal subventricular zone" EXACT []
+synonym: "postnatal subventricular zone" EXACT [from label]
 synonym: "SEZ" EXACT []
 synonym: "subventricular zone of brain" EXACT []
 synonym: "subventricular zone" EXACT []
@@ -6667,6 +7142,7 @@ synonym: "SVZ" EXACT []
 [Term]
 id: MBA:980
 name: Dorsal premammillary nucleus
+synonym: "dorsal premammillary nucleus" EXACT [from label]
 
 [Term]
 id: MBA:981
@@ -6675,6 +7151,7 @@ name: Primary somatosensory area, barrel field, layer 1
 [Term]
 id: MBA:982
 name: Fasciola cinerea
+synonym: "fasciolar gyrus" EXACT [from label]
 synonym: "retrosplenial gyrus of hippocampus" EXACT []
 
 [Term]
@@ -6684,6 +7161,7 @@ name: lateral forebrain bundle system
 [Term]
 id: MBA:984
 name: Lobule III
+synonym: "cerebellum vermis lobule III" EXACT [from label]
 synonym: "lobule III of cerebellum vermis" EXACT []
 synonym: "lobule III" EXACT []
 synonym: "vermic lobule III" EXACT []
@@ -6692,12 +7170,14 @@ synonym: "vermic lobule III" EXACT []
 id: MBA:985
 name: Primary motor area
 synonym: "motor cortex" EXACT []
+synonym: "primary motor cortex" EXACT [from label]
 
 [Term]
 id: MBA:986
 name: corpus callosum, splenium
 synonym: "corpus callosum splenium" EXACT []
 synonym: "corpus callosum, splenium" EXACT []
+synonym: "splenium of the corpus callosum" EXACT [from label]
 
 [Term]
 id: MBA:987
@@ -6710,6 +7190,7 @@ name: Ectorhinal area/Layer 5
 [Term]
 id: MBA:989
 name: Fastigial nucleus
+synonym: "fastigial nucleus" EXACT [from label]
 synonym: "medial (fastigial) nucleus" EXACT []
 synonym: "medial cerebellar nucleus" EXACT []
 synonym: "nucleus fastigii" EXACT []
@@ -6721,6 +7202,7 @@ name: Nucleus of the lateral lemniscus, ventral part
 synonym: "anterior nucleus of lateral lemniscus" EXACT []
 synonym: "nucleus anterior lemnisci lateralis" EXACT []
 synonym: "nucleus of the lateral lemniscus, ventral part" EXACT []
+synonym: "ventral nucleus of lateral lemniscus" EXACT [from label]
 synonym: "ventral nucleus of the lateral lemniscus" EXACT []
 
 [Term]
@@ -6734,6 +7216,7 @@ name: medial forebrain bundle system
 [Term]
 id: MBA:992
 name: Lobule IV
+synonym: "cerebellum vermis lobule IV" EXACT [from label]
 synonym: "lobule IV of cerebellum vermis" EXACT []
 synonym: "vermic lobule IV" EXACT []
 
@@ -6741,14 +7224,17 @@ synonym: "vermic lobule IV" EXACT []
 id: MBA:993
 name: Secondary motor area
 synonym: "premotor cortex (area 6)" EXACT []
+synonym: "premotor cortex" EXACT [from label]
 
 [Term]
 id: MBA:994
 name: corticobulbar tract
+synonym: "corticobulbar tract" EXACT [from label]
 
 [Term]
 id: MBA:995
 name: Paramedian reticular nucleus
+synonym: "paramedian reticular nucleus" EXACT [from label]
 synonym: "ventral paramedian reticular nucleus" EXACT []
 
 [Term]
@@ -6763,6 +7249,7 @@ name: allen brain atlas parcellation root
 id: MBA:998
 name: Fundus of striatum
 synonym: "fundus striati" EXACT []
+synonym: "fundus striati" EXACT [from label]
 
 [Term]
 id: MBA:999
