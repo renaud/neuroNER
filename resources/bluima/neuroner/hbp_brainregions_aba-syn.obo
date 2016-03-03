@@ -2,7 +2,7 @@ format-version: 1.2
 date: 29:07:2015 15:31
 saved-by: renaud.richardet@epfl.ch
 default-namespace: ABA_REGION
-ontology: Allen_Brain_Atlas_Brain_Regions
+ontology: Allen Brain Atlas Brain Regions
 
 synonymtypedef: MISSPELLING "misspelling" RELATED
 synonymtypedef: ACRONYM "acronym" BROAD
