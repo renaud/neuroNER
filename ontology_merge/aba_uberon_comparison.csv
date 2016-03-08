@@ -1,4 +1,4 @@
-neuron_name,region_ABA,region_UBERON,annotations_ABA,annotations_UBERON
+neuron_name,region_UBERON,region_ABA,annotations_ABA,annotations_UBERON
 medial prefrontal cortex low-threshold spiking interneuron,medial prefrontal cortex,ORB,"[u'UNKN_REGION:491', u'HBP_EPHYS:0000110', u'HBP_EPHYS_TRIGGER:0000003']","[u'ABA_REGION:714', u'HBP_EPHYS:0000110', u'HBP_EPHYS_TRIGGER:0000003']"
  medial prefrontal cortex fast spiking interneuron,medial prefrontal cortex,ORB,"[u'UNKN_REGION:491', u'HBP_EPHYS:0000080', u'HBP_EPHYS_TRIGGER:0000003']","[u'ABA_REGION:714', u'HBP_EPHYS:0000080', u'HBP_EPHYS_TRIGGER:0000003']"
 somatosensory cortex fast-firing interneuron,SS,SS,"[u'ABA_REGION:453', u'HBP_EPHYS:0000080', u'HBP_EPHYS_TRIGGER:0000004']","[u'ABA_REGION:453', u'HBP_EPHYS:0000080', u'HBP_EPHYS_TRIGGER:0000004']"
