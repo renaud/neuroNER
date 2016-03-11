@@ -7,7 +7,7 @@ ontology: HBP Neurotransmitter
 
 synonymtypedef: ALTERNATE_SPELLING "alternate spelling" EXACT
 synonymtypedef: MISSPELLING "misspelling" RELATED
-synonymtypedef: ACRONYM "acronym" BROAD
+synonymtypedef: BROAD ACRONYM "acronym"
 synonymtypedef: ADJECTIVE "adjective" RELATED
 synonymtypedef: ADVERB "adverb" RELATED
 synonymtypedef: PLURAL "plural term" EXACT

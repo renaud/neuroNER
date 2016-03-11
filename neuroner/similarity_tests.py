@@ -2,8 +2,9 @@ import unittest
 
 from sherlok import Sherlok # pip install --upgrade sherlok
 
-import similarity
-from normalize import clean_annotations
+from neuroner.similarity import similarity
+from neuroner.normalize import clean_annotations
+from neuroner.similarity_intra import *
 
 
 class TestSimilarity(unittest.TestCase):
@@ -12,7 +13,7 @@ class TestSimilarity(unittest.TestCase):
         s = Sherlok('neuroner')
         an = s.annotate('layer 4 pyramidal long large neuron').annotations
         clean = clean_annotations(an)
-        self.assertEqual(clean, ['HBP_LAYER:0000004', u'HBP_MORPHOLOGY:0000001', 'Missing:long', 'Size:large'])
+        self.assertEqual(clean, ['HBP_LAYER:0000004', u'HBP_MORPHOLOGY:0000001', 'Missing:long', 'Size:large', 'NeuronTrigger:neuron'])
 
     def test_exact_similiarity(self):
         s = similarity('layer 4 neuron', 'layer 4 neuron', use_inter_similarity=False)
@@ -24,7 +25,7 @@ class TestSimilarity(unittest.TestCase):
         s_reverse = similarity('fast-spiking neuron', 'PV neuron')
         self.assertEqual(s_reverse[0], 0.9, 'inter similarity works in both directions')
 
-from similarity_intra import *
+
 
 class TestLayerSimilarity(unittest.TestCase):
     ls = LayerSimilarity()
